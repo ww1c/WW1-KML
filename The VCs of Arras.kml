@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>The VCs of Arras</name>
+  <description><![CDATA[]]></description>
+  <Style id="style3">
+    <LineStyle>
+      <color>FFFF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style10">
+    <LineStyle>
+      <color>FF6666FF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style8">
+    <LineStyle>
+      <color>FF66FFFF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style7">
+    <LineStyle>
+      <color>FF00CC33</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>FF006666</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style12">
+    <LineStyle>
+      <color>FF006666</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style13">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style4">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>FF00CCFF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style11">
+    <LineStyle>
+      <color>FF00CCFF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style9">
+    <LineStyle>
+      <color>FF0000CC</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>FF0000CC</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <LineStyle>
+      <color>FF0000CC</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>William Gosling</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/William_Gosling</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -1.788368,51.524979,0.000000
+        2.778082,50.290710,0.000000
+        2.778168,50.290710,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Thomas Bryan</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -1.145496,53.547600,0.000000
+        2.778425,50.291260,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Harry Cator</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harry_Cator</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        1.225834,52.674664,0.000000
+        2.773533,50.290653,0.000000
+        2.773705,50.290653,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Thain Wendell MacDowell</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -74.338303,45.651249,0.000000
+        2.807693,50.375248,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>John George Pattison</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -0.137329,51.505322,0.000000
+        2.809753,50.375465,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Bede Kenny</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_James_Bede_Kenny</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        3.039093,50.111332,0.000000
+        151.225952,-33.884380,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Ellis Wellwood Sifton</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ellis_Wellwood_Sifton</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        2.760487,50.354771,0.000000
+        -81.465683,42.635223,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>John Whittle</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Whittle</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        3.034286,50.141045,0.000000
+        147.145218,-43.291077,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Harold Sandford Mugford</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harold_Sandford_Mugford</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        2.898331,50.267178,0.000000
+        -0.104370,51.518997,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Donald MacKintosh</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Donald_MacKintosh</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        2.870865,50.304691,0.000000
+        -4.251709,55.859901,0.000000
+        -4.257202,55.856815,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Horace Waller</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Horace_Waller</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        2.866058,50.238422,0.000000
+        -1.752319,53.693455,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>John Cunningham</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -7.937622,52.681377,0.000000
+        2.617493,50.458378,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Ernest Sykes</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ernest_Sykes</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        2.785721,50.290218,0.000000
+        -2.039337,53.517452,0.000000
+        -2.039337,53.516636,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
