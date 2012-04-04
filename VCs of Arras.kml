@@ -84,6 +84,7 @@
   <Placemark>
     <name>William Gosling</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/William_Gosling</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-05]]></when></TimeStamp>
     <styleUrl>#style3</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -97,6 +98,7 @@
   <Placemark>
     <name>Thomas Bryan</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style10</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -109,6 +111,7 @@
   <Placemark>
     <name>Harry Cator</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harry_Cator</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style8</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -146,6 +149,7 @@
   <Placemark>
     <name>Bede Kenny</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_James_Bede_Kenny</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style12</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -158,6 +162,7 @@
   <Placemark>
     <name>Ellis Wellwood Sifton</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ellis_Wellwood_Sifton</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style13</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -170,6 +175,7 @@
   <Placemark>
     <name>John Whittle</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Whittle</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style4</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -182,6 +188,7 @@
   <Placemark>
     <name>Harold Sandford Mugford</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harold_Sandford_Mugford</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-11]]></when></TimeStamp>
     <styleUrl>#style1</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -194,6 +201,7 @@
   <Placemark>
     <name>Donald MacKintosh</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Donald_MacKintosh</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-09]]></when></TimeStamp>
     <styleUrl>#style11</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -207,6 +215,7 @@
   <Placemark>
     <name>Horace Waller</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Horace_Waller</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-10]]></when></TimeStamp>
     <styleUrl>#style9</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -219,6 +228,7 @@
   <Placemark>
     <name>John Cunningham</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-12]]></when></TimeStamp>
     <styleUrl>#style2</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -231,6 +241,7 @@
   <Placemark>
     <name>Ernest Sykes</name>
     <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ernest_Sykes</div>]]></description>
+    <TimeStamp><when><![CDATA[1917-04-19]]></when></TimeStamp>
     <styleUrl>#style6</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
