@@ -2,182 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Medals of Arras.kml</name>
-	<Style id="style11">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style110">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style111</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style30</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style78</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style713</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style30">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style6">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style1">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style44</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style48</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style13">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style70">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style60">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style51</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style50</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style130">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style20</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style40">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style41">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style71">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style42">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style72">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style81</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style80</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style20">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style73">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style74">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style70</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style76</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style14</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style61">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style43">
+	<Style id="style111">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
@@ -187,42 +12,22 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
 	<Style id="style31">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="style9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style90</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style91</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style76">
+	<Style id="style410">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="style12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style120</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style121</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style77">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style78">
+	<Style id="style101">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
@@ -237,152 +42,7 @@
 			<styleUrl>#style710</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style90">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style44">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style710">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style45">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style46">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style47">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style410</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style411</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style131">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style130</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style48">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style49">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style414</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style711">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style410">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style14">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style712">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style72</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style77</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style100">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style411">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style120">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style50">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
 	<Style id="style713">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style80">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style412">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style41</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style42</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style101">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style413">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style416</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style43</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style714">
-		<LineStyle>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="style21">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
@@ -392,27 +52,102 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="style414">
+	<Style id="style80">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style73">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style48">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style72">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style30">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style43">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style51">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="style415">
+	<StyleMap id="style61">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style45</styleUrl>
+			<styleUrl>#style60</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#style46</styleUrl>
+			<styleUrl>#style6</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style416">
+	<StyleMap id="style10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style78">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
@@ -427,6 +162,46 @@
 			<styleUrl>#style73</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="style711">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style13">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style130">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style413">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style416</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style14">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
 	<StyleMap id="style716">
 		<Pair>
 			<key>normal</key>
@@ -435,6 +210,66 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#style75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style412">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style414">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style45">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style120">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style91">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style121">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style416">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style50">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style411</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="style102">
@@ -447,21 +282,186 @@
 			<styleUrl>#style101</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style91">
+	<StyleMap id="style415">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style20">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="style111">
+	<Style id="style70">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="style121">
+	<Style id="style42">
 		<LineStyle>
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style100">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style71">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style713</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style40">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style710">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style77">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style41">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style714">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style414</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style21">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style60">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style90">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style46">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style411">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style44">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style76">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style712">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style80</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>Medals of Arras</name>
 		<open>1</open>
@@ -491,7 +491,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Thomas Bryan</name>
-			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</div>]]></description>
+			<description><![CDATA[<a href="http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</a>]]></description>
 			<TimeStamp><when>1917-04-09</when>
 </TimeStamp>
 			<styleUrl>#style102</styleUrl>
@@ -528,7 +528,7 @@
 		</Placemark>
 		<Placemark>
 			<name>John George Pattison</name>
-			<description>http://en.wikipedia.org/wiki/John_George_Pattison</description>
+			<description><![CDATA[<a href="http://en.wikipedia.org/wiki/John_George_Pattison">http://en.wikipedia.org/wiki/John_George_Pattison</a>]]></description>
 			<styleUrl>#style5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -617,7 +617,6 @@
 		</Placemark>
 		<Placemark>
 			<name>John Cunningham</name>
-			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)</div>]]></description>
 			<TimeStamp><when>1917-04-12</when>
 </TimeStamp>
 			<styleUrl>#style2</styleUrl>
@@ -665,7 +664,7 @@
 		</Placemark>
 		<Placemark>
 			<name>George Howell</name>
-			<description>http://en.wikipedia.org/wiki/George_Howell_(VC)</description>
+			<description><![CDATA[<a href="http://en.wikipedia.org/wiki/George_Howell_(VC)">http://en.wikipedia.org/wiki/George_Howell_(VC)</a>]]></description>
 			<styleUrl>#style47</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
