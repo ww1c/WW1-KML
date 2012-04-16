@@ -2,39 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Battle of Arras (1917)</name>
+	<open>1</open>
 	<description>Edited artillery barrage</description>
-	<Style id="style30">
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style39">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style34</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style30</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="style310">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style38</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="style38">
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
 	<StyleMap id="style36">
 		<Pair>
 			<key>normal</key>
@@ -45,19 +14,54 @@
 			<styleUrl>#style37</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="style37">
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<LineStyle>
-			<color>ffffff55</color>
-			<width>5</width>
+			<width>20</width>
 		</LineStyle>
 	</Style>
-	<Style id="style35">
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<LineStyle>
-			<color>730000ff</color>
-			<width>5</width>
+			<width>20</width>
 		</LineStyle>
 	</Style>
-	<Style id="style34">
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>20</width>
+		</LineStyle>
+	</Style>
+	<Style id="style30">
 		<LineStyle>
 			<color>ff00ff00</color>
 			<width>5</width>
@@ -73,13 +77,45 @@
 			<styleUrl>#style35</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="style39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style3">
 		<LineStyle>
 			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style34">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
 	<Style id="style33">
+		<LineStyle>
+			<color>730000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style35">
 		<LineStyle>
 			<color>730000ff</color>
 			<width>5</width>
@@ -91,6 +127,145 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style37">
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style38">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>20</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>27th April - 12th June Front lines</name>
+		<open>1</open>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.888568782495018,50.29356842014818,0 2.887124335815492,50.29515346224379,0 2.88712713998345,50.2962105390848,0 2.887952948491765,50.29713392062708,0 2.888985035058216,50.29845309095434,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.887381831054383,50.29916651056939,0 2.887208442514497,50.30034705501468,0 2.888533818371082,50.30181592097942,0 2.888130704270642,50.30519620158313,0 2.890547550172671,50.30812633017759,0 2.893983394765287,50.3096276744613,0 2.897603611261548,50.31219369022826,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.896565395371609,50.31310418238233,0 2.896849319137826,50.31442514514058,0 2.894845116293041,50.319377428536,0 2.896053373558301,50.32106823381024,0 2.895708550611464,50.32242711681504,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.894960810863665,50.32400289680396,0 2.894731140175937,50.32510759822523,0 2.895709582240067,50.32584578638168,0 2.897205864529737,50.32610353422144,0 2.897266791000466,50.32810001568999,0 2.893810828893315,50.32916142030671,0 2.89329638452611,50.33351912744962,0 2.895190469680748,50.33454211171718,0 2.89410033564073,50.33615498531063,0 2.892722190247925,50.3367477071042,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.891460927730118,50.33589581872894,0 2.88824864875594,50.3361869311988,0 2.883956487496469,50.33931955627303,0 2.882866671934354,50.33957672066238,0 2.880613771474687,50.34166486683341,0 2.877912196516705,50.34244636544987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.876634116483239,50.34341828773774,0 2.876481146309731,50.34763401893733,0 2.880081932967313,50.35127605192295,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.882333430460418,50.35146754299972,0 2.885035554806914,50.35357582855654,0 2.885335182099431,50.35577745143348,0 2.88548612636214,50.35846241503152,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.885054211205,50.35984168484334,0 2.882121875681143,50.36334601153326,0 2.880510546301178,50.36353321744245,0 2.880051434324322,50.364738777619,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>German Trench</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.879285613887357,50.36553384447065,0 2.878913024334706,50.36600930841223,0 2.878457641027663,50.36632641959938,0 2.877959710105589,50.36833338211378,0 2.882309193414048,50.3699200338308,0 2.882180827556464,50.37123669752277,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.885229187722096,50.29438535183922,0 2.884505719704962,50.29554046491638,0 2.884136066617842,50.29675902094912,0 2.885404475555384,50.2998155071728,0 2.884774107297992,50.3016042829972,0 2.885132729079083,50.30402900629944,0 2.887392765582486,50.30604930459354,0 2.887014326297077,50.30892856209067,0 2.893678481501389,50.31163149451665,0 2.893196655120116,50.31409120100074,0 2.89437158406733,50.31507103403686,0 2.892600071357026,50.32067716671175,0 2.893868012713634,50.32137266073718,0 2.891250634728406,50.32275533697362,0 2.890807274253313,50.32455143524221,0 2.89226235369451,50.32704347591547,0 2.890007401998243,50.32843385026516,0 2.890133189781272,50.33188903702963,0 2.891113107472922,50.33264991711775,0 2.889480573967063,50.33394170146342,0 2.889313891248975,50.3349275180853,0 2.881554600468199,50.33617286406899,0 2.880802273135548,50.33794349052732,0 2.875310578876227,50.34165967427111,0 2.872665420566298,50.34225033947143,0 2.871659846500303,50.34554231870371,0 2.872859758268669,50.34612835578844,0 2.872548957472589,50.34845025587867,0 2.877376194615342,50.35336907138629,0 2.879639730604806,50.35337276376938,0 2.880846948839084,50.35665027350721,0 2.879492152271432,50.35827620397631,0 2.877534937860631,50.36028455513824,0 2.876702883934892,50.36288280838164,0 2.873784730474378,50.36466891111186,0 2.872740213098506,50.36633080631995,0 2.872871051944084,50.36856921412598,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
 	<Placemark>
 		<name>9th April Morning</name>
 		<styleUrl>#style310</styleUrl>
