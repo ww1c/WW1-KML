@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Croix du Guerre Arras.kml</name>
+	<Style id="style7">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style70">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Croix du Guerre</name>
+		<Placemark>
+			<name>Louis Astoul</name>
+			<description>http://www.memorial-genweb.org/~memorial2/html/fr/complementter.php?id=1880152</description>
+			<styleUrl>#style71</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.6888246623768568,48.26463805656796,0 3.706898519436592,49.44027419280238,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Medals of Arras.kml</name>
+	<Style id="style11">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style713</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style30">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style13">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style70">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style60">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style130">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style40">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style41">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style71">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style42">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style72">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style20">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style73">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style43">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style75">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style31">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style76">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style77">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style78">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style90">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style44">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style710">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style45">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style46">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style411</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style48">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style414</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style711">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style410">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style14">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style712">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style100">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style411">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style120">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style50">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style713">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style80">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style412">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style101">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style413">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style416</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style714">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style21">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style81">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style414">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style51">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style415">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style416">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style715">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style714</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style73</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style716">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style91">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style111">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style121">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Medals of Arras</name>
+		<open>1</open>
+		<Placemark>
+			<name>William Johnstone Milne</name>
+			<description>http://en.wikipedia.org/wiki/William_Johnstone_Milne</description>
+			<styleUrl>#style415</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.807700524565859,50.37306082349311,0 -105.5518466775422,50.39091408016304,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>William Gosling</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/William_Gosling</div>]]></description>
+			<TimeStamp><when>1917-04-05</when>
+</TimeStamp>
+			<styleUrl>#style3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.788368,51.524979,0 2.778082,50.29071,0 2.778168,50.29071,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Thomas Bryan</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style102</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.145496,53.5476,0 2.778425,50.29126,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Harry Cator</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harry_Cator</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					1.225834,52.674664,0 2.773533,50.290653,0 2.773705,50.290653,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Thain Wendell MacDowell</name>
+			<description>http://en.wikipedia.org/wiki/Thain_Wendell_MacDowell</description>
+			<styleUrl>#style712</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.338303,45.651249,0 2.807693,50.375248,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>John George Pattison</name>
+			<description>http://en.wikipedia.org/wiki/John_George_Pattison</description>
+			<styleUrl>#style5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.137329,51.50532200000001,0 2.809753,50.375465,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bede Kenny</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Thomas_James_Bede_Kenny</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.039093,50.111332,0 151.225952,-33.88438,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ellis Wellwood Sifton</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ellis_Wellwood_Sifton</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style131</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.760487,50.354771,0 -81.465683,42.635223,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>John Whittle</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Whittle</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style49</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.034286,50.14104500000001,0 147.145218,-43.291077,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Harold Sandford Mugford</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Harold_Sandford_Mugford</div>]]></description>
+			<TimeStamp><when>1917-04-11</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.898331,50.267178,0 -0.10437,51.51899700000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Donald MacKintosh</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Donald_MacKintosh</div>]]></description>
+			<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+			<styleUrl>#style110</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.870865,50.30469099999999,0 -4.251709,55.85990100000001,0 -4.257202,55.856815,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Horace Waller</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Horace_Waller</div>]]></description>
+			<TimeStamp><when>1917-04-10</when>
+</TimeStamp>
+			<styleUrl>#style9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.866058,50.238422,0 -1.752319,53.693455,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>John Cunningham</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)</div>]]></description>
+			<TimeStamp><when>1917-04-12</when>
+</TimeStamp>
+			<styleUrl>#style2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-7.937622,52.681377,0 2.617493,50.458378,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ernest Sykes</name>
+			<description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Ernest_Sykes</div>]]></description>
+			<TimeStamp><when>1917-04-19</when>
+</TimeStamp>
+			<styleUrl>#style61</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.785721,50.290218,0 -2.039337,53.517452,0 -2.039337,53.516636,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Robert Grierson Combe</name>
+			<description>http://en.wikipedia.org/wiki/Robert_Grierson_Combe</description>
+			<styleUrl>#style4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.888281448400101,50.3842176896633,0 -97.13712844029914,49.88825833336102,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Charles Pope</name>
+			<description>http://en.wikipedia.org/wiki/Charles_Pope</description>
+			<styleUrl>#style413</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.01332475143254,50.1388181951094,0 115.7448043038067,-32.05566062703842,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>George Howell</name>
+			<description>http://en.wikipedia.org/wiki/George_Howell_(VC)</description>
+			<styleUrl>#style47</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.929225973081491,50.19180169856628,0 151.222723120804,-33.8838333897992,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mick Moon</name>
+			<description>http://en.wikipedia.org/wiki/Rupert_Vance_Moon</description>
+			<styleUrl>#style412</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					144.4379377657379,-37.67645761346855,0 2.928947465584826,50.19154736858054,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Karl Dieffenbach</name>
+			<open>1</open>
+			<description>http://de.wikipedia.org/wiki/Karl_Dieffenbach</description>
+			<styleUrl>#style74</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					9.564792941364516,50.67194155618164,0 2.799498327174157,50.30401081056013,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Eberhard von Hofacker</name>
+			<open>1</open>
+			<description>http://de.wikipedia.org/wiki/Eberhard_von_Hofacker</description>
+			<styleUrl>#style716</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					9.730843928528794,52.32074678455845,0 2.801710849874168,50.29527373390918,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fritz Otto Bernert</name>
+			<open>1</open>
+			<description>http://en.wikipedia.org/wiki/Fritz_Otto_Bernert</description>
+			<styleUrl>#style715</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					18.20933109232948,50.09550157912304,0 2.805220316147516,50.2861925587879,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fritz von Lossberg</name>
+			<open>1</open>
+			<description>http://en.wikipedia.org/wiki/Fritz_von_Lossberg</description>
+			<styleUrl>#style79</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.612224139369749,50.21749573654351,0 2.805924416720262,50.29070713490602,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Louis Astoul</name>
+			<open>1</open>
+			<description>http://www.memorial-genweb.org/~memorial2/html/fr/complementter.php?id=1880152</description>
+			<styleUrl>#style7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.6888246623768568,48.26463805656796,0 3.706898519436592,49.44027419280238,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
