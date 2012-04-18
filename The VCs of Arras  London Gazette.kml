@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>The VCs of Arras</name>
+	<open>1</open>
+	<StyleMap id="style411">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style415</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style4">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style100">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style9">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style12">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style130">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style415">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style15">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style49">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style61">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style30">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style5">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style45">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style42">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style81">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style416</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style48">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style413">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style414">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style8">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style131">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style120">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style60">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style21">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style2">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style40">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style110">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style51">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style90">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style412">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style413</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style46">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style101">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style71">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style131</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style70">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style416">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style41">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style31">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style43">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>William Johnstone Milne</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/5/5a/William_Johnstone_Milne.jpg"/>
+<a href="http://en.wikipedia.org/wiki/William_Johnstone_Milne">http://en.wikipedia.org/wiki/William_Johnstone_Milne</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5705">http://www.london-gazette.co.uk/issues/30122/supplements/5705</a>]]></description>
+		<styleUrl>#style44</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.807700524565859,50.37306082349311,0 -105.5518466775422,50.39091408016304,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>William Gosling</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/William_Gosling">http://en.wikipedia.org/wiki/William_Gosling</a>
+<a href="http://www.london-gazette.co.uk/issues/30130/supplements/5866">http://www.london-gazette.co.uk/issues/30130/supplements/5866</a>]]></description>
+		<TimeStamp><when>1917-04-05</when>
+</TimeStamp>
+		<styleUrl>#style3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.788368,51.524979,0 2.778082,50.29071,0 2.778168,50.29071,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Thomas Bryan</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)">http://en.wikipedia.org/wiki/Thomas_Bryan_(VC)</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5705">http://www.london-gazette.co.uk/issues/30122/supplements/5705</a>]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style10</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.145496,53.5476,0 2.778425,50.29126,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Harry Cator</name>
+		<description><![CDATA[<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5704">http://www.london-gazette.co.uk/issues/30122/supplements/5704</a>
+<a href="http://en.wikipedia.org/wiki/Harry_Cator">http://en.wikipedia.org/wiki/Harry_Cator</a>]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style80</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				1.225834,52.674664,0 2.773533,50.290653,0 2.773705,50.290653,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Thain Wendell MacDowell</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/d/d0/Thain_Wendell_MacDowell.jpg"/>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5702">http://www.london-gazette.co.uk/issues/30122/supplements/5702</a>
+<a href="http://en.wikipedia.org/wiki/Thain_Wendell_MacDowell">http://en.wikipedia.org/wiki/Thain_Wendell_MacDowell</a>]]></description>
+		<styleUrl>#style7</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-74.338303,45.651249,0 2.807693,50.375248,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>John George Pattison</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/e/ee/John_George_Pattison.jpg"/>
+<a href="http://en.wikipedia.org/wiki/John_George_Pattison">http://en.wikipedia.org/wiki/John_George_Pattison</a>
+<a href="http://www.london-gazette.co.uk/issues/30215/supplements/7907">http://www.london-gazette.co.uk/issues/30215/supplements/7907</a>]]></description>
+		<styleUrl>#style50</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.137329,51.50532200000001,0 2.809753,50.375465,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Bede Kenny</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/a/a8/ThomasBedeKenny.jpg"/>
+<a href="http://en.wikipedia.org/wiki/Thomas_James_Bede_Kenny">http://en.wikipedia.org/wiki/Thomas_James_Bede_Kenny</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5705">http://www.london-gazette.co.uk/issues/30122/supplements/5705</a>]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style121</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				3.039093,50.111332,0 151.225952,-33.88438,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Ellis Wellwood Sifton</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/en/7/72/Visiting_Sifton%27s_grave.jpg"/>
+<a href="http://en.wikipedia.org/wiki/Ellis_Wellwood_Sifton">http://en.wikipedia.org/wiki/Ellis_Wellwood_Sifton</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5704">http://www.london-gazette.co.uk/issues/30122/supplements/5704</a>]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style13</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.760487,50.354771,0 -81.465683,42.635223,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>John Whittle</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/0/0e/John_Whittle_P01383.014.JPG"/>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5704">http://www.london-gazette.co.uk/issues/30122/supplements/5704</a>
+<a href="http://en.wikipedia.org/wiki/John_Whittle">http://en.wikipedia.org/wiki/John_Whittle</a>]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style411</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				3.034286,50.14104500000001,0 147.145218,-43.291077,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Harold Sandford Mugford</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/Harold_Sandford_Mugford">http://en.wikipedia.org/wiki/Harold_Sandford_Mugford</a>
+<a href="http://www.london-gazette.co.uk/issues/30400/supplements/12329">http://www.london-gazette.co.uk/issues/30400/supplements/12329</a>]]></description>
+		<TimeStamp><when>1917-04-11</when>
+</TimeStamp>
+		<styleUrl>#style14</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.898331,50.267178,0 -0.10437,51.51899700000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Donald MacKintosh</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/Donald_MacKintosh">http://en.wikipedia.org/wiki/Donald_MacKintosh</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5703">http://www.london-gazette.co.uk/issues/30122/supplements/5703</a>
+]]></description>
+		<TimeStamp><when>1917-04-09</when>
+</TimeStamp>
+		<styleUrl>#style111</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.870865,50.30469099999999,0 -4.251709,55.85990100000001,0 -4.257202,55.856815,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Horace Waller</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/en/4/4b/VCHoraceWallerGrave.jpg"/>
+<a href="http://en.wikipedia.org/wiki/Horace_Waller">http://en.wikipedia.org/wiki/Horace_Waller</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5706">http://www.london-gazette.co.uk/issues/30122/supplements/5706</a>
+]]></description>
+		<TimeStamp><when>1917-04-10</when>
+</TimeStamp>
+		<styleUrl>#style91</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.866058,50.238422,0 -1.752319,53.693455,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>John Cunningham</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)">http://en.wikipedia.org/wiki/John_Cunningham_(Irish_VC)</a>]]></description>
+		<TimeStamp><when>1917-04-12</when>
+</TimeStamp>
+		<styleUrl>#style20</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-7.937622,52.681377,0 2.617493,50.458378,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Ernest Sykes</name>
+		<description><![CDATA[<a href="http://en.wikipedia.org/wiki/Ernest_Sykes">http://en.wikipedia.org/wiki/Ernest_Sykes</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5705">http://www.london-gazette.co.uk/issues/30122/supplements/5705</a>
+]]></description>
+		<TimeStamp><when>1917-04-19</when>
+</TimeStamp>
+		<styleUrl>#style6</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.785721,50.290218,0 -2.039337,53.517452,0 -2.039337,53.516636,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Robert Grierson Combe</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/c/c0/Robert_Grierson_Combe.jpg"/><a href="http://en.wikipedia.org/wiki/Robert_Grierson_Combe">http://en.wikipedia.org/wiki/Robert_Grierson_Combe</a>
+<a href="http://www.london-gazette.co.uk/issues/30154/supplements/6381">http://www.london-gazette.co.uk/issues/30154/supplements/6381</a>]]></description>
+		<styleUrl>#style412</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.888281448400101,50.3842176896633,0 -97.13712844029914,49.88825833336102,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Charles Pope</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/3/3a/Charles_Pope_VC_A02648.jpg"/>
+<a href="http://en.wikipedia.org/wiki/Charles_Pope">http://en.wikipedia.org/wiki/Charles_Pope</a>
+<a href="http://www.london-gazette.co.uk/issues/30122/supplements/5703">http://www.london-gazette.co.uk/issues/30122/supplements/5703</a>]]></description>
+		<styleUrl>#style47</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				3.01332475143254,50.1388181951094,0 115.7448043038067,-32.05566062703842,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>George Howell</name>
+		<description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/8/8a/George_Howell_P02939.019.JPG"/><a href="http://en.wikipedia.org/wiki/George_Howell_(VC)">http://en.wikipedia.org/wiki/George_Howell_(VC)</a>]]></description>
+		<styleUrl>#style410</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				2.929225973081491,50.19180169856628,0 151.222723120804,-33.8838333897992,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Mick Moon</name>
+		<description><![CDATA[<a href="http://upload.wikimedia.org/wikipedia/commons/5/5a/Rupert_Vance_Moon.jpg">http://upload.wikimedia.org/wikipedia/commons/5/5a/Rupert_Vance_Moon.jpg</a>
+<a href="http://en.wikipedia.org/wiki/Rupert_Vance_Moon">http://en.wikipedia.org/wiki/Rupert_Vance_Moon</a>
+<a href="http://www.london-gazette.co.uk/issues/30130/supplements/5865">http://www.london-gazette.co.uk/issues/30130/supplements/5865</a>]]></description>
+		<styleUrl>#style414</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				144.4379377657379,-37.67645761346855,0 2.928947465584826,50.19154736858054,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
