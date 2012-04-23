@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>A selection of locations where actions leading to the award of a Victoria Cross occured</name>
-	<description>Please note this is not all VCs, as some aren&apos;t possible (with our knowledge).</description>
+	<name>Places where in World War One an action leading to the award of a Victoria Cross occurred</name>
+	<description>This is not the complete list (http://en.wikipedia.org/wiki/List_of_First_World_War_Victoria_Cross_recipients) as some places are not specific (&quot;Atlantic Ocean&quot;) or are places which have changed name (such as Mesopotamian locations). The data is available in our github account - https://github.com/ww1c/WW1-KML - should you want to improve it.</description>
 	<Placemark>
 		<name>Harold Ackroyd</name>
 		<description><![CDATA[Harold Ackroyd, Royal Army Medical Corps, 1917-07-31<br></br><a href="http://en.wikipedia.org//wiki/Harold_Ackroyd">Harold Ackroyd entry on Wikipedia </a><br></br><a href="http://en.wikipedia.org//wiki/Royal_Army_Medical_Corps">Royal Army Medical Corps entry on Wikipedia </a><br></br>]]></description>
@@ -3332,7 +3332,7 @@
 		<name>Charles Rutherford</name>
 		<description><![CDATA[Charles Rutherford, 5th Battalion Canadian Mounted Rifles, 1918-08-26<br></br><a href="http://en.wikipedia.org//wiki/Charles_Smith_Rutherford">Charles Rutherford entry on Wikipedia </a><br></br><a href="http://en.wikipedia.org//wiki/5th_Battalion_Canadian_Mounted_Rifles">5th Battalion Canadian Mounted Rifles entry on Wikipedia </a><br></br>]]></description>
 		<Point>
-			<coordinates>-60.917,14.05,0</coordinates>
+			<coordinates>2.90434,50.2666,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark>
