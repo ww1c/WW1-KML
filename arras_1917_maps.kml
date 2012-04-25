@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Battle of Arras</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Communications map</name>
+		<color>f2ffffff</color>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/f/fc/Battle_of_Arras_-_First_Army_communications_map.jpg?uselang=en-gb</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.54145372939339</north>
+			<south>50.28010585147907</south>
+			<east>2.850935760656028</east>
+			<west>2.498682375063127</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>USMA Map</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/d/d2/Usma_battle_of_arras_1917.png?uselang=en-gb</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.42760785703621</north>
+			<south>50.23356747874122</south>
+			<east>2.909613531867094</east>
+			<west>2.70435784173847</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Canadian and German front lines</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/e/e5/Defender_and_Attackers_-_Vimy_Ridge.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.41061080013026</north>
+			<south>50.32326595556885</south>
+			<east>2.839757522353851</east>
+			<west>2.738730341962499</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Vimy Ridge 1917-barrage map</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/0/03/Vimy_Ridge_1917-barrage_map.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.39629846773954</north>
+			<south>50.3239272849727</south>
+			<east>2.84034274306603</east>
+			<west>2.748464242311696</west>
+			<rotation>4.034764351229429</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>German Map October 1916 - March 1917</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/f/fa/26._R.D._Arras_1916.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.27958171194867</north>
+			<south>50.14427063042918</south>
+			<east>2.952484458181706</east>
+			<west>2.632844027000527</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>German map August 1917</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/6/6c/26.Res.-Div._August_1917_Bullecourt.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.21948780642714</north>
+			<south>50.17655216034444</south>
+			<east>2.987239567009704</east>
+			<west>2.909958513949874</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Plan of attack for Vimy Ridge 9th April 1917</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/d/d3/Plan_of_Attack_Vimy_Ridge.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.42072476128099</north>
+			<south>50.32010495668703</south>
+			<east>2.849839750448813</east>
+			<west>2.735231235182738</west>
+			<rotation>0.9103113908800207</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Canadian and German positions 9th April 1917</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/e/e5/Defender_and_Attackers_-_Vimy_Ridge.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.41528356191582</north>
+			<south>50.32132866174482</south>
+			<east>2.846425880163552</east>
+			<west>2.739371371412465</west>
+			<rotation>2.372199830826299</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Canadian Vimy Ridge Map 9th April 1917 (map 7)</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/3/3d/Vimy_Ridge_map-April_9-April_12.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.41412603504536</north>
+			<south>50.30630913513177</south>
+			<east>2.900357993716119</east>
+			<west>2.636608599766872</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
