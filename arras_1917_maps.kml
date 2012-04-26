@@ -124,5 +124,19 @@
 			<west>2.636608599766872</west>
 		</LatLonBox>
 	</GroundOverlay>
+	<GroundOverlay>
+		<name>French front</name>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/0/0d/Aisne_Front_1917.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>49.53830223150624</north>
+			<south>49.09217642229142</south>
+			<east>4.373470648136872</east>
+			<west>3.070281203409494</west>
+			<rotation>-1.038798881833891</rotation>
+		</LatLonBox>
+	</GroundOverlay>
 </Folder>
 </kml>
