@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Arras (Before and After)</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Arras</name>
+		<description>http://www.flickr.com/photos/8549277@N04/6921393092/sizes/l/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5152/6921393092_e9ab7cc16f_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.30555156674408</north>
+			<south>50.29549993854307</south>
+			<east>2.807255816956176</east>
+			<west>2.796278666949814</west>
+			<rotation>2.663212633575974</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Neuville-Vitasse</name>
+		<description>http://www.flickr.com/photos/8549277@N04/7067475375/sizes/l/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm8.staticflickr.com/7271/7067475375_84257d2ae4_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.25288483750983</north>
+			<south>50.24298733865449</south>
+			<east>2.824973602459652</east>
+			<west>2.814501462972953</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Heninel</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067475375/sizes/l/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm8.staticflickr.com/7271/7067475375_84257d2ae4_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.24281811689446</north>
+			<south>50.23292061803912</south>
+			<east>2.867368611318269</east>
+			<west>2.856896471831571</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Wancourt</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/6921397370/sizes/l/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm8.staticflickr.com/7231/6921397370_8970f47efa_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.2531309737997</north>
+			<south>50.24323347494436</south>
+			<east>2.8767595106146</east>
+			<west>2.866287371127902</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Guemappe</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067480163/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5463/7067480163_ff18653b1c_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.25863532194538</north>
+			<south>50.24873782309005</south>
+			<east>2.894397489116019</east>
+			<west>2.883925349629321</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Monchy-Le-Preux</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067480163/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5463/7067480163_ff18653b1c_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.2746518528125</north>
+			<south>50.26475435395717</south>
+			<east>2.899448945304143</east>
+			<west>2.888976805817444</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Monchy-Le-Preux</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067483065/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm8.staticflickr.com/7239/7067483065_cc26f2e518_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.27490503539065</north>
+			<south>50.26500753653532</south>
+			<east>2.910553743184948</east>
+			<west>2.900081603698249</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Monchy-Le-Preux</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/6921405760/sizes/l/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm8.staticflickr.com/7070/6921405760_270c4b9d29_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.27514467253773</north>
+			<south>50.26524717368239</south>
+			<east>2.921508678182391</east>
+			<west>2.911036538695692</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Monchy-Le-Preux</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067489377/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5315/7067489377_a6c440875a_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.26469318728614</north>
+			<south>50.25479568843081</south>
+			<east>2.911142527784783</east>
+			<west>2.900670388298085</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Roeux</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067492087/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5467/7067492087_38e26e0ef6_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.30126698542754</north>
+			<south>50.29136948657221</south>
+			<east>2.902739920213669</east>
+			<west>2.892267780726971</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Bullecourt</name>
+		<open>1</open>
+		<description>http://www.flickr.com/photos/8549277@N04/7067494107/in/set-72157629427782868/
+
+http://creativecommons.org/licenses/by-nc-sa/2.0/ by Paul Reed (http://www.flickr.com/photos/8549277@N04/)</description>
+		<Icon>
+			<href>http://farm6.staticflickr.com/5463/7067494107_2beb1b710f_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.19599038760375</north>
+			<south>50.18609288874841</south>
+			<east>2.934991573866076</east>
+			<west>2.924519434379377</west>
+			<rotation>2.119103329150068</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Monchy-Le-Preux</name>
+		<description>http://www.flickr.com/photos/nlscotland/4699271213/sizes/o/in/photostream/
+
+&quot;No Known Copyright restrictions&quot; by National Libraries of Scotland (http://www.flickr.com/photos/nlscotland/)</description>
+		<Icon>
+			<href>http://farm5.staticflickr.com/4035/4699271213_5173950954_o_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>50.28419387300605</north>
+			<south>50.27513715092873</south>
+			<east>2.91372819731081</east>
+			<west>2.894804303587166</west>
+			<rotation>1.936370582529662</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

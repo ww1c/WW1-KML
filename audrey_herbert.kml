@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Audrey Herbert.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Audrey Herbert</name>
+		<open>1</open>
+		<Folder>
+			<name>Mons August 12th - September 13th 1914</name>
+			<Placemark>
+				<name>August 12th</name>
+				<description>Page 33</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.405745948295595,50.90664163370031,0 -0.1428766670519432,51.49236803710224,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 14th</name>
+				<description>Page 33</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.385999382861437,50.88755074456693,0 0.09421994941076095,49.49225653729591,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 15th</name>
+				<description>Page 36</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.1732614934798238,49.49290430183185,0 2.283525192364386,49.89427980325299,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 15th</name>
+				<description>Page 38</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.32988376710243,49.89644113894558,0 3.59347951798074,49.99211306700319,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 16th</name>
+				<description>Page 38</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.596150171117178,49.99085278139399,0 3.57783983409556,49.92693907585561,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 17th</name>
+				<description>Foraging for food</description>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.585172424764811,49.9312669580285,0 3.653011625496476,49.99163481915541,0 3.69811771482909,50.01320709351499,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 19th</name>
+				<description>page 40</description>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.571383580336247,49.92932532736033,0 3.439461249459614,50.35000380238279,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 20th</name>
+				<description>Page 41</description>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.445889456506035,50.34631080042582,0 3.760035330931353,50.1282298097524,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 21st</name>
+				<description>Page 41</description>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.865579707378521,50.29134390546602,0 3.762590150836924,50.13197907837204,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 21st</name>
+				<description>Page 42</description>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.869857786311208,50.29550754108981,0 3.955047760360377,50.44955114659756,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Enemy Aeroplane (August 21st)</name>
+				<LookAt>
+					<longitude>3.752615652301639</longitude>
+					<latitude>50.14009145883823</latitude>
+					<altitude>0</altitude>
+					<heading>0.1698178426338734</heading>
+					<tilt>0</tilt>
+					<range>125066.009223843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.9248333127894,50.35624899814989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rides to Quevy-Le-Grand</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.946715836107122,50.36040517485406,0 3.955945400027174,50.44876487233935,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Page 44</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.947737699375584,50.36149704076206,0 3.987005934792458,50.39383110026103,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>German shelling</name>
+				<LookAt>
+					<longitude>3.991848558731388</longitude>
+					<latitude>50.37791197480799</latitude>
+					<altitude>0</altitude>
+					<heading>0.003653200388949602</heading>
+					<tilt>0</tilt>
+					<range>7406.675825688052</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.988850381082878,50.39332126490449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>First attack on a German Trench</name>
+				<LookAt>
+					<longitude>4.001101422466218</longitude>
+					<latitude>50.40471051081456</latitude>
+					<altitude>0</altitude>
+					<heading>0.01077845722976022</heading>
+					<tilt>0</tilt>
+					<range>4306.511659153342</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.989511147041627,50.39653447048494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Page 48</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.985140756552961,50.39435063902823,0 3.933963291173055,50.36875836554251,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Held in reserve</name>
+				<LookAt>
+					<longitude>3.966987931273592</longitude>
+					<latitude>50.37153451359528</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01549742204528054</heading>
+					<tilt>0</tilt>
+					<range>10366.76988427735</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.93256706289622,50.3693176850001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Writes a farewall letter, expecting to be killed</name>
+				<description>Page 48</description>
+				<LookAt>
+					<longitude>3.966987933844235</longitude>
+					<latitude>50.37153450527593</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01549742006535457</heading>
+					<tilt>0</tilt>
+					<range>13725.35599346986</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.929059671156636,50.37104612659731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Retreat ordered</name>
+				<description>Page 49</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.929739202362821,50.36817935296737,0 3.872277695033874,50.29195124163061,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>March to Landrecies</name>
+				<description>Page 50</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.870135791153575,50.28955086235572,0 3.692548997410559,50.12599171068228,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Germans attack</name>
+				<LookAt>
+					<longitude>3.781342393677581</longitude>
+					<latitude>50.20777129421609</latitude>
+					<altitude>0</altitude>
+					<heading>-4.642417126931185e-010</heading>
+					<tilt>0</tilt>
+					<range>19038.33948389316</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.697950725059838,50.12622560262255,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Retreat to Etreux</name>
+				<description>Page 55</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.689721696129065,50.1211942120329,0 3.653114465168774,49.99512977369491,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Retreat to La Fere</name>
+				<description>Page 57</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.486968009328111,49.83878543797145,0 3.367876414470332,49.66351313963002,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Retreat to Origny</name>
+				<description>page 56</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.57069178736438,49.92629323277465,0 3.490179245632918,49.84185501078501,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 29th</name>
+				<description>page 58</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.368159282525252,49.66151878042997,0 3.394048425198364,49.6272196342139,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Moves to Pasly</name>
+				<description>Page 58</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.394911063290882,49.62370356055514,0 3.29711594545969,49.40268038316496,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Retreat to Soissons</name>
+				<description>Page 59</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.297599519182535,49.40077045558407,0 3.323447387053851,49.37649587325863,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Retreat to Coeuvres</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.319448341063076,49.37562927165193,0 3.158556686434835,49.33658545304995,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Attacked by Lancer Cavalry</name>
+				<LookAt>
+					<longitude>3.231499686936153</longitude>
+					<latitude>49.39885603433184</latitude>
+					<altitude>0</altitude>
+					<heading>-0.07544583831282405</heading>
+					<tilt>0</tilt>
+					<range>29141.83666619424</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.225385838785566,49.35747475644413,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>September 1st - Fights Rearguard Action</name>
+				<description>Page 64</description>
+				<LookAt>
+					<longitude>3.068495499216533</longitude>
+					<latitude>49.3761441250764</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5513127947869998</heading>
+					<tilt>0</tilt>
+					<range>47914.79582204853</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.154316843680132,49.33842490451423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Retire to Rond De La Reine</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.155161925220258,49.33532256970793,0 3.11199740922363,49.28681619797254,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Shot and wounded</name>
+				<description>Page 72</description>
+				<LookAt>
+					<longitude>3.099523926234176</longitude>
+					<latitude>49.29002551513311</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1662768214202144</heading>
+					<tilt>0</tilt>
+					<range>18623.21355824232</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.139591909488944,49.3109853053513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Throws away illegal bullets (dum dums)</name>
+				<LookAt>
+					<longitude>3.099523926234176</longitude>
+					<latitude>49.29002551513311</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1662768214202144</heading>
+					<tilt>0</tilt>
+					<range>18623.21355824232</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.134695400111203,49.30463169832765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Talks to German soldiers </name>
+				<description>Page 74</description>
+				<LookAt>
+					<longitude>3.099523926234176</longitude>
+					<latitude>49.29002551513311</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1662768214202144</heading>
+					<tilt>0</tilt>
+					<range>18623.21355824232</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.144720335393587,49.30690298049603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taken in ambulance</name>
+				<description>Page 76</description>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.140990313905288,49.3086226816507,0 3.103543735958823,49.29935823287255,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>September 11th - Hospital taken by French troops</name>
+				<description>Page 81</description>
+				<LookAt>
+					<longitude>3.083340683829281</longitude>
+					<latitude>49.28631281588896</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4775133288371207</heading>
+					<tilt>0</tilt>
+					<range>13881.93083845068</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.102043643149473,49.30157439275178,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>September 13th - Leaves hospital</name>
+				<LookAt>
+					<longitude>3.070578931287978</longitude>
+					<latitude>49.27742986452692</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4871855070345288</heading>
+					<tilt>0</tilt>
+					<range>13923.76418705956</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>3.097860558113494,49.29865970052651,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Herbert France</name>
+				<color>87ffffff</color>
+				<Icon>
+					<href>herbert_files/herbert_france.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>50.57966952400644</north>
+					<south>48.50540565217224</south>
+					<east>4.159692124603591</east>
+					<west>2.098804248679315</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+		<Folder>
+			<name>Anzac December 1914 - October 9th 1915</name>
+			<Placemark>
+				<name>December 14th - hears of Submarines in the Mediterranean</name>
+				<description>Page 85</description>
+				<LookAt>
+					<longitude>-4.209428065449144</longitude>
+					<latitude>38.01590191294695</latitude>
+					<altitude>0</altitude>
+					<heading>-4.015740746538588</heading>
+					<tilt>0</tilt>
+					<range>812580.3076713965</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>-5.523228612533915,36.10908899125143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boards Lutzow (captured German ship)</name>
+				<description>Page 98</description>
+				<LookAt>
+					<longitude>30.08208428770536</longitude>
+					<latitude>30.86352046937916</latitude>
+					<altitude>0</altitude>
+					<heading>14.8644600193713</heading>
+					<tilt>0</tilt>
+					<range>601320.8079946019</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>29.99481542752024,31.25659350372702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 12th - Sails to Lemnos, Lesbos</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						25.25454513491333,39.86823442724044,0 29.97362291620516,31.3749925768087,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>April 24th - Sails to Anzac Cove</name>
+				<description>Page 102</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						25.27338569304227,39.87122206677501,0 26.26760644041358,40.19975371087785,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>April 25th - Lands at Anzac</name>
+				<description>page 103</description>
+				<LookAt>
+					<longitude>26.26685110315205</longitude>
+					<latitude>40.20035468177579</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001192037277297205</heading>
+					<tilt>0</tilt>
+					<range>4848.118917803146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.27030983986576,40.20061879788149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Page 116 - Hears of the death of the poet, Rupert Brooke</name>
+				<LookAt>
+					<longitude>26.25514160928104</longitude>
+					<latitude>40.19986050430867</latitude>
+					<altitude>0</altitude>
+					<heading>-0.007437262369626991</heading>
+					<tilt>0</tilt>
+					<range>4848.581303981414</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.27178242373273,40.20285861183011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 6th attacks Achi Baba</name>
+				<description>page 120</description>
+				<LookAt>
+					<longitude>26.26666699983588</longitude>
+					<latitude>40.09999999879597</latitude>
+					<altitude>0</altitude>
+					<heading>-1.0570573483844e-010</heading>
+					<tilt>0</tilt>
+					<range>5607.927716815054</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.26666699983587,40.09999999879597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 10th - Hears of the sinking of the Lusitania</name>
+				<LookAt>
+					<longitude>26.27220768425314</longitude>
+					<latitude>40.18209701100398</latitude>
+					<altitude>0</altitude>
+					<heading>2.715873229098672</heading>
+					<tilt>0</tilt>
+					<range>18974.39523869331</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.27874860744696,40.26020282352226,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 15th - Ships providing cover leave the harbour. Considers the battle lost.</name>
+				<description>page 129</description>
+				<LookAt>
+					<longitude>26.21496982833779</longitude>
+					<latitude>40.15609281768803</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03334054745113892</heading>
+					<tilt>0</tilt>
+					<range>36390.36686421453</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.21496982833779,40.15609281768803,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 18th - Anafarta shelled</name>
+				<description>page 130</description>
+				<LookAt>
+					<longitude>26.262168271299</longitude>
+					<latitude>40.25971846956307</latitude>
+					<altitude>0</altitude>
+					<heading>2.70931959084071</heading>
+					<tilt>0</tilt>
+					<range>27076.9990283934</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.31715828222054,40.28931603518548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 19th - Told to discuss Armistice</name>
+				<description>page 134</description>
+				<LookAt>
+					<longitude>26.27031237484685</longitude>
+					<latitude>40.19902170944104</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06972111908615521</heading>
+					<tilt>0</tilt>
+					<range>9902.420980481766</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.2804517536123,40.19780550124841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 22nd - Taken hostage as part of negotiations</name>
+				<description>page 135</description>
+				<LookAt>
+					<longitude>26.27031237946811</longitude>
+					<latitude>40.19902171344505</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06972111610338748</heading>
+					<tilt>0</tilt>
+					<range>9902.420959710109</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.27211583259299,40.19407590200839,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 28th - Returns to Mudros for supplies</name>
+				<description>page 143</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.22293086999435,40.14879449140096,0 25.26149494622957,39.88348346084906,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>May 29th - Journeys to Castro</name>
+				<description>page 143</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						25.26339912777423,39.87669683574261,0 25.06025400202116,39.87422824149165,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>May 31st - Returns to Anzac</name>
+				<description>page 144</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						25.25131691056159,39.89796001895861,0 26.24965424716724,40.16844590602268,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>June 6th - Attends church service lambasting America for not joining the war</name>
+				<description>page 146</description>
+				<LookAt>
+					<longitude>26.28556571928837</longitude>
+					<latitude>40.23040495249344</latitude>
+					<altitude>0</altitude>
+					<heading>2.724462066871187</heading>
+					<tilt>0</tilt>
+					<range>18919.08644337452</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.30308206039132,40.23780851562258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>June 14th - Awaits results of Greek elections</name>
+				<description>page 148</description>
+				<LookAt>
+					<longitude>26.12535131232811</longitude>
+					<latitude>40.13723886706228</latitude>
+					<altitude>0</altitude>
+					<heading>0.6781812635521786</heading>
+					<tilt>0</tilt>
+					<range>37000.35459942967</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.25583486642004,40.17899598547014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>June 17th - Travels to Helles</name>
+				<description>page 148</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.25985153532664,40.16983707789574,0 26.17525627969404,40.04712104619739,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>July 4th - Maori battalion land and dance a Haka</name>
+				<description>page 155</description>
+				<LookAt>
+					<longitude>26.22493562695972</longitude>
+					<latitude>40.15995886949156</latitude>
+					<altitude>0</altitude>
+					<heading>0.2411380643854862</heading>
+					<tilt>0</tilt>
+					<range>14838.29054913366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.26722058588786,40.17410774116239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>July 24th - Journeys to Imbros</name>
+				<description>page 163</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.25738468646248,40.17999012620737,0 26.25465199967231,40.17843893527949,0 26.24374806141977,40.17173977632677,0 25.83343081560235,40.16512249515248,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>July 25th - sails to Tenedos</name>
+				<description>page 165</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.24049537760368,40.15662280765575,0 26.03020404451741,39.81837986060572,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ju;y 30th - Hears of Aden&apos;s capture</name>
+				<description>page 169</description>
+				<LookAt>
+					<longitude>26.09605027640561</longitude>
+					<latitude>39.95510701076307</latitude>
+					<altitude>0</altitude>
+					<heading>0.1055184928206423</heading>
+					<tilt>0</tilt>
+					<range>78701.86174048852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.0032745931614,39.82605037924235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>July 30th - Sails for Mytilene</name>
+				<description>page 170</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.03510924366823,39.80405489809056,0 26.57155522500225,39.09054034819296,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 2nd - Journeys to Aivali</name>
+				<description>page 173</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.57336409925483,39.10736745572191,0 26.70211764076858,39.32174115904826,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 5th - returns to Tenedos</name>
+				<description>page 176</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.53659516651637,39.09286820729714,0 26.00200777943306,39.82649219386608,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 7th Kaba Tepe</name>
+				<description>page 177</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						26.01383888950825,39.83665800918481,0 26.22954061518593,40.15731706521316,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>August 21st - Attack on Sulva salt flats</name>
+				<description>page 190</description>
+				<LookAt>
+					<longitude>26.26745097939053</longitude>
+					<latitude>40.21244568948551</latitude>
+					<altitude>0</altitude>
+					<heading>2.71274147845193</heading>
+					<tilt>0</tilt>
+					<range>19824.16148085299</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.2572772925964,40.29767679781352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>October 5th - Bulgaria given ultimatum by Russia</name>
+				<description>Page 203</description>
+				<LookAt>
+					<longitude>26.27220768425314</longitude>
+					<latitude>40.18209701100398</latitude>
+					<altitude>0</altitude>
+					<heading>2.715873229098672</heading>
+					<tilt>0</tilt>
+					<range>18974.39523869331</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.28159264085502,40.25720901304088,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>October 9th - Evacuated on hospital ship</name>
+				<description>page 205</description>
+				<LookAt>
+					<longitude>26.27946224442272</longitude>
+					<latitude>40.13813337354156</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06942214375096886</heading>
+					<tilt>0</tilt>
+					<range>43946.8939334227</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>26.21478623259192,40.17715715877513,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Herbert East Med</name>
+				<color>59ffffff</color>
+				<Icon>
+					<href>herbert_files/herbert_eastmed.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>41.20700849374192</north>
+					<south>38.89114892454104</south>
+					<east>27.7107483782337</east>
+					<west>23.25492711520795</west>
+					<rotation>-91.55262061603796</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Herbert Anzac Cove</name>
+				<color>a6ffffff</color>
+				<Icon>
+					<href>herbert_files/herbert_anzac.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>40.31460292717743</north>
+					<south>40.20666250187426</south>
+					<east>26.38887262761717</east>
+					<west>26.17399791581324</west>
+					<rotation>-88.41532348495434</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+		<Folder>
+			<name>Kut 1916</name>
+			<Placemark>
+				<name>February 28th 1916 - Off Marseilles</name>
+				<description>Page 210</description>
+				<LookAt>
+					<longitude>6.732512860722548</longitude>
+					<latitude>41.85362647596563</latitude>
+					<altitude>0</altitude>
+					<heading>-12.68907778630979</heading>
+					<tilt>0</tilt>
+					<range>488246.6041857781</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>6.297933249740993,42.40646189501366,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 1st - Off Malta</name>
+				<description>Page 210</description>
+				<LookAt>
+					<longitude>13.87406160945238</longitude>
+					<latitude>36.94843452869825</latitude>
+					<altitude>0</altitude>
+					<heading>-8.131608302042151</heading>
+					<tilt>0</tilt>
+					<range>322810.7489328726</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>14.57926849954329,36.0454856074006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 6th Ismailia</name>
+				<description>Page 211</description>
+				<LookAt>
+					<longitude>32.36943116984409</longitude>
+					<latitude>30.39661006438281</latitude>
+					<altitude>0</altitude>
+					<heading>0.049592970330104</heading>
+					<tilt>0</tilt>
+					<range>148362.4009634919</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>32.29046539842796,30.59807395497611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 10th - Cairo</name>
+				<description>Page 211</description>
+				<LookAt>
+					<longitude>32.97854951494327</longitude>
+					<latitude>30.63139251385702</latitude>
+					<altitude>0</altitude>
+					<heading>0.3588745898523661</heading>
+					<tilt>0</tilt>
+					<range>340761.1768841865</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>31.24280127711603,30.06086315915403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 11th Ismailia</name>
+				<open>1</open>
+				<description>Page 214</description>
+				<LookAt>
+					<longitude>32.36943116984409</longitude>
+					<latitude>30.39661006438281</latitude>
+					<altitude>0</altitude>
+					<heading>0.049592970330104</heading>
+					<tilt>0</tilt>
+					<range>148362.4009634919</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>32.29046539842796,30.59807395497611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 15th - Cairo</name>
+				<open>1</open>
+				<description>Page 215</description>
+				<LookAt>
+					<longitude>32.97854951494327</longitude>
+					<latitude>30.63139251385702</latitude>
+					<altitude>0</altitude>
+					<heading>0.3588745898523661</heading>
+					<tilt>0</tilt>
+					<range>340761.1768841865</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>31.24280127711603,30.06086315915403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 22nd Ismailia</name>
+				<open>1</open>
+				<description>Page 215</description>
+				<LookAt>
+					<longitude>32.36943116984409</longitude>
+					<latitude>30.39661006438281</latitude>
+					<altitude>0</altitude>
+					<heading>0.049592970330104</heading>
+					<tilt>0</tilt>
+					<range>148362.4009634919</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>32.29046539842796,30.59807395497611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 27th - Gulf of Suez, bound for Mesopotamia</name>
+				<LookAt>
+					<longitude>33.010083590818</longitude>
+					<latitude>29.26728766480501</latitude>
+					<altitude>0</altitude>
+					<heading>0.370321756558175</heading>
+					<tilt>0</tilt>
+					<range>455588.7700597564</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>32.97130123425675,28.77175048831277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>March 31st - Aden</name>
+				<description>Page 218</description>
+				<LookAt>
+					<longitude>47.5100857934012</longitude>
+					<latitude>18.82177502474203</latitude>
+					<altitude>0</altitude>
+					<heading>4.791618059167556</heading>
+					<tilt>0</tilt>
+					<range>1629465.6220078</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>43.81792717084668,12.98109749211293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 4th - Muscat - News of Zeppelin raids on London</name>
+				<description>Page 220</description>
+				<LookAt>
+					<longitude>56.96711772444861</longitude>
+					<latitude>22.98244418195587</latitude>
+					<altitude>0</altitude>
+					<heading>7.339992500738279</heading>
+					<tilt>0</tilt>
+					<range>743818.5112425408</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>58.65400687983776,23.6653176821474,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 9th Shat-el-Arab</name>
+				<description>Page 223</description>
+				<LookAt>
+					<longitude>48.46995677672364</longitude>
+					<latitude>29.98852443721435</latitude>
+					<altitude>0</altitude>
+					<heading>3.457075978972757</heading>
+					<tilt>0</tilt>
+					<range>70149.4729073418</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>48.52029607399822,29.84676778368218,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 10th - Kurna</name>
+				<description>Page 224</description>
+				<LookAt>
+					<longitude>47.43055600185318</longitude>
+					<latitude>31.01583300054584</latitude>
+					<altitude>0</altitude>
+					<heading>9.548915709064288e-010</heading>
+					<tilt>0</tilt>
+					<range>2721.471615094271</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>47.43055600185319,31.01583300054584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 13th - Ali Al Gharbi</name>
+				<description>Page 228</description>
+				<LookAt>
+					<longitude>46.68180153034947</longitude>
+					<latitude>32.45342898374353</latitude>
+					<altitude>0</altitude>
+					<heading>6.280714482243679e-009</heading>
+					<tilt>0</tilt>
+					<range>10908.45359872725</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>46.68180153034948,32.45342898374353,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 25th - Julnar sails to relieve Kut - 2 crew members receive the VC</name>
+				<LookAt>
+					<longitude>46.15687326574201</longitude>
+					<latitude>32.6217489225639</latitude>
+					<altitude>0</altitude>
+					<heading>0.1780479337186522</heading>
+					<tilt>0</tilt>
+					<range>98541.74524215332</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>45.82314352774914,32.49096351704441,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>April 30th Negotiates with Khahil Pasha</name>
+				<LookAt>
+					<longitude>46.0703568439292</longitude>
+					<latitude>32.67605003215321</latitude>
+					<altitude>0</altitude>
+					<heading>0.130500262236721</heading>
+					<tilt>0</tilt>
+					<range>109796.0816052314</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>46.17709785338285,32.47774171970546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>May 12th - returns to Basrah</name>
+				<description>Page 269</description>
+				<LookAt>
+					<longitude>47.45395343281651</longitude>
+					<latitude>31.08034855110883</latitude>
+					<altitude>0</altitude>
+					<heading>0.8545323111588402</heading>
+					<tilt>0</tilt>
+					<range>295439.185547311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>47.82014224420743,30.52562394884428,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Herbert Persia</name>
+				<color>9effffff</color>
+				<Icon>
+					<href>herbert_files/herbert_persia.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>34.1360447333757</north>
+					<south>29.10978665095012</south>
+					<east>48.48661221605266</east>
+					<west>43.67750442463076</west>
+					<rotation>-91.28637984219085</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

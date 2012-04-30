@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Photos of John Cecil Thompson</name>
+	<GroundOverlay>
+		<name>ANZAC Graveyard at Lemnos</name>
+		<description>[no inscription - Nurses, soldiers, a graveyard, probably Lemnos, late 1915] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm3.staticflickr.com/2201/2142251289_ea91c57405_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>39.8869935588712</north>
+			<south>39.86059131227511</south>
+			<east>25.30377819580865</east>
+			<west>25.25277222034239</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Band of the R.B.A.A. at Codford 1919</name>
+		<description>Inscription on reverse - Band of the R.B.A.A. at Codford 1919 [Bandmaster Joseph Cecil Thompson 9th Battalion seated centre]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/215/500550391_f8d7545cbb_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>51.20531958648837</north>
+			<south>51.11153240840714</south>
+			<east>-1.92013068362033</east>
+			<west>-2.174921796182964</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>At the incinerators, 1915</name>
+		<description>Inscription on reverse - At the incinerators [location unknown, possibly Lemnos area] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/225/500549357_93c7052f94_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>40.06288147304127</north>
+			<south>39.91827798222786</south>
+			<east>25.41329565448049</east>
+			<west>25.10853957317687</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Armoured motor car - &quot;The Terror&quot;, Cairo</name>
+		<description>Inscription on reverse - Armoured motor car, made in Egyptian railway workshops from 7-16 boiler plating. Nickel steel not procurable. Heliopolis, Cairo. 20.10.15 [initials] JCT [Joseph Cecil Thompson- presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/219/500500896_9053a48cee_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.02026978491804</north>
+			<south>29.78429300049861</south>
+			<east>31.31170399404984</east>
+			<west>31.13839633223829</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>A. Corp. Q. M. Weynaud. Anzac, Gallipoli 1915</name>
+		<description>Inscription on reverse - A. Corp. Q. M. Weynaud. Anzac, Gallipoli 11.10.15 [initials] JCT [ Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/213/500544989_05f279a35f_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>40.58555680875747</north>
+			<south>40.21835865640704</south>
+			<east>26.86151750030388</east>
+			<west>26.52172175985125</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Cairo street scene with Australian soldiers, 1915</name>
+		<description>[no inscription - Street scene with Australian soldiers, probably Cairo or Heliopolis late 1915] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm3.staticflickr.com/2319/2143041890_6634ae52c1_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.01954568949363</north>
+			<south>29.81504557325978</south>
+			<east>31.68946567713651</east>
+			<west>31.31819181640192</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Mail from home, Zeitoun 1916</name>
+		<description>Inscription on side - ...Mail No. 2 [probably late 1915 or early 1916, probably Zeitoun Camp] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm3.staticflickr.com/2234/2143041536_3da9269bfb_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.19999515428543</north>
+			<south>30.0239342706608</south>
+			<east>31.49102666877545</east>
+			<west>31.1386474301202</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Untitled</name>
+		<description>[no inscription - Haircut, possibly Zeitoun in Egypt, probably late 1915 or early 1916] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/190/500491504_e365a780de_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.19936664719612</north>
+			<south>30.03016045281132</south>
+			<east>31.13058361450014</east>
+			<west>30.85426293843089</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Donkey and stretcher bearers, Gallipoli area, late 1915</name>
+		<description>[no inscription - Donkey in protective &apos;clothing&apos; with Australian soldiers, probably Gallipoli late 1915, possibly stretcher bearers of the 9th battalion] [Joseph Cecil Thompson - presumed photographer]
+
+My grandfather, J. C. Thompson, was a stretcher bearer while at Gallipoli - in charge of a crew, I believe. It makes sense, then, that these men are the stretcher bearers with whom he served and that the donkey is one that was used to transport wounded soldiers out of the combat zone.</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/208/497587694_051d0b0b23_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>40.53814599300588</north>
+			<south>40.24494075736943</south>
+			<east>27.51934674904093</east>
+			<west>26.87318076175622</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Ships standing in Mudros Bay, Lemnos 1915</name>
+		<description>Inscription on side - Mudros Bay, Lemnos [probably 1915] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm3.staticflickr.com/2372/2142249205_a53d973db8_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>39.88372672736105</north>
+			<south>39.85088573891581</south>
+			<east>25.27691602759114</east>
+			<west>25.21315953178737</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Haircut or De-lousing at Zeitoun in Egypt, 1915 or early 1916</name>
+		<description>[no inscription - De-lousing or having a haircut, possibly Zeitoun in Egypt, probably late 1915 or early 1916] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/206/497582600_b6764ff013_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>30.19838034645138</north>
+			<south>30.02634390797834</south>
+			<east>31.8342822258349</east>
+			<west>31.49371674276254</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Australian soldiers watching Turkish prisoners, 1915, Gallipoli</name>
+		<description>[no inscription - Australian soldiers watching Turkish prisoners, probably 11/10/1915, probably Gallipoli] [Joseph Cecil Thompson - presumed photographer] [This photo appears to be of the same compound as that depicted in another photo in this set - where the inscription identifies the date, and that the men are Turkish prisoners]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/222/497217828_63fb6f226f_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>40.23514982446307</north>
+			<south>39.91984825040794</south>
+			<east>27.51408424309722</east>
+			<west>26.88458577004456</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>The grave of Colonel George Hepburn Stewart, Otago Mounted Rifles. (Died 20 November 1915, buried at Lemnos.)</name>
+		<description>[no inscription - Unknown soldier standing at the grave of Colonel G. M. Stewart, Otago Mounted Rifles, Lemnos, date unknown probably October 1915] [Joseph Cecil Thompson- presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/191/501906015_87bb2dc986_b_d.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>39.89197512946188</north>
+			<south>39.85748727942649</south>
+			<east>25.33454759596559</east>
+			<west>25.30475273655523</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Palace hospital showing beds on verandah, Cairo 1915</name>
+		<description>Inscription on reverse - Palace hospital showing beds on verandah 20.10.15 [intials] JCT [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm1.staticflickr.com/223/501898941_45727aea9b_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>29.806585425134</north>
+			<south>29.54424629968972</south>
+			<east>31.50671061234257</east>
+			<west>31.32459734061307</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Australian soldiers in trenches at Gallipoli, 1915</name>
+		<description>[no inscription - Unknown Australian solders in trenches at Gallipoli, probably stretcher bearers of the 9th Battalion AIF, 1915 ] [Joseph Cecil Thompson - presumed photographer]</description>
+		<Icon>
+			<href>http://farm3.staticflickr.com/2386/2142253563_aa06572e68_z_d.jpg?zz=1</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>40.57895310068543</north>
+			<south>40.22113998591262</south>
+			<east>26.51660495679923</east>
+			<west>26.18622629437621</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

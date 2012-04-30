@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Arras Cathedral</name>
+	<open>1</open>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://en.wikipedia.org/wiki/File:Arras_cathedral_destruction_ww1.jpg
+
+This image is available from the Archives of Ontario under the item reference code C 224-0-0-10-32
+
+This Canadian work is in the public domain in Canada because its copyright has expired due to one of the following:
+1. it was subject to Crown copyright and was first published more than 50 years ago, or
+it was not subject to Crown copyright, and
+
+2. it is a photograph that was created prior to January 1, 1949, or
+3. the creator died more than 50 years ago.
+
+
+</description>
+		<Camera>
+			<longitude>2.77429874380746</longitude>
+			<latitude>50.29380044778526</latitude>
+			<altitude>2.000000000168222</altitude>
+			<heading>176.9186657159893</heading>
+			<tilt>92.50107166927214</tilt>
+			<roll>1.25234340582626e-013</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://upload.wikimedia.org/wikipedia/commons/7/7b/Arras_cathedral_destruction_ww1.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-31.565</bottomFov>
+			<topFov>31.565</topFov>
+			<near>0.7</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.77429874380746,50.29380044778526,2.000000000168222</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://www.flickr.com/photos/nlscotland/4699419006/ by National Library of Scotland (http://www.flickr.com/photos/nlscotland/)
+
+No known copyright restrictions</description>
+		<Camera>
+			<longitude>2.775344386251271</longitude>
+			<latitude>50.29278560974945</latitude>
+			<altitude>1.999999995285233</altitude>
+			<heading>-52.36187096649294</heading>
+			<tilt>93.91191848591849</tilt>
+			<roll>-2.226388277024462e-014</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://farm5.staticflickr.com/4069/4699419006_169a4daa01_b_d.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-33.635</bottomFov>
+			<topFov>33.635</topFov>
+			<near>0.7</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.775344386251271,50.29278560974945,1.999999995285233</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://www.flickr.com/photos/nlscotland/4700441250/ by National Library of Scotland (http://www.flickr.com/photos/nlscotland/)
+
+No known copyright restrictions</description>
+		<Camera>
+			<longitude>2.775371956665802</longitude>
+			<latitude>50.29366757478992</latitude>
+			<altitude>8.689999996510791</altitude>
+			<heading>-142.6263198999021</heading>
+			<tilt>85.27827418568734</tilt>
+			<roll>1.616111625131883e-006</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://farm5.staticflickr.com/4058/4700441250_df4444b428_o_d.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-19.515</bottomFov>
+			<topFov>19.515</topFov>
+			<near>3.0415</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.775371956665802,50.29366757478992,8.689999996510791</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://www.flickr.com/photos/nlscotland/4698839015/ by National Library of Scotland (http://www.flickr.com/photos/nlscotland/)
+
+No known copyright restrictions</description>
+		<Camera>
+			<longitude>2.774313409605155</longitude>
+			<latitude>50.29270530393416</latitude>
+			<altitude>2.000000001440876</altitude>
+			<heading>35.36639857136171</heading>
+			<tilt>88.23941704641634</tilt>
+			<roll>2.95791585376107e-013</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://farm2.staticflickr.com/1296/4698839015_d5df70f6b0_b_d.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-30.57</bottomFov>
+			<topFov>30.57</topFov>
+			<near>0.7</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.774313409605155,50.29270530393416,2.000000001440876</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://www.flickr.com/photos/nlscotland/4699469916/ by National Library of Scotland (http://www.flickr.com/photos/nlscotland/)
+
+No known copyright restrictions</description>
+		<Camera>
+			<longitude>2.774303444199455</longitude>
+			<latitude>50.29407811274546</latitude>
+			<altitude>7.26000000032576</altitude>
+			<heading>179.2747831175424</heading>
+			<tilt>76.52033355452964</tilt>
+			<roll>-6.962495096001916e-005</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://farm5.staticflickr.com/4031/4699469916_c1f687bb5b_o_d.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-19.555</bottomFov>
+			<topFov>19.555</topFov>
+			<near>2.541</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.774303444199455,50.29407811274546,7.26000000032576</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>Cathedral</name>
+		<description>http://www.flickr.com/photos/library_of_congress/6331264049/
+No known copyright restrictions by Library of Congress (http://www.flickr.com/photos/library_of_congress/)</description>
+		<Camera>
+			<longitude>2.773657444217668</longitude>
+			<latitude>50.29367232736412</latitude>
+			<altitude>7.710000002454726</altitude>
+			<heading>137.6461146795153</heading>
+			<tilt>89.99999999999999</tilt>
+			<roll>1.90833280887811e-014</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>http://farm7.staticflickr.com/6043/6331264049_0af4247b81_b_d.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-18.975</bottomFov>
+			<topFov>18.975</topFov>
+			<near>2.6985</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>2.773657444217668,50.29367232736413,7.710000002454726</coordinates>
+		</Point>
+	</PhotoOverlay>
+</Folder>
+</kml>
