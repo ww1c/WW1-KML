@@ -3,22 +3,6 @@
 <Document>
 	<name>Hitler at Arras 1917.kml</name>
 	<open>1</open>
-	<Style id="style33">
-		<LineStyle>
-			<color>730000ff</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<IconStyle>
-			<color>ffff0000</color>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -27,80 +11,6 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-	</Style>
-	<StyleMap id="style32">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style33</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style35</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00ffff</color>
-			<width>20</width>
-		</LineStyle>
-	</Style>
-	<Style id="style34">
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="style30">
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>5</width>
-		</LineStyle>
 	</Style>
 	<StyleMap id="style39">
 		<Pair>
@@ -122,6 +32,117 @@
 			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>20</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style37">
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style34">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
 	<Style id="sh_ylw-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -140,6 +161,86 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style33">
+		<LineStyle>
+			<color>730000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style35">
+		<LineStyle>
+			<color>730000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sn_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -153,23 +254,7 @@
 			<width>20</width>
 		</LineStyle>
 	</Style>
-	<Style id="style37">
-		<LineStyle>
-			<color>ffffff55</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin0">
-		<IconStyle>
-			<color>ffff0000</color>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin">
+	<Style id="s_ylw-pushpin2">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -177,6 +262,12 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+	</Style>
+	<Style id="style30">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin">
 		<IconStyle>
@@ -190,44 +281,96 @@
 			<width>20</width>
 		</LineStyle>
 	</Style>
-	<Style id="style35">
-		<LineStyle>
-			<color>730000ff</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="style36">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#style31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#style37</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl0">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Folder>
 		<name>Hitler at Arras 1917</name>
-		<open>1</open>
+		<Folder>
+			<name>Hitler in Munich</name>
+			<Placemark>
+				<name>October 9th - December 1st - in a hospital at Beelitz</name>
+				<LookAt>
+					<longitude>12.97005599560717</longitude>
+					<latitude>52.23900100097832</latitude>
+					<altitude>0</altitude>
+					<heading>-3.472900135842257e-009</heading>
+					<tilt>0</tilt>
+					<range>21788.54360413202</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>12.97005599560717,52.23900100097832,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>December 3rd - Hitler goes to Munich</name>
+				<LookAt>
+					<longitude>12.2460703290365</longitude>
+					<latitude>50.92731151748423</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5657605982635797</heading>
+					<tilt>0</tilt>
+					<range>1395925.707012864</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>11.50510961691008,48.29177037137987,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Front of Postcard sent by Hitler - December 19th 1916</name>
+				<description>http://www.europeana1914-1918.eu/en/contributions/2543
+
+Licensed under a Creative Commons CC-BY licence</description>
+				<Icon>
+					<href>http://www.europeana1914-1918.eu/attachments/47394/2543.47394.original.jpg?1334883576</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>48.24915472886492</north>
+					<south>48.04696348222523</south>
+					<east>11.68482925763883</east>
+					<west>11.47908256399305</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Back of Postcard sent by Hitler - December 19th 1916</name>
+				<description>http://www.europeana1914-1918.eu/en/contributions/2543
+
+Licensed under a Creative Commons CC-BY licence</description>
+				<Icon>
+					<href>http://www.europeana1914-1918.eu/attachments/47393/2543.47393.original.jpg?1334883311</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>48.24143159417719</north>
+					<south>48.06038220890128</south>
+					<east>12.12508084319979</east>
+					<west>11.68682410130858</west>
+					<rotation>0.5868405686990926</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>December 3rd - Hitler goes to Munich</name>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						12.96396746798246,52.1903792806505,0 11.56366202561828,48.41201454784122,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>March 3rd - Hitler returns to his regiment at La Bassee</name>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.008277725913788,50.54086197861201,0 11.42518082435276,48.34610439000556,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
 		<Folder>
 			<name>Before Hitler&apos;s return</name>
 			<Placemark>
@@ -356,7 +499,7 @@
 					<range>2743.721882262484</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
 				<Point>
 					<coordinates>2.865858135057997,50.53336694134131,0</coordinates>
 				</Point>
@@ -372,7 +515,7 @@
 					<range>5920.349992245711</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
 				<Point>
 					<coordinates>2.905324488601315,50.51335237210142,0</coordinates>
 				</Point>
@@ -389,7 +532,7 @@
 					<range>2744.340185007241</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
 				<Point>
 					<coordinates>2.810180999998493,50.53923700017533,0</coordinates>
 				</Point>
@@ -532,7 +675,6 @@
 		</Folder>
 		<Folder>
 			<name>27th April - 12th June Front lines</name>
-			<open>1</open>
 			<Placemark>
 				<name>German Trench</name>
 				<styleUrl>#msn_ylw-pushpin1</styleUrl>
