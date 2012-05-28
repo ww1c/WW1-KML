@@ -1,0 +1,5208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>Wikipedia Battles of World War One</name>
+  <description>Taken from http://en.wikipedia.org/wiki/List_of_military_engagements_of_World_War_I
+	Created by the World War One Centenary Project - http://ww1centenary.oucs.ox.ac.uk/			
+	Content licence - http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+  </description><Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style><Placemark>
+      <name>Action of 15 August 1917</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_15_August_1917">Action of 15 August 1917</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.31,53.463333,60
+
+			0.62,53.463333,60
+
+			0.62,53.823333,60
+
+			-0.31,53.823333,60
+
+			-0.31,53.463333,60
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 15 October 1917</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_15_October_1917">Action of 15 October 1917</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-9.2867,51.641,105
+
+			-6.3167,51.641,105
+
+			-6.3167,52.271,105
+
+			-9.2867,52.271,105
+
+			-9.2867,51.641,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 16 January 1916</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_16_January_1916">Action of 16 January 1916</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-17.249722,32.511111,70
+
+			-16.229722,32.511111,70
+
+			-16.229722,32.931111,70
+
+			-17.249722,32.931111,70
+
+			-17.249722,32.511111,70
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 17 March 1917</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_17_March_1917">Action of 17 March 1917</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.677222,50.421389,30
+
+			3.077222,50.421389,30
+
+			3.077222,52.221389,30
+
+			0.677222,52.221389,30
+
+			0.677222,50.421389,30
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 18 June 1918</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_18_June_1918">Action of 18 June 1918</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-65.303333,32.09,105
+
+			-63.743333,32.09,105
+
+			-63.743333,32.72,105
+
+			-65.303333,32.72,105
+
+			-65.303333,32.09,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 22 September 1914</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_22_September_1914">Action of 22 September 1914</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.14,52.64,180
+
+			4.97,52.64,180
+
+			4.97,53.72,180
+
+			3.14,53.72,180
+
+			3.14,52.64,180
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 5 November 1916</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_5_November_1916">Action of 5 November 1916</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.656111,54.729722,40
+
+			8.406111,54.729722,40
+
+			8.406111,57.129722,40
+
+			7.656111,57.129722,40
+
+			7.656111,54.729722,40
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action of 8 May 1918</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_of_8_May_1918">Action of 8 May 1918</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.396667,36.54,80
+
+			4.856667,36.54,80
+
+			4.856667,37.02,80
+
+			2.396667,37.02,80
+
+			2.396667,36.54,80
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Action off Lerwick</name>
+      <description><a href="http://en.wikipedia.org/wiki/Action_off_Lerwick">Action off Lerwick</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.405,60.035,60
+
+			-0.625,60.035,60
+
+			-0.625,60.395,60
+
+			-1.405,60.395,60
+
+			-1.405,60.035,60
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Affair of Katia</name>
+      <description><a href="http://en.wikipedia.org/wiki/Affair_of_Katia">Affair of Katia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>32.234,30.557,5
+
+			32.534,30.557,5
+
+			32.534,30.857,5
+
+			32.234,30.857,5
+
+			32.234,30.557,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Armenian resistance (1914–1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Armenian_resistance_(1914–1918)">Armenian resistance (1914–1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>36.676278,37.176944,350
+
+			37.123278,37.176944,350
+
+			37.123278,39.276944,350
+
+			36.676278,39.276944,350
+
+			36.676278,37.176944,350
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Armenian–Azerbaijani War</name>
+      <description><a href="http://en.wikipedia.org/wiki/Armenian–Azerbaijani_War">Armenian–Azerbaijani War</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>49.496222,40.229278,830
+
+			50.654222,40.229278,830
+
+			50.654222,40.727278,830
+
+			49.496222,40.727278,830
+
+			49.496222,40.229278,830
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Attack on Orleans</name>
+      <description><a href="http://en.wikipedia.org/wiki/Attack_on_Orleans">Attack on Orleans</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-70.137278,41.429722,180
+
+			-69.696278,41.429722,180
+
+			-69.696278,42.509722,180
+
+			-70.137278,42.509722,180
+
+			-70.137278,41.429722,180
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Baralong Incidents</name>
+      <description><a href="http://en.wikipedia.org/wiki/Baralong_Incidents">Baralong Incidents</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.212,52.899,505
+
+			-4.576,52.899,505
+
+			-4.576,53.202,505
+
+			-5.212,53.202,505
+
+			-5.212,52.899,505
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Basmachi movement</name>
+      <description><a href="http://en.wikipedia.org/wiki/Basmachi_movement">Basmachi movement</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>72.391,40.6,700
+
+			73.108,40.6,700
+
+			73.108,41.02,700
+
+			72.391,41.02,700
+
+			72.391,40.6,700
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle for Lake Tanganyika</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_for_Lake_Tanganyika">Battle for Lake Tanganyika</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.943333,-6.89,195
+
+			31.613333,-6.89,195
+
+			31.613333,-5.72,195
+
+			28.943333,-5.72,195
+
+			28.943333,-6.89,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of ?ód? (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_%C5%81%C3%B3d%C5%BA_(1914)">Battle of ?ód? (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>19.466667,51.783333,0
+
+			19.466667,51.783333,0
+
+			19.466667,51.783333,0
+
+			19.466667,51.783333,0
+
+			19.466667,51.783333,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Åland Islands</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Åland_Islands">Battle of Åland Islands</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>17.67,56.98,260
+
+			20.31,56.98,260
+
+			20.31,58.54,260
+
+			17.67,58.54,260
+
+			17.67,56.98,260
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Albert (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Albert_(1914)">Battle of Albert (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.1328,49.5928,205
+
+			3.6928,49.5928,205
+
+			3.6928,50.8228,205
+
+			2.1328,50.8228,205
+
+			2.1328,49.5928,205
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ambos Nogales</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ambos_Nogales">Battle of Ambos Nogales</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-111.217167,30.823889,265
+
+			-110.383167,30.823889,265
+
+			-110.383167,32.413889,265
+
+			-111.217167,32.413889,265
+
+			-111.217167,30.823889,265
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Amiens (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Amiens_(1918)">Battle of Amiens (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.873,49.686,1030
+
+			3.151,49.686,1030
+
+			3.151,50.304,1030
+
+			1.873,50.304,1030
+
+			1.873,49.686,1030
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Antivari</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Antivari">Battle of Antivari</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>18.73,41.99,55
+
+			19.84,41.99,55
+
+			19.84,42.32,55
+
+			18.73,42.32,55
+
+			18.73,41.99,55
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ardahan</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ardahan">Battle of Ardahan</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.39,40.83,110
+
+			43.32,40.83,110
+
+			43.32,41.49,110
+
+			42.39,41.49,110
+
+			42.39,40.83,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Arras (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Arras_(1914)">Battle of Arras (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.2708,49.8797,205
+
+			3.8008,49.8797,205
+
+			3.8008,51.1097,205
+
+			2.2708,51.1097,205
+
+			2.2708,49.8797,205
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Arras (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Arras_(1917)">Battle of Arras (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.9738,50.0517,1190
+
+			4.3948,50.0517,1190
+
+			4.3948,50.7657,1190
+
+			1.9738,50.7657,1190
+
+			1.9738,50.0517,1190
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Asiago</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Asiago">Battle of Asiago</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>10.628889,45.261944,320
+
+			13.268889,45.261944,320
+
+			13.268889,47.181944,320
+
+			10.628889,47.181944,320
+
+			10.628889,45.261944,320
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Baku</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Baku">Battle of Baku</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>49.529222,40.277278,590
+
+			50.588222,40.277278,590
+
+			50.588222,40.631278,590
+
+			49.529222,40.631278,590
+
+			49.529222,40.277278,590
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Beersheba (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Beersheba_(1917)">Battle of Beersheba (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.444708,31.068772,905
+
+			35.509708,31.068772,905
+
+			35.509708,31.611772,905
+
+			34.444708,31.611772,905
+
+			34.444708,31.068772,905
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Belleau Wood</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Belleau_Wood">Battle of Belleau Wood</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.652,48.703,1850
+
+			4.566,48.703,1850
+
+			4.566,49.813,1850
+
+			2.652,49.813,1850
+
+			2.652,48.703,1850
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Bolimov</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Bolimov">Battle of Bolimov</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.063056,51.976389,5
+
+			20.363056,51.976389,5
+
+			20.363056,52.276389,5
+
+			20.063056,52.276389,5
+
+			20.063056,51.976389,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cambrai (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cambrai_(1917)">Battle of Cambrai (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.7196,49.8857,1455
+
+			4.2676,49.8857,1455
+
+			4.2676,50.7587,1455
+
+			2.7196,50.7587,1455
+
+			2.7196,49.8857,1455
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cambrai (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cambrai_(1918)">Battle of Cambrai (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.1186,49.6267,275
+
+			3.4696,49.6267,275
+
+			3.4696,51.2767,275
+
+			3.1186,51.2767,275
+
+			3.1186,49.6267,275
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cantigny</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cantigny">Battle of Cantigny</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.382,49.014,325
+
+			2.709,49.014,325
+
+			2.709,50.964,325
+
+			2.382,50.964,325
+
+			2.382,49.014,325
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cape Sarych</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cape_Sarych">Battle of Cape Sarych</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>33.148056,44.227222,80
+
+			34.918056,44.227222,80
+
+			34.918056,44.707222,80
+
+			33.148056,44.707222,80
+
+			33.148056,44.227222,80
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Caporetto</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Caporetto">Battle of Caporetto</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.2985,45.990444,1120
+
+			14.3305,45.990444,1120
+
+			14.3305,46.662444,1120
+
+			13.2985,46.662444,1120
+
+			13.2985,45.990444,1120
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cer</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cer">Battle of Cer</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>19.300167,44.479056,620
+
+			19.882167,44.479056,620
+
+			19.882167,44.851056,620
+
+			19.300167,44.851056,620
+
+			19.300167,44.479056,620
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Charleroi</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Charleroi">Battle of Charleroi</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.883333,49.96,220
+
+			5.533333,49.96,220
+
+			5.533333,51.28,220
+
+			3.883333,51.28,220
+
+			3.883333,49.96,220
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Château-Thierry (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Château-Thierry_(1918)">Battle of Château-Thierry (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.251,48.94,500
+
+			3.698,48.94,500
+
+			3.698,49.24,500
+
+			3.251,49.24,500
+
+			3.251,48.94,500
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Chunuk Bair</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Chunuk_Bair">Battle of Chunuk Bair</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.277,40.265222,510
+
+			26.811,40.265222,510
+
+			26.811,40.571222,510
+
+			26.277,40.571222,510
+
+			26.277,40.265222,510
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Cocos</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Cocos">Battle of Cocos</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>96.669667,-12.683333,425
+
+			97.110667,-12.683333,425
+
+			97.110667,-10.133333,425
+
+			96.669667,-10.133333,425
+
+			96.669667,-12.683333,425
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Coronel</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Coronel">Battle of Coronel</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-73.529667,-37.193667,885
+
+			-72.590667,-37.193667,885
+
+			-72.590667,-36.662667,885
+
+			-73.529667,-36.662667,885
+
+			-73.529667,-37.193667,885
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ctesiphon (1915)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ctesiphon_(1915)">Battle of Ctesiphon (1915)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>44.416556,32.503611,295
+
+			44.908556,32.503611,295
+
+			44.908556,34.273611,295
+
+			44.416556,34.273611,295
+
+			44.416556,32.503611,295
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Delville Wood</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Delville_Wood">Battle of Delville Wood</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.146,49.366667,325
+
+			4.108,49.366667,325
+
+			4.108,51.316667,325
+
+			2.146,51.316667,325
+
+			2.146,49.366667,325
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dogger Bank (1915)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1915)">Battle of Dogger Bank (1915)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.55,54.599,625
+
+			3.207,54.599,625
+
+			3.207,54.974,625
+
+			2.55,54.974,625
+
+			2.55,54.599,625
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dogger Bank (1916)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1916)">Battle of Dogger Bank (1916)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.048556,54.534619,95
+
+			4.208556,54.534619,95
+
+			4.208556,55.104619,95
+
+			2.048556,55.104619,95
+
+			2.048556,54.534619,95
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Doiran</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Doiran">Battle of Doiran</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.528,41.116667,500
+
+			23.194,41.116667,500
+
+			23.194,41.416667,500
+
+			22.528,41.416667,500
+
+			22.528,41.116667,500
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dover Strait</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dover_Strait">Battle of Dover Strait</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.377222,50.921389,5
+
+			1.677222,50.921389,5
+
+			1.677222,51.221389,5
+
+			1.377222,51.221389,5
+
+			1.377222,50.921389,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dover Strait (1916)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dover_Strait_(1916)">Battle of Dover Strait (1916)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.369222,50.821389,100
+
+			1.693222,50.821389,100
+
+			1.693222,51.421389,100
+
+			1.369222,51.421389,100
+
+			1.369222,50.821389,100
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dover Strait (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dover_Strait_(1917)">Battle of Dover Strait (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.797222,50.561389,230
+
+			2.837222,50.561389,230
+
+			2.837222,51.941389,230
+
+			0.797222,51.941389,230
+
+			0.797222,50.561389,230
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dujaila</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dujaila">Battle of Dujaila</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.154722,32.175556,165
+
+			47.164722,32.175556,165
+
+			47.164722,33.165556,165
+
+			45.154722,33.165556,165
+
+			45.154722,32.175556,165
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Dujaila Redoubt</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Dujaila_Redoubt">Battle of Dujaila Redoubt</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.724722,32.405556,5
+
+			46.024722,32.405556,5
+
+			46.024722,32.705556,5
+
+			45.724722,32.705556,5
+
+			45.724722,32.405556,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Durazzo (1915)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Durazzo_(1915)">Battle of Durazzo (1915)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>18.63,40.966667,175
+
+			21.09,40.966667,175
+
+			21.09,42.016667,175
+
+			18.63,42.016667,175
+
+			18.63,40.966667,175
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Durazzo (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Durazzo_(1918)">Battle of Durazzo (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>18.52,41.156667,80
+
+			21.31,41.156667,80
+
+			21.31,41.636667,80
+
+			18.52,41.636667,80
+
+			18.52,41.156667,80
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of El Buggar Ridge</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_El_Buggar_Ridge">Battle of El Buggar Ridge</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.379708,31.039772,105
+
+			35.639708,31.039772,105
+
+			35.639708,31.669772,105
+
+			34.379708,31.669772,105
+
+			34.379708,31.039772,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Épehy</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ep%C3%A9hy">Battle of Épehy</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.1293,50.0083,0
+
+			3.1293,50.0083,0
+
+			3.1293,50.0083,0
+
+			3.1293,50.0083,0
+
+			3.1293,50.0083,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Erzincan</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Erzincan">Battle of Erzincan</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>38.671389,39.256389,245
+
+			41.131389,39.256389,245
+
+			41.131389,40.726389,245
+
+			38.671389,40.726389,245
+
+			38.671389,39.256389,245
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Es Sinn</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Es_Sinn">Battle of Es Sinn</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.324722,32.285556,110
+
+			46.824722,32.285556,110
+
+			46.824722,32.945556,110
+
+			45.324722,32.945556,110
+
+			45.324722,32.285556,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Flirey</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Flirey">Battle of Flirey</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.5983,48.6864,95
+
+			6.3483,48.6864,95
+
+			6.3483,49.2564,95
+
+			5.5983,49.2564,95
+
+			5.5983,48.6864,95
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Fromelles</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Fromelles">Battle of Fromelles</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.477694,50.42725,895
+
+			3.608694,50.42725,895
+
+			3.608694,50.96425,895
+
+			2.477694,50.96425,895
+
+			2.477694,50.42725,895
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Galicia</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Galicia">Battle of Galicia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.831667,49.744,530
+
+			24.386667,49.744,530
+
+			24.386667,50.062,530
+
+			23.831667,50.062,530
+
+			23.831667,49.744,530
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Gallipoli</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Gallipoli">Battle of Gallipoli</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.155,40.067222,15
+
+			27.055,40.067222,15
+
+			27.055,40.967222,15
+
+			26.155,40.967222,15
+
+			26.155,40.067222,15
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ginchy</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ginchy">Battle of Ginchy</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.473,49.7042,160
+
+			3.553,49.7042,160
+
+			3.553,50.6642,160
+
+			2.473,50.6642,160
+
+			2.473,49.7042,160
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Grand Couronné</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Grand_Couronné">Battle of Grand Couronné</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>6.026667,48.536667,65
+
+			6.446667,48.536667,65
+
+			6.446667,48.926667,65
+
+			6.026667,48.926667,65
+
+			6.026667,48.536667,65
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Gully Ravine</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Gully_Ravine">Battle of Gully Ravine</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.071611,39.518333,280
+
+			26.422611,39.518333,280
+
+			26.422611,41.198333,280
+
+			26.071611,41.198333,280
+
+			26.071611,39.518333,280
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Gumbinnen</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Gumbinnen">Battle of Gumbinnen</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.24,53.86,370
+
+			24.12,53.86,370
+
+			24.12,56.08,370
+
+			21.24,56.08,370
+
+			21.24,53.86,370
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Hanna</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Hanna">Battle of Hanna</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>46.170805,32.288604,110
+
+			47.220805,32.288604,110
+
+			47.220805,32.948604,110
+
+			46.170805,32.948604,110
+
+			46.170805,32.288604,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Heligoland (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Heligoland_(1914)">Battle of Heligoland (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.866667,53.966667,10
+
+			8.466667,53.966667,10
+
+			8.466667,54.566667,10
+
+			7.866667,54.566667,10
+
+			7.866667,53.966667,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Heligoland Bight (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Heligoland_Bight_(1914)">Battle of Heligoland Bight (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.751667,54.006667,800
+
+			8.696667,54.006667,800
+
+			8.696667,54.486667,800
+
+			7.751667,54.486667,800
+
+			7.751667,54.006667,800
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Hill 60 (Gallipoli)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Hill_60_(Gallipoli)">Battle of Hill 60 (Gallipoli)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.172333,39.5625,355
+
+			26.535333,39.5625,355
+
+			26.535333,41.6925,355
+
+			26.172333,41.6925,355
+
+			26.172333,39.5625,355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Hulluch</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Hulluch">Battle of Hulluch</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.717307,50.385364,5
+
+			3.017307,50.385364,5
+
+			3.017307,50.685364,5
+
+			2.717307,50.685364,5
+
+			2.717307,50.385364,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Jassin</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Jassin">Battle of Jassin</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>38.58,-5.486667,210
+
+			40.14,-5.486667,210
+
+			40.14,-4.226667,210
+
+			38.58,-4.226667,210
+
+			38.58,-5.486667,210
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Jerusalem (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Jerusalem_(1917)">Battle of Jerusalem (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.282667,31.653333,650
+
+			37.084667,31.653333,650
+
+			37.084667,32.043333,650
+
+			34.282667,32.043333,650
+
+			34.282667,31.653333,650
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Jutland</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Jutland">Battle of Jutland</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.7844,55.129,4355
+
+			3.4312,55.129,4355
+
+			3.4312,57.742,4355
+
+			2.7844,57.742,4355
+
+			2.7844,55.129,4355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Kara Killisse</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Kara_Killisse">Battle of Kara Killisse</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.776667,39.561667,80
+
+			43.616667,39.561667,80
+
+			43.616667,40.041667,80
+
+			42.776667,40.041667,80
+
+			42.776667,39.561667,80
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Kilimanjaro</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Kilimanjaro">Battle of Kilimanjaro</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>36.823333,-3.435833,180
+
+			38.413333,-3.435833,180
+
+			38.413333,-2.355833,180
+
+			36.823333,-2.355833,180
+
+			36.823333,-3.435833,180
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Kolubara</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Kolubara">Battle of Kolubara</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.018667,44.549,505
+
+			20.612667,44.549,505
+
+			20.612667,44.852,505
+
+			20.018667,44.852,505
+
+			20.018667,44.549,505
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Koprukoy</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Koprukoy">Battle of Koprukoy</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>40.83,39.64,130
+
+			42.15,39.64,130
+
+			42.15,40.42,130
+
+			40.83,40.42,130
+
+			40.83,39.64,130
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Kosovo (1915)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Kosovo_(1915)">Battle of Kosovo (1915)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.65,42.4,10
+
+			21.25,42.4,10
+
+			21.25,43,10
+
+			20.65,43,10
+
+			20.65,42.4,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Krithia Vineyard</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Krithia_Vineyard">Battle of Krithia Vineyard</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.526,39.668,205
+
+			27.596,39.668,205
+
+			27.596,40.898,205
+
+			25.526,40.898,205
+
+			25.526,39.668,205
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Le Cateau</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Le_Cateau">Battle of Le Cateau</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.3825,49.3942,355
+
+			3.8685,49.3942,355
+
+			3.8685,51.5242,355
+
+			3.3825,51.5242,355
+
+			3.3825,49.3942,355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Li%C3%A8ge</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Li%C3%A8ge">Battle of Li%C3%A8ge</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.5721,50.6406,0
+
+			5.5721,50.6406,0
+
+			5.5721,50.6406,0
+
+			5.5721,50.6406,0
+
+			5.5721,50.6406,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Lone Pine</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Lone_Pine">Battle of Lone Pine</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.183,40.235222,660
+
+			26.999,40.235222,660
+
+			26.999,40.631222,660
+
+			26.183,40.631222,660
+
+			26.183,40.235222,660
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Loos</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Loos">Battle of Loos</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.5752,50.3073,755
+
+			3.2322,50.3073,755
+
+			3.2322,50.7603,755
+
+			2.5752,50.7603,755
+
+			2.5752,50.3073,755
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Lorraine</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Lorraine">Battle of Lorraine</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.701944,48.413889,310
+
+			8.581944,48.413889,310
+
+			8.581944,50.273889,310
+
+			5.701944,50.273889,310
+
+			5.701944,48.413889,310
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of M?r??e?ti</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_M%C4%83r%C4%83%C5%9Fe%C5%9Fti">Battle of M?r??e?ti</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.23,45.88,0
+
+			27.23,45.88,0
+
+			27.23,45.88,0
+
+			27.23,45.88,0
+
+			27.23,45.88,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of M?r??ti</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_M%C4%83r%C4%83%C5%9Fti">Battle of M?r??ti</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.883333,46,0
+
+			26.883333,46,0
+
+			26.883333,46,0
+
+			26.883333,46,0
+
+			26.883333,46,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Magdhaba</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Magdhaba">Battle of Magdhaba</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>33.047667,30.143333,370
+
+			35.954667,30.143333,370
+
+			35.954667,32.363333,370
+
+			33.047667,32.363333,370
+
+			33.047667,30.143333,370
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Mahiwa</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Mahiwa">Battle of Mahiwa</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>38.926667,-10.53,90
+
+			39.946667,-10.53,90
+
+			39.946667,-9.99,90
+
+			38.926667,-9.99,90
+
+			38.926667,-10.53,90
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Malazgirt (1915)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Malazgirt_(1915)">Battle of Malazgirt (1915)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.22,39.7,5
+
+			42.52,39.7,5
+
+			42.52,40,5
+
+			42.22,40,5
+
+			42.22,39.7,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Más a Tierra</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Más_a_Tierra">Battle of Más a Tierra</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-79.751111,-34.031389,195
+
+			-77.021111,-34.031389,195
+
+			-77.021111,-32.861389,195
+
+			-79.751111,-32.861389,195
+
+			-79.751111,-34.031389,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Megiddo (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Megiddo_(1918)">Battle of Megiddo (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.449494,32.414622,850
+
+			36.651494,32.414622,850
+
+			36.651494,32.924622,850
+
+			34.449494,32.924622,850
+
+			34.449494,32.414622,850
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Messines</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Messines">Battle of Messines</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.4001,50.5644,1000
+
+			3.8941,50.5644,1000
+
+			3.8941,51.1644,1000
+
+			2.4001,51.1644,1000
+
+			2.4001,50.5644,1000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Mons</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Mons">Battle of Mons</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.583,50.285,825
+
+			4.684,50.285,825
+
+			4.684,50.78,825
+
+			3.583,50.78,825
+
+			3.583,50.285,825
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Morava</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Morava">Battle of Morava</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.75,42.8,10
+
+			22.35,42.8,10
+
+			22.35,43.4,10
+
+			21.75,43.4,10
+
+			21.75,42.8,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Moreuil Wood</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Moreuil_Wood">Battle of Moreuil Wood</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.44425,49.453914,220
+
+			3.99425,49.453914,220
+
+			3.99425,50.773914,220
+
+			1.44425,50.773914,220
+
+			1.44425,49.453914,220
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Mount Ortigara</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Mount_Ortigara">Battle of Mount Ortigara</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>10.981944,45.62,195
+
+			12.601944,45.62,195
+
+			12.601944,46.79,195
+
+			10.981944,46.79,195
+
+			10.981944,45.62,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Mughar Ridge</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Mughar_Ridge">Battle of Mughar Ridge</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.304667,31.126667,270
+
+			36.890667,31.126667,270
+
+			36.890667,32.746667,270
+
+			34.304667,32.746667,270
+
+			34.304667,31.126667,270
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Mulhouse</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Mulhouse">Battle of Mulhouse</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.2269,46.9395,405
+
+			7.5659,46.9395,405
+
+			7.5659,49.3695,405
+
+			7.2269,49.3695,405
+
+			7.2269,46.9395,405
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Neuve Chapelle</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Neuve_Chapelle">Battle of Neuve Chapelle</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.393,49.76,370
+
+			2.714,49.76,370
+
+			2.714,51.98,370
+
+			2.393,51.98,370
+
+			2.393,49.76,370
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Odessa (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Odessa_(1914)">Battle of Odessa (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.313333,46.336667,65
+
+			31.573333,46.336667,65
+
+			31.573333,46.726667,65
+
+			30.313333,46.726667,65
+
+			30.313333,46.336667,65
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ovche Pole</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ovche_Pole">Battle of Ovche Pole</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.65,41.51,10
+
+			23.25,41.51,10
+
+			23.25,42.11,10
+
+			22.65,42.11,10
+
+			22.65,41.51,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Passchendaele</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Passchendaele">Battle of Passchendaele</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.7252,50.791633,5460
+
+			3.6171,50.791633,5460
+
+			3.6171,51.119233,5460
+
+			2.7252,51.119233,5460
+
+			2.7252,50.791633,5460
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Penang</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Penang">Battle of Penang</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>100.103333,4.73,335
+
+			100.493333,4.73,335
+
+			100.493333,6.74,335
+
+			100.103333,6.74,335
+
+			100.103333,4.73,335
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Poelcappelle</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Poelcappelle">Battle of Poelcappelle</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.980904,50.644128,135
+
+			4.800904,50.644128,135
+
+			4.800904,51.454128,135
+
+			1.980904,51.454128,135
+
+			1.980904,50.644128,135
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Pozi%C3%A8res</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Pozi%C3%A8res">Battle of Pozi%C3%A8res</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.8,50.016667,0
+
+			2.8,50.016667,0
+
+			2.8,50.016667,0
+
+			2.8,50.016667,0
+
+			2.8,50.016667,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Pozières</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Pozières">Battle of Pozières</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.634,49.256667,380
+
+			3.132,49.256667,380
+
+			3.132,51.536667,380
+
+			2.634,51.536667,380
+
+			2.634,49.256667,380
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Qurna</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Qurna">Battle of Qurna</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>46.750556,30.625833,195
+
+			48.790556,30.625833,195
+
+			48.790556,31.795833,195
+
+			46.750556,31.795833,195
+
+			46.750556,30.625833,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Rafa</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Rafa">Battle of Rafa</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>33.807,30.624,275
+
+			34.815,30.624,275
+
+			34.815,32.274,275
+
+			33.807,32.274,275
+
+			33.807,30.624,275
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Ramadi (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Ramadi_(1917)">Battle of Ramadi (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.78,33.096667,160
+
+			44.34,33.096667,160
+
+			44.34,34.056667,160
+
+			42.78,34.056667,160
+
+			42.78,33.096667,160
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Río de Oro</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Río_de_Oro">Battle of Río de Oro</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-17.819961,24.067077,130
+
+			-17.489961,24.067077,130
+
+			-17.489961,24.847077,130
+
+			-17.819961,24.847077,130
+
+			-17.819961,24.067077,130
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Romani</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Romani">Battle of Romani</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>33.713433,28.61,445
+
+			34.073133,28.61,445
+
+			34.073133,31.28,445
+
+			33.713433,31.28,445
+
+			33.713433,28.61,445
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Rufiji Delta</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Rufiji_Delta">Battle of Rufiji Delta</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>39.215333,-8.47,235
+
+			39.569333,-8.47,235
+
+			39.569333,-7.06,235
+
+			39.215333,-7.06,235
+
+			39.215333,-8.47,235
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Saint-Mihiel</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Saint-Mihiel">Battle of Saint-Mihiel</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.2856,48.7152,870
+
+			6.0596,48.7152,870
+
+			6.0596,49.2372,870
+
+			5.2856,49.2372,870
+
+			5.2856,48.7152,870
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sandfontein</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sandfontein">Battle of Sandfontein</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>17.463611,-29.471389,105
+
+			18.273611,-29.471389,105
+
+			18.273611,-28.841389,105
+
+			17.463611,-28.841389,105
+
+			17.463611,-29.471389,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sarikamish</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sar%C4%B1kam%C4%B1%C5%9F">Battle of Sarikamish</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.573,40.3381,0
+
+			42.573,40.3381,0
+
+			42.573,40.3381,0
+
+			42.573,40.3381,0
+
+			42.573,40.3381,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sari Bair</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sari_Bair">Battle of Sari Bair</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.332,39.657222,355
+
+			26.701,39.657222,355
+
+			26.701,41.787222,355
+
+			26.332,41.787222,355
+
+			26.332,39.657222,355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sarikamis</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sarikamis">Battle of Sarikamis</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.173,39.9381,20
+
+			43.373,39.9381,20
+
+			43.373,41.1381,20
+
+			42.173,41.1381,20
+
+			42.173,39.9381,20
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sarikamish</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sarikamish">Battle of Sarikamish</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>42.125,40.1591,895
+
+			43.469,40.1591,895
+
+			43.469,40.6961,895
+
+			42.125,40.6961,895
+
+			42.125,40.1591,895
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Scimitar Hill</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Scimitar_Hill">Battle of Scimitar Hill</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.36,39.7831,260
+
+			27.97,39.7831,260
+
+			27.97,41.3431,260
+
+			25.36,41.3431,260
+
+			25.36,39.7831,260
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Sharqat</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Sharqat">Battle of Sharqat</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>43.882,32.945,190
+
+			45.502,32.945,190
+
+			45.502,34.085,190
+
+			43.882,34.085,190
+
+			43.882,32.945,190
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Skra-di-Legen</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Skra-di-Legen">Battle of Skra-di-Legen</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.675828,40.523197,215
+
+			23.655828,40.523197,215
+
+			23.655828,41.813197,215
+
+			21.675828,41.813197,215
+
+			21.675828,40.523197,215
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of St. Quentin (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_St._Quentin_(1914)">Battle of St. Quentin (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.5073,49.1908,355
+
+			3.8703,49.1908,355
+
+			3.8703,51.3208,355
+
+			3.5073,51.3208,355
+
+			3.5073,49.1908,355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Stalluponen</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Stalluponen">Battle of Stalluponen</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22,54.4,10
+
+			22.6,54.4,10
+
+			22.6,55,10
+
+			22,55,10
+
+			22,54.4,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Tanga</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Tanga">Battle of Tanga</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>38.965,-5.986667,460
+
+			39.37,-5.986667,460
+
+			39.37,-3.226667,460
+
+			38.965,-3.226667,460
+
+			38.965,-5.986667,460
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Tannenberg (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Tannenberg_(1914)">Battle of Tannenberg (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.283333,53.683333,5
+
+			20.883333,53.683333,5
+
+			20.883333,53.983333,5
+
+			20.283333,53.983333,5
+
+			20.283333,53.683333,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Ardennes</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Ardennes">Battle of the Ardennes</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.547667,49.34,455
+
+			5.904667,49.34,455
+
+			5.904667,52.07,455
+
+			5.547667,52.07,455
+
+			5.547667,49.34,455
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Falkland Islands</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Falkland_Islands">Battle of the Falkland Islands</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-59.614667,-51.910333,1135
+
+			-58.270667,-51.910333,1135
+
+			-58.270667,-51.229333,1135
+
+			-59.614667,-51.229333,1135
+
+			-59.614667,-51.910333,1135
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Frontiers</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Frontiers">Battle of the Frontiers</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.484667,50.135,575
+
+			6.030667,50.135,575
+
+			6.030667,50.48,575
+
+			5.484667,50.48,575
+
+			5.484667,50.135,575
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Gulf of Riga</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Gulf_of_Riga">Battle of the Gulf of Riga</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.714722,57.205556,210
+
+			25.324722,57.205556,210
+
+			25.324722,58.465556,210
+
+			22.714722,58.465556,210
+
+			22.714722,57.205556,210
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Lys (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Lys_(1918)">Battle of the Lys (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.713333,50.733,585
+
+			3.223333,50.733,585
+
+			3.223333,51.084,585
+
+			2.713333,51.084,585
+
+			2.713333,50.733,585
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Nek</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Nek">Battle of the Nek</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.963385,40.0764,825
+
+			26.938385,40.0764,825
+
+			26.938385,40.5714,825
+
+			25.963385,40.5714,825
+
+			25.963385,40.0764,825
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Piave River</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Piave_River">Battle of the Piave River</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>11.997444,45.704556,630
+
+			12.633444,45.704556,630
+
+			12.633444,46.082556,630
+
+			11.997444,46.082556,630
+
+			11.997444,45.704556,630
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Sambre (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Sambre_(1918)">Battle of the Sambre (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.42667,50.0767,195
+
+			5.74667,50.0767,195
+
+			5.74667,51.2467,195
+
+			4.42667,51.2467,195
+
+			4.42667,50.0767,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Somme</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Somme">Battle of the Somme</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.275267,50.081111,7000
+
+			2.149467,50.081111,7000
+
+			2.149467,50.501111,7000
+
+			1.275267,50.501111,7000
+
+			1.275267,50.081111,7000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Strait of Otranto (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Strait_of_Otranto_(1917)">Battle of the Strait of Otranto (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>18.823556,39.819444,200
+
+			19.129556,39.819444,200
+
+			19.129556,41.019444,200
+
+			18.823556,41.019444,200
+
+			18.823556,39.819444,200
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Vistula River</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Vistula_River">Battle of the Vistula River</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.080833,51.58,325
+
+			22.870833,51.58,325
+
+			22.870833,53.53,325
+
+			20.080833,53.53,325
+
+			20.080833,51.58,325
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Wadi</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Wadi">Battle of the Wadi</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>46.320805,32.308604,10
+
+			46.920805,32.308604,10
+
+			46.920805,32.908604,10
+
+			46.320805,32.908604,10
+
+			46.320805,32.308604,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of the Yser</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_the_Yser">Battle of the Yser</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.618056,50.402778,375
+
+			2.933056,50.402778,375
+
+			2.933056,52.652778,375
+
+			2.618056,52.652778,375
+
+			2.618056,50.402778,375
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Trindade</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Trindade">Battle of Trindade</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-29.411,-20.833333,175
+
+			-29.078,-20.833333,175
+
+			-29.078,-19.783333,175
+
+			-29.411,-19.783333,175
+
+			-29.411,-20.833333,175
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Tsingtao</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Tsingtao">Battle of Tsingtao</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>120.283333,35.966667,5
+
+			120.583333,35.966667,5
+
+			120.583333,36.266667,5
+
+			120.283333,36.266667,5
+
+			120.283333,35.966667,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Verdun</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Verdun">Battle of Verdun</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.0159,48.219,4945
+
+			6.2342,48.219,4945
+
+			6.2342,51.186,4945
+
+			5.0159,51.186,4945
+
+			5.0159,48.219,4945
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Vimy Ridge</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Vimy_Ridge">Battle of Vimy Ridge</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.4443,50.2378,6775
+
+			3.5456,50.2378,6775
+
+			3.5456,50.6443,6775
+
+			2.4443,50.6443,6775
+
+			2.4443,50.2378,6775
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Vittorio Veneto</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Vittorio_Veneto">Battle of Vittorio Veneto</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>11.991944,45.795833,800
+
+			13.056944,45.795833,800
+
+			13.056944,46.275833,800
+
+			11.991944,46.275833,800
+
+			11.991944,45.795833,800
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle of Zanzibar (1914)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_of_Zanzibar_(1914)">Battle of Zanzibar (1914)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>39.181667,-6.383333,125
+
+			39.586667,-6.383333,125
+
+			39.586667,-5.633333,125
+
+			39.181667,-5.633333,125
+
+			39.181667,-6.383333,125
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Battle off Texel</name>
+      <description><a href="http://en.wikipedia.org/wiki/Battle_off_Texel">Battle off Texel</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.230167,52.799167,245
+
+			3.962167,52.799167,245
+
+			3.962167,54.269167,245
+
+			3.230167,54.269167,245
+
+			3.230167,52.799167,245
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Bombardment of Ancona</name>
+      <description><a href="http://en.wikipedia.org/wiki/Bombardment_of_Ancona">Bombardment of Ancona</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.676667,43.256944,180
+
+			15.196667,43.256944,180
+
+			15.196667,44.336944,180
+
+			12.676667,44.336944,180
+
+			12.676667,43.256944,180
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Bombardment of Madras</name>
+      <description><a href="http://en.wikipedia.org/wiki/Bombardment_of_Madras">Bombardment of Madras</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.42,12.783889,150
+
+			81.97,12.783889,150
+
+			81.97,13.683889,150
+
+			79.42,13.683889,150
+
+			79.42,12.783889,150
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Bombardment of Yarmouth and Lowestoft</name>
+      <description><a href="http://en.wikipedia.org/wiki/Bombardment_of_Yarmouth_and_Lowestoft">Bombardment of Yarmouth and Lowestoft</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.07,52.21,195
+
+			2.96,52.21,195
+
+			2.96,53.38,195
+
+			1.07,53.38,195
+
+			1.07,52.21,195
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Brusilov Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Brusilov_Offensive">Brusilov Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.582667,49.584,1330
+
+			24.884667,49.584,1330
+
+			24.884667,50.382,1330
+
+			23.582667,50.382,1330
+
+			23.582667,49.584,1330
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Easter Rising</name>
+      <description><a href="http://en.wikipedia.org/wiki/Easter_Rising">Easter Rising</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.479522,52.459778,4440
+
+			-5.820122,52.459778,4440
+
+			-5.820122,55.123778,4440
+
+			-6.479522,55.123778,4440
+
+			-6.479522,52.459778,4440
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Eighth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Eighth_Battle_of_the_Isonzo">Eighth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.173333,45.52,140
+
+			14.253333,45.52,140
+
+			14.253333,46.36,140
+
+			13.173333,46.36,140
+
+			13.173333,45.52,140
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Eleventh Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Eleventh_Battle_of_the_Isonzo">Eleventh Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.893333,45.35,225
+
+			14.813333,45.35,225
+
+			14.813333,46.7,225
+
+			12.893333,46.7,225
+
+			12.893333,45.35,225
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Erzerum Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Erzerum_Offensive">Erzerum Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>41.17,39.8,5
+
+			41.47,39.8,5
+
+			41.47,40.1,5
+
+			41.17,40.1,5
+
+			41.17,39.8,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Estonian War of Independence</name>
+      <description><a href="http://en.wikipedia.org/wiki/Estonian_War_of_Independence">Estonian War of Independence</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.26,58.77,1150
+
+			27.48,58.77,1150
+
+			27.48,59.46,1150
+
+			25.26,59.46,1150
+
+			25.26,58.77,1150
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fall of Baghdad (1917)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fall_of_Baghdad_(1917)">Fall of Baghdad (1917)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>44.247,32.335,495
+
+			44.772,32.335,495
+
+			44.772,35.305,495
+
+			44.247,35.305,495
+
+			44.247,32.335,495
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fall of Baghdad 1917</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fall_of_Baghdad_1917">Fall of Baghdad 1917</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>44.222,33.125,10
+
+			44.822,33.125,10
+
+			44.822,33.725,10
+
+			44.222,33.725,10
+
+			44.222,33.125,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fall of Basra</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fall_of_Basra">Fall of Basra</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>47.716667,30.4,5
+
+			48.016667,30.4,5
+
+			48.016667,30.7,5
+
+			47.716667,30.7,5
+
+			47.716667,30.4,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fanning Raid</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fanning_Raid">Fanning Raid</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-159.584444,3.16,35
+
+			-158.924444,3.16,35
+
+			-158.924444,5.26,35
+
+			-159.584444,5.26,35
+
+			-159.584444,3.16,35
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fao Landing</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fao_Landing">Fao Landing</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>47.947,29.65,165
+
+			49.507,29.65,165
+
+			49.507,30.64,165
+
+			47.947,30.64,165
+
+			47.947,29.65,165
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fifth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fifth_Battle_of_the_Isonzo">Fifth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.013333,45.46,170
+
+			14.573333,45.46,170
+
+			14.573333,46.48,170
+
+			13.013333,46.48,170
+
+			13.013333,45.46,170
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Finnish Civil War</name>
+      <description><a href="http://en.wikipedia.org/wiki/Finnish_Civil_War">Finnish Civil War</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.7541,64.353,3235
+
+			27.4918,64.353,3235
+
+			27.4918,66.294,3235
+
+			26.7541,66.294,3235
+
+			26.7541,64.353,3235
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of Champagne</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_Champagne">First Battle of Champagne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.02,48.63,185
+
+			5.46,48.63,185
+
+			5.46,49.74,185
+
+			4.02,49.74,185
+
+			4.02,48.63,185
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of Gaza</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_Gaza">First Battle of Gaza</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>33.78,30.696667,410
+
+			35.79,30.696667,410
+
+			35.79,33.156667,410
+
+			33.78,33.156667,410
+
+			33.78,30.696667,410
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of Krithia</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_Krithia">First Battle of Krithia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.4853,39.6231,210
+
+			27.5553,39.6231,210
+
+			27.5553,40.8831,210
+
+			25.4853,40.8831,210
+
+			25.4853,39.6231,210
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of Kut</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_Kut">First Battle of Kut</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.724722,32.405556,5
+
+			46.024722,32.405556,5
+
+			46.024722,32.705556,5
+
+			45.724722,32.705556,5
+
+			45.724722,32.405556,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of the Aisne</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_the_Aisne">First Battle of the Aisne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.702944,48.583611,425
+
+			3.134944,48.583611,425
+
+			3.134944,51.133611,425
+
+			2.702944,51.133611,425
+
+			2.702944,48.583611,425
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_the_Isonzo">First Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.573333,45.17,315
+
+			15.453333,45.17,315
+
+			15.453333,47.06,315
+
+			12.573333,47.06,315
+
+			12.573333,45.17,315
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of the Marne</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_the_Marne">First Battle of the Marne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.307511,48.247833,2840
+
+			2.618311,48.247833,2840
+
+			2.618311,49.951833,2840
+
+			2.307511,49.951833,2840
+
+			2.307511,48.247833,2840
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of the Masurian Lakes</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_the_Masurian_Lakes">First Battle of the Masurian Lakes</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.322333,54.629333,520
+
+			20.805333,54.629333,520
+
+			20.805333,54.941333,520
+
+			20.322333,54.941333,520
+
+			20.322333,54.629333,520
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of the Somme (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_the_Somme_(1918)">First Battle of the Somme (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.366667,50.121111,5
+
+			1.966667,50.121111,5
+
+			1.966667,50.421111,5
+
+			1.366667,50.421111,5
+
+			1.366667,50.121111,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Battle of Ypres</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Battle_of_Ypres">First Battle of Ypres</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.0496,50.6071,1285
+
+			4.5876,50.6071,1285
+
+			4.5876,51.3781,1285
+
+			2.0496,51.3781,1285
+
+			2.0496,50.6071,1285
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Ostend Raid</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Ostend_Raid">First Ostend Raid</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.366667,51.013333,110
+
+			4.016667,51.013333,110
+
+			4.016667,51.673333,110
+
+			2.366667,51.673333,110
+
+			2.366667,51.013333,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Suez Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Suez_Offensive">First Suez Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>32.231167,30.015,345
+
+			32.570167,30.015,345
+
+			32.570167,32.085,345
+
+			32.231167,32.085,345
+
+			32.231167,30.015,345
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>First Transjordan attack on Amman (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/First_Transjordan_attack_on_Amman_(1918)">First Transjordan attack on Amman (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>35.272333,31.713333,110
+
+			37.255333,31.713333,110
+
+			37.255333,32.373333,110
+
+			35.272333,32.373333,110
+
+			35.272333,31.713333,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Fourth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Fourth_Battle_of_the_Isonzo">Fourth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.123333,45.51,145
+
+			14.353333,45.51,145
+
+			14.353333,46.38,145
+
+			13.123333,46.38,145
+
+			13.123333,45.51,145
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Kerensky Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Kerensky_Offensive">Kerensky Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.5516,48.1183,485
+
+			24.9626,48.1183,485
+
+			24.9626,51.0283,485
+
+			24.5516,51.0283,485
+
+			24.5516,48.1183,485
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Lake Naroch Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Lake_Naroch_Offensive">Lake Naroch Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.119722,54.3525,250
+
+			28.009722,54.3525,250
+
+			28.009722,55.8525,250
+
+			26.119722,55.8525,250
+
+			26.119722,54.3525,250
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Landing at Anzac Cove</name>
+      <description><a href="http://en.wikipedia.org/wiki/Landing_at_Anzac_Cove">Landing at Anzac Cove</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.937778,40.059111,935
+
+			26.957778,40.059111,935
+
+			26.957778,40.620111,935
+
+			25.937778,40.620111,935
+
+			25.937778,40.059111,935
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Landing at Cape Helles</name>
+      <description><a href="http://en.wikipedia.org/wiki/Landing_at_Cape_Helles">Landing at Cape Helles</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.0253,39.2931,375
+
+			26.4753,39.2931,375
+
+			26.4753,41.5431,375
+
+			26.0253,41.5431,375
+
+			26.0253,39.2931,375
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Landing at Suvla Bay</name>
+      <description><a href="http://en.wikipedia.org/wiki/Landing_at_Suvla_Bay">Landing at Suvla Bay</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.3,39.7531,275
+
+			28.09,39.7531,275
+
+			28.09,41.4031,275
+
+			25.3,41.4031,275
+
+			25.3,39.7531,275
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Latvian War of Independence</name>
+      <description><a href="http://en.wikipedia.org/wiki/Latvian_War_of_Independence">Latvian War of Independence</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.713,56.12,440
+
+			25.574,56.12,440
+
+			25.574,58.76,440
+
+			24.713,58.76,440
+
+			24.713,56.12,440
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Lithuanian Wars of Independence</name>
+      <description><a href="http://en.wikipedia.org/wiki/Lithuanian_Wars_of_Independence">Lithuanian Wars of Independence</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.091667,53.913333,385
+
+			25.766667,53.913333,385
+
+			25.766667,56.223333,385
+
+			25.091667,56.223333,385
+
+			25.091667,53.913333,385
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Maritz Rebellion</name>
+      <description><a href="http://en.wikipedia.org/wiki/Maritz_Rebellion">Maritz Rebellion</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>14.163889,-27.225833,290
+
+			17.133889,-27.225833,290
+
+			17.133889,-25.485833,290
+
+			14.163889,-25.485833,290
+
+			14.163889,-27.225833,290
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Meuse-Argonne Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Meuse-Argonne_Offensive">Meuse-Argonne Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.462667,48.841,1545
+
+			5.974667,48.841,1545
+
+			5.974667,49.768,1545
+
+			4.462667,49.768,1545
+
+			4.462667,48.841,1545
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Monastir Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Monastir_Offensive">Monastir Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.86,41.4,100
+
+			23.38,41.4,100
+
+			23.38,42,100
+
+			20.86,42,100
+
+			20.86,41.4,100
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Naval operations in the Dardanelles Campaign</name>
+      <description><a href="http://en.wikipedia.org/wiki/Naval_operations_in_the_Dardanelles_Campaign">Naval operations in the Dardanelles Campaign</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.024,40.019,905
+
+			27.152,40.019,905
+
+			27.152,40.562,905
+
+			26.024,40.562,905
+
+			26.024,40.019,905
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Night action at the Battle of Jutland</name>
+      <description><a href="http://en.wikipedia.org/wiki/Night_action_at_the_Battle_of_Jutland">Night action at the Battle of Jutland</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.66,55.79,105
+
+			3.68,55.79,105
+
+			3.68,56.42,105
+
+			2.66,56.42,105
+
+			2.66,55.79,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Ninth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Ninth_Battle_of_the_Isonzo">Ninth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.073333,45.51,145
+
+			14.453333,45.51,145
+
+			14.453333,46.38,145
+
+			13.073333,46.38,145
+
+			13.073333,45.51,145
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Nivelle Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Nivelle_Offensive">Nivelle Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.523289,48.543128,450
+
+			4.084289,48.543128,450
+
+			4.084289,51.243128,450
+
+			3.523289,51.243128,450
+
+			3.523289,48.543128,450
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>October Revolution</name>
+      <description><a href="http://en.wikipedia.org/wiki/October_Revolution">October Revolution</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.128467,59.8335,5825
+
+			30.693067,59.8335,5825
+
+			30.693067,60.183,5825
+
+			30.128467,60.183,5825
+
+			30.128467,59.8335,5825
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Operation Albion</name>
+      <description><a href="http://en.wikipedia.org/wiki/Operation_Albion">Operation Albion</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.395,57.786667,315
+
+			22.71,57.786667,315
+
+			22.71,59.676667,315
+
+			22.395,59.676667,315
+
+			22.395,57.786667,315
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Otranto Barrage</name>
+      <description><a href="http://en.wikipedia.org/wiki/Otranto_Barrage">Otranto Barrage</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>17.093333,40.103333,265
+
+			19.613333,40.103333,265
+
+			19.613333,41.693333,265
+
+			17.093333,41.693333,265
+
+			17.093333,40.103333,265
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Raid on Scarborough, Hartlepool and Whitby</name>
+      <description><a href="http://en.wikipedia.org/wiki/Raid_on_Scarborough,_Hartlepool_and_Whitby">Raid on Scarborough, Hartlepool and Whitby</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.5017,53.7073,285
+
+			-0.2017,53.7073,285
+
+			-0.2017,55.4173,285
+
+			-0.5017,55.4173,285
+
+			-0.5017,53.7073,285
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Raid on Yarmouth</name>
+      <description><a href="http://en.wikipedia.org/wiki/Raid_on_Yarmouth">Raid on Yarmouth</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.18,52.31,145
+
+			2.74,52.31,145
+
+			2.74,53.18,145
+
+			1.18,53.18,145
+
+			1.18,52.31,145
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Red Army invasion of Georgia</name>
+      <description><a href="http://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia">Red Army invasion of Georgia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>44.465333,41.588667,640
+
+			45.419333,41.588667,640
+
+			45.419333,41.972667,640
+
+			44.465333,41.972667,640
+
+			44.465333,41.588667,640
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Salonika front</name>
+      <description><a href="http://en.wikipedia.org/wiki/Salonika_front">Salonika front</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.6,41.5,5
+
+			21.9,41.5,5
+
+			21.9,41.8,5
+
+			21.6,41.8,5
+
+			21.6,41.5,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Samarrah Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Samarrah_Offensive">Samarrah Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>43.604167,33.978333,110
+
+			44.414167,33.978333,110
+
+			44.414167,34.638333,110
+
+			43.604167,34.638333,110
+
+			43.604167,33.978333,110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Scuttling of the German fleet in Scapa Flow</name>
+      <description><a href="http://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_in_Scapa_Flow">Scuttling of the German fleet in Scapa Flow</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.24,58.789,555
+
+			-2.67,58.789,555
+
+			-2.67,59.122,555
+
+			-3.24,59.122,555
+
+			-3.24,58.789,555
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Artois</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Artois">Second Battle of Artois</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.6,49.9,300
+
+			4.3,49.9,300
+
+			4.3,51.7,300
+
+			1.6,51.7,300
+
+			1.6,49.9,300
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Champagne</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Champagne">Second Battle of Champagne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.39,48.6,200
+
+			5.22,48.6,200
+
+			5.22,49.8,200
+
+			3.39,49.8,200
+
+			3.39,48.6,200
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Gaza</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Gaza">Second Battle of Gaza</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.319,30.806667,355
+
+			34.712,30.806667,355
+
+			34.712,32.936667,355
+
+			34.319,32.936667,355
+
+			34.319,30.806667,355
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Heligoland Bight</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Heligoland_Bight">Second Battle of Heligoland Bight</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.966667,54.066667,5
+
+			8.266667,54.066667,5
+
+			8.266667,54.366667,5
+
+			7.966667,54.366667,5
+
+			7.966667,54.066667,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Kirpen Island</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Kirpen_Island">Second Battle of Kirpen Island</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.007334,40.633929,30
+
+			30.787334,40.633929,30
+
+			30.787334,42.433929,30
+
+			30.007334,42.433929,30
+
+			30.007334,40.633929,30
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Krithia</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Krithia">Second Battle of Krithia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.1953,39.5431,250
+
+			28.1353,39.5431,250
+
+			28.1353,41.0431,250
+
+			25.1953,41.0431,250
+
+			25.1953,39.5431,250
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Kut</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Kut">Second Battle of Kut</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.434722,32.235556,135
+
+			46.604722,32.235556,135
+
+			46.604722,33.045556,135
+
+			45.434722,33.045556,135
+
+			45.434722,32.235556,135
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Passchendaele</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Passchendaele">Second Battle of Passchendaele</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.760389,50.340278,280
+
+			3.543389,50.340278,280
+
+			3.543389,52.020278,280
+
+			2.760389,52.020278,280
+
+			2.760389,50.340278,280
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of the Aisne</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_the_Aisne">Second Battle of the Aisne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.623944,48.563611,435
+
+			3.292944,48.563611,435
+
+			3.292944,51.173611,435
+
+			2.623944,51.173611,435
+
+			2.623944,48.563611,435
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_the_Isonzo">Second Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.833333,45.24,280
+
+			14.933333,45.24,280
+
+			14.933333,46.92,280
+
+			12.833333,46.92,280
+
+			12.833333,45.24,280
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of the Marne</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_the_Marne">Second Battle of the Marne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.957111,48.553833,1310
+
+			3.319111,48.553833,1310
+
+			3.319111,49.339833,1310
+
+			1.957111,49.339833,1310
+
+			1.957111,48.553833,1310
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of the Masurian Lakes</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_the_Masurian_Lakes">Second Battle of the Masurian Lakes</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>20.363333,54.003333,365
+
+			20.723333,54.003333,365
+
+			20.723333,56.193333,365
+
+			20.363333,56.193333,365
+
+			20.363333,54.003333,365
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of the Somme (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_the_Somme_(1918)">Second Battle of the Somme (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.452667,49.461111,380
+
+			1.794667,49.461111,380
+
+			1.794667,51.741111,380
+
+			1.452667,51.741111,380
+
+			1.452667,49.461111,380
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Battle of Ypres</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Battle_of_Ypres">Second Battle of Ypres</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.191,50.469,2110
+
+			4.555,50.469,2110
+
+			4.555,51.735,2110
+
+			2.191,51.735,2110
+
+			2.191,50.469,2110
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Ostend Raid</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Ostend_Raid">Second Ostend Raid</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.754667,50.563333,335
+
+			3.240667,50.563333,335
+
+			3.240667,52.573333,335
+
+			2.754667,52.573333,335
+
+			2.754667,50.563333,335
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Second Transjordan attack on Shunet Nimrin and Es Salt (1918)</name>
+      <description><a href="http://en.wikipedia.org/wiki/Second_Transjordan_attack_on_Shunet_Nimrin_and_Es_Salt_(1918)">Second Transjordan attack on Shunet Nimrin and Es Salt (1918)</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>35.509867,32.976667,105
+
+			35.837767,32.976667,105
+
+			35.837767,33.606667,105
+
+			35.509867,33.606667,105
+
+			35.509867,32.976667,105
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Senussi Campaign</name>
+      <description><a href="http://en.wikipedia.org/wiki/Senussi_Campaign">Senussi Campaign</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.765556,31.170833,220
+
+			26.245556,31.170833,220
+
+			26.245556,32.490833,220
+
+			25.765556,32.490833,220
+
+			25.765556,31.170833,220
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Seventh Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Seventh_Battle_of_the_Isonzo">Seventh Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.143333,45.55,125
+
+			14.313333,45.55,125
+
+			14.313333,46.3,125
+
+			13.143333,46.3,125
+
+			13.143333,45.55,125
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Siege of Antwerp</name>
+      <description><a href="http://en.wikipedia.org/wiki/Siege_of_Antwerp">Siege of Antwerp</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.264,50.316667,450
+
+			4.672,50.316667,450
+
+			4.672,53.016667,450
+
+			4.264,53.016667,450
+
+			4.264,50.316667,450
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Siege of Kut</name>
+      <description><a href="http://en.wikipedia.org/wiki/Siege_of_Kut">Siege of Kut</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>45.545722,32.324556,905
+
+			46.382722,32.324556,905
+
+			46.382722,32.867556,905
+
+			45.545722,32.867556,905
+
+			45.545722,32.324556,905
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Siege of Maubeuge</name>
+      <description><a href="http://en.wikipedia.org/wiki/Siege_of_Maubeuge">Siege of Maubeuge</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.4434,49.9075,185
+
+			5.0334,49.9075,185
+
+			5.0334,51.0175,185
+
+			3.4434,51.0175,185
+
+			3.4434,49.9075,185
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Siege of Przemysl</name>
+      <description><a href="http://en.wikipedia.org/wiki/Siege_of_Przemysl">Siege of Przemysl</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.573889,49.586111,10
+
+			23.173889,49.586111,10
+
+			23.173889,50.186111,10
+
+			22.573889,50.186111,10
+
+			22.573889,49.586111,10
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Siege of Tsingtao</name>
+      <description><a href="http://en.wikipedia.org/wiki/Siege_of_Tsingtao">Siege of Tsingtao</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>120.059333,35.902667,820
+
+			121.031333,35.902667,820
+
+			121.031333,36.394667,820
+
+			120.059333,36.394667,820
+
+			120.059333,35.902667,820
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Sixth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Sixth_Battle_of_the_Isonzo">Sixth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.843333,45.34,230
+
+			14.913333,45.34,230
+
+			14.913333,46.72,230
+
+			12.843333,46.72,230
+
+			12.843333,45.34,230
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Sochi conflict</name>
+      <description><a href="http://en.wikipedia.org/wiki/Sochi_conflict">Sochi conflict</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>40.503333,42.68,160
+
+			41.943333,42.68,160
+
+			41.943333,43.64,160
+
+			40.503333,43.64,160
+
+			40.503333,42.68,160
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Spring Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Spring_Offensive">Spring Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.57,50.764,1180
+
+			3.86,50.764,1180
+
+			3.86,51.472,1180
+
+			2.57,51.472,1180
+
+			2.57,50.764,1180
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Sventiany Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Sventiany_Offensive">Sventiany Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.906667,54.933333,100
+
+			26.686667,54.933333,100
+
+			26.686667,55.533333,100
+
+			25.906667,55.533333,100
+
+			25.906667,54.933333,100
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Tenth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Tenth_Battle_of_the_Isonzo">Tenth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.153333,45.54,130
+
+			14.293333,45.54,130
+
+			14.293333,46.32,130
+
+			13.153333,46.32,130
+
+			13.153333,45.54,130
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Anglo-Afghan War</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Anglo-Afghan_War">Third Anglo-Afghan War</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>70.761,33.964,645
+
+			71.91,33.964,645
+
+			71.91,34.351,645
+
+			70.761,34.351,645
+
+			70.761,33.964,645
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Battle of Gaza</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Battle_of_Gaza">Third Battle of Gaza</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>34.287,30.686667,415
+
+			34.776,30.686667,415
+
+			34.776,33.176667,415
+
+			34.287,33.176667,415
+
+			34.287,30.686667,415
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Battle of Krithia</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Battle_of_Krithia">Third Battle of Krithia</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.1853,39.5431,250
+
+			28.1553,39.5431,250
+
+			28.1553,41.0431,250
+
+			25.1853,41.0431,250
+
+			25.1853,39.5431,250
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Battle of the Aisne</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Battle_of_the_Aisne">Third Battle of the Aisne</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.719944,48.633611,400
+
+			3.100944,48.633611,400
+
+			3.100944,51.033611,400
+
+			2.719944,51.033611,400
+
+			2.719944,48.633611,400
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Battle_of_the_Isonzo">Third Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>12.853333,45.34,230
+
+			14.893333,45.34,230
+
+			14.893333,46.72,230
+
+			12.853333,46.72,230
+
+			12.853333,45.34,230
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Third Battle of Ypres</name>
+      <description><a href="http://en.wikipedia.org/wiki/Third_Battle_of_Ypres">Third Battle of Ypres</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.779,50.771,60
+
+			3.379,50.771,60
+
+			3.379,51.131,60
+
+			2.779,51.131,60
+
+			2.779,50.771,60
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Twelfth Battle of the Isonzo</name>
+      <description><a href="http://en.wikipedia.org/wiki/Twelfth_Battle_of_the_Isonzo">Twelfth Battle of the Isonzo</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>13.433333,45.7,5
+
+			13.733333,45.7,5
+
+			13.733333,46,5
+
+			13.433333,46,5
+
+			13.433333,45.7,5
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Vardar Offensive</name>
+      <description><a href="http://en.wikipedia.org/wiki/Vardar_Offensive">Vardar Offensive</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.273333,41.87,65
+
+			21.753333,41.87,65
+
+			21.753333,42.26,65
+
+			21.273333,42.26,65
+
+			21.273333,41.87,65
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name>Zeebrugge Raid</name>
+      <description><a href="http://en.wikipedia.org/wiki/Zeebrugge_Raid">Zeebrugge Raid</a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.046,50.523333,405
+
+			3.508,50.523333,405
+
+			3.508,52.953333,405
+
+			3.046,52.953333,405
+
+			3.046,50.523333,405
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark><Placemark>
+      <name></name>
+      <description><a href=""></a>
+      </description>
+	  <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0,0,0
+
+			0,0,0
+
+			0,0,0
+
+			0,0,0
+
+			0,0,0
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+		</Polygon>
+    </Placemark></Document>
+</kml>
