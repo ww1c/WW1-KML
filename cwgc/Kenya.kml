@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Kenya</name>
+  <description>Cemeteries in Kenya from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>MOMBASA (MBARAKI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12204/MOMBASA%20%28MBARAKI%29%20CEMETERY">MOMBASA (MBARAKI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.6651,-4.06741</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAIROBI (FOREST ROAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12207/NAIROBI%20%28FOREST%20ROAD%29%20CEMETERY">NAIROBI (FOREST ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 36.83398,-1.26647</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAIROBI SOUTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12208/NAIROBI%20SOUTH%20CEMETERY">NAIROBI SOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 36.82356,-1.29874</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GILGIL WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12209/GILGIL%20WAR%20CEMETERY">GILGIL WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 36.34088,-0.49047</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAKURU NORTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12210/NAKURU%20NORTH%20CEMETERY">NAKURU NORTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 36.07359,-0.27831</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOMBASA BRITISH MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142601/MOMBASA%20BRITISH%20MEMORIAL">MOMBASA BRITISH MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.66632,-4.06704</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAIROBI BRITISH AND INDIAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142605/NAIROBI%20BRITISH%20AND%20INDIAN%20MEMORIAL">NAIROBI BRITISH AND INDIAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 36.82373,-1.29906</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

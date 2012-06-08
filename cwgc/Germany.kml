@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Germany</name>
+  <description>Cemeteries in Germany from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>COLOGNE SOUTHERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34600/COLOGNE%20SOUTHERN%20CEMETERY">COLOGNE SOUTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.94389,50.90056</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AACHEN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34700/AACHEN%20MILITARY%20CEMETERY">AACHEN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.1082,50.74577</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BAD BERGZABERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34701/BAD%20BERGZABERN%20CEMETERY">BAD BERGZABERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.00209,49.10129</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOCKLEMUND NEW JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34702/BOCKLEMUND%20NEW%20JEWISH%20CEMETERY">BOCKLEMUND NEW JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.87124,50.96991</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BONN NORTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34703/BONN%20NORTH%20CEMETERY">BONN NORTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.0715,50.7538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KOBLENZ JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34704/KOBLENZ%20JEWISH%20CEMETERY">KOBLENZ JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.58498,50.36222</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLOGNE MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34706/COLOGNE%20MEMORIAL">COLOGNE MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.93917,50.89796</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEUTZ JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34707/DEUTZ%20JEWISH%20CEMETERY">DEUTZ JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.9823,50.92725</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EUSKIRCHEN NEW TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34708/EUSKIRCHEN%20NEW%20TOWN%20CEMETERY">EUSKIRCHEN NEW TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.77385,50.6688</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIESSEN JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34709/GIESSEN%20JEWISH%20CEMETERY">GIESSEN JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.68363,50.60137</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOTTINGEN JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34710/GOTTINGEN%20JEWISH%20CEMETERY">GOTTINGEN JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.91271,51.53333</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOTTINGEN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34711/GOTTINGEN%20MILITARY%20CEMETERY">GOTTINGEN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.90476,51.53208</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HASENHEIDE GARRISON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34712/HASENHEIDE%20GARRISON%20CEMETERY">HASENHEIDE GARRISON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.41174,52.48134</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MUNSTER HAUS SPITAL PRISONERS OF WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34717/MUNSTER%20HAUS%20SPITAL%20PRISONERS%20OF%20WAR%20CEMETERY">MUNSTER HAUS SPITAL PRISONERS OF WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.56111,51.98282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WORMS (HOCHHEIM HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34720/WORMS%20%28HOCHHEIM%20HILL%29%20CEMETERY">WORMS (HOCHHEIM HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.33229,49.6487</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZEHRENSDORF INDIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34721/ZEHRENSDORF%20INDIAN%20CEMETERY">ZEHRENSDORF INDIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.50275,52.17299</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERLIN SOUTH-WESTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90900/BERLIN%20SOUTH-WESTERN%20CEMETERY">BERLIN SOUTH-WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.17561,52.38382</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91400/HAMBURG%20CEMETERY">HAMBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.03544,53.61975</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIEDERZWEHREN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91502/NIEDERZWEHREN%20CEMETERY">NIEDERZWEHREN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.46544,51.26399</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

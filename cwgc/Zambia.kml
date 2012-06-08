@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Zambia</name>
+  <description>Cemeteries in Zambia from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>NDOLA (KANSENSHI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91631/NDOLA%20%28KANSENSHI%29%20CEMETERY">NDOLA (KANSENSHI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.62236,-12.96816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIVINGSTONE CAMP MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142301/LIVINGSTONE%20CAMP%20MEMORIAL">LIVINGSTONE CAMP MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.86338,-17.85021</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

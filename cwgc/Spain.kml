@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Spain</name>
+  <description>Cemeteries in Spain from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BILBAO BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54334/BILBAO%20BRITISH%20CEMETERY">BILBAO BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -2.91665,43.29858</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LAS CORTS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54337/LAS%20CORTS%20CEMETERY">LAS CORTS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.12136,41.38332</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MADRID BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54338/MADRID%20BRITISH%20CEMETERY">MADRID BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -3.72262,40.39524</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TARRAGONA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54339/TARRAGONA%20BRITISH%20CEMETERY">TARRAGONA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 1.26788,41.11505</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VILLAGARCIA BRITISH NAVAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54340/VILLAGARCIA%20BRITISH%20NAVAL%20CEMETERY">VILLAGARCIA BRITISH NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -8.74633,42.58834</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUELVA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000161/HUELVA%20BRITISH%20CEMETERY">HUELVA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -6.93149,37.29189</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Malaysia</name>
+  <description>Cemeteries in Malaysia from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>SANDAKAN CHRISTIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49400/SANDAKAN%20CHRISTIAN%20CEMETERY">SANDAKAN CHRISTIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 118.11103,5.84533</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PENANG (WESTERN ROAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49438/PENANG%20%28WESTERN%20ROAD%29%20CEMETERY">PENANG (WESTERN ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 100.30157,5.42635</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAIPING (ALL SAINTS) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49439/TAIPING%20%28ALL%20SAINTS%29%20CHURCHYARD">TAIPING (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 100.74447,4.85804</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

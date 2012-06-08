@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Mozambique</name>
+  <description>Cemeteries in Mozambique from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BEIRA CHRISTIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91614/BEIRA%20CHRISTIAN%20CEMETERY">BEIRA CHRISTIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.84523,-19.82778</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEIRA MUHAMMADAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91615/BEIRA%20MUHAMMADAN%20CEMETERY">BEIRA MUHAMMADAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.84561,-19.82585</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAPUTO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91617/MAPUTO%20CEMETERY">MAPUTO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.57592,-25.96299</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEMBA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91618/PEMBA%20CEMETERY">PEMBA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 40.50448,-12.97143</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEMBA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91619/PEMBA%20MEMORIAL">PEMBA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 40.50486,-12.97164</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VILA MANICA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91620/VILA%20MANICA%20CEMETERY">VILA MANICA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.87156,-18.94344</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

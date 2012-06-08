@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Chile</name>
+  <description>Cemeteries in Chile from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ANTOFAGASTA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49824/ANTOFAGASTA%20CEMETERY">ANTOFAGASTA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.38835,-23.64635</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GUAYACAN PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49825/GUAYACAN%20PROTESTANT%20CEMETERY">GUAYACAN PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.34479,-29.97281</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAGALLANES FISCAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49826/MAGALLANES%20FISCAL%20CEMETERY">MAGALLANES FISCAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.89848,-53.15252</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TALCAHUANO NO.1 CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49827/TALCAHUANO%20NO.1%20CEMETERY">TALCAHUANO NO.1 CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.11826,-36.71967</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for China, (including Hong Kong)</name>
+  <description>Cemeteries in China, (including Hong Kong) from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>STANLEY MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49428/STANLEY%20MILITARY%20CEMETERY">STANLEY MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.21613,22.21315</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HONG KONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49429/HONG%20KONG%20CEMETERY">HONG KONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.17948,22.2731</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HONG KONG MUSLIM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49431/HONG%20KONG%20MUSLIM%20CEMETERY">HONG KONG MUSLIM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.17928,22.27421</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HONG KONG ST. MICHAEL'S CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49432/HONG%20KONG%20ST.%20MICHAEL%27S%20CATHOLIC%20CEMETERY">HONG KONG ST. MICHAEL'S CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.17933,22.27355</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAI WAN (CHINA) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000318/SAI%20WAN%20%28CHINA%29%20MEMORIAL">SAI WAN (CHINA) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.23411,22.2587</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HONG KONG HINDU AND SIKH CREMATION MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000319/HONG%20KONG%20HINDU%20AND%20SIKH%20CREMATION%20MEMORIAL">HONG KONG HINDU AND SIKH CREMATION MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.18184,22.27009</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAI WAN WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000320/SAI%20WAN%20WAR%20CEMETERY">SAI WAN WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.23414,22.25849</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HONG KONG MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2057900/HONG%20KONG%20MEMORIAL">HONG KONG MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.21656,22.21298</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

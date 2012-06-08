@@ -1,0 +1,2658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Belgium</name>
+  <description>Cemeteries in Belgium from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>COXYDE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8600/COXYDE%20MILITARY%20CEMETERY">COXYDE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.64303,51.10371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GUNNERS FARM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8801/GUNNERS%20FARM%20MILITARY%20CEMETERY">GUNNERS FARM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89646,50.71816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOTOR CAR CORNER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8802/MOTOR%20CAR%20CORNER%20CEMETERY">MOTOR CAR CORNER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.8931,50.70948</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LE TOUQUET RAILWAY CROSSING CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8803/LE%20TOUQUET%20RAILWAY%20CROSSING%20CEMETERY">LE TOUQUET RAILWAY CROSSING CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91181,50.71124</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CALVAIRE (ESSEX) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8804/CALVAIRE%20%28ESSEX%29%20MILITARY%20CEMETERY">CALVAIRE (ESSEX) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89843,50.71878</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BELGIAN BATTERY CORNER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8900/BELGIAN%20BATTERY%20CORNER%20CEMETERY">BELGIAN BATTERY CORNER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86138,50.83933</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIVISIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/8901/DIVISIONAL%20CEMETERY">DIVISIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85833,50.8482</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARINGHE (BANDAGHEM) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9001/HARINGHE%20%28BANDAGHEM%29%20MILITARY%20CEMETERY">HARINGHE (BANDAGHEM) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.61485,50.90163</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ABEELE AERODROME MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9003/ABEELE%20AERODROME%20MILITARY%20CEMETERY">ABEELE AERODROME MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.65705,50.81522</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATOU CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9004/WATOU%20CHURCHYARD">WATOU CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.61964,50.85918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HYDE PARK CORNER (ROYAL BERKS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9101/HYDE%20PARK%20CORNER%20%28ROYAL%20BERKS%29%20CEMETERY">HYDE PARK CORNER (ROYAL BERKS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88251,50.73765</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERKS CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9102/BERKS%20CEMETERY%20EXTENSION">BERKS CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88228,50.7378</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA LAITERIE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9200/LA%20LAITERIE%20MILITARY%20CEMETERY">LA LAITERIE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84193,50.79125</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPANBROEKMOLEN BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9201/SPANBROEKMOLEN%20BRITISH%20CEMETERY">SPANBROEKMOLEN BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86702,50.77826</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LONE TREE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9202/LONE%20TREE%20CEMETERY">LONE TREE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86191,50.77468</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MENIN ROAD SOUTH MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9300/MENIN%20ROAD%20SOUTH%20MILITARY%20CEMETERY">MENIN ROAD SOUTH MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90459,50.8499</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CEMENT HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9400/CEMENT%20HOUSE%20CEMETERY">CEMENT HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90682,50.90497</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YPRES RESERVOIR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9500/YPRES%20RESERVOIR%20CEMETERY">YPRES RESERVOIR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87716,50.85368</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TALANA FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9600/TALANA%20FARM%20CEMETERY">TALANA FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86268,50.88276</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRAGOON CAMP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9601/DRAGOON%20CAMP%20CEMETERY">DRAGOON CAMP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.8815,50.89563</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUISSEAU FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9602/RUISSEAU%20FARM%20CEMETERY">RUISSEAU FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89913,50.91184</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARTILLERY WOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9700/ARTILLERY%20WOOD%20CEMETERY">ARTILLERY WOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87252,50.89966</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>R.E. FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9900/R.E.%20FARM%20CEMETERY">R.E. FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86069,50.76696</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BETHLEEM FARM EAST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9901/BETHLEEM%20FARM%20EAST%20CEMETERY">BETHLEEM FARM EAST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91151,50.76081</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BETHLEEM FARM WEST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9902/BETHLEEM%20FARM%20WEST%20CEMETERY">BETHLEEM FARM WEST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90662,50.75857</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TORONTO AVENUE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/9903/TORONTO%20AVENUE%20CEMETERY">TORONTO AVENUE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89989,50.74065</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PERTH CEMETERY (CHINA WALL)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10000/PERTH%20CEMETERY%20%28CHINA%20WALL%29">PERTH CEMETERY (CHINA WALL) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92075,50.84213</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VOORMEZEELE ENCLOSURES NO.1 AND NO.2</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10100/VOORMEZEELE%20ENCLOSURES%20NO.1%20AND%20NO.2">VOORMEZEELE ENCLOSURES NO.1 AND NO.2 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.874,50.81774</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OOSTTAVERNE WOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10200/OOSTTAVERNE%20WOOD%20CEMETERY">OOSTTAVERNE WOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90223,50.79401</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CROONAERT CHAPEL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10201/CROONAERT%20CHAPEL%20CEMETERY">CROONAERT CHAPEL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87298,50.8</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUS HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10202/BUS%20HOUSE%20CEMETERY">BUS HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88728,50.81293</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IRISH HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10203/IRISH%20HOUSE%20CEMETERY">IRISH HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85363,50.78444</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KORTRIJK (ST. JAN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10601/KORTRIJK%20%28ST.%20JAN%29%20COMMUNAL%20CEMETERY">KORTRIJK (ST. JAN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.24296,50.82754</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HERZELE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10603/HERZELE%20CHURCHYARD">HERZELE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.89082,50.88816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ATH COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10609/ATH%20COMMUNAL%20CEMETERY">ATH COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.7891,50.6285</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ENGHIEN (EDINGEN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10610/ENGHIEN%20%28EDINGEN%29%20COMMUNAL%20CEMETERY">ENGHIEN (EDINGEN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.03353,50.70049</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HENNUYERES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10611/HENNUYERES%20COMMUNAL%20CEMETERY">HENNUYERES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.16752,50.63981</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IRCHONWELZ COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10612/IRCHONWELZ%20COMMUNAL%20CEMETERY">IRCHONWELZ COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.74679,50.62015</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LESSINES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10613/LESSINES%20COMMUNAL%20CEMETERY">LESSINES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.82455,50.70761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>REBAIX COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10614/REBAIX%20COMMUNAL%20CEMETERY">REBAIX COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.77968,50.65977</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BISSEGEM COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10615/BISSEGEM%20COMMUNAL%20CEMETERY">BISSEGEM COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.23101,50.81885</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOP STORE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14200/HOP%20STORE%20CEMETERY">HOP STORE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.80822,50.85486</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NINE ELMS BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14300/NINE%20ELMS%20BRITISH%20CEMETERY">NINE ELMS BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.69701,50.85095</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VLAMERTINGHE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14400/VLAMERTINGHE%20MILITARY%20CEMETERY">VLAMERTINGHE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.82004,50.8557</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POPERINGHE NEW MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14500/POPERINGHE%20NEW%20MILITARY%20CEMETERY">POPERINGHE NEW MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.73305,50.84738</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRANDHOEK NEW MILITARY CEMETERY NO.3</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14600/BRANDHOEK%20NEW%20MILITARY%20CEMETERY%20NO.3">BRANDHOEK NEW MILITARY CEMETERY NO.3 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78782,50.85218</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VLAMERTINGHE NEW MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14800/VLAMERTINGHE%20NEW%20MILITARY%20CEMETERY">VLAMERTINGHE NEW MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.81849,50.84772</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIJSSENTHOEK MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14900/LIJSSENTHOEK%20MILITARY%20CEMETERY">LIJSSENTHOEK MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.7016,50.82839</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RENINGHELST NEW MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15200/RENINGHELST%20NEW%20MILITARY%20CEMETERY">RENINGHELST NEW MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.7598,50.81703</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOZINGHEM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15300/DOZINGHEM%20MILITARY%20CEMETERY">DOZINGHEM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.70158,50.89244</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEMMEL CHATEAU MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15401/KEMMEL%20CHATEAU%20MILITARY%20CEMETERY">KEMMEL CHATEAU MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.82892,50.78667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THE HUTS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15500/THE%20HUTS%20CEMETERY">THE HUTS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.81984,50.82333</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOLFERINO FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15600/SOLFERINO%20FARM%20CEMETERY">SOLFERINO FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84491,50.87738</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TRACK X CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15602/TRACK%20X%20CEMETERY">TRACK X CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91108,50.87812</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTIJZE BURIAL GROUND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15700/POTIJZE%20BURIAL%20GROUND%20CEMETERY">POTIJZE BURIAL GROUND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90991,50.86041</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTIJZE CHATEAU LAWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15701/POTIJZE%20CHATEAU%20LAWN%20CEMETERY">POTIJZE CHATEAU LAWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91535,50.86129</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTIJZE CHATEAU WOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15702/POTIJZE%20CHATEAU%20WOOD%20CEMETERY">POTIJZE CHATEAU WOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91335,50.86144</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESSEX FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15800/ESSEX%20FARM%20CEMETERY">ESSEX FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87247,50.87138</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZANTVOORDE BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15904/ZANTVOORDE%20BRITISH%20CEMETERY">ZANTVOORDE BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.98357,50.81345</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZANDVOORDE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15905/ZANDVOORDE%20CHURCHYARD">ZANDVOORDE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.98064,50.81315</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OAK DUMP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/15906/OAK%20DUMP%20CEMETERY">OAK DUMP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90954,50.81387</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOCHY FARM NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16000/DOCHY%20FARM%20NEW%20BRITISH%20CEMETERY">DOCHY FARM NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.97199,50.8817</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SEAFORTH CEMETERY, CHEDDAR VILLA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16002/SEAFORTH%20CEMETERY%2C%20CHEDDAR%20VILLA">SEAFORTH CEMETERY, CHEDDAR VILLA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92683,50.87993</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRIDGE HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16004/BRIDGE%20HOUSE%20CEMETERY">BRIDGE HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.93675,50.87972</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DADIZELE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16200/DADIZELE%20COMMUNAL%20CEMETERY">DADIZELE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.08888,50.84902</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DADIZEELE NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16201/DADIZEELE%20NEW%20BRITISH%20CEMETERY">DADIZEELE NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.08774,50.84918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOORSEELE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16202/MOORSEELE%20MILITARY%20CEMETERY">MOORSEELE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.16715,50.8403</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEZELBERG MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16203/KEZELBERG%20MILITARY%20CEMETERY">KEZELBERG MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.12336,50.83328</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEDEGHEM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16205/LEDEGHEM%20MILITARY%20CEMETERY">LEDEGHEM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.12756,50.85736</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOORSLEDE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16210/MOORSLEDE%20COMMUNAL%20CEMETERY">MOORSLEDE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.06893,50.89191</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SLYPSKAPELLE PLOT OF HONOUR</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16211/SLYPSKAPELLE%20PLOT%20OF%20HONOUR">SLYPSKAPELLE PLOT OF HONOUR at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.08816,50.86708</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ADINKERKE CHURCHYARD EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16300/ADINKERKE%20CHURCHYARD%20EXTENSION">ADINKERKE CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.60161,51.07561</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ADINKERKE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16301/ADINKERKE%20MILITARY%20CEMETERY">ADINKERKE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.60149,51.0706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAMSCAPPELLE ROAD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16302/RAMSCAPPELLE%20ROAD%20MILITARY%20CEMETERY">RAMSCAPPELLE ROAD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.76766,51.12872</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIEUWPOORT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16304/NIEUWPOORT%20COMMUNAL%20CEMETERY">NIEUWPOORT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.76552,51.12924</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OOSTENDE NEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16305/OOSTENDE%20NEW%20COMMUNAL%20CEMETERY">OOSTENDE NEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91582,51.20988</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STEENKERKE BELGIAN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16307/STEENKERKE%20BELGIAN%20MILITARY%20CEMETERY">STEENKERKE BELGIAN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.68971,51.0589</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BREDENE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16312/BREDENE%20CHURCHYARD">BREDENE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.97686,51.23525</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VEURNE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16314/VEURNE%20COMMUNAL%20CEMETERY">VEURNE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.66512,51.07417</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DE PANNE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16315/DE%20PANNE%20COMMUNAL%20CEMETERY">DE PANNE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.60073,51.08675</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRAND MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16400/STRAND%20MILITARY%20CEMETERY">STRAND MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88025,50.73277</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEMMEL NO.1 FRENCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/16401/KEMMEL%20NO.1%20FRENCH%20CEMETERY">KEMMEL NO.1 FRENCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84072,50.80542</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FERME-OLIVIER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49900/FERME-OLIVIER%20CEMETERY">FERME-OLIVIER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.79899,50.88543</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRANDHOEK MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50000/BRANDHOEK%20MILITARY%20CEMETERY">BRANDHOEK MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.79099,50.85277</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANADA FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50400/CANADA%20FARM%20CEMETERY">CANADA FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78162,50.88803</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLEUET FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50401/BLEUET%20FARM%20CEMETERY">BLEUET FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83171,50.88866</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MENDINGHEM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50500/MENDINGHEM%20MILITARY%20CEMETERY">MENDINGHEM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.64207,50.89751</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA CLYTTE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50600/LA%20CLYTTE%20MILITARY%20CEMETERY">LA CLYTTE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.80036,50.80163</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OXFORD ROAD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50700/OXFORD%20ROAD%20CEMETERY">OXFORD ROAD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91606,50.86928</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARD COTTAGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50800/BARD%20COTTAGE%20CEMETERY">BARD COTTAGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86903,50.87652</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DICKEBUSCH NEW MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50900/DICKEBUSCH%20NEW%20MILITARY%20CEMETERY">DICKEBUSCH NEW MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83251,50.8183</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DICKEBUSCH NEW MILITARY CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/50901/DICKEBUSCH%20NEW%20MILITARY%20CEMETERY%20EXTENSION">DICKEBUSCH NEW MILITARY CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83238,50.81831</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GWALIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51000/GWALIA%20CEMETERY">GWALIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.76469,50.8764</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RIDGE WOOD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51100/RIDGE%20WOOD%20MILITARY%20CEMETERY">RIDGE WOOD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85046,50.81138</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANDAHAR FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51200/KANDAHAR%20FARM%20CEMETERY">KANDAHAR FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84748,50.75523</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA PLUS DOUVE FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51300/LA%20PLUS%20DOUVE%20FARM%20CEMETERY">LA PLUS DOUVE FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86468,50.75293</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UNDERHILL FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51301/UNDERHILL%20FARM%20CEMETERY">UNDERHILL FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86995,50.74099</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MUD CORNER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51302/MUD%20CORNER%20CEMETERY">MUD CORNER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89856,50.74213</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PROWSE POINT MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51303/PROWSE%20POINT%20MILITARY%20CEMETERY">PROWSE POINT MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.899,50.74426</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLAUWEPOORT FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51401/BLAUWEPOORT%20FARM%20CEMETERY">BLAUWEPOORT FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90809,50.82954</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHESTER FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51402/CHESTER%20FARM%20CEMETERY">CHESTER FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.9015,50.82107</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YPRES TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51403/YPRES%20TOWN%20CEMETERY">YPRES TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89616,50.854</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAMPARTS CEMETERY, LILLE GATE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51404/RAMPARTS%20CEMETERY%2C%20LILLE%20GATE">RAMPARTS CEMETERY, LILLE GATE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88932,50.84478</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. JULIEN DRESSING STATION CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51501/ST.%20JULIEN%20DRESSING%20STATION%20CEMETERY">ST. JULIEN DRESSING STATION CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.93536,50.88776</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MINTY FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51502/MINTY%20FARM%20CEMETERY">MINTY FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90932,50.89059</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NO MAN'S COT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51503/NO%20MAN%27S%20COT%20CEMETERY">NO MAN'S COT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89338,50.88388</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WELSH CEMETERY (CAESAR'S NOSE)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51504/WELSH%20CEMETERY%20%28CAESAR%27S%20NOSE%29">WELSH CEMETERY (CAESAR'S NOSE) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88218,50.88666</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLNE VALLEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51505/COLNE%20VALLEY%20CEMETERY">COLNE VALLEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87813,50.88542</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LANCASHIRE COTTAGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51600/LANCASHIRE%20COTTAGE%20CEMETERY">LANCASHIRE COTTAGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89774,50.72918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PLOEGSTEERT CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51601/PLOEGSTEERT%20CHURCHYARD">PLOEGSTEERT CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87996,50.72604</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PLOEGSTEERT WOOD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51602/PLOEGSTEERT%20WOOD%20MILITARY%20CEMETERY">PLOEGSTEERT WOOD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90041,50.73711</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RIFLE HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51603/RIFLE%20HOUSE%20CEMETERY">RIFLE HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90057,50.73582</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYTSCHAETE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51700/WYTSCHAETE%20MILITARY%20CEMETERY">WYTSCHAETE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87702,50.78458</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DERRY HOUSE CEMETERY NO.2</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51701/DERRY%20HOUSE%20CEMETERY%20NO.2">DERRY HOUSE CEMETERY NO.2 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90056,50.779</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TORREKEN FARM CEMETERY NO.1</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51702/TORREKEN%20FARM%20CEMETERY%20NO.1">TORREKEN FARM CEMETERY NO.1 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89217,50.78217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOMER FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51703/SOMER%20FARM%20CEMETERY">SOMER FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88969,50.79053</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CABIN HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51704/CABIN%20HILL%20CEMETERY">CABIN HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90484,50.77405</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LINDENHOEK CHALET MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51800/LINDENHOEK%20CHALET%20MILITARY%20CEMETERY">LINDENHOEK CHALET MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.8239,50.77637</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DICKEBUSCH OLD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51801/DICKEBUSCH%20OLD%20MILITARY%20CEMETERY">DICKEBUSCH OLD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83292,50.81929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RENINGELST CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51802/RENINGELST%20CHURCHYARD">RENINGELST CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.76364,50.81701</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RENINGHELST CHURCHYARD EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51803/RENINGHELST%20CHURCHYARD%20EXTENSION">RENINGHELST CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.76422,50.81662</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AEROPLANE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/51900/AEROPLANE%20CEMETERY">AEROPLANE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.93088,50.86419</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WULVERGHEM-LINDENHOEK ROAD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52000/WULVERGHEM-LINDENHOEK%20ROAD%20MILITARY%20CEMETERY">WULVERGHEM-LINDENHOEK ROAD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84386,50.76402</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTHOF FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52001/WESTHOF%20FARM%20CEMETERY">WESTHOF FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.80557,50.7373</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA BRIQUE MILITARY CEMETERY NO.1</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52100/LA%20BRIQUE%20MILITARY%20CEMETERY%20NO.1">LA BRIQUE MILITARY CEMETERY NO.1 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89457,50.86449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA BRIQUE MILITARY CEMETERY NO.2</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52101/LA%20BRIQUE%20MILITARY%20CEMETERY%20NO.2">LA BRIQUE MILITARY CEMETERY NO.2 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89442,50.86469</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WIELTJE FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52102/WIELTJE%20FARM%20CEMETERY">WIELTJE FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91102,50.86879</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUFFS ROAD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52103/BUFFS%20ROAD%20CEMETERY">BUFFS ROAD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91649,50.87639</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA BELLE ALLIANCE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52104/LA%20BELLE%20ALLIANCE%20CEMETERY">LA BELLE ALLIANCE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89338,50.8734</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW IRISH FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52200/NEW%20IRISH%20FARM%20CEMETERY">NEW IRISH FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89828,50.87291</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRANOUTRE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52300/DRANOUTRE%20MILITARY%20CEMETERY">DRANOUTRE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78003,50.76706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRANOUTER CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52301/DRANOUTER%20CHURCHYARD">DRANOUTER CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78286,50.76632</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PACKHORSE FARM SHRINE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52303/PACKHORSE%20FARM%20SHRINE%20CEMETERY">PACKHORSE FARM SHRINE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83296,50.77006</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POND FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52304/POND%20FARM%20CEMETERY">POND FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84544,50.76906</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHITE HOUSE CEMETERY, ST. JEAN-LES-YPRES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52400/WHITE%20HOUSE%20CEMETERY%2C%20ST.%20JEAN-LES-YPRES">WHITE HOUSE CEMETERY, ST. JEAN-LES-YPRES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89923,50.86172</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KLEIN-VIERSTRAAT BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52500/KLEIN-VIERSTRAAT%20BRITISH%20CEMETERY">KLEIN-VIERSTRAAT BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83924,50.80485</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SUFFOLK CEMETERY, VIERSTRAAT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52501/SUFFOLK%20CEMETERY%2C%20VIERSTRAAT">SUFFOLK CEMETERY, VIERSTRAAT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84469,50.80332</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GODEZONNE FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52502/GODEZONNE%20FARM%20CEMETERY">GODEZONNE FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.84041,50.80062</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELZENWALLE BRASSERIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52503/ELZENWALLE%20BRASSERIE%20CEMETERY">ELZENWALLE BRASSERIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85973,50.81089</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VOORMEZEELE ENCLOSURE NO.3</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52600/VOORMEZEELE%20ENCLOSURE%20NO.3">VOORMEZEELE ENCLOSURE NO.3 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.8732,50.8184</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOOGE CRATER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52700/HOOGE%20CRATER%20CEMETERY">HOOGE CRATER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.9434,50.84623</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIRR CROSS ROADS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/52900/BIRR%20CROSS%20ROADS%20CEMETERY">BIRR CROSS ROADS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92856,50.84757</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/53100/WOODS%20CEMETERY">WOODS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.9155,50.82173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FIRST D.C.L.I. CEMETERY, THE BLUFF</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/53102/FIRST%20D.C.L.I.%20CEMETERY%2C%20THE%20BLUFF">FIRST D.C.L.I. CEMETERY, THE BLUFF at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91325,50.8209</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEDGE ROW TRENCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/53103/HEDGE%20ROW%20TRENCH%20CEMETERY">HEDGE ROW TRENCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91397,50.81948</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PASSCHENDAELE NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/53200/PASSCHENDAELE%20NEW%20BRITISH%20CEMETERY">PASSCHENDAELE NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.01105,50.9044</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TYNE COT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/53300/TYNE%20COT%20CEMETERY">TYNE COT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.99771,50.88699</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANCTUARY WOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54700/SANCTUARY%20WOOD%20CEMETERY">SANCTUARY WOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.94405,50.83842</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOURNAI COMMUNAL CEMETERY ALLIED EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54800/TOURNAI%20COMMUNAL%20CEMETERY%20ALLIED%20EXTENSION">TOURNAI COMMUNAL CEMETERY ALLIED EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.37577,50.596</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEESTERT MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54804/HEESTERT%20MILITARY%20CEMETERY">HEESTERT MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.4114,50.78133</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEUZE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54805/LEUZE%20COMMUNAL%20CEMETERY">LEUZE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.63158,50.59759</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MENEN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54806/MENEN%20COMMUNAL%20CEMETERY">MENEN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.11263,50.79894</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANTOING COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54837/ANTOING%20COMMUNAL%20CEMETERY">ANTOING COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.45645,50.56311</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRASNES-LEZ-ANVAING CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54838/FRASNES-LEZ-ANVAING%20CHURCHYARD">FRASNES-LEZ-ANVAING CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.6473,50.69268</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLEHARIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54839/BLEHARIES%20COMMUNAL%20CEMETERY">BLEHARIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.41365,50.51667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHERCQ CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54840/CHERCQ%20CHURCHYARD">CHERCQ CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.42105,50.58832</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ERE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54841/ERE%20CHURCHYARD">ERE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.36685,50.5821</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESPLECHIN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54842/ESPLECHIN%20CHURCHYARD">ESPLECHIN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.30394,50.57389</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESQUELMES CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54843/ESQUELMES%20CHURCHYARD">ESQUELMES CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.34899,50.66475</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESTAIMBOURG CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54844/ESTAIMBOURG%20CHURCHYARD">ESTAIMBOURG CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.31767,50.68247</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FROIDMONT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54845/FROIDMONT%20COMMUNAL%20CEMETERY">FROIDMONT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.33085,50.58259</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GUIGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54846/GUIGNIES%20COMMUNAL%20CEMETERY">GUIGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.37311,50.5495</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HERINNES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54847/HERINNES%20COMMUNAL%20CEMETERY">HERINNES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.36647,50.70478</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LAMAIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54849/LAMAIN%20COMMUNAL%20CEMETERY">LAMAIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.29229,50.59687</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LESDAIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54850/LESDAIN%20COMMUNAL%20CEMETERY">LESDAIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.38402,50.5217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NECHIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54851/NECHIN%20COMMUNAL%20CEMETERY">NECHIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.27008,50.66584</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OBIGIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54852/OBIGIES%20COMMUNAL%20CEMETERY">OBIGIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.36478,50.66547</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORCQ COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54853/ORCQ%20COMMUNAL%20CEMETERY">ORCQ COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.3482,50.60846</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PECQ COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54854/PECQ%20COMMUNAL%20CEMETERY">PECQ COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.33891,50.69056</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTTES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54855/POTTES%20COMMUNAL%20CEMETERY">POTTES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.41042,50.73383</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUMES CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54856/RUMES%20CHURCHYARD">RUMES CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.30416,50.55572</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUMILLIES CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54857/RUMILLIES%20CHURCHYARD">RUMILLIES CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.43701,50.62021</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. LEGER CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54858/ST.%20LEGER%20CHURCHYARD">ST. LEGER CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.31463,50.70557</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. MAUR CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54859/ST.%20MAUR%20CHURCHYARD">ST. MAUR CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.39172,50.572</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAINTIGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54860/TAINTIGNIES%20COMMUNAL%20CEMETERY">TAINTIGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.34369,50.55309</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEMPLEUVE COMMUNAL CEMETERY, TOURNAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54861/TEMPLEUVE%20COMMUNAL%20CEMETERY%2C%20TOURNAI">TEMPLEUVE COMMUNAL CEMETERY, TOURNAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.28801,50.64216</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEZ-VELVAIN (VELVAIN) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54862/WEZ-VELVAIN%20%28VELVAIN%29%20CHURCHYARD">WEZ-VELVAIN (VELVAIN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.37675,50.54786</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARCOING CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54863/WARCOING%20CHURCHYARD">WARCOING CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.34517,50.70343</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEZ-VELVAIN (WEZ) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54864/WEZ-VELVAIN%20%28WEZ%29%20CHURCHYARD">WEZ-VELVAIN (WEZ) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.38802,50.54664</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AALBEKE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54875/AALBEKE%20COMMUNAL%20CEMETERY">AALBEKE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.2279,50.78067</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KOOIGEM CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54876/KOOIGEM%20CHURCHYARD">KOOIGEM CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.33192,50.74037</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOTTIGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54877/DOTTIGNIES%20COMMUNAL%20CEMETERY">DOTTIGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.30551,50.7306</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPIERE (ESPIERRES) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54878/SPIERE%20%28ESPIERRES%29%20CHURCHYARD">SPIERE (ESPIERRES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.35614,50.71808</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HELKIJN (HELCHIN) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54879/HELKIJN%20%28HELCHIN%29%20CHURCHYARD">HELKIJN (HELCHIN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.38321,50.73009</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARKE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54880/MARKE%20COMMUNAL%20CEMETERY">MARKE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.23988,50.80652</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOUSCRON (MOESKROEN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54881/MOUSCRON%20%28MOESKROEN%29%20COMMUNAL%20CEMETERY">MOUSCRON (MOESKROEN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.2076,50.75024</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEVELGEM COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54884/WEVELGEM%20COMMUNAL%20CEMETERY">WEVELGEM COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.1781,50.80771</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEVERLEE WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55000/HEVERLEE%20WAR%20CEMETERY">HEVERLEE WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.70278,50.8481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUSVAL COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55001/BOUSVAL%20COMMUNAL%20CEMETERY">BOUSVAL COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.51127,50.61908</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRAINE-L'ALLEUD COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55002/BRAINE-L%27ALLEUD%20COMMUNAL%20CEMETERY">BRAINE-L'ALLEUD COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.37152,50.68646</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRUSSELS TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55003/BRUSSELS%20TOWN%20CEMETERY">BRUSSELS TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.41732,50.86437</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HALLE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55004/HALLE%20COMMUNAL%20CEMETERY">HALLE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.22904,50.74497</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOEILAART COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55005/HOEILAART%20COMMUNAL%20CEMETERY">HOEILAART COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.47224,50.77222</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IXELLES (ELSENE) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55006/IXELLES%20%28ELSENE%29%20COMMUNAL%20CEMETERY">IXELLES (ELSENE) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.39035,50.81565</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA HULPE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55007/LA%20HULPE%20COMMUNAL%20CEMETERY">LA HULPE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.48752,50.73381</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEUVEN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55008/LEUVEN%20COMMUNAL%20CEMETERY">LEUVEN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.71441,50.87018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIVELLES (NIJVEL) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55009/NIVELLES%20%28NIJVEL%29%20COMMUNAL%20CEMETERY">NIVELLES (NIJVEL) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.33169,50.59245</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OVERIJSE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55010/OVERIJSE%20COMMUNAL%20CEMETERY">OVERIJSE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.53506,50.77428</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAMBEEK CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55012/WAMBEEK%20CHURCHYARD">WAMBEEK CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.16207,50.8527</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRAINE-LE-COMTE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55013/BRAINE-LE-COMTE%20COMMUNAL%20CEMETERY">BRAINE-LE-COMTE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.13166,50.61555</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHARLEROI COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55014/CHARLEROI%20COMMUNAL%20CEMETERY">CHARLEROI COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.45503,50.42489</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COURCELLES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55015/COURCELLES%20COMMUNAL%20CEMETERY">COURCELLES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.35789,50.46018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOSSELIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55016/GOSSELIES%20COMMUNAL%20CEMETERY">GOSSELIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.43869,50.46412</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LANDELIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55018/LANDELIES%20COMMUNAL%20CEMETERY">LANDELIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.35249,50.37718</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARCINELLE NEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55020/MARCINELLE%20NEW%20COMMUNAL%20CEMETERY">MARCINELLE NEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.4439,50.37847</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUMOY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55021/SOUMOY%20COMMUNAL%20CEMETERY">SOUMOY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.44136,50.1866</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VOGENEE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55022/VOGENEE%20COMMUNAL%20CEMETERY">VOGENEE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.44645,50.23852</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POLYGON WOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55100/POLYGON%20WOOD%20CEMETERY">POLYGON WOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.99043,50.85706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUTTES NEW BRITISH CEMETERY, POLYGON WOOD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55101/BUTTES%20NEW%20BRITISH%20CEMETERY%2C%20POLYGON%20WOOD">BUTTES NEW BRITISH CEMETERY, POLYGON WOOD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.99084,50.85694</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAPLE COPSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55102/MAPLE%20COPSE%20CEMETERY">MAPLE COPSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.93913,50.83549</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIVISIONAL COLLECTING POST CEMETERY AND EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55107/DIVISIONAL%20COLLECTING%20POST%20CEMETERY%20AND%20EXTENSION">DIVISIONAL COLLECTING POST CEMETERY AND EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89406,50.87399</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BELGRADE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55200/BELGRADE%20CEMETERY">BELGRADE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.83375,50.47258</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIEGE (ROBERMONT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55201/LIEGE%20%28ROBERMONT%29%20CEMETERY">LIEGE (ROBERMONT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.60563,50.63238</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUY (LA SARTE) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55202/HUY%20%28LA%20SARTE%29%20COMMUNAL%20CEMETERY">HUY (LA SARTE) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.25406,50.5151</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOUYET CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55203/HOUYET%20CHURCHYARD">HOUYET CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.01144,50.18532</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THEUX COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55204/THEUX%20COMMUNAL%20CEMETERY">THEUX COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.80323,50.53584</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUTRE-EGLISE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55209/AUTRE-EGLISE%20CHURCHYARD">AUTRE-EGLISE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.92511,50.66352</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONT ST. ANDRE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55210/MONT%20ST.%20ANDRE%20CHURCHYARD">MONT ST. ANDRE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.86332,50.65491</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIL ST. VINCENT (ST. MARTIN) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55211/NIL%20ST.%20VINCENT%20%28ST.%20MARTIN%29%20CHURCHYARD">NIL ST. VINCENT (ST. MARTIN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.67268,50.64262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAVRE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55212/WAVRE%20COMMUNAL%20CEMETERY">WAVRE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.62457,50.71774</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FROMIEE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55215/FROMIEE%20COMMUNAL%20CEMETERY">FROMIEE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.57423,50.32982</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOUGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55216/GOUGNIES%20COMMUNAL%20CEMETERY">GOUGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.5783,50.35795</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMPSIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55227/AMPSIN%20COMMUNAL%20CEMETERY">AMPSIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.27994,50.54116</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANGLEUR COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55228/ANGLEUR%20COMMUNAL%20CEMETERY">ANGLEUR COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.59136,50.60649</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANTHEIT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55229/ANTHEIT%20COMMUNAL%20CEMETERY">ANTHEIT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.23646,50.55303</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AVIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55230/AVIN%20COMMUNAL%20CEMETERY">AVIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.06648,50.62375</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DESNIE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55231/DESNIE%20CHURCHYARD">DESNIE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.80987,50.46091</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOHA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55234/MOHA%20COMMUNAL%20CEMETERY">MOHA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.18022,50.54588</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEPINSTER COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55236/PEPINSTER%20COMMUNAL%20CEMETERY">PEPINSTER COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.80734,50.56761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55238/SPA%20COMMUNAL%20CEMETERY">SPA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.86145,50.4957</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VERVIERS COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55239/VERVIERS%20COMMUNAL%20CEMETERY">VERVIERS COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.88382,50.59682</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VELDWEZELT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55240/VELDWEZELT%20COMMUNAL%20CEMETERY">VELDWEZELT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.63392,50.86263</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIBRAMONT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55244/LIBRAMONT%20COMMUNAL%20CEMETERY">LIBRAMONT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.37555,49.91581</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUVELAIS NEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55255/AUVELAIS%20NEW%20COMMUNAL%20CEMETERY">AUVELAIS NEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.62722,50.43933</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEAURAING COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55256/BEAURAING%20COMMUNAL%20CEMETERY">BEAURAING COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.96574,50.10935</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DINANT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55258/DINANT%20COMMUNAL%20CEMETERY">DINANT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.88627,50.25036</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JAMBES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55260/JAMBES%20COMMUNAL%20CEMETERY">JAMBES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.8838,50.45457</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIVES-SUR-MEUSE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55261/LIVES-SUR-MEUSE%20CHURCHYARD">LIVES-SUR-MEUSE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.92395,50.46569</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALONNE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55263/MALONNE%20COMMUNAL%20CEMETERY">MALONNE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.79248,50.43783</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MORVILLE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55264/MORVILLE%20COMMUNAL%20CEMETERY">MORVILLE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.74642,50.23535</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55266/SPY%20COMMUNAL%20CEMETERY">SPY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.69981,50.48277</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAMINES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55267/TAMINES%20COMMUNAL%20CEMETERY">TAMINES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.59878,50.43361</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANGREAU COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55300/ANGREAU%20COMMUNAL%20CEMETERY">ANGREAU COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.69274,50.34981</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUDREGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55301/AUDREGNIES%20COMMUNAL%20CEMETERY">AUDREGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.71406,50.38067</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELOUGES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55303/ELOUGES%20COMMUNAL%20CEMETERY">ELOUGES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.75047,50.404</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ERQUELINNES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55304/ERQUELINNES%20COMMUNAL%20CEMETERY">ERQUELINNES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.13217,50.31266</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAUTRAGE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55305/HAUTRAGE%20COMMUNAL%20CEMETERY">HAUTRAGE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.76868,50.48146</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAUTRAGE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55306/HAUTRAGE%20MILITARY%20CEMETERY">HAUTRAGE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.78334,50.4728</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRAMERIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55307/FRAMERIES%20COMMUNAL%20CEMETERY">FRAMERIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.9072,50.41256</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUIEVRAIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55308/QUIEVRAIN%20COMMUNAL%20CEMETERY">QUIEVRAIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.6874,50.40278</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROISIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55309/ROISIN%20COMMUNAL%20CEMETERY">ROISIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.70576,50.3295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FLENU COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55316/FLENU%20COMMUNAL%20CEMETERY">FLENU COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.88558,50.43953</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTIGNIES-SUR-ROC CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55318/MONTIGNIES-SUR-ROC%20CHURCHYARD">MONTIGNIES-SUR-ROC CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.73181,50.37086</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARQUIGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55320/WARQUIGNIES%20COMMUNAL%20CEMETERY">WARQUIGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.82501,50.39929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANGRE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55327/ANGRE%20COMMUNAL%20CEMETERY">ANGRE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.69872,50.37073</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CUESMES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55328/CUESMES%20COMMUNAL%20CEMETERY">CUESMES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.92127,50.43432</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JEMAPPES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55330/JEMAPPES%20COMMUNAL%20CEMETERY">JEMAPPES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.89372,50.44503</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WIHERIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55332/WIHERIES%20COMMUNAL%20CEMETERY">WIHERIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.74129,50.38667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLAUGIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55358/BLAUGIES%20COMMUNAL%20CEMETERY">BLAUGIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.80243,50.37312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUSSU COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55359/BOUSSU%20COMMUNAL%20CEMETERY">BOUSSU COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.79176,50.43092</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUSSU-BOIS COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55360/BOUSSU-BOIS%20COMMUNAL%20CEMETERY">BOUSSU-BOIS COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.78476,50.41849</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUSSU-LEZ-WALCOURT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55361/BOUSSU-LEZ-WALCOURT%20COMMUNAL%20CEMETERY">BOUSSU-LEZ-WALCOURT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.37027,50.22541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOUR COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55362/DOUR%20COMMUNAL%20CEMETERY">DOUR COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.77533,50.39307</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ERQUENNES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55363/ERQUENNES%20COMMUNAL%20CEMETERY">ERQUENNES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.79568,50.36106</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FONTAINE-VALMONT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55365/FONTAINE-VALMONT%20COMMUNAL%20CEMETERY">FONTAINE-VALMONT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.20883,50.31942</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GHLIN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55367/GHLIN%20COMMUNAL%20CEMETERY">GHLIN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.89879,50.47784</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HANTES-WIHERIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55368/HANTES-WIHERIES%20COMMUNAL%20CEMETERY">HANTES-WIHERIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.18041,50.30478</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARCHIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55369/HARCHIES%20COMMUNAL%20CEMETERY">HARCHIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.68775,50.48019</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HERCHIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55370/HERCHIES%20COMMUNAL%20CEMETERY">HERCHIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.85934,50.53183</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MASNUY ST. PIERRE NEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55372/MASNUY%20ST.%20PIERRE%20NEW%20COMMUNAL%20CEMETERY">MASNUY ST. PIERRE NEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.95552,50.53868</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTBLIART COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55373/MONTBLIART%20COMMUNAL%20CEMETERY">MONTBLIART COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.22788,50.13537</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEVAUCAMPS COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55374/QUEVAUCAMPS%20COMMUNAL%20CEMETERY">QUEVAUCAMPS COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.67425,50.51932</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEVY-LE-PETIT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55375/QUEVY-LE-PETIT%20COMMUNAL%20CEMETERY">QUEVY-LE-PETIT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.9399,50.36612</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SIVRY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55377/SIVRY%20COMMUNAL%20CEMETERY">SIVRY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.17912,50.16945</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOLRE-ST. GERY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55378/SOLRE-ST.%20GERY%20COMMUNAL%20CEMETERY">SOLRE-ST. GERY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.24854,50.22078</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VILLEROT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55379/VILLEROT%20COMMUNAL%20CEMETERY">VILLEROT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.79577,50.48598</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MESSINES RIDGE BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55400/MESSINES%20RIDGE%20BRITISH%20CEMETERY">MESSINES RIDGE BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89076,50.76488</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WULVERGEM CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55401/WULVERGEM%20CHURCHYARD">WULVERGEM CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85474,50.75951</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIEUWKERKE (NEUVE-EGLISE) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55402/NIEUWKERKE%20%28NEUVE-EGLISE%29%20CHURCHYARD">NIEUWKERKE (NEUVE-EGLISE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.82582,50.74619</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEDFORD HOUSE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55502/BEDFORD%20HOUSE%20CEMETERY">BEDFORD HOUSE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88792,50.82706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POPERINGE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55600/POPERINGE%20COMMUNAL%20CEMETERY">POPERINGE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.72675,50.85212</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POPERINGHE OLD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55601/POPERINGHE%20OLD%20MILITARY%20CEMETERY">POPERINGHE OLD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.72831,50.85077</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARLEBEKE NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55701/HARLEBEKE%20NEW%20BRITISH%20CEMETERY">HARLEBEKE NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.32437,50.85942</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STASEGEM COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55702/STASEGEM%20COMMUNAL%20CEMETERY">STASEGEM COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.31032,50.83178</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VICHTE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55705/VICHTE%20MILITARY%20CEMETERY">VICHTE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.38851,50.83449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HULSTE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55714/HULSTE%20COMMUNAL%20CEMETERY">HULSTE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.2965,50.88429</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. BAAFS-VIJVE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55715/ST.%20BAAFS-VIJVE%20CHURCHYARD">ST. BAAFS-VIJVE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.39183,50.90898</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WIELSBEKE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55716/WIELSBEKE%20COMMUNAL%20CEMETERY">WIELSBEKE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.37888,50.90524</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LONDON RIFLE BRIGADE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55804/LONDON%20RIFLE%20BRIGADE%20CEMETERY">LONDON RIFLE BRIGADE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88245,50.72107</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TANCREZ FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55805/TANCREZ%20FARM%20CEMETERY">TANCREZ FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.90192,50.70959</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAPLE LEAF CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55806/MAPLE%20LEAF%20CEMETERY">MAPLE LEAF CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.83899,50.72056</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPOILBANK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55900/SPOILBANK%20CEMETERY">SPOILBANK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89949,50.82003</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LARCH WOOD (RAILWAY CUTTING) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55901/LARCH%20WOOD%20%28RAILWAY%20CUTTING%29%20CEMETERY">LARCH WOOD (RAILWAY CUTTING) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92291,50.8281</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUILERIES BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55902/TUILERIES%20BRITISH%20CEMETERY">TUILERIES BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92042,50.83994</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZILLEBEKE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55903/ZILLEBEKE%20CHURCHYARD">ZILLEBEKE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.92226,50.83553</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAILWAY CHATEAU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/55905/RAILWAY%20CHATEAU%20CEMETERY">RAILWAY CHATEAU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85727,50.85313</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAILWAY DUGOUTS BURIAL GROUND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/56000/RAILWAY%20DUGOUTS%20BURIAL%20GROUND">RAILWAY DUGOUTS BURIAL GROUND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.9035,50.83526</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POELCAPELLE BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/56100/POELCAPELLE%20BRITISH%20CEMETERY">POELCAPELLE BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.97188,50.92104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TYNE COT MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/85900/TYNE%20COT%20MEMORIAL">TYNE COT MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.00051,50.88745</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PLOEGSTEERT MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/88800/PLOEGSTEERT%20MEMORIAL">PLOEGSTEERT MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.88228,50.7378</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONS (BERGEN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90800/MONS%20%28BERGEN%29%20COMMUNAL%20CEMETERY">MONS (BERGEN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.97502,50.45955</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. SYMPHORIEN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90801/ST.%20SYMPHORIEN%20MILITARY%20CEMETERY">ST. SYMPHORIEN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.01102,50.43271</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA LOUVIERE TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90802/LA%20LOUVIERE%20TOWN%20CEMETERY">LA LOUVIERE TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.20346,50.48185</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOIGNIES (ZINNIK) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90803/SOIGNIES%20%28ZINNIK%29%20COMMUNAL%20CEMETERY">SOIGNIES (ZINNIK) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.07871,50.58235</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ASQUILLIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90804/ASQUILLIES%20COMMUNAL%20CEMETERY">ASQUILLIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.95407,50.40142</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BINCHE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90805/BINCHE%20COMMUNAL%20CEMETERY">BINCHE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.16584,50.41918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOIS-D'HAINE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90806/BOIS-D%27HAINE%20COMMUNAL%20CEMETERY">BOIS-D'HAINE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.21713,50.49309</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUGNIES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90807/BOUGNIES%20COMMUNAL%20CEMETERY">BOUGNIES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.94467,50.39077</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CIPLY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90808/CIPLY%20COMMUNAL%20CEMETERY">CIPLY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.94301,50.41405</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESTINNES-AU-MONT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90809/ESTINNES-AU-MONT%20COMMUNAL%20CEMETERY">ESTINNES-AU-MONT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.09275,50.3937</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIVRY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90810/GIVRY%20COMMUNAL%20CEMETERY">GIVRY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.02894,50.38103</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARVENG CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90811/HARVENG%20CHURCHYARD">HARVENG CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.98743,50.39537</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAVAY COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90812/HAVAY%20COMMUNAL%20CEMETERY">HAVAY COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.98079,50.36434</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MIGNAULT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90813/MIGNAULT%20COMMUNAL%20CEMETERY">MIGNAULT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.14834,50.53051</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NOUVELLES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90814/NOUVELLES%20COMMUNAL%20CEMETERY">NOUVELLES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.96608,50.41455</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPIENNES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90815/SPIENNES%20COMMUNAL%20CEMETERY">SPIENNES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.98194,50.42385</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YPRES (MENIN GATE) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91800/YPRES%20%28MENIN%20GATE%29%20MEMORIAL">YPRES (MENIN GATE) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89138,50.8521</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIEUPORT MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142014/NIEUPORT%20MEMORIAL">NIEUPORT MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.75547,51.13698</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUTTES NEW BRITISH CEMETERY (N.Z.) MEMORIAL, POLYGON WOOD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/166200/BUTTES%20NEW%20BRITISH%20CEMETERY%20%28N.Z.%29%20MEMORIAL%2C%20POLYGON%20WOOD">BUTTES NEW BRITISH CEMETERY (N.Z.) MEMORIAL, POLYGON WOOD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.99085,50.85692</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MESSINES RIDGE (N.Z.) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/166300/MESSINES%20RIDGE%20%28N.Z.%29%20MEMORIAL">MESSINES RIDGE (N.Z.) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89067,50.76509</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. QUENTIN CABARET MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000017/ST.%20QUENTIN%20CABARET%20MILITARY%20CEMETERY">ST. QUENTIN CABARET MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85607,50.75712</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YPRES TOWN CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000018/YPRES%20TOWN%20CEMETERY%20EXTENSION">YPRES TOWN CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.89727,50.85417</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RATION FARM (LA PLUS DOUVE) ANNEXE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000019/RATION%20FARM%20%28LA%20PLUS%20DOUVE%29%20ANNEXE">RATION FARM (LA PLUS DOUVE) ANNEXE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.86352,50.754</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTIJZE CHATEAU GROUNDS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000020/POTIJZE%20CHATEAU%20GROUNDS%20CEMETERY">POTIJZE CHATEAU GROUNDS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91548,50.86119</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VOORMEZELE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000021/VOORMEZELE%20CHURCHYARD">VOORMEZELE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87552,50.81684</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOSPITAL FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000282/HOSPITAL%20FARM%20CEMETERY">HOSPITAL FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.7994,50.86969</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>R.E. GRAVE, RAILWAY WOOD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000561/R.E.%20GRAVE%2C%20RAILWAY%20WOOD">R.E. GRAVE, RAILWAY WOOD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.93697,50.85239</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLANKENBERGE TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2006753/BLANKENBERGE%20TOWN%20CEMETERY">BLANKENBERGE TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.12878,51.30715</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRUGGE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2006755/BRUGGE%20GENERAL%20CEMETERY">BRUGGE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.23937,51.19399</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANZEGEM COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023701/ANZEGEM%20COMMUNAL%20CEMETERY">ANZEGEM COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.48357,50.83241</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEVEREN-IJZER CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023706/BEVEREN-IJZER%20CHURCHYARD">BEVEREN-IJZER CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.64188,50.93882</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOEZINGE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023709/BOEZINGE%20CHURCHYARD">BOEZINGE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.85528,50.89584</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUHALLOW A.D.S. CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023718/DUHALLOW%20A.D.S.%20CEMETERY">DUHALLOW A.D.S. CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.87709,50.86395</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GROOTEBEEK BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023723/GROOTEBEEK%20BRITISH%20CEMETERY">GROOTEBEEK BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78227,50.8259</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INGOYGHEM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023731/INGOYGHEM%20MILITARY%20CEMETERY">INGOYGHEM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.43483,50.81946</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOCRE HOSPICE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023737/LOCRE%20HOSPICE%20CEMETERY">LOCRE HOSPICE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78066,50.77921</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROESELARE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023754/ROESELARE%20COMMUNAL%20CEMETERY">ROESELARE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.11793,50.94338</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTOUTRE BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2023773/WESTOUTRE%20BRITISH%20CEMETERY">WESTOUTRE BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.74494,50.8001</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SCHOONSELHOF CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2024000/SCHOONSELHOF%20CEMETERY">SCHOONSELHOF CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.36366,51.16855</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANTINCRODE (KRIJGSBAAN) CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2085403/CANTINCRODE%20%28KRIJGSBAAN%29%20CIVIL%20CEMETERY">CANTINCRODE (KRIJGSBAAN) CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.46555,51.1803</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TURNHOUT COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2085416/TURNHOUT%20COMMUNAL%20CEMETERY">TURNHOUT COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.95721,51.31811</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GENT CITY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094100/GENT%20CITY%20CEMETERY">GENT CITY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.69768,51.06817</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DENDERMONDE COMMUNAL CEMETERY AND EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094106/DENDERMONDE%20COMMUNAL%20CEMETERY%20AND%20EXTENSION">DENDERMONDE COMMUNAL CEMETERY AND EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.07084,51.02734</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EINE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094109/EINE%20CHURCHYARD">EINE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.62127,50.86832</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOREGEM CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094120/MOREGEM%20CHURCHYARD">MOREGEM CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.56183,50.85042</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OUDENAARDE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094123/OUDENAARDE%20COMMUNAL%20CEMETERY">OUDENAARDE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.6094,50.84913</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RONSE (RENAIX) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094125/RONSE%20%28RENAIX%29%20COMMUNAL%20CEMETERY">RONSE (RENAIX) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.58732,50.74204</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. NIKLAAS COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094128/ST.%20NIKLAAS%20COMMUNAL%20CEMETERY">ST. NIKLAAS COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.14461,51.15659</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOKER CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102000/LOKER%20CHURCHYARD">LOKER CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.77192,50.78224</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOCRE NO.10 CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102002/LOCRE%20NO.10%20CEMETERY">LOCRE NO.10 CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.7769,50.77193</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEMMEL CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102004/KEMMEL%20CHURCHYARD">KEMMEL CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.82584,50.78352</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAGLE DUMP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102007/HAGLE%20DUMP%20CEMETERY">HAGLE DUMP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78192,50.8613</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RED FARM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102008/RED%20FARM%20MILITARY%20CEMETERY">RED FARM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78041,50.85481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. JAN-TER-BIEZEN COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102013/ST.%20JAN-TER-BIEZEN%20COMMUNAL%20CEMETERY">ST. JAN-TER-BIEZEN COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.66479,50.85802</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERCHEM (ANTWERPEN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104601/BERCHEM%20%28ANTWERPEN%29%20COMMUNAL%20CEMETERY">BERCHEM (ANTWERPEN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.4237,51.18573</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERCHEM (KLUISBERGEN) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104606/BERCHEM%20%28KLUISBERGEN%29%20COMMUNAL%20CEMETERY">BERCHEM (KLUISBERGEN) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.5217,50.79578</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOTTELARE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104607/BOTTELARE%20CHURCHYARD">BOTTELARE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.75505,50.96322</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOEKHOUTE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104608/BOEKHOUTE%20CHURCHYARD">BOEKHOUTE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.71332,51.25679</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELSEGEM CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104609/ELSEGEM%20CHURCHYARD">ELSEGEM CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.53732,50.82444</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EKSAARDE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104610/EKSAARDE%20COMMUNAL%20CEMETERY">EKSAARDE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.96239,51.15049</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIJZENZELE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104613/GIJZENZELE%20CHURCHYARD">GIJZENZELE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.81574,50.97097</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAZARETH CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104618/NAZARETH%20CHURCHYARD">NAZARETH CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.59609,50.9591</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PETEGEM CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104619/PETEGEM%20CHURCHYARD">PETEGEM CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.5563,50.83324</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SCHELDEWINDEKE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104623/SCHELDEWINDEKE%20CHURCHYARD">SCHELDEWINDEKE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.78477,50.93779</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESCANAFFLES COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104626/ESCANAFFLES%20COMMUNAL%20CEMETERY">ESCANAFFLES COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.45171,50.75371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OUTRIJVE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104628/OUTRIJVE%20CHURCHYARD">OUTRIJVE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.42954,50.75523</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOOGSTADE BELGIAN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104634/HOOGSTADE%20BELGIAN%20MILITARY%20CEMETERY">HOOGSTADE BELGIAN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.68918,50.97874</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOUTAVE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104635/HOUTAVE%20CHURCHYARD">HOUTAVE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.11032,51.23616</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OOSTROZEBEKE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104640/OOSTROZEBEKE%20COMMUNAL%20CEMETERY">OOSTROZEBEKE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.337,50.92273</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUDDERVOORDE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104643/RUDDERVOORDE%20COMMUNAL%20CEMETERY">RUDDERVOORDE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.20713,51.09782</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STALHILLE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104644/STALHILLE%20CHURCHYARD">STALHILLE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.07168,51.21458</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTVLETEREN BELGIAN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104648/WESTVLETEREN%20BELGIAN%20MILITARY%20CEMETERY">WESTVLETEREN BELGIAN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.7204,50.92687</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZEEBRUGGE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104649/ZEEBRUGGE%20CHURCHYARD">ZEEBRUGGE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.20767,51.33217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZEEBRUGGE MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2104650/ZEEBRUGGE%20MEMORIAL">ZEEBRUGGE MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.2074,51.33216</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BAARLE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2105274/BAARLE%20CHURCHYARD">BAARLE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.6197,51.03716</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTOUTER CHURCHYARD AND EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2105400/WESTOUTER%20CHURCHYARD%20AND%20EXTENSION">WESTOUTER CHURCHYARD AND EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.74598,50.79773</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRANDHOEK NEW MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003808/BRANDHOEK%20NEW%20MILITARY%20CEMETERY">BRANDHOEK NEW MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.78781,50.85273</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LANGEMARK GERMAN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007433/LANGEMARK%20GERMAN%20MILITARY%20CEMETERY">LANGEMARK GERMAN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.91747,50.92016</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MACHELEN FRENCH MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001086/MACHELEN%20FRENCH%20MILITARY%20CEMETERY">MACHELEN FRENCH MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.48934,50.95829</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

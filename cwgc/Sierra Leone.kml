@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Sierra Leone</name>
+  <description>Cemeteries in Sierra Leone from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>FREETOWN (KING TOM) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47323/FREETOWN%20%28KING%20TOM%29%20CEMETERY">FREETOWN (KING TOM) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -13.24653,8.49255</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FREETOWN (KING TOM) CEMETERY MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47324/FREETOWN%20%28KING%20TOM%29%20CEMETERY%20MEMORIAL">FREETOWN (KING TOM) CEMETERY MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -13.24648,8.49302</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

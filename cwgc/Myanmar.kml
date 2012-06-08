@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Myanmar</name>
+  <description>Cemeteries in Myanmar from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>RANGOON WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/92001/RANGOON%20WAR%20CEMETERY">RANGOON WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 96.13381,16.81157</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAUKKYAN WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/92002/TAUKKYAN%20WAR%20CEMETERY">TAUKKYAN WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 96.13127,17.03567</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAUKKYAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/144301/TAUKKYAN%20MEMORIAL">TAUKKYAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 96.13141,17.03583</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

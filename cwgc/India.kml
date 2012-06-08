@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for India</name>
+  <description>Cemeteries in India from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>DELHI WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/92000/DELHI%20WAR%20CEMETERY">DELHI WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 77.14542,28.61624</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CALCUTTA (BHOWANIPORE) CEMETERY, KOLKATA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/92010/CALCUTTA%20%28BHOWANIPORE%29%20CEMETERY%2C%20KOLKATA">CALCUTTA (BHOWANIPORE) CEMETERY, KOLKATA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 88.33845,22.53473</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MADRAS (ST. MARY'S) CEMETERY, CHENNAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/92011/MADRAS%20%28ST.%20MARY%27S%29%20CEMETERY%2C%20CHENNAI">MADRAS (ST. MARY'S) CEMETERY, CHENNAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 80.27612,13.07759</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DELHI MEMORIAL (INDIA GATE)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142700/DELHI%20MEMORIAL%20%28INDIA%20GATE%29">DELHI MEMORIAL (INDIA GATE) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 77.22945,28.61307</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHILLONG MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142701/SHILLONG%20MEMORIAL">SHILLONG MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 91.90255,25.57715</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DELHI 1914-1918 WAR MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/144302/DELHI%201914-1918%20WAR%20MEMORIAL">DELHI 1914-1918 WAR MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 77.14552,28.61633</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MADRAS 1914-1918 WAR MEMORIAL, CHENNAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/145401/MADRAS%201914-1918%20WAR%20MEMORIAL%2C%20CHENNAI">MADRAS 1914-1918 WAR MEMORIAL, CHENNAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 80.19465,13.01452</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KIRKEE 1914-1918 MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/146500/KIRKEE%201914-1918%20MEMORIAL">KIRKEE 1914-1918 MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 73.85696,18.55192</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MADRAS (ST. PATRICK'S) CEMETERY, CHENNAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2015102/MADRAS%20%28ST.%20PATRICK%27S%29%20CEMETERY%2C%20CHENNAI">MADRAS (ST. PATRICK'S) CEMETERY, CHENNAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 80.27471,13.07813</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOMBAY 1914-1918 MEMORIAL, MUMBAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111731/BOMBAY%201914-1918%20MEMORIAL%2C%20MUMBAI">BOMBAY 1914-1918 MEMORIAL, MUMBAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 72.8391,18.95509</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOMBAY (ST. THOMAS) CATHEDRAL MEMORIAL, MUMBAI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111732/BOMBAY%20%28ST.%20THOMAS%29%20CATHEDRAL%20MEMORIAL%2C%20MUMBAI">BOMBAY (ST. THOMAS) CATHEDRAL MEMORIAL, MUMBAI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 72.83338,18.93187</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

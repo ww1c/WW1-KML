@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Tanzania</name>
+  <description>Cemeteries in Tanzania from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>DODOMA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12000/DODOMA%20CEMETERY">DODOMA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.74208,-6.18315</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOSHI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12017/MOSHI%20CEMETERY">MOSHI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 37.3312,-3.34769</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DAR ES SALAAM (UPANGA ROAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12101/DAR%20ES%20SALAAM%20%28UPANGA%20ROAD%29%20CEMETERY">DAR ES SALAAM (UPANGA ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.28665,-6.80751</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUGU ROAD 1914-1918 MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12102/PUGU%20ROAD%201914-1918%20MEMORIAL">PUGU ROAD 1914-1918 MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.28715,-6.80743</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IRINGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12105/IRINGA%20CEMETERY">IRINGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.69981,-7.77931</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DAR ES SALAAM WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91100/DAR%20ES%20SALAAM%20WAR%20CEMETERY">DAR ES SALAAM WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.24463,-6.77467</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DAR ES SALAAM BRITISH AND INDIAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142501/DAR%20ES%20SALAAM%20BRITISH%20AND%20INDIAN%20MEMORIAL">DAR ES SALAAM BRITISH AND INDIAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.24468,-6.77431</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TANGA MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142602/TANGA%20MEMORIAL%20CEMETERY">TANGA MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.10941,-5.07591</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TANGA (JASIN) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142604/TANGA%20%28JASIN%29%20MEMORIAL">TANGA (JASIN) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.10925,-5.07589</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DAR ES SALAAM HINDU CREMATION MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000360/DAR%20ES%20SALAAM%20HINDU%20CREMATION%20MEMORIAL">DAR ES SALAAM HINDU CREMATION MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.24423,-6.77396</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZANZIBAR (GRAVE ISLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000438/ZANZIBAR%20%28GRAVE%20ISLAND%29%20CEMETERY">ZANZIBAR (GRAVE ISLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 39.19156,-6.12678</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Jamaica</name>
+  <description>Cemeteries in Jamaica from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>LUCEA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007290/LUCEA%20CEMETERY">LUCEA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.17525,18.45258</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUFF BAY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007291/BUFF%20BAY%20CEMETERY">BUFF BAY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.67066,18.2426</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FALMOUTH CEMETERY, JAMAICA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007292/FALMOUTH%20CEMETERY%2C%20JAMAICA">FALMOUTH CEMETERY, JAMAICA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.65996,18.48998</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SILOAH ST. BARNABAS CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007294/SILOAH%20ST.%20BARNABAS%20CHURCHYARD">SILOAH ST. BARNABAS CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.70882,18.17156</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HALF WAY TREE ST. ANDREW CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007295/HALF%20WAY%20TREE%20ST.%20ANDREW%20CHURCH%20CEMETERY">HALF WAY TREE ST. ANDREW CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.79989,18.01162</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Mauritius</name>
+  <description>Cemeteries in Mauritius from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>PHOENIX CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91608/PHOENIX%20CEMETERY">PHOENIX CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 57.49016,-20.28856</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT LOUIS NEW WESTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91609/PORT%20LOUIS%20NEW%20WESTERN%20CEMETERY">PORT LOUIS NEW WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 57.4859,-20.16322</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT LOUIS WESTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91610/PORT%20LOUIS%20WESTERN%20CEMETERY">PORT LOUIS WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 57.48703,-20.16019</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT LOUIS (ROCHE-BOIS) EASTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91611/PORT%20LOUIS%20%28ROCHE-BOIS%29%20EASTERN%20CEMETERY">PORT LOUIS (ROCHE-BOIS) EASTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 57.5028,-20.14813</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHOENIX MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91612/PHOENIX%20MEMORIAL">PHOENIX MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 57.49019,-20.28868</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

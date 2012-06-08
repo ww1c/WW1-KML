@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Hungary</name>
+  <description>Cemeteries in Hungary from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>CALVARIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54323/CALVARIA%20CEMETERY">CALVARIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.96482,46.16954</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAKOSKERESZTUR HUNGARIAN NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54324/RAKOSKERESZTUR%20HUNGARIAN%20NATIONAL%20CEMETERY">RAKOSKERESZTUR HUNGARIAN NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 19.17903,47.4729</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUDAPEST WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54325/BUDAPEST%20WAR%20CEMETERY">BUDAPEST WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.95696,47.60082</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Sri Lanka</name>
+  <description>Cemeteries in Sri Lanka from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>JAAWATTE MUSLIM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49406/JAAWATTE%20MUSLIM%20CEMETERY">JAAWATTE MUSLIM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 79.86872,6.89718</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLOMBO (KANATTE) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49407/COLOMBO%20%28KANATTE%29%20GENERAL%20CEMETERY">COLOMBO (KANATTE) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 79.87748,6.90794</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KUPPIYAWATTE MUSLIM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49409/KUPPIYAWATTE%20MUSLIM%20CEMETERY">KUPPIYAWATTE MUSLIM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 79.87513,6.92735</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLOMBO (LIVERAMENTU) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000316/COLOMBO%20%28LIVERAMENTU%29%20CEMETERY">COLOMBO (LIVERAMENTU) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 79.86901,6.8966</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANDY CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000317/KANDY%20CIVIL%20CEMETERY">KANDY CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 80.63377,7.30414</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANDY WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2009501/KANDY%20WAR%20CEMETERY">KANDY WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 80.60807,7.28172</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Romania</name>
+  <description>Cemeteries in Romania from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BUCHAREST WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54329/BUCHAREST%20WAR%20CEMETERY">BUCHAREST WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.09567,44.70846</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUCHAREST GERMAN PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54331/BUCHAREST%20GERMAN%20PROTESTANT%20CEMETERY">BUCHAREST GERMAN PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.09677,44.40396</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SLOBOZIA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54333/SLOBOZIA%20MILITARY%20CEMETERY">SLOBOZIA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.35709,44.56655</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

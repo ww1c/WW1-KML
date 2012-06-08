@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Israel and Palestine (including Gaza)</name>
+  <description>Cemeteries in Israel and Palestine (including Gaza) from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BEERSHEBA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71100/BEERSHEBA%20WAR%20CEMETERY">BEERSHEBA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.78391,31.24417</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEIR EL BELAH WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71200/DEIR%20EL%20BELAH%20WAR%20CEMETERY">DEIR EL BELAH WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.37361,31.42497</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERUSALEM WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71401/JERUSALEM%20WAR%20CEMETERY">JERUSALEM WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.23947,31.79812</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERUSALEM PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71403/JERUSALEM%20PROTESTANT%20CEMETERY">JERUSALEM PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.2276,31.77033</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GAZA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71701/GAZA%20WAR%20CEMETERY">GAZA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.4821,31.51247</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAMLEH WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72001/RAMLEH%20WAR%20CEMETERY">RAMLEH WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.88383,31.93018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAIFA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72004/HAIFA%20WAR%20CEMETERY">HAIFA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.98559,32.82777</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAIFA JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72005/HAIFA%20JEWISH%20CEMETERY">HAIFA JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.98943,32.82537</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEL AVIV JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72006/TEL%20AVIV%20JEWISH%20CEMETERY">TEL AVIV JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.76972,32.0752</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RICHON-LE-ZION JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72007/RICHON-LE-ZION%20JEWISH%20CEMETERY">RICHON-LE-ZION JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.81788,31.97105</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAIFA INDIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72107/HAIFA%20INDIAN%20CEMETERY">HAIFA INDIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.98629,32.82757</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERUSALEM INDIAN WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/72111/JERUSALEM%20INDIAN%20WAR%20CEMETERY">JERUSALEM INDIAN WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.22239,31.74946</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAMLEH 1914-18 MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003783/RAMLEH%201914-18%20MEMORIAL">RAMLEH 1914-18 MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.8858,31.93031</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERUSALEM LATIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007284/JERUSALEM%20LATIN%20CEMETERY">JERUSALEM LATIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.22914,31.77221</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

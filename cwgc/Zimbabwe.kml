@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Zimbabwe</name>
+  <description>Cemeteries in Zimbabwe from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BULAWAYO (ATHLONE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91632/BULAWAYO%20%28ATHLONE%29%20CEMETERY">BULAWAYO (ATHLONE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.59161,-20.12167</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHEGUTU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91633/CHEGUTU%20CEMETERY">CHEGUTU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.15873,-18.13495</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHIVHU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91634/CHIVHU%20CEMETERY">CHIVHU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.89831,-18.99999</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARARE (PIONEER) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91636/HARARE%20%28PIONEER%29%20CEMETERY">HARARE (PIONEER) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.03899,-17.85092</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KADOMA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91637/KADOMA%20CEMETERY">KADOMA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.90981,-18.32923</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MASVINGO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91639/MASVINGO%20CEMETERY">MASVINGO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.84057,-20.07684</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MUTARE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91640/MUTARE%20CEMETERY">MUTARE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.64875,-18.97303</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARARE MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142302/HARARE%20MEMORIAL">HARARE MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.03735,-17.85038</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

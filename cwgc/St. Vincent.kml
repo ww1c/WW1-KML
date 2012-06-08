@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for St. Vincent</name>
+  <description>Cemeteries in St. Vincent from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>KINGSTOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2024328/KINGSTOWN%20CEMETERY">KINGSTOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -61.23139,13.15848</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KINGSTOWN (ST. GEORGE) CATHEDRAL CLOSE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2112250/KINGSTOWN%20%28ST.%20GEORGE%29%20CATHEDRAL%20CLOSE">KINGSTOWN (ST. GEORGE) CATHEDRAL CLOSE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -61.22858,13.15695</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

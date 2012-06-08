@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Uganda</name>
+  <description>Cemeteries in Uganda from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ENTEBBE EUROPEAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91624/ENTEBBE%20EUROPEAN%20CEMETERY">ENTEBBE EUROPEAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.46078,0.05418</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MBARARA (ST. JAMES) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91628/MBARARA%20%28ST.%20JAMES%29%20CHURCHYARD">MBARARA (ST. JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.64157,-0.61295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TORORO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91630/TORORO%20CEMETERY">TORORO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 34.17647,0.68071</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JINJA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086919/JINJA%20WAR%20CEMETERY">JINJA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.20271,0.43186</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

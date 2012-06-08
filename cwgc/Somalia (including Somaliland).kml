@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Somalia (including Somaliland)</name>
+  <description>Cemeteries in Somalia (including Somaliland) from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>HARGEISA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91622/HARGEISA%20WAR%20CEMETERY">HARGEISA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 44.04613,9.55476</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOGADISHU AFRICAN WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91623/MOGADISHU%20AFRICAN%20WAR%20CEMETERY">MOGADISHU AFRICAN WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 45.36074,2.04881</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERBERA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142305/BERBERA%20MEMORIAL">BERBERA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 44.04606,9.55463</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

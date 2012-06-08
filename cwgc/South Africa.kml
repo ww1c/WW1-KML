@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for South Africa</name>
+  <description>Cemeteries in South Africa from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>DUKAMBANE FARM CEMETERY, HLUHLUWE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12400/DUKAMBANE%20FARM%20CEMETERY%2C%20HLUHLUWE">DUKAMBANE FARM CEMETERY, HLUHLUWE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.182,-27.96965</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNDEE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12401/DUNDEE%20CEMETERY">DUNDEE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.22974,-28.17535</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (ORDNANCE ROAD) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12402/DURBAN%20%28ORDNANCE%20ROAD%29%20MILITARY%20CEMETERY">DURBAN (ORDNANCE ROAD) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.02309,-29.85282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (RED HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12403/DURBAN%20%28RED%20HILL%29%20CEMETERY">DURBAN (RED HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.03398,-29.77261</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (STAMFORD HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12405/DURBAN%20%28STAMFORD%20HILL%29%20CEMETERY">DURBAN (STAMFORD HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.0255,-29.81569</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (STELLAWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12406/DURBAN%20%28STELLAWOOD%29%20CEMETERY">DURBAN (STELLAWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.97733,-29.88587</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (WEST STREET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12407/DURBAN%20%28WEST%20STREET%29%20CEMETERY">DURBAN (WEST STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.01404,-29.85961</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ESTCOURT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12408/ESTCOURT%20CEMETERY">ESTCOURT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.86985,-29.00263</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREYTOWN CEMETERY, KWAZULU NATAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12409/GREYTOWN%20CEMETERY%2C%20KWAZULU%20NATAL">GREYTOWN CEMETERY, KWAZULU NATAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.59908,-29.06363</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PIETERMARITZBURG (FORT NAPIER) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12411/PIETERMARITZBURG%20%28FORT%20NAPIER%29%20CEMETERY">PIETERMARITZBURG (FORT NAPIER) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.3603,-29.61912</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PIETERMARITZBURG (COMMERCIAL ROAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12412/PIETERMARITZBURG%20%28COMMERCIAL%20ROAD%29%20CEMETERY">PIETERMARITZBURG (COMMERCIAL ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 30.38471,-29.60699</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DURBAN (UMGENI RIVER MOUTH) MUSLIM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12414/DURBAN%20%28UMGENI%20RIVER%20MOUTH%29%20MUSLIM%20CEMETERY">DURBAN (UMGENI RIVER MOUTH) MUSLIM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.03688,-29.8047</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARBERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12500/BARBERTON%20CEMETERY">BARBERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.04704,-25.77808</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BENONI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12501/BENONI%20CEMETERY">BENONI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.35626,-26.1946</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOKSBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12504/BOKSBURG%20CEMETERY">BOKSBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.27423,-26.21977</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GERMISTON (PRIMROSE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12505/GERMISTON%20%28PRIMROSE%29%20CEMETERY">GERMISTON (PRIMROSE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.14623,-26.19511</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEIDELBERG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12507/HEIDELBERG%20CEMETERY">HEIDELBERG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.34629,-26.49527</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JOHANNESBURG (BRAAMFONTEIN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12508/JOHANNESBURG%20%28BRAAMFONTEIN%29%20CEMETERY">JOHANNESBURG (BRAAMFONTEIN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.02763,-26.19379</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JOHANNESBURG (BRIXTON) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12509/JOHANNESBURG%20%28BRIXTON%29%20CEMETERY">JOHANNESBURG (BRIXTON) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.01538,-26.19806</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KLERKSDORP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12510/KLERKSDORP%20CEMETERY">KLERKSDORP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.66887,-26.87899</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KRUGERSDORP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12511/KRUGERSDORP%20CEMETERY">KRUGERSDORP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.76139,-26.10139</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARAISBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12512/MARAISBURG%20CEMETERY">MARAISBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.94137,-26.18116</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POLOKWANE (OR PIETERSBURG) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12513/POLOKWANE%20%28OR%20PIETERSBURG%29%20CEMETERY">POLOKWANE (OR PIETERSBURG) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.44634,-23.90811</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTCHEFSTROOM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12515/POTCHEFSTROOM%20MILITARY%20CEMETERY">POTCHEFSTROOM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.05889,-26.67383</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POTCHEFSTROOM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12516/POTCHEFSTROOM%20CEMETERY">POTCHEFSTROOM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.075,-26.71486</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PRETORIA (REBECCA STREET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12517/PRETORIA%20%28REBECCA%20STREET%29%20CEMETERY">PRETORIA (REBECCA STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.1537,-25.73953</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PRETORIA OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12518/PRETORIA%20OLD%20CEMETERY">PRETORIA OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.17518,-25.74722</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THABA TSHWANE (OLD NO.1) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12519/THABA%20TSHWANE%20%28OLD%20NO.1%29%20MILITARY%20CEMETERY">THABA TSHWANE (OLD NO.1) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.12721,-25.80165</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROODEPOORT OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12521/ROODEPOORT%20OLD%20CEMETERY">ROODEPOORT OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.87368,-26.16611</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZEERUST MUNICIPAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12524/ZEERUST%20MUNICIPAL%20CEMETERY">ZEERUST MUNICIPAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.10356,-25.56635</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLOEMFONTEIN (IN MEMORIAM) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12525/BLOEMFONTEIN%20%28IN%20MEMORIAM%29%20CEMETERY">BLOEMFONTEIN (IN MEMORIAM) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.20732,-29.14566</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROOIDAM MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12530/ROOIDAM%20MILITARY%20CEMETERY">ROOIDAM MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.17404,-29.06343</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROOIDAM AFRICAN CEMETERY MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12531/ROOIDAM%20AFRICAN%20CEMETERY%20MEMORIAL">ROOIDAM AFRICAN CEMETERY MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.17405,-29.06318</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALICE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12600/ALICE%20CEMETERY">ALICE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.83011,-32.78992</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARKLY WEST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12601/BARKLY%20WEST%20CEMETERY">BARKLY WEST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.44749,-27.98282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEDFORD CEMETERY, EASTERN CAPE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12603/BEDFORD%20CEMETERY%2C%20EASTERN%20CAPE">BEDFORD CEMETERY, EASTERN CAPE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.09293,-32.67672</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (KLIP, GRASSY PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12604/CAPE%20TOWN%20%28KLIP%2C%20GRASSY%20PARK%29%20CEMETERY">CAPE TOWN (KLIP, GRASSY PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.49491,-34.04063</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BREDASDORP NEW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12606/BREDASDORP%20NEW%20CEMETERY">BREDASDORP NEW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 20.04526,-34.52419</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROWNSVALE FARM CEMETERY, FORT BEAUFORT DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12607/BROWNSVALE%20FARM%20CEMETERY%2C%20FORT%20BEAUFORT%20DISTRICT">BROWNSVALE FARM CEMETERY, FORT BEAUFORT DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.55038,-32.57291</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BURGERSDORP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12608/BURGERSDORP%20CEMETERY">BURGERSDORP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.33327,-30.99642</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (CONSTANTIA) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12611/CAPE%20TOWN%20%28CONSTANTIA%29%20PUBLIC%20CEMETERY">CAPE TOWN (CONSTANTIA) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.4396,-34.01597</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRADOCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12612/CRADOCK%20CEMETERY">CRADOCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.61517,-32.15749</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DE AAR OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12614/DE%20AAR%20OLD%20CEMETERY">DE AAR OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.01723,-30.64437</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST LONDON (EAST BANK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12617/EAST%20LONDON%20%28EAST%20BANK%29%20CEMETERY">EAST LONDON (EAST BANK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.91598,-33.00852</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST LONDON (SETTLERS WAY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12618/EAST%20LONDON%20%28SETTLERS%20WAY%29%20CEMETERY">EAST LONDON (SETTLERS WAY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.88235,-33.0337</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EBENEZER FARM CEMETERY, PEARSTON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12619/EBENEZER%20FARM%20CEMETERY%2C%20PEARSTON">EBENEZER FARM CEMETERY, PEARSTON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.90707,-32.7268</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ENGCOBO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12621/ENGCOBO%20CEMETERY">ENGCOBO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.994,-31.6781</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FORT BEAUFORT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12623/FORT%20BEAUFORT%20CEMETERY">FORT BEAUFORT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.63765,-32.76975</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRAAFF-REINET OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12625/GRAAFF-REINET%20OLD%20CEMETERY">GRAAFF-REINET OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.52966,-32.24686</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRAHAMSTOWN OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12626/GRAHAMSTOWN%20OLD%20CEMETERY">GRAHAMSTOWN OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.53399,-33.30548</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KIMBERLEY (DUTOITSPAN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12636/KIMBERLEY%20%28DUTOITSPAN%29%20CEMETERY">KIMBERLEY (DUTOITSPAN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.80466,-28.75474</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KIMBERLEY (WEST END) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12637/KIMBERLEY%20%28WEST%20END%29%20CEMETERY">KIMBERLEY (WEST END) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.73764,-28.73608</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KING WILLIAM'S TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12639/KING%20WILLIAM%27S%20TOWN%20CEMETERY">KING WILLIAM'S TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.39264,-32.87536</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAFIKENG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12647/MAFIKENG%20CEMETERY">MAFIKENG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.63647,-25.85538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALMESBURY CEMETERY, WESTERN CAPE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12648/MALMESBURY%20CEMETERY%2C%20WESTERN%20CAPE">MALMESBURY CEMETERY, WESTERN CAPE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.70347,-33.45381</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (MUIZENBURG) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12653/CAPE%20TOWN%20%28MUIZENBURG%29%20CEMETERY">CAPE TOWN (MUIZENBURG) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.48016,-34.09048</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (PLUMSTEAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12661/CAPE%20TOWN%20%28PLUMSTEAD%29%20CEMETERY">CAPE TOWN (PLUMSTEAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.4764,-34.02633</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT ELIZABETH (NORTH END) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12662/PORT%20ELIZABETH%20%28NORTH%20END%29%20CEMETERY">PORT ELIZABETH (NORTH END) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.56267,-33.83778</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT ELIZABETH (SOUTH END) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12663/PORT%20ELIZABETH%20%28SOUTH%20END%29%20CEMETERY">PORT ELIZABETH (SOUTH END) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.62525,-33.97419</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEENSTOWN CEMETERY, EASTERN CAPE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12666/QUEENSTOWN%20CEMETERY%2C%20EASTERN%20CAPE">QUEENSTOWN CEMETERY, EASTERN CAPE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.86619,-31.88852</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROBERTSON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12669/ROBERTSON%20CEMETERY">ROBERTSON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 19.87675,-33.79608</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SIMON'S TOWN (DIDO VALLEY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12675/SIMON%27S%20TOWN%20%28DIDO%20VALLEY%29%20CEMETERY">SIMON'S TOWN (DIDO VALLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.42953,-34.1703</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UITENHAGE (JUBILEE PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12681/UITENHAGE%20%28JUBILEE%20PARK%29%20CEMETERY">UITENHAGE (JUBILEE PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.38352,-33.76152</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UPINGTON (STATION) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12682/UPINGTON%20%28STATION%29%20CEMETERY">UPINGTON (STATION) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 21.23996,-28.45339</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VRYBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12684/VRYBURG%20CEMETERY">VRYBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.72991,-26.96892</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (MAITLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12688/CAPE%20TOWN%20%28MAITLAND%29%20CEMETERY">CAPE TOWN (MAITLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.52805,-33.91592</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE TOWN (WYNBERG, CHURCH STREET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/12689/CAPE%20TOWN%20%28WYNBERG%2C%20CHURCH%20STREET%29%20CEMETERY">CAPE TOWN (WYNBERG, CHURCH STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.46673,-34.00393</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VEREENIGING OLD TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/101605/VEREENIGING%20OLD%20TOWN%20CEMETERY">VEREENIGING OLD TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.91338,-26.6759</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THABA TSHWANE (OLD NO.2) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/101607/THABA%20TSHWANE%20%28OLD%20NO.2%29%20MILITARY%20CEMETERY">THABA TSHWANE (OLD NO.2) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.12208,-25.80019</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANDFONTEIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/101729/RANDFONTEIN%20CEMETERY">RANDFONTEIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.69749,-26.15082</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEDFORD FARM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000543/BEDFORD%20FARM%20CEMETERY">BEDFORD FARM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.12683,-26.15012</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PALMIETKUIL FARM BURIAL GROUND, DEVON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000554/PALMIETKUIL%20FARM%20BURIAL%20GROUND%2C%20DEVON">PALMIETKUIL FARM BURIAL GROUND, DEVON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.74232,-26.40004</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KOKSTAD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2065024/KOKSTAD%20CEMETERY">KOKSTAD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.41586,-30.55063</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATATIELE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2065028/MATATIELE%20CEMETERY">MATATIELE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 28.81031,-30.33666</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLOEMFONTEIN (HAMILTON) WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2065105/BLOEMFONTEIN%20%28HAMILTON%29%20WAR%20CEMETERY">BLOEMFONTEIN (HAMILTON) WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 26.20817,-29.14836</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARRISMITH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2065113/HARRISMITH%20CEMETERY">HARRISMITH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.13346,-28.269</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WINBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2065135/WINBURG%20CEMETERY">WINBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.00705,-28.51884</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRAAFF-REINET (KROONVALE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2074271/GRAAFF-REINET%20%28KROONVALE%29%20CEMETERY">GRAAFF-REINET (KROONVALE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.55454,-32.27274</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SENEKAL OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007197/SENEKAL%20OLD%20CEMETERY">SENEKAL OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 27.62149,-28.31378</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH AFRICAN BOOK OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001140/SOUTH%20AFRICAN%20BOOK%20OF%20REMEMBRANCE">SOUTH AFRICAN BOOK OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.72512,51.52371</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

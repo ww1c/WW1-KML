@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Nigeria</name>
+  <description>Cemeteries in Nigeria from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>IKOYI NO.2 CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2037208/IKOYI%20NO.2%20CEMETERY">IKOYI NO.2 CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.41194,6.4516</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CALABAR MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2105355/CALABAR%20MEMORIAL">CALABAR MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.32505,4.9649</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

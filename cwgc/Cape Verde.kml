@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Cape Verde</name>
+  <description>Cemeteries in Cape Verde from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>MINDELO MUNICIPAL CEMETERY, SAO VICENTE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47318/MINDELO%20MUNICIPAL%20CEMETERY%2C%20SAO%20VICENTE">MINDELO MUNICIPAL CEMETERY, SAO VICENTE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -24.99021,16.87414</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for New Zealand</name>
+  <description>Cemeteries in New Zealand from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>AKAROA ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70600/AKAROA%20ANGLICAN%20CEMETERY">AKAROA ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.95577,-43.81429</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HANMER SPRINGS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70601/HANMER%20SPRINGS%20CEMETERY">HANMER SPRINGS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.86361,-42.51766</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ASHBURTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70602/ASHBURTON%20CEMETERY">ASHBURTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.74754,-43.91052</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DORIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70604/DORIE%20CEMETERY">DORIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.08625,-43.87729</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>METHVEN CEMETERY, ASHBURTON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70605/METHVEN%20CEMETERY%2C%20ASHBURTON">METHVEN CEMETERY, ASHBURTON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.65618,-43.63672</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70606/WATERTON%20CEMETERY">WATERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.72517,-44.06292</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIMANGAROA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70607/WAIMANGAROA%20CEMETERY">WAIMANGAROA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.74793,-41.70075</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTPORT (OROWAITI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70608/WESTPORT%20%28OROWAITI%29%20CEMETERY">WESTPORT (OROWAITI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.6313,-41.75445</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHEVIOT (HOMEVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70609/CHEVIOT%20%28HOMEVIEW%29%20CEMETERY">CHEVIOT (HOMEVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.27018,-42.79379</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (ADDINGTON) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70610/CHRISTCHURCH%20%28ADDINGTON%29%20CEMETERY">CHRISTCHURCH (ADDINGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.62195,-43.5435</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (AVONSIDE) ANGLICAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70611/CHRISTCHURCH%20%28AVONSIDE%29%20ANGLICAN%20CHURCH%20CEMETERY">CHRISTCHURCH (AVONSIDE) ANGLICAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.65823,-43.52658</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (BROMLEY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70612/CHRISTCHURCH%20%28BROMLEY%29%20CEMETERY">CHRISTCHURCH (BROMLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.68553,-43.54086</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (LINWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70614/CHRISTCHURCH%20%28LINWOOD%29%20CEMETERY">CHRISTCHURCH (LINWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.68114,-43.52985</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LYTTELTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70615/LYTTELTON%20CEMETERY">LYTTELTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.72512,-43.60244</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (PAPANUI) ANGLICAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70616/CHRISTCHURCH%20%28PAPANUI%29%20ANGLICAN%20CHURCH%20CEMETERY">CHRISTCHURCH (PAPANUI) ANGLICAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.60667,-43.49661</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANGIWAEA ISLAND (TE PIRAU) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70617/RANGIWAEA%20ISLAND%20%28TE%20PIRAU%29%20MAORI%20CEMETERY">RANGIWAEA ISLAND (TE PIRAU) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.12342,-37.63665</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (SYDENHAM) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70618/CHRISTCHURCH%20%28SYDENHAM%29%20CEMETERY">CHRISTCHURCH (SYDENHAM) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.62458,-43.55743</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (WAIMAIRI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70619/CHRISTCHURCH%20%28WAIMAIRI%29%20CEMETERY">CHRISTCHURCH (WAIMAIRI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.57806,-43.50048</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (WOOLSTON) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70620/CHRISTCHURCH%20%28WOOLSTON%29%20CEMETERY">CHRISTCHURCH (WOOLSTON) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.68242,-43.55621</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLLINGWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70621/COLLINGWOOD%20CEMETERY">COLLINGWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.66883,-40.6819</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKSIDE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70622/BROOKSIDE%20CEMETERY">BROOKSIDE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.26832,-43.67523</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELLESMERE CEMETERY, SELWYN DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70624/ELLESMERE%20CEMETERY%2C%20SELWYN%20DISTRICT">ELLESMERE CEMETERY, SELWYN DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.25905,-43.7759</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KILLINCHY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70625/KILLINCHY%20CEMETERY">KILLINCHY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.24073,-43.73262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GERALDINE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70626/GERALDINE%20CEMETERY">GERALDINE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.24169,-44.09835</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEMUKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70627/TEMUKA%20CEMETERY">TEMUKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.30222,-44.25059</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREYMOUTH (KARORO) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70629/GREYMOUTH%20%28KARORO%29%20CEMETERY">GREYMOUTH (KARORO) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.18901,-42.46859</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STILLWATER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70630/STILLWATER%20CEMETERY">STILLWATER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.34953,-42.43976</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRONADUN (BOATMAN'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70631/CRONADUN%20%28BOATMAN%27S%29%20CEMETERY">CRONADUN (BOATMAN'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.87762,-42.03908</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>REEFTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70632/REEFTON%20CEMETERY">REEFTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.84687,-42.08578</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAIKOURA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70633/KAIKOURA%20CEMETERY">KAIKOURA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.67945,-42.41048</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANGAMAUNU MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70634/MANGAMAUNU%20MAORI%20CEMETERY">MANGAMAUNU MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.75053,-42.31228</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALCAIRN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70635/BALCAIRN%20CEMETERY">BALCAIRN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.71042,-43.19872</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TIMARU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70636/TIMARU%20CEMETERY">TIMARU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.25735,-44.41221</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FAIRLIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70637/FAIRLIE%20CEMETERY">FAIRLIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.83009,-44.10756</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH MALVERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70638/SOUTH%20MALVERN%20CEMETERY">SOUTH MALVERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.94817,-43.48083</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLENHEIM (OMAKA) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70639/BLENHEIM%20%28OMAKA%29%20PUBLIC%20CEMETERY">BLENHEIM (OMAKA) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.94012,-41.53817</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PICTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70641/PICTON%20CEMETERY">PICTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.99758,-41.28974</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUAMARINA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70642/TUAMARINA%20CEMETERY">TUAMARINA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.96069,-41.42815</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MURCHISON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70643/MURCHISON%20CEMETERY">MURCHISON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.34021,-41.7954</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NELSON (WAKAPUAKA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70644/NELSON%20%28WAKAPUAKA%29%20CEMETERY">NELSON (WAKAPUAKA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.30356,-41.25455</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST OXFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70645/WEST%20OXFORD%20CEMETERY">WEST OXFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.19877,-43.29795</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PREBBLETON ANGLICAN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70646/PREBBLETON%20ANGLICAN%20CHURCHYARD">PREBBLETON ANGLICAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.51355,-43.57833</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEMPLETON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70647/TEMPLETON%20CEMETERY">TEMPLETON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.4712,-43.55005</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANGIORA (ST. JOHN'S) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70649/RANGIORA%20%28ST.%20JOHN%27S%29%20ANGLICAN%20CEMETERY">RANGIORA (ST. JOHN'S) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.59561,-43.29586</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANGIORA PRESBYTERIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70650/RANGIORA%20PRESBYTERIAN%20CEMETERY">RANGIORA PRESBYTERIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.59967,-43.29988</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANGIORA EAST CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70651/RANGIORA%20EAST%20CATHOLIC%20CEMETERY">RANGIORA EAST CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.5955,-43.30855</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUAHIWI CHIEF MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70652/TUAHIWI%20CHIEF%20MAORI%20CEMETERY">TUAHIWI CHIEF MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.64531,-43.32865</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HORORATA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70653/HORORATA%20CEMETERY">HORORATA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.94611,-43.51966</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LINCOLN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70654/LINCOLN%20CEMETERY">LINCOLN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.48467,-43.63258</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPRINGSTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70655/SPRINGSTON%20CEMETERY">SPRINGSTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.45096,-43.64051</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAKATARAMEA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70656/HAKATARAMEA%20CEMETERY">HAKATARAMEA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.4757,-44.7188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIMATE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70657/WAIMATE%20CEMETERY">WAIMATE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.06062,-44.74048</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>APPLEBY (ST. ALBANS) ANGLICAN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70658/APPLEBY%20%28ST.%20ALBANS%29%20ANGLICAN%20CHURCHYARD">APPLEBY (ST. ALBANS) ANGLICAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.13699,-41.31738</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>APPLEBY (SS. PETER AND PAUL) CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70659/APPLEBY%20%28SS.%20PETER%20AND%20PAUL%29%20CATHOLIC%20CEMETERY">APPLEBY (SS. PETER AND PAUL) CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.11199,-41.31706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWER MOUTERE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70660/LOWER%20MOUTERE%20CEMETERY">LOWER MOUTERE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.99897,-41.1719</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RICHMOND CEMETERY, TASMAN DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70661/RICHMOND%20CEMETERY%2C%20TASMAN%20DISTRICT">RICHMOND CEMETERY, TASMAN DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.17832,-41.3486</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NGATIMOTI (WAIWHERO) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70662/NGATIMOTI%20%28WAIWHERO%29%20CEMETERY">NGATIMOTI (WAIWHERO) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.93054,-41.188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LITTLE RIVER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70663/LITTLE%20RIVER%20CEMETERY">LITTLE RIVER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.80664,-43.75922</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOKITIKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70664/HOKITIKA%20CEMETERY">HOKITIKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.97501,-42.70888</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KUMARA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70665/KUMARA%20CEMETERY">KUMARA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 171.17206,-42.64655</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROSS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70666/ROSS%20CEMETERY">ROSS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.81164,-42.90217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANTERBURY PROVINCIAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70667/CANTERBURY%20PROVINCIAL%20MEMORIAL">CANTERBURY PROVINCIAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.69079,-43.53252</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILTON (FAIRFAX) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70668/MILTON%20%28FAIRFAX%29%20CEMETERY">MILTON (FAIRFAX) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.97628,-46.1328</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLINTON CEMETERY, CLUTHA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70669/CLINTON%20CEMETERY%2C%20CLUTHA">CLINTON CEMETERY, CLUTHA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.36447,-46.19707</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OWAKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70670/OWAKA%20CEMETERY">OWAKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.66909,-46.4487</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUREKIREKI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70671/PUREKIREKI%20CEMETERY">PUREKIREKI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.4731,-46.34939</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAREPA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70672/WAREPA%20CEMETERY">WAREPA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.6011,-46.27779</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNEDIN (ANDERSON'S BAY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70673/DUNEDIN%20%28ANDERSON%27S%20BAY%29%20CEMETERY">DUNEDIN (ANDERSON'S BAY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.53654,-45.9037</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAIAPOI ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70674/KAIAPOI%20ANGLICAN%20CEMETERY">KAIAPOI ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.65131,-43.39092</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNEDIN NORTHERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70675/DUNEDIN%20NORTHERN%20CEMETERY">DUNEDIN NORTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.52349,-45.86095</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNEDIN SOUTHERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70676/DUNEDIN%20SOUTHERN%20CEMETERY">DUNEDIN SOUTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.49237,-45.88998</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREEN ISLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70677/GREEN%20ISLAND%20CEMETERY">GREEN ISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.43644,-45.90535</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT CHALMERS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70678/PORT%20CHALMERS%20CEMETERY">PORT CHALMERS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.62175,-45.80958</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTOBELLO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70679/PORTOBELLO%20CEMETERY">PORTOBELLO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.65347,-45.83941</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INVERCARGILL (EASTERN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70680/INVERCARGILL%20%28EASTERN%29%20CEMETERY">INVERCARGILL (EASTERN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.39363,-46.40607</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INVERCARGILL (WAIKIWI) ST. JOHN'S CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70682/INVERCARGILL%20%28WAIKIWI%29%20ST.%20JOHN%27S%20CEMETERY">INVERCARGILL (WAIKIWI) ST. JOHN'S CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.34267,-46.37515</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEENSTOWN CEMETERY, NEW ZEALAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70683/QUEENSTOWN%20CEMETERY%2C%20NEW%20ZEALAND">QUEENSTOWN CEMETERY, NEW ZEALAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.65606,-45.02999</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ATHOL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70684/ATHOL%20CEMETERY">ATHOL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.57728,-45.50905</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLUFF CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70685/BLUFF%20CEMETERY">BLUFF CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.32487,-46.60173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIPTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70686/DIPTON%20CEMETERY">DIPTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.3508,-45.9001</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GORE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70687/GORE%20CEMETERY">GORE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.93557,-46.09067</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATAURA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70689/MATAURA%20CEMETERY">MATAURA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.8821,-46.20232</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RIVERSDALE CEMETERY, SOUTHLAND DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70690/RIVERSDALE%20CEMETERY%2C%20SOUTHLAND%20DISTRICT">RIVERSDALE CEMETERY, SOUTHLAND DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.7269,-45.91812</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIKAIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70691/WAIKAIA%20CEMETERY">WAIKAIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.84823,-45.7158</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIKAKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70692/WAIKAKA%20CEMETERY">WAIKAKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.01999,-45.93149</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WINTON CEMETERY, SOUTHLAND DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70693/WINTON%20CEMETERY%2C%20SOUTHLAND%20DISTRICT">WINTON CEMETERY, SOUTHLAND DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.32461,-46.12845</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYNDHAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70694/WYNDHAM%20CEMETERY">WYNDHAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.88249,-46.31499</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST TAIERI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70695/EAST%20TAIERI%20CEMETERY">EAST TAIERI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.34712,-45.89126</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST TAIERI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70696/WEST%20TAIERI%20CEMETERY">WEST TAIERI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.20558,-45.85315</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LAWRENCE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70697/LAWRENCE%20CEMETERY">LAWRENCE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.67653,-45.91688</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAPANUI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70698/TAPANUI%20CEMETERY">TAPANUI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.28287,-45.94251</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUAPEKA MOUTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70699/TUAPEKA%20MOUTH%20CEMETERY">TUAPEKA MOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.52126,-46.01766</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAITAHUNA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70700/WAITAHUNA%20CEMETERY">WAITAHUNA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.75481,-45.99684</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WREYS BUSH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70701/WREYS%20BUSH%20CEMETERY">WREYS BUSH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.09779,-45.99422</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALEXANDRA SOUTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70702/ALEXANDRA%20SOUTH%20CEMETERY">ALEXANDRA SOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.39474,-45.24107</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CROMWELL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70703/CROMWELL%20CEMETERY">CROMWELL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.17354,-45.05414</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRYBREAD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70704/DRYBREAD%20CEMETERY">DRYBREAD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.6076,-44.99762</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KARITANE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70705/KARITANE%20CEMETERY">KARITANE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.65966,-45.64243</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PALMERSTON CEMETERY, WAITAKI DISTRICT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70706/PALMERSTON%20CEMETERY%2C%20WAITAKI%20DISTRICT">PALMERSTON CEMETERY, WAITAKI DISTRICT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.70118,-45.49297</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIKOUAITI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70707/WAIKOUAITI%20CEMETERY">WAIKOUAITI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.69103,-45.58854</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAITATI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70708/WAITATI%20CEMETERY">WAITATI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.58077,-45.75407</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRINGTON (ST. BARNABAS) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70709/WARRINGTON%20%28ST.%20BARNABAS%29%20ANGLICAN%20CEMETERY">WARRINGTON (ST. BARNABAS) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.59417,-45.70606</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMPDEN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70710/HAMPDEN%20CEMETERY">HAMPDEN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.8244,-45.32226</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OAMARU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70711/OAMARU%20CEMETERY">OAMARU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.95866,-45.10921</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAHENO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70712/MAHENO%20CEMETERY">MAHENO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.84838,-45.17913</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALCLUTHA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70713/BALCLUTHA%20CEMETERY">BALCLUTHA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 169.75373,-46.22916</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ISLA BANK (CALCIUM) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70714/ISLA%20BANK%20%28CALCIUM%29%20CEMETERY">ISLA BANK (CALCIUM) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.12787,-46.20384</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAUTAU NEW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70715/OTAUTAU%20NEW%20CEMETERY">OTAUTAU NEW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.00641,-46.13093</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RIVERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70716/RIVERTON%20CEMETERY">RIVERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 168.02128,-46.33061</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUATAPERE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70717/TUATAPERE%20CEMETERY">TUATAPERE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 167.6909,-46.10896</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAGO PROVINCIAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70718/OTAGO%20PROVINCIAL%20MEMORIAL">OTAGO PROVINCIAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 170.533,-45.90413</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIRKENHEAD ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70800/BIRKENHEAD%20ANGLICAN%20CEMETERY">BIRKENHEAD ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.72515,-36.80347</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIRKENHEAD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70801/BIRKENHEAD%20PUBLIC%20CEMETERY">BIRKENHEAD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.7213,-36.79946</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIRKENHEAD CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70802/BIRKENHEAD%20CATHOLIC%20CEMETERY">BIRKENHEAD CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.72517,-36.80371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EPSOM (ST. ANDREW) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70803/EPSOM%20%28ST.%20ANDREW%29%20CHURCHYARD">EPSOM (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.76542,-36.89367</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HILLSBOROUGH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70804/HILLSBOROUGH%20CEMETERY">HILLSBOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.75038,-36.92666</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOTUIHE ISLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70805/MOTUIHE%20ISLAND%20CEMETERY">MOTUIHE ISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.93631,-36.80014</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEVONPORT (O'NEILL'S POINT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70806/DEVONPORT%20%28O%27NEILL%27S%20POINT%29%20CEMETERY">DEVONPORT (O'NEILL'S POINT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.78196,-36.81208</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUREWA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70807/PUREWA%20PUBLIC%20CEMETERY">PUREWA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.83105,-36.86899</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>REMUERA (ST. MARK'S) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70808/REMUERA%20%28ST.%20MARK%27S%29%20CHURCHYARD">REMUERA (ST. MARK'S) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.78073,-36.87274</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROTOROA ISLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70809/ROTOROA%20ISLAND%20CEMETERY">ROTOROA ISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.20169,-36.8132</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIKARAKA PARK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70810/WAIKARAKA%20PARK%20CEMETERY">WAIKARAKA PARK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.79947,-36.929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUCKLAND (WAIKUMETE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70811/AUCKLAND%20%28WAIKUMETE%29%20CEMETERY">AUCKLAND (WAIKUMETE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.65507,-36.90206</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUKERENUI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70813/HUKERENUI%20PUBLIC%20CEMETERY">HUKERENUI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.20093,-35.5216</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAIKOHE MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70814/KAIKOHE%20MAORI%20CEMETERY">KAIKOHE MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.78975,-35.42011</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAWAKAWA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70815/KAWAKAWA%20CEMETERY">KAWAKAWA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.0786,-35.37609</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAKARAKA (HOLY TRINITY) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70817/PAKARAKA%20%28HOLY%20TRINITY%29%20CHURCHYARD">PAKARAKA (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.9502,-35.36104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PURERUA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70818/PURERUA%20MAORI%20CEMETERY">PURERUA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.06229,-35.17679</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIHAHA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70819/WAIHAHA%20MAORI%20CEMETERY">WAIHAHA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.22596,-35.34243</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAKARAKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70820/MAKARAKA%20CEMETERY">MAKARAKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.98032,-38.64861</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COROMANDEL (BUFFALO) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70821/COROMANDEL%20%28BUFFALO%29%20PUBLIC%20CEMETERY">COROMANDEL (BUFFALO) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.50477,-36.74346</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHITIANGA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70822/WHITIANGA%20PUBLIC%20CEMETERY">WHITIANGA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.713,-36.83046</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOMBAY PRESBYTERIAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70823/BOMBAY%20PRESBYTERIAN%20CHURCH%20CEMETERY">BOMBAY PRESBYTERIAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.98243,-37.17879</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOMBAY (ST. PETER'S IN THE FOREST) ANGLICAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70824/BOMBAY%20%28ST.%20PETER%27S%20IN%20THE%20FOREST%29%20ANGLICAN%20CHURCH%20CEMETERY">BOMBAY (ST. PETER'S IN THE FOREST) ANGLICAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.9912,-37.1868</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAUKU (ST. BRIDES) ANGLICAN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70825/MAUKU%20%28ST.%20BRIDES%29%20ANGLICAN%20CHURCHYARD">MAUKU (ST. BRIDES) ANGLICAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.80677,-37.19889</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAPAKURA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70826/PAPAKURA%20PUBLIC%20CEMETERY">PAPAKURA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.94565,-37.06884</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POKENO (FRASER ROAD) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70827/POKENO%20%28FRASER%20ROAD%29%20PUBLIC%20CEMETERY">POKENO (FRASER ROAD) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.02174,-37.23675</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUKEKOHE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70828/PUKEKOHE%20PUBLIC%20CEMETERY">PUKEKOHE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.89675,-37.21026</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUAKAU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70829/TUAKAU%20PUBLIC%20CEMETERY">TUAKAU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.94562,-37.28466</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIUKU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70830/WAIUKU%20PUBLIC%20CEMETERY">WAIUKU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.73465,-37.26108</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAITAHI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70831/MAITAHI%20MAORI%20CEMETERY">MAITAHI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.76096,-35.85526</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AVOCA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70832/AVOCA%20PUBLIC%20CEMETERY">AVOCA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.90377,-35.80796</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORIRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70833/ORIRA%20CEMETERY">ORIRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.5747,-35.31903</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANGIAHUA (KOROKOTA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70834/RANGIAHUA%20%28KOROKOTA%29%20MAORI%20CEMETERY">RANGIAHUA (KOROKOTA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.65335,-35.30456</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARAEROA (MEHEKE) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70835/MARAEROA%20%28MEHEKE%29%20MAORI%20CEMETERY">MARAEROA (MEHEKE) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.63303,-35.34242</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAWENE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70836/RAWENE%20PUBLIC%20CEMETERY">RAWENE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.50707,-35.40853</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHIRINAKI (TONGARIRO) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70837/WHIRINAKI%20%28TONGARIRO%29%20MAORI%20CEMETERY">WHIRINAKI (TONGARIRO) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.46607,-35.46287</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHAKAPIRAU CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70838/WHAKAPIRAU%20CHURCH%20CEMETERY">WHAKAPIRAU CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.2389,-36.1552</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAKAHI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70839/KAKAHI%20MAORI%20CEMETERY">KAKAHI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.36989,-38.94768</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLEVEDON (ST. ANDREW'S) PRESBYTERIAN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70840/CLEVEDON%20%28ST.%20ANDREW%27S%29%20PRESBYTERIAN%20CHURCHYARD">CLEVEDON (ST. ANDREW'S) PRESBYTERIAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.0373,-36.99231</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANGERE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70841/MANGERE%20PUBLIC%20CEMETERY">MANGERE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.78773,-36.96089</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAHUHU (HOLY TRINITY) ANGLICAN CEMETERY MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70842/OTAHUHU%20%28HOLY%20TRINITY%29%20ANGLICAN%20CEMETERY%20MEMORIAL%20PARK">OTAHUHU (HOLY TRINITY) ANGLICAN CEMETERY MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.84461,-36.93726</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAHUHU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70843/OTAHUHU%20PUBLIC%20CEMETERY">OTAHUHU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.84283,-36.93762</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAHUHU ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70844/OTAHUHU%20ROMAN%20CATHOLIC%20CEMETERY">OTAHUHU ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.84884,-36.94358</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATAMATA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70845/MATAMATA%20PUBLIC%20CEMETERY">MATAMATA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.75357,-37.80183</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OKAUIA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70846/OKAUIA%20MAORI%20CEMETERY">OKAUIA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.87263,-37.80158</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AHIPARA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70847/AHIPARA%20MAORI%20CEMETERY">AHIPARA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.14946,-35.17161</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AWANUI CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70848/AWANUI%20CHURCH%20CEMETERY">AWANUI CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.25621,-35.04552</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAIMAUMAU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70849/KAIMAUMAU%20CEMETERY">KAIMAUMAU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.267,-34.91667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUKEPOTO MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70850/PUKEPOTO%20MAORI%20CEMETERY">PUKEPOTO MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.22519,-35.15923</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAMAPURIA (ST. STEPHENS CHURCH) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70851/PAMAPURIA%20%28ST.%20STEPHENS%20CHURCH%29%20MAORI%20CEMETERY">PAMAPURIA (ST. STEPHENS CHURCH) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.33272,-35.12042</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE KAO MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70852/TE%20KAO%20MAORI%20CEMETERY">TE KAO MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.96144,-34.65569</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAWARENGA CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70853/PAWARENGA%20CHURCH%20CEMETERY">PAWARENGA CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.24876,-35.35365</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIHI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70854/WAIHI%20PUBLIC%20CEMETERY">WAIHI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.86186,-37.40987</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OHINEMANGO MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70855/OHINEMANGO%20MAORI%20CEMETERY">OHINEMANGO MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.72204,-37.69743</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OPOTIKI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70856/OPOTIKI%20PUBLIC%20CEMETERY">OPOTIKI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.28879,-38.01816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE KAHA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70857/TE%20KAHA%20MAORI%20CEMETERY">TE KAHA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.67568,-37.74318</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAKARU (ST. MICHAEL'S) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70858/HAKARU%20%28ST.%20MICHAEL%27S%29%20CHURCHYARD">HAKARU (ST. MICHAEL'S) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.51015,-36.14967</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE AROHA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70859/TE%20AROHA%20PUBLIC%20CEMETERY">TE AROHA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.71052,-37.55644</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NGARUAWAHIA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70860/NGARUAWAHIA%20PUBLIC%20CEMETERY">NGARUAWAHIA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.16637,-37.68057</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OKETE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70861/OKETE%20PUBLIC%20CEMETERY">OKETE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.91759,-37.83303</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEIGH PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70862/LEIGH%20PUBLIC%20CEMETERY">LEIGH PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.80887,-36.29046</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATAKANA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70863/MATAKANA%20PUBLIC%20CEMETERY">MATAKANA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.72365,-36.34848</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT ALBERT PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70864/PORT%20ALBERT%20PUBLIC%20CEMETERY">PORT ALBERT PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.44846,-36.28621</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARKWORTH PRESBYTERIAN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70866/WARKWORTH%20PRESBYTERIAN%20PUBLIC%20CEMETERY">WARKWORTH PRESBYTERIAN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.66731,-36.41277</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OKERE MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70867/OKERE%20MAORI%20CEMETERY">OKERE MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.35362,-38.02255</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROTORUA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70869/ROTORUA%20PUBLIC%20CEMETERY">ROTORUA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.26306,-38.15286</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHAKAREWAREWA MAORI GRAVES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70870/WHAKAREWAREWA%20MAORI%20GRAVES">WHAKAREWAREWA MAORI GRAVES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.25552,-38.1629</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TARINGAMOTU MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70871/TARINGAMOTU%20MAORI%20CEMETERY">TARINGAMOTU MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.3155,-38.82781</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MURUPARA (TE PAPA MARAE) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70873/MURUPARA%20%28TE%20PAPA%20MARAE%29%20MAORI%20CEMETERY">MURUPARA (TE PAPA MARAE) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.69925,-38.45028</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KATIKATI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70874/KATIKATI%20PUBLIC%20CEMETERY">KATIKATI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.90572,-37.5822</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATAPIHI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70876/MATAPIHI%20MAORI%20CEMETERY">MATAPIHI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.20478,-37.67691</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAUNGATAPU (WAITAIA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70877/MAUNGATAPU%20%28WAITAIA%29%20MAORI%20CEMETERY">MAUNGATAPU (WAITAIA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.17078,-37.72173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAURANGA PUBLIC ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70878/TAURANGA%20PUBLIC%20ANGLICAN%20CEMETERY">TAURANGA PUBLIC ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.15809,-37.71152</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAURANGA (WELCOME BAY) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70879/TAURANGA%20%28WELCOME%20BAY%29%20MAORI%20CEMETERY">TAURANGA (WELCOME BAY) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.21677,-37.7133</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE KAHIKA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70880/TE%20KAHIKA%20MAORI%20CEMETERY">TE KAHIKA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.34449,-37.78845</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OMAHU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70881/OMAHU%20PUBLIC%20CEMETERY">OMAHU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.6536,-37.27079</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THAMES (PARAWAI) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70882/THAMES%20%28PARAWAI%29%20MAORI%20CEMETERY">THAMES (PARAWAI) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.56382,-37.15914</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THAMES (SHORTLAND) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70883/THAMES%20%28SHORTLAND%29%20PUBLIC%20CEMETERY">THAMES (SHORTLAND) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.55781,-37.14261</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TARARU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70884/TARARU%20PUBLIC%20CEMETERY">TARARU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.51889,-37.10683</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THAMES (TOTARA) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70885/THAMES%20%28TOTARA%29%20MEMORIAL%20PARK">THAMES (TOTARA) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.56084,-37.16554</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUPAROA (PURAPURA-A-URE) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70886/TUPAROA%20%28PURAPURA-A-URE%29%20MAORI%20CEMETERY">TUPAROA (PURAPURA-A-URE) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.38393,-37.91707</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMILTON EAST PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70887/HAMILTON%20EAST%20PUBLIC%20CEMETERY">HAMILTON EAST PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.30819,-37.80314</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMILTON WEST PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70889/HAMILTON%20WEST%20PUBLIC%20CEMETERY">HAMILTON WEST PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.26718,-37.77888</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMBRIDGE (HAUTAPU) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70890/CAMBRIDGE%20%28HAUTAPU%29%20PUBLIC%20CEMETERY">CAMBRIDGE (HAUTAPU) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.45621,-37.86384</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUNTLY (KIMIHIA) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70891/HUNTLY%20%28KIMIHIA%29%20PUBLIC%20CEMETERY">HUNTLY (KIMIHIA) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.15911,-37.53139</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMBRIDGE (LEAMINGTON) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70892/CAMBRIDGE%20%28LEAMINGTON%29%20PUBLIC%20CEMETERY">CAMBRIDGE (LEAMINGTON) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.48768,-37.90426</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAMAHERE CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70893/TAMAHERE%20CHURCH%20CEMETERY">TAMAHERE CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.35766,-37.82993</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAUPIRI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70894/TAUPIRI%20MAORI%20CEMETERY">TAUPIRI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.19925,-37.61765</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUKERIMU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70896/PUKERIMU%20CEMETERY">PUKERIMU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.42978,-37.90516</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE AWAMUTU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70897/TE%20AWAMUTU%20PUBLIC%20CEMETERY">TE AWAMUTU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.34241,-37.99914</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBANY PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70898/ALBANY%20PUBLIC%20CEMETERY">ALBANY PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.69724,-36.72975</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAUKAPAKAPA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70899/KAUKAPAKAPA%20PUBLIC%20CEMETERY">KAUKAPAKAPA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.50571,-36.63983</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SWANSON PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70900/SWANSON%20PUBLIC%20CEMETERY">SWANSON PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.58309,-36.87188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANGAPEHI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70901/MANGAPEHI%20MAORI%20CEMETERY">MANGAPEHI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.29902,-38.50949</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE KUITI OLD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70902/TE%20KUITI%20OLD%20PUBLIC%20CEMETERY">TE KUITI OLD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.171,-38.32822</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATATA (RANGIAOHIA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70903/MATATA%20%28RANGIAOHIA%29%20MAORI%20CEMETERY">MATATA (RANGIAOHIA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.76391,-37.8905</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHAKATANE (DOMAIN ROAD) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70905/WHAKATANE%20%28DOMAIN%20ROAD%29%20PUBLIC%20CEMETERY">WHAKATANE (DOMAIN ROAD) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.98338,-37.95842</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PURUA PIONEER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70906/PURUA%20PIONEER%20CEMETERY">PURUA PIONEER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.13065,-35.65932</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAMO PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70907/KAMO%20PUBLIC%20CEMETERY">KAMO PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.29138,-35.69292</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHANGAREI (MAUNU) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70908/WHANGAREI%20%28MAUNU%29%20PUBLIC%20CEMETERY">WHANGAREI (MAUNU) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.25729,-35.74437</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAMATERAU (PAKIKAIKUTU) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70909/TAMATERAU%20%28PAKIKAIKUTU%29%20MAORI%20CEMETERY">TAMATERAU (PAKIKAIKUTU) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.40673,-35.76756</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIPU PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70910/WAIPU%20PUBLIC%20CEMETERY">WAIPU PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.4744,-35.99683</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHANGAREI (OTAIKA) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70911/WHANGAREI%20%28OTAIKA%29%20PUBLIC%20CEMETERY">WHANGAREI (OTAIKA) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.30911,-35.75112</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHAREORA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70912/WHAREORA%20CEMETERY">WHAREORA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.3857,-35.69711</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATAURI BAY MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70913/MATAURI%20BAY%20MAORI%20CEMETERY">MATAURI BAY MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.90848,-35.0346</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUCKLAND PROVINCIAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70914/AUCKLAND%20PROVINCIAL%20MEMORIAL">AUCKLAND PROVINCIAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.65485,-36.90207</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAITARA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70915/WAITARA%20CEMETERY">WAITARA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.25366,-38.99533</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GISBORNE (TARUHERU) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70916/GISBORNE%20%28TARUHERU%29%20CEMETERY">GISBORNE (TARUHERU) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.98035,-38.64282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANUTUKE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70918/MANUTUKE%20CEMETERY">MANUTUKE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.90938,-38.67474</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DANNEVIRKE (MANGATERA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70919/DANNEVIRKE%20%28MANGATERA%29%20CEMETERY">DANNEVIRKE (MANGATERA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.11718,-40.18867</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORSEWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70920/NORSEWOOD%20CEMETERY">NORSEWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.21366,-40.06786</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NUHAKA (TAKURAUKAHEA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70921/NUHAKA%20%28TAKURAUKAHEA%29%20MAORI%20CEMETERY">NUHAKA (TAKURAUKAHEA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.76598,-39.01923</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OPUNAKE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70922/OPUNAKE%20CEMETERY">OPUNAKE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.84541,-39.45196</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELTHAM CEMETERY, TARANAKI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70923/ELTHAM%20CEMETERY%2C%20TARANAKI">ELTHAM CEMETERY, TARANAKI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.32509,-39.41976</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FEATHERSTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70924/FEATHERSTON%20CEMETERY">FEATHERSTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.31401,-41.12125</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREYTOWN CEMETERY, NEW ZEALAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70925/GREYTOWN%20CEMETERY%2C%20NEW%20ZEALAND">GREYTOWN CEMETERY, NEW ZEALAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.44127,-41.09335</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREYTOWN (PAPAWAI) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70926/GREYTOWN%20%28PAPAWAI%29%20MAORI%20CEMETERY">GREYTOWN (PAPAWAI) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.48904,-41.0986</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARTINBOROUGH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70927/MARTINBOROUGH%20CEMETERY">MARTINBOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.47236,-41.21581</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAWERA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70928/HAWERA%20CEMETERY">HAWERA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.29444,-39.59153</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HASTINGS CEMETERY, NEW ZEALAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70929/HASTINGS%20CEMETERY%2C%20NEW%20ZEALAND">HASTINGS CEMETERY, NEW ZEALAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.82616,-39.63141</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAVELOCK NORTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70930/HAVELOCK%20NORTH%20CEMETERY">HAVELOCK NORTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.88034,-39.67898</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAPIER (OLD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70931/NAPIER%20%28OLD%29%20CEMETERY">NAPIER (OLD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.90232,-39.48904</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAPIER (PARK ISLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70932/NAPIER%20%28PARK%20ISLAND%29%20CEMETERY">NAPIER (PARK ISLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.85511,-39.50349</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAPIER (WAIOHIKI) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70933/NAPIER%20%28WAIOHIKI%29%20MAORI%20CEMETERY">NAPIER (WAIOHIKI) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.83565,-39.55385</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOLAGA BAY PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70934/TOLAGA%20BAY%20PUBLIC%20CEMETERY">TOLAGA BAY PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.30459,-38.36523</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TARADALE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70935/TARADALE%20CEMETERY">TARADALE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.83651,-39.53031</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE HAUKE MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70936/TE%20HAUKE%20MAORI%20CEMETERY">TE HAUKE MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.6898,-39.77279</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KUKU MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70937/KUKU%20MAORI%20CEMETERY">KUKU MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.2402,-40.67433</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEVIN (TIRO TIRO ROAD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70938/LEVIN%20%28TIRO%20TIRO%20ROAD%29%20CEMETERY">LEVIN (TIRO TIRO ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.27046,-40.6252</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAKI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70939/OTAKI%20MAORI%20CEMETERY">OTAKI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.13811,-40.7497</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAKI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70940/OTAKI%20PUBLIC%20CEMETERY">OTAKI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.14984,-40.7532</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTAKI CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70941/OTAKI%20CATHOLIC%20CEMETERY">OTAKI CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.14282,-40.74499</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIKANAE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70942/WAIKANAE%20CEMETERY">WAIKANAE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.05138,-40.86789</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWER HUTT (TAITA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70943/LOWER%20HUTT%20%28TAITA%29%20CEMETERY">LOWER HUTT (TAITA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.95748,-41.1967</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TRENTHAM (ST. JOHN'S ANGLICAN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70944/TRENTHAM%20%28ST.%20JOHN%27S%20ANGLICAN%29%20CEMETERY">TRENTHAM (ST. JOHN'S ANGLICAN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.04437,-41.13016</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PALMERSTON NORTH (TERRACE END) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70945/PALMERSTON%20NORTH%20%28TERRACE%20END%29%20CEMETERY">PALMERSTON NORTH (TERRACE END) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.64027,-40.34387</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORIRUA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70946/PORIRUA%20CEMETERY">PORIRUA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.84212,-41.14541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FOXTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70947/FOXTON%20CEMETERY">FOXTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.31509,-40.48039</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RONGOTEA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70948/RONGOTEA%20CEMETERY">RONGOTEA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.45301,-40.30154</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANSON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70949/SANSON%20CEMETERY">SANSON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.44533,-40.2028</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MASTERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70950/MASTERTON%20CEMETERY">MASTERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.66628,-40.95213</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE ORE ORE MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70951/TE%20ORE%20ORE%20MAORI%20CEMETERY">TE ORE ORE MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.69034,-40.95209</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FEILDING CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70952/FEILDING%20CEMETERY">FEILDING CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.55406,-40.18986</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAHIATUA (MANGATAINOKA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70953/PAHIATUA%20%28MANGATAINOKA%29%20CEMETERY">PAHIATUA (MANGATAINOKA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.86136,-40.42439</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PATEA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70954/PATEA%20CEMETERY">PATEA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.46896,-39.74486</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAVERLEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70955/WAVERLEY%20CEMETERY">WAVERLEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.62917,-39.76777</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREATFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70956/GREATFORD%20CEMETERY">GREATFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.4173,-40.12597</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUNTERVILLE (RANGITIRA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70957/HUNTERVILLE%20%28RANGITIRA%29%20CEMETERY">HUNTERVILLE (RANGITIRA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.60457,-39.89717</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANGAWEKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70958/MANGAWEKA%20CEMETERY">MANGAWEKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.78382,-39.81904</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARTON (MOUNT VIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70959/MARTON%20%28MOUNT%20VIEW%29%20CEMETERY">MARTON (MOUNT VIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.42587,-40.06262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UPPER TUTAENUI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70960/UPPER%20TUTAENUI%20CEMETERY">UPPER TUTAENUI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.40906,-40.00854</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAIHAPE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70961/TAIHAPE%20CEMETERY">TAIHAPE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.80519,-39.68685</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRATFORD (KOPUATAMA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70962/STRATFORD%20%28KOPUATAMA%29%20CEMETERY">STRATFORD (KOPUATAMA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.33656,-39.33583</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INGLEWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70963/INGLEWOOD%20CEMETERY">INGLEWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.2135,-39.1567</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW PLYMOUTH (TE HENUI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70964/NEW%20PLYMOUTH%20%28TE%20HENUI%29%20CEMETERY">NEW PLYMOUTH (TE HENUI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.0915,-39.05666</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TATARAIMAKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70966/TATARAIMAKA%20CEMETERY">TATARAIMAKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.91383,-39.15006</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WERI WERI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70967/WERI%20WERI%20MAORI%20CEMETERY">WERI WERI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.22104,-39.51901</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOLAGA BAY MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70968/TOLAGA%20BAY%20MAORI%20CEMETERY">TOLAGA BAY MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.30509,-38.36292</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PATERANGI PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70969/PATERANGI%20PUBLIC%20CEMETERY">PATERANGI PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.27085,-37.96109</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOKOMARU BAY (TUATINI) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70970/TOKOMARU%20BAY%20%28TUATINI%29%20MAORI%20CEMETERY">TOKOMARU BAY (TUATINI) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.31506,-38.13127</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OHAKUNE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70971/OHAKUNE%20CEMETERY">OHAKUNE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.38176,-39.43603</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAETIHI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70972/RAETIHI%20CEMETERY">RAETIHI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.28363,-39.43511</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAETIHI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70973/RAETIHI%20MAORI%20CEMETERY">RAETIHI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.28583,-39.42837</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANAIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70974/MANAIA%20CEMETERY">MANAIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.13521,-39.55742</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIPUKURAU CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70975/WAIPUKURAU%20CEMETERY">WAIPUKURAU CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.54848,-40.00712</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TE URUPA O PUTIKI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70977/TE%20URUPA%20O%20PUTIKI%20MAORI%20CEMETERY">TE URUPA O PUTIKI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.94577,-39.09553</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOHAKA (HIRUHARAMA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70978/MOHAKA%20%28HIRUHARAMA%29%20MAORI%20CEMETERY">MOHAKA (HIRUHARAMA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.19588,-39.11649</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIROA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70979/WAIROA%20CEMETERY">WAIROA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.4133,-39.0463</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIROA (RUATANIWHA) MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70980/WAIROA%20%28RUATANIWHA%29%20MAORI%20CEMETERY">WAIROA (RUATANIWHA) MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.39422,-39.02391</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAKARAKA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70981/PAKARAKA%20MAORI%20CEMETERY">PAKARAKA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.84597,-39.82256</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WANGANUI (ARAMOHO) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70982/WANGANUI%20%28ARAMOHO%29%20CEMETERY">WANGANUI (ARAMOHO) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.09241,-39.89479</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WANGANUI (HEADS ROAD) OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70984/WANGANUI%20%28HEADS%20ROAD%29%20OLD%20CEMETERY">WANGANUI (HEADS ROAD) OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.04592,-39.93929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WANGANUI OLD CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70985/WANGANUI%20OLD%20CATHOLIC%20CEMETERY">WANGANUI OLD CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.04727,-39.93989</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATARAWA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70986/MATARAWA%20CEMETERY">MATARAWA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.14479,-39.94686</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JOHNSONVILLE (ST. JOHN'S ANGLICAN CHURCHYARD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70987/JOHNSONVILLE%20%28ST.%20JOHN%27S%20ANGLICAN%20CHURCHYARD%29%20CEMETERY">JOHNSONVILLE (ST. JOHN'S ANGLICAN CHURCHYARD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.80743,-41.22021</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WELLINGTON (KARORI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70989/WELLINGTON%20%28KARORI%29%20CEMETERY">WELLINGTON (KARORI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.75132,-41.27949</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KARORI (ST. MARY'S) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70990/KARORI%20%28ST.%20MARY%27S%29%20CHURCHYARD">KARORI (ST. MARY'S) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.74285,-41.28259</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PETONE CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70991/PETONE%20CATHOLIC%20CEMETERY">PETONE CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.87026,-41.22029</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOMES ISLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70992/SOMES%20ISLAND%20CEMETERY">SOMES ISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.86473,-41.25474</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODVILLE OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70993/WOODVILLE%20OLD%20CEMETERY">WOODVILLE OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.83326,-40.33633</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WELLINGTON PROVINCIAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70994/WELLINGTON%20PROVINCIAL%20MEMORIAL">WELLINGTON PROVINCIAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.75067,-41.27901</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAIPIRO BAY SERVICES CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2002650/WAIPIRO%20BAY%20SERVICES%20CEMETERY">WAIPIRO BAY SERVICES CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.33452,-38.01918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUATOKI NORTH MAORI (OLD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2002652/RUATOKI%20NORTH%20MAORI%20%28OLD%29%20CEMETERY">RUATOKI NORTH MAORI (OLD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.00614,-38.13936</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTCHURCH (UPPER RICCARTON) ANGLICAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2098618/CHRISTCHURCH%20%28UPPER%20RICCARTON%29%20ANGLICAN%20CHURCH%20CEMETERY">CHRISTCHURCH (UPPER RICCARTON) ANGLICAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.56961,-43.53208</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OKAIHAU (ST. CATHERINES) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2098726/OKAIHAU%20%28ST.%20CATHERINES%29%20CHURCHYARD">OKAIHAU (ST. CATHERINES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 173.75959,-35.32673</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHAKAKI MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2098736/WHAKAKI%20MAORI%20CEMETERY">WHAKAKI MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 177.58494,-39.03607</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TIKAPA MAORI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2098800/TIKAPA%20MAORI%20CEMETERY">TIKAPA MAORI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 178.44316,-37.79995</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAURANGA PUBLIC PRESBYTERIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007221/TAURANGA%20PUBLIC%20PRESBYTERIAN%20CEMETERY">TAURANGA PUBLIC PRESBYTERIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 176.15325,-37.71027</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAIAPOI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007226/KAIAPOI%20CEMETERY">KAIAPOI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.6366,-43.37584</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAUMARUNUI (OLD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007231/TAUMARUNUI%20%28OLD%29%20CEMETERY">TAUMARUNUI (OLD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 175.25462,-38.87564</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARKWORTH ANGLICAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007338/WARKWORTH%20ANGLICAN%20CHURCH%20CEMETERY">WARKWORTH ANGLICAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 174.66294,-36.4019</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKSIDE ANGLICAN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007341/BROOKSIDE%20ANGLICAN%20CHURCHYARD">BROOKSIDE ANGLICAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.30319,-43.69039</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LYTTELTON ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001018/LYTTELTON%20ANGLICAN%20CEMETERY">LYTTELTON ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 172.72259,-43.59852</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

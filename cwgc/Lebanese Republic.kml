@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Lebanese Republic</name>
+  <description>Cemeteries in Lebanese Republic from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BEIRUT WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91001/BEIRUT%20WAR%20CEMETERY">BEIRUT WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.50531,33.86977</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEIRUT MARONITE CEMETERY (INDIAN SECTION)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91005/BEIRUT%20MARONITE%20CEMETERY%20%28INDIAN%20SECTION%29">BEIRUT MARONITE CEMETERY (INDIAN SECTION) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.51053,33.88489</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

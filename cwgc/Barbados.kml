@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Barbados</name>
+  <description>Cemeteries in Barbados from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ST. JAMES PARISH CEMETERY, HOLETOWN</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49834/ST.%20JAMES%20PARISH%20CEMETERY%2C%20HOLETOWN">ST. JAMES PARISH CEMETERY, HOLETOWN at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -59.63432,13.18194</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. JOHN'S PARISH CEMETERY, BARBADOS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49835/ST.%20JOHN%27S%20PARISH%20CEMETERY%2C%20BARBADOS">ST. JOHN'S PARISH CEMETERY, BARBADOS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -59.49856,13.18481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. LUCY CHURCHYARD, BARBADOS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49836/ST.%20LUCY%20CHURCHYARD%2C%20BARBADOS">ST. LUCY CHURCHYARD, BARBADOS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -59.62314,13.29231</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. PHILIP CHURCHYARD, BARBADOS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49838/ST.%20PHILIP%20CHURCHYARD%2C%20BARBADOS">ST. PHILIP CHURCHYARD, BARBADOS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -59.48877,13.13684</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTBURY CEMETERY, ST. MICHAEL, BARBADOS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49839/WESTBURY%20CEMETERY%2C%20ST.%20MICHAEL%2C%20BARBADOS">WESTBURY CEMETERY, ST. MICHAEL, BARBADOS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -59.61971,13.1079</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

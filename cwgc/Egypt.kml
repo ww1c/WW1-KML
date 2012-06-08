@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Egypt</name>
+  <description>Cemeteries in Egypt from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ALEXANDRIA (CHATBY) BRITISH PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10701/ALEXANDRIA%20%28CHATBY%29%20BRITISH%20PROTESTANT%20CEMETERY">ALEXANDRIA (CHATBY) BRITISH PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.91573,31.20667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALEXANDRIA (CHATBY) MILITARY AND WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10702/ALEXANDRIA%20%28CHATBY%29%20MILITARY%20AND%20WAR%20MEMORIAL%20CEMETERY">ALEXANDRIA (CHATBY) MILITARY AND WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.91599,31.20607</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT SAID WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10800/PORT%20SAID%20WAR%20MEMORIAL%20CEMETERY">PORT SAID WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.27657,31.27411</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ISMAILIA WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/10802/ISMAILIA%20WAR%20MEMORIAL%20CEMETERY">ISMAILIA WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.26297,30.59634</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAIRO WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11000/CAIRO%20WAR%20MEMORIAL%20CEMETERY">CAIRO WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.23075,30.01438</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAIRO NEW BRITISH PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11001/CAIRO%20NEW%20BRITISH%20PROTESTANT%20CEMETERY">CAIRO NEW BRITISH PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.23077,30.01448</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANTARA INDIAN CEMETERY MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11103/KANTARA%20INDIAN%20CEMETERY%20MEMORIAL">KANTARA INDIAN CEMETERY MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.33118,30.87318</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANARA INDIAN MUHAMMADAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11104/MANARA%20INDIAN%20MUHAMMADAN%20CEMETERY">MANARA INDIAN MUHAMMADAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.92539,31.20111</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT SAID MUHAMMADAN CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11105/PORT%20SAID%20MUHAMMADAN%20CIVIL%20CEMETERY">PORT SAID MUHAMMADAN CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.27098,31.27543</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SUEZ WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54400/SUEZ%20WAR%20MEMORIAL%20CEMETERY">SUEZ WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.53634,29.97246</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ASWAN BANDAR BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54404/ASWAN%20BANDAR%20BRITISH%20CEMETERY">ASWAN BANDAR BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.88459,24.04386</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEL EL KEBIR WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54407/TEL%20EL%20KEBIR%20WAR%20MEMORIAL%20CEMETERY">TEL EL KEBIR WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.78723,30.56146</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANTARA WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54500/KANTARA%20WAR%20MEMORIAL%20CEMETERY">KANTARA WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.33173,30.87194</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALEXANDRIA (HADRA) WAR MEMORIAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54600/ALEXANDRIA%20%28HADRA%29%20WAR%20MEMORIAL%20CEMETERY">ALEXANDRIA (HADRA) WAR MEMORIAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.92303,31.20378</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHATBY MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142020/CHATBY%20MEMORIAL">CHATBY MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.91812,31.2069</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HELIOPOLIS (ADEN) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142400/HELIOPOLIS%20%28ADEN%29%20MEMORIAL">HELIOPOLIS (ADEN) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.32922,30.07798</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANTARA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/143602/KANTARA%20MEMORIAL">KANTARA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.33175,30.87202</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HELIOPOLIS (PORT TEWFIK) MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/143800/HELIOPOLIS%20%28PORT%20TEWFIK%29%20MEMORIAL">HELIOPOLIS (PORT TEWFIK) MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 31.32972,30.07971</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALEXANDRIA (CHATBY) JEWISH CEMETERY NO.3</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000006/ALEXANDRIA%20%28CHATBY%29%20JEWISH%20CEMETERY%20NO.3">ALEXANDRIA (CHATBY) JEWISH CEMETERY NO.3 at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 29.91513,31.2076</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

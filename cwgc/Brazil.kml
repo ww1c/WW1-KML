@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Brazil</name>
+  <description>Cemeteries in Brazil from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>GAMBOA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49818/GAMBOA%20BRITISH%20CEMETERY">GAMBOA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -43.19697,-22.89775</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANTOS (FILOSOFIA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49820/SANTOS%20%28FILOSOFIA%29%20CEMETERY">SANTOS (FILOSOFIA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -46.34637,-23.93113</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANTO AMARO BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2024340/SANTO%20AMARO%20BRITISH%20CEMETERY">SANTO AMARO BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -34.87665,-8.04728</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

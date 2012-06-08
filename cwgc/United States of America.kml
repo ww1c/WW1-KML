@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for United States of America</name>
+  <description>Cemeteries in United States of America from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>PHOENIX (GREENWOOD) MEMORY LAWN</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073006/PHOENIX%20%28GREENWOOD%29%20MEMORY%20LAWN">PHOENIX (GREENWOOD) MEMORY LAWN at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -112.10975,33.45132</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLMA GREENLAWN MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073009/COLMA%20GREENLAWN%20MEMORIAL%20PARK">COLMA GREENLAWN MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.46318,37.67894</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN DIEGO (FORT ROSECRANS) NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073011/SAN%20DIEGO%20%28FORT%20ROSECRANS%29%20NATIONAL%20CEMETERY">SAN DIEGO (FORT ROSECRANS) NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.24481,32.68875</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN FRANCISCO NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073022/SAN%20FRANCISCO%20NATIONAL%20CEMETERY">SAN FRANCISCO NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.46266,37.80097</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DENVER (FAIRMOUNT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073025/DENVER%20%28FAIRMOUNT%29%20CEMETERY">DENVER (FAIRMOUNT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -104.9033,39.70968</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OAHU CEMETERY, HONOLULU, OAHU ISLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073043/OAHU%20CEMETERY%2C%20HONOLULU%2C%20OAHU%20ISLAND">OAHU CEMETERY, HONOLULU, OAHU ISLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -157.84918,21.32408</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073045/CHICAGO%20%28EVERGREEN%29%20CEMETERY">CHICAGO (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.70785,41.73501</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073048/CHICAGO%20%28WOODLAWN%29%20CEMETERY">CHICAGO (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.81611,41.85028</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (OAKRIDGE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073051/CHICAGO%20%28OAKRIDGE%29%20CEMETERY">CHICAGO (OAKRIDGE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.88983,41.86296</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INDIANAPOLIS (CROWN HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073053/INDIANAPOLIS%20%28CROWN%20HILL%29%20CEMETERY">INDIANAPOLIS (CROWN HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -86.16506,39.81321</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KOKOMO (CROWN POINT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073054/KOKOMO%20%28CROWN%20POINT%29%20CEMETERY">KOKOMO (CROWN POINT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -86.11734,40.48693</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DES MOINES (MASONIC) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073061/DES%20MOINES%20%28MASONIC%29%20CEMETERY">DES MOINES (MASONIC) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.68388,41.60754</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW ORLEANS (GREENWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073071/NEW%20ORLEANS%20%28GREENWOOD%29%20CEMETERY">NEW ORLEANS (GREENWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -90.11081,29.98479</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOSTON (FOREST HILLS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073079/BOSTON%20%28FOREST%20HILLS%29%20CEMETERY">BOSTON (FOREST HILLS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.10482,42.3</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EVERETT (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073081/EVERETT%20%28WOODLAWN%29%20CEMETERY">EVERETT (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.03399,42.41562</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST ROXBURY (ST. JOSEPH) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073086/WEST%20ROXBURY%20%28ST.%20JOSEPH%29%20CEMETERY">WEST ROXBURY (ST. JOSEPH) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.17212,42.29591</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DETROIT (WOODMERE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073094/DETROIT%20%28WOODMERE%29%20CEMETERY">DETROIT (WOODMERE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.13138,42.29588</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAWLEY CEMETERY, CLAY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073104/HAWLEY%20CEMETERY%2C%20CLAY">HAWLEY CEMETERY, CLAY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -96.33304,46.88182</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOTOWA (LAUREL GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073130/TOTOWA%20%28LAUREL%20GROVE%29%20CEMETERY">TOTOWA (LAUREL GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.20658,40.90443</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BRONX (ST. RAYMOND'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073134/NEW%20YORK%20CITY%20BRONX%20%28ST.%20RAYMOND%27S%29%20CEMETERY">NEW YORK CITY BRONX (ST. RAYMOND'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.83174,40.82623</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BROOKLYN GREENWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073135/NEW%20YORK%20CITY%20BROOKLYN%20GREENWOOD%20CEMETERY">NEW YORK CITY BROOKLYN GREENWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.99552,40.65893</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BROOKLYN (THE EVERGREENS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073136/NEW%20YORK%20CITY%20BROOKLYN%20%28THE%20EVERGREENS%29%20CEMETERY">NEW YORK CITY BROOKLYN (THE EVERGREENS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.90204,40.68257</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUFFALO CITY FOREST LAWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073137/BUFFALO%20CITY%20FOREST%20LAWN%20CEMETERY">BUFFALO CITY FOREST LAWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.86708,42.92245</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY EAST ELMHURST (ST. MICHAEL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073145/NEW%20YORK%20CITY%20EAST%20ELMHURST%20%28ST.%20MICHAEL%27S%29%20CEMETERY">NEW YORK CITY EAST ELMHURST (ST. MICHAEL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.89719,40.76653</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073146/NEW%20YORK%20CITY%20%28WOODLAWN%29%20CEMETERY">NEW YORK CITY (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.86396,40.89533</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROCHESTER (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073149/ROCHESTER%20%28MOUNT%20HOPE%29%20CEMETERY">ROCHESTER (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.61606,43.12768</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTLAND (LINCOLN) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073168/PORTLAND%20%28LINCOLN%29%20MEMORIAL%20PARK">PORTLAND (LINCOLN) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.55025,45.46458</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHILADELPHIA (NORTHWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073177/PHILADELPHIA%20%28NORTHWOOD%29%20CEMETERY">PHILADELPHIA (NORTHWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.14161,40.0615</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARLINGTON NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073193/ARLINGTON%20NATIONAL%20CEMETERY">ARLINGTON NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.07868,38.87678</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PETERSBURG (BLANDFORD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073200/PETERSBURG%20%28BLANDFORD%29%20CEMETERY">PETERSBURG (BLANDFORD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.3885,37.22634</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SEATTLE (MOUNT PLEASANT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073208/SEATTLE%20%28MOUNT%20PLEASANT%29%20CEMETERY">SEATTLE (MOUNT PLEASANT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.36623,47.64325</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWELL (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001550/LOWELL%20%28EVERGREEN%29%20CEMETERY">LOWELL (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -110.97829,32.26283</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PRESCOTT NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001552/PRESCOTT%20NATIONAL%20CEMETERY">PRESCOTT NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -112.44869,34.54601</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BANNING (SAN GORGONIO) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001553/BANNING%20%28SAN%20GORGONIO%29%20MEMORIAL%20PARK">BANNING (SAN GORGONIO) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -116.87735,33.94612</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLMA (CYPRESS LAWN) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001554/COLMA%20%28CYPRESS%20LAWN%29%20MEMORIAL%20PARK">COLMA (CYPRESS LAWN) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.45476,37.67311</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLMA (HOLY CROSS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001556/COLMA%20%28HOLY%20CROSS%29%20CEMETERY">COLMA (HOLY CROSS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.44872,37.66882</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRESNO (MOUNTAIN VIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001557/FRESNO%20%28MOUNTAIN%20VIEW%29%20CEMETERY">FRESNO (MOUNTAIN VIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -119.83213,36.75018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LONG BEACH (SUNNYSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001558/LONG%20BEACH%20%28SUNNYSIDE%29%20CEMETERY">LONG BEACH (SUNNYSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -118.17893,33.80449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOS ANGELES (CHAPEL OF THE PINES) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001559/LOS%20ANGELES%20%28CHAPEL%20OF%20THE%20PINES%29%20CEMETERY">LOS ANGELES (CHAPEL OF THE PINES) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -118.29442,34.04369</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN DIEGO (GREENWOOD) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001561/SAN%20DIEGO%20%28GREENWOOD%29%20MEMORIAL%20PARK">SAN DIEGO (GREENWOOD) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.10164,32.70429</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN DIEGO (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001562/SAN%20DIEGO%20%28MOUNT%20HOPE%29%20CEMETERY">SAN DIEGO (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.11218,32.7114</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VALLEJO (MARE ISLAND) NAVAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001563/VALLEJO%20%28MARE%20ISLAND%29%20NAVAL%20CEMETERY">VALLEJO (MARE ISLAND) NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.25262,38.07967</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SIERRA MADRE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001565/SIERRA%20MADRE%20CEMETERY">SIERRA MADRE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -118.0408,34.16212</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLORADO SPRINGS (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001566/COLORADO%20SPRINGS%20%28EVERGREEN%29%20CEMETERY">COLORADO SPRINGS (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -104.80366,38.81931</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DENVER GOLDEN HILL JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001568/DENVER%20GOLDEN%20HILL%20JEWISH%20CEMETERY">DENVER GOLDEN HILL JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -105.13562,39.73916</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW BRITAIN (FAIRVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001569/NEW%20BRITAIN%20%28FAIRVIEW%29%20CEMETERY">NEW BRITAIN (FAIRVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.76418,41.67411</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW HAVEN (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001570/NEW%20HAVEN%20%28EVERGREEN%29%20CEMETERY">NEW HAVEN (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.94968,41.2994</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW HAVEN (ST. LAWRENCE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001571/NEW%20HAVEN%20%28ST.%20LAWRENCE%29%20CEMETERY">NEW HAVEN (ST. LAWRENCE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.96791,41.30681</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROCKVILLE (ST. BERNARD'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001572/ROCKVILLE%20%28ST.%20BERNARD%27S%29%20CEMETERY">ROCKVILLE (ST. BERNARD'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.42977,41.86722</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANCHESTER (ST. JAMES) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001573/MANCHESTER%20%28ST.%20JAMES%29%20CEMETERY">MANCHESTER (ST. JAMES) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.53368,41.77511</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STAMFORD (LONG RIDGE UNION) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001574/STAMFORD%20%28LONG%20RIDGE%20UNION%29%20CEMETERY">STAMFORD (LONG RIDGE UNION) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.59806,41.14818</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRATFORD (ST. MICHAEL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001575/STRATFORD%20%28ST.%20MICHAEL%27S%29%20CEMETERY">STRATFORD (ST. MICHAEL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.15376,41.18357</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRADENTON (MAJOR ADAMS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001576/BRADENTON%20%28MAJOR%20ADAMS%29%20CEMETERY">BRADENTON (MAJOR ADAMS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.56551,27.49201</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAMPA (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001577/TAMPA%20%28WOODLAWN%29%20CEMETERY">TAMPA (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.46366,27.97554</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BENLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001578/BENLD%20CEMETERY">BENLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -89.79752,39.08634</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLOOMINGTON (SCOGIN HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001579/BLOOMINGTON%20%28SCOGIN%20HILL%29%20CEMETERY">BLOOMINGTON (SCOGIN HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -89.03846,40.45408</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (ELMWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001580/CHICAGO%20%28ELMWOOD%29%20CEMETERY">CHICAGO (ELMWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.8357,41.93227</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (FOREST HOME) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001582/CHICAGO%20%28FOREST%20HOME%29%20CEMETERY">CHICAGO (FOREST HOME) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.83337,41.8663</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (MOUNT CARMEL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001583/CHICAGO%20%28MOUNT%20CARMEL%29%20CEMETERY">CHICAGO (MOUNT CARMEL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.90705,41.86262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (MOUNT GREENWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001584/CHICAGO%20%28MOUNT%20GREENWOOD%29%20CEMETERY">CHICAGO (MOUNT GREENWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.6933,41.69173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001585/CHICAGO%20%28MOUNT%20HOPE%29%20CEMETERY">CHICAGO (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.6895,41.68434</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (MOUNT OLIVET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001586/CHICAGO%20%28MOUNT%20OLIVET%29%20CEMETERY">CHICAGO (MOUNT OLIVET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.6933,41.69178</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (OAK WOODS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001588/CHICAGO%20%28OAK%20WOODS%29%20CEMETERY">CHICAGO (OAK WOODS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.59953,41.77312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO (ST. ADALBERT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001589/CHICAGO%20%28ST.%20ADALBERT%29%20CEMETERY">CHICAGO (ST. ADALBERT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.79533,42.00541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FAIRHAVEN TOWNSHIP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001591/FAIRHAVEN%20TOWNSHIP%20CEMETERY">FAIRHAVEN TOWNSHIP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -89.92848,41.94655</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA SALLE (ST. VINCENT'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001592/LA%20SALLE%20%28ST.%20VINCENT%27S%29%20CEMETERY">LA SALLE (ST. VINCENT'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -89.09041,41.36441</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROWE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001593/ROWE%20CEMETERY">ROWE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -88.69603,40.91475</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>URBANA (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001594/URBANA%20%28MOUNT%20HOPE%29%20CEMETERY">URBANA (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -88.22689,40.10045</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WELDON NIXON TOWNSHIP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001595/WELDON%20NIXON%20TOWNSHIP%20CEMETERY">WELDON NIXON TOWNSHIP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -88.74378,40.12122</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLAY CITY (BEECH UNITED METHODIST) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001596/CLAY%20CITY%20%28BEECH%20UNITED%20METHODIST%29%20CEMETERY">CLAY CITY (BEECH UNITED METHODIST) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.04587,39.26944</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COVINGTON (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001597/COVINGTON%20%28MOUNT%20HOPE%29%20CEMETERY">COVINGTON (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.386,40.13248</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PLYMOUTH (OAK HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001600/PLYMOUTH%20%28OAK%20HILL%29%20CEMETERY">PLYMOUTH (OAK HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -86.30438,41.32827</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLEAR LAKE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001601/CLEAR%20LAKE%20CEMETERY">CLEAR LAKE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.36611,43.14307</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DES MOINES (LAUREL HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001602/DES%20MOINES%20%28LAUREL%20HILL%29%20CEMETERY">DES MOINES (LAUREL HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.5445,41.58912</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OSKALOOSA FOREST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001604/OSKALOOSA%20FOREST%20CEMETERY">OSKALOOSA FOREST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -92.63177,41.3035</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTTUMWA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001605/OTTUMWA%20CEMETERY">OTTUMWA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -92.40888,41.03318</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MORGANVILLE NORWEGIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001606/MORGANVILLE%20NORWEGIAN%20CEMETERY">MORGANVILLE NORWEGIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.18276,39.47311</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PITTSBURG (HIGHLAND PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001607/PITTSBURG%20%28HIGHLAND%20PARK%29%20CEMETERY">PITTSBURG (HIGHLAND PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -94.70498,37.38564</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEXINGTON COVE HAVEN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001608/LEXINGTON%20COVE%20HAVEN%20CEMETERY">LEXINGTON COVE HAVEN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.50992,38.06715</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOUISVILLE CAVE HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001609/LOUISVILLE%20CAVE%20HILL%20CEMETERY">LOUISVILLE CAVE HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -85.7264,38.24363</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRIDGEWATER SOUTH (SMITH) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001611/BRIDGEWATER%20SOUTH%20%28SMITH%29%20CEMETERY">BRIDGEWATER SOUTH (SMITH) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.84308,46.41197</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GARDINER (LIBBY HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001612/GARDINER%20%28LIBBY%20HILL%29%20CEMETERY">GARDINER (LIBBY HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -69.82493,44.17962</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARRINGTON (FOREST HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001613/HARRINGTON%20%28FOREST%20HILL%29%20CEMETERY">HARRINGTON (FOREST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.80325,44.62602</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEWISTON (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001614/LEWISTON%20%28MOUNT%20HOPE%29%20CEMETERY">LEWISTON (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.20384,44.07155</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTLAND (CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001615/PORTLAND%20%28CALVARY%29%20CEMETERY">PORTLAND (CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.29364,43.62988</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. FRANCIS (ST. PAUL'S) CHURCH CEMETERY, (AROOSTOOK)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001616/ST.%20FRANCIS%20%28ST.%20PAUL%27S%29%20CHURCH%20CEMETERY%2C%20%28AROOSTOOK%29">ST. FRANCIS (ST. PAUL'S) CHURCH CEMETERY, (AROOSTOOK) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -68.90186,47.16865</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH PORTLAND (FOREST CITY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001617/SOUTH%20PORTLAND%20%28FOREST%20CITY%29%20CEMETERY">SOUTH PORTLAND (FOREST CITY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.28428,43.63452</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALTIMORE (CEDAR HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001619/BALTIMORE%20%28CEDAR%20HILL%29%20CEMETERY">BALTIMORE (CEDAR HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.61451,39.2133</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALTIMORE (OAK LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001620/BALTIMORE%20%28OAK%20LAWN%29%20CEMETERY">BALTIMORE (OAK LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.5248,39.28979</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALTIMORE (PHILADELPHIA ROAD) RUSSIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001621/BALTIMORE%20%28PHILADELPHIA%20ROAD%29%20RUSSIAN%20CEMETERY">BALTIMORE (PHILADELPHIA ROAD) RUSSIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.34033,39.44001</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALTIMORE (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001622/BALTIMORE%20%28WOODLAWN%29%20CEMETERY">BALTIMORE (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.7255,39.32385</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUBURN (HILLSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001623/AUBURN%20%28HILLSIDE%29%20CEMETERY">AUBURN (HILLSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.83295,42.19711</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AVON (ST. MICHAEL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001624/AVON%20%28ST.%20MICHAEL%27S%29%20CEMETERY">AVON (ST. MICHAEL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.02995,42.12842</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOSTON (NEW CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001625/BOSTON%20%28NEW%20CALVARY%29%20CEMETERY">BOSTON (NEW CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.09973,42.28217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKLINE (HOLY HOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001626/BROOKLINE%20%28HOLY%20HOOD%29%20CEMETERY">BROOKLINE (HOLY HOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.16658,42.32134</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMBRIDGE CEMETERY, MIDDLESEX, MASSACHUSETTS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001627/CAMBRIDGE%20CEMETERY%2C%20MIDDLESEX%2C%20MASSACHUSETTS">CAMBRIDGE CEMETERY, MIDDLESEX, MASSACHUSETTS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.14063,42.36961</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FALL RIVER (NOTRE DAME) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001629/FALL%20RIVER%20%28NOTRE%20DAME%29%20CEMETERY">FALL RIVER (NOTRE DAME) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.15398,41.66871</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HINGHAM (ST. PAUL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001630/HINGHAM%20%28ST.%20PAUL%27S%29%20CEMETERY">HINGHAM (ST. PAUL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.89305,42.23313</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWELL (WEST LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001631/LOWELL%20%28WEST%20LAWN%29%20CEMETERY">LOWELL (WEST LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.31255,42.62196</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LYNN (ST. JOSEPH'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001633/LYNN%20%28ST.%20JOSEPH%27S%29%20CEMETERY">LYNN (ST. JOSEPH'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.95893,42.49199</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALDEN (HOLY CROSS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001634/MALDEN%20%28HOLY%20CROSS%29%20CEMETERY">MALDEN (HOLY CROSS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.03565,42.42756</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARLBOROUGH (ST. MARY'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001635/MARLBOROUGH%20%28ST.%20MARY%27S%29%20CEMETERY">MARLBOROUGH (ST. MARY'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.55805,42.341</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATTAPAN (MOUNT HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001636/MATTAPAN%20%28MOUNT%20HOPE%29%20CEMETERY">MATTAPAN (MOUNT HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.10245,42.2843</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOSTON (FAIRVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001637/BOSTON%20%28FAIRVIEW%29%20CEMETERY">BOSTON (FAIRVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.14023,42.24537</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>METHUEN (ELMWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001638/METHUEN%20%28ELMWOOD%29%20CEMETERY">METHUEN (ELMWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.22496,42.70327</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMBRIDGE (MOUNT AUBURN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001639/CAMBRIDGE%20%28MOUNT%20AUBURN%29%20CEMETERY">CAMBRIDGE (MOUNT AUBURN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.14041,42.37072</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW BEDFORD (OAK GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001640/NEW%20BEDFORD%20%28OAK%20GROVE%29%20CEMETERY">NEW BEDFORD (OAK GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -70.94157,41.64323</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEWTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001641/NEWTON%20CEMETERY">NEWTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.20765,42.3348</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTHBOROUGH RURAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001642/SOUTHBOROUGH%20RURAL%20CEMETERY">SOUTHBOROUGH RURAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.52792,42.30074</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPRINGFIELD (ST. MICHAEL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001643/SPRINGFIELD%20%28ST.%20MICHAEL%27S%29%20CEMETERY">SPRINGFIELD (ST. MICHAEL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.53935,42.12421</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTON (LINWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001644/WESTON%20%28LINWOOD%29%20CEMETERY">WESTON (LINWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.30587,42.36433</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST ROXBURY (MOUNT BENEDICT) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001645/WEST%20ROXBURY%20%28MOUNT%20BENEDICT%29%20ROMAN%20CATHOLIC%20CEMETERY">WEST ROXBURY (MOUNT BENEDICT) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.16877,42.29826</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WORCESTER (HOPE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001647/WORCESTER%20%28HOPE%29%20CEMETERY">WORCESTER (HOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.83302,42.23533</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WORCESTER RURAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001648/WORCESTER%20RURAL%20CEMETERY">WORCESTER RURAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.80415,42.27926</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WORCESTER (ST. JOHN'S) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001649/WORCESTER%20%28ST.%20JOHN%27S%29%20ROMAN%20CATHOLIC%20CEMETERY">WORCESTER (ST. JOHN'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.81945,42.2435</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPBELL HILLS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001650/CAMPBELL%20HILLS%20CEMETERY">CAMPBELL HILLS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.14575,44.30908</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHEBOYGAN (CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001651/CHEBOYGAN%20%28CALVARY%29%20CEMETERY">CHEBOYGAN (CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.46373,45.6198</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DETROIT (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001652/DETROIT%20%28EVERGREEN%29%20CEMETERY">DETROIT (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.11995,42.43848</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DETROIT (MOUNT OLIVET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001653/DETROIT%20%28MOUNT%20OLIVET%29%20CEMETERY">DETROIT (MOUNT OLIVET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.02355,42.41961</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DETROIT (ROSELAND PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001654/DETROIT%20%28ROSELAND%20PARK%29%20CEMETERY">DETROIT (ROSELAND PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.17322,42.50384</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DETROIT (WOODLAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001655/DETROIT%20%28WOODLAWN%29%20CEMETERY">DETROIT (WOODLAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.12118,42.44033</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOUGHTON (FOREST HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001657/HOUGHTON%20%28FOREST%20HILL%29%20CEMETERY">HOUGHTON (FOREST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -88.54487,47.11339</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OWOSSO (OAK HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001658/OWOSSO%20%28OAK%20HILL%29%20CEMETERY">OWOSSO (OAK HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.16993,42.98657</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PETOSKEY (ST. FRANCIS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001659/PETOSKEY%20%28ST.%20FRANCIS%29%20CEMETERY">PETOSKEY (ST. FRANCIS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.97993,45.37018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AURORA (FOREST HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001660/AURORA%20%28FOREST%20HILL%29%20CEMETERY">AURORA (FOREST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -92.23754,47.51797</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CREDIT RIVER CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001661/CREDIT%20RIVER%20CATHOLIC%20CEMETERY">CREDIT RIVER CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.37964,44.69142</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FOSSTON (KINGO) LUTHERAN FREE CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001662/FOSSTON%20%28KINGO%29%20LUTHERAN%20FREE%20CHURCH%20CEMETERY">FOSSTON (KINGO) LUTHERAN FREE CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -95.73682,47.5819</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MINNEAPOLIS (HILLSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001664/MINNEAPOLIS%20%28HILLSIDE%29%20CEMETERY">MINNEAPOLIS (HILLSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.22408,45.00746</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FAIRFAX (PLEASANT RIDGE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001665/FAIRFAX%20%28PLEASANT%20RIDGE%29%20CEMETERY">FAIRFAX (PLEASANT RIDGE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -95.37674,40.3286</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KANSAS CITY (ELMWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001666/KANSAS%20CITY%20%28ELMWOOD%29%20CEMETERY">KANSAS CITY (ELMWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -94.52564,39.09435</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MEADVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001667/MEADVILLE%20CEMETERY">MEADVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.30302,39.79248</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. LOUIS (BELLEFONTAINE) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001668/ST.%20LOUIS%20%28BELLEFONTAINE%29%20PUBLIC%20CEMETERY">ST. LOUIS (BELLEFONTAINE) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -90.23533,38.69075</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TINDALL (PROCTOR) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001669/TINDALL%20%28PROCTOR%29%20CEMETERY">TINDALL (PROCTOR) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.58217,40.17023</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUTTE (MOUNT MORIAH) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001670/BUTTE%20%28MOUNT%20MORIAH%29%20CEMETERY">BUTTE (MOUNT MORIAH) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -112.53914,45.98852</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CUSTER COUNTY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001671/CUSTER%20COUNTY%20CEMETERY">CUSTER COUNTY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -105.82875,46.38813</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOOLEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001672/DOOLEY%20CEMETERY">DOOLEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -104.37406,48.88155</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEARNEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001673/KEARNEY%20CEMETERY">KEARNEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -99.06962,40.71766</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOUP CITY (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001674/LOUP%20CITY%20%28EVERGREEN%29%20CEMETERY">LOUP CITY (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -98.98421,41.30021</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CONCORD (BLOSSOM HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001675/CONCORD%20%28BLOSSOM%20HILL%29%20CEMETERY">CONCORD (BLOSSOM HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.55087,43.21974</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST MANCHESTER (ST. JOSEPH'S) NEW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001677/WEST%20MANCHESTER%20%28ST.%20JOSEPH%27S%29%20NEW%20CEMETERY">WEST MANCHESTER (ST. JOSEPH'S) NEW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.49879,42.96929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KEARNY ARLINGTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001678/KEARNY%20ARLINGTON%20CEMETERY">KEARNY ARLINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.13352,40.77283</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ASBURY FIRST PRESBYTERIAN CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001679/ASBURY%20FIRST%20PRESBYTERIAN%20CHURCH%20CEMETERY">ASBURY FIRST PRESBYTERIAN CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.01389,40.69609</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMILTON (GREENWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001680/HAMILTON%20%28GREENWOOD%29%20CEMETERY">HAMILTON (GREENWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.53778,39.40562</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERSEY CITY BAY VIEW - NEW YORK BAY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001681/JERSEY%20CITY%20BAY%20VIEW%20-%20NEW%20YORK%20BAY%20CEMETERY">JERSEY CITY BAY VIEW - NEW YORK BAY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.08761,40.69453</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTH BERGEN (FLOWER HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001682/NORTH%20BERGEN%20%28FLOWER%20HILL%29%20CEMETERY">NORTH BERGEN (FLOWER HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.02404,40.78779</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORANGE (ROSEDALE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001684/ORANGE%20%28ROSEDALE%29%20CEMETERY">ORANGE (ROSEDALE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.21941,40.79121</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOTOWA (HOLY SEPULCHRE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001685/TOTOWA%20%28HOLY%20SEPULCHRE%29%20CEMETERY">TOTOWA (HOLY SEPULCHRE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.19652,40.90807</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBUQUERQUE (MT. CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001686/ALBUQUERQUE%20%28MT.%20CALVARY%29%20CEMETERY">ALBUQUERQUE (MT. CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -106.63751,35.10285</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROSWELL (SOUTH PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001687/ROSWELL%20%28SOUTH%20PARK%29%20CEMETERY">ROSWELL (SOUTH PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -104.51155,33.35821</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBANY (GRACELAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001688/ALBANY%20%28GRACELAND%29%20CEMETERY">ALBANY (GRACELAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.79388,42.63529</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBANY (ST. AGNES) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001689/ALBANY%20%28ST.%20AGNES%29%20CEMETERY">ALBANY (ST. AGNES) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.72336,42.70387</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMITYVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001690/AMITYVILLE%20CEMETERY">AMITYVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.41758,40.69396</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BETHPAGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001691/BETHPAGE%20CEMETERY">BETHPAGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.45727,40.7393</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLOOMINGDALE (BROOKSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001692/BLOOMINGDALE%20%28BROOKSIDE%29%20CEMETERY">BLOOMINGDALE (BROOKSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.07991,44.393</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANASERAGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001694/CANASERAGA%20CEMETERY">CANASERAGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.78259,42.46085</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAPE VINCENT (RIVERSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001695/CAPE%20VINCENT%20%28RIVERSIDE%29%20CEMETERY">CAPE VINCENT (RIVERSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.31005,44.13792</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELLENBURG (RIVERSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001696/ELLENBURG%20%28RIVERSIDE%29%20CEMETERY">ELLENBURG (RIVERSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.89142,44.86751</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRANVILLE (METTOWEE VALLEY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001697/GRANVILLE%20%28METTOWEE%20VALLEY%29%20CEMETERY">GRANVILLE (METTOWEE VALLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.26255,43.4188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEWLETT (TRINITY) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001698/HEWLETT%20%28TRINITY%29%20CHURCHYARD">HEWLETT (TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.70444,40.63482</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KENSICO-SHARON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001699/KENSICO-SHARON%20CEMETERY">KENSICO-SHARON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.78492,41.08194</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEWISTON (RIVERDALE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001700/LEWISTON%20%28RIVERDALE%29%20CEMETERY">LEWISTON (RIVERDALE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.0384,43.14578</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIBERTY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001701/LIBERTY%20CEMETERY">LIBERTY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.74016,41.79935</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOCKPORT (GLENWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001702/LOCKPORT%20%28GLENWOOD%29%20CEMETERY">LOCKPORT (GLENWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.704,43.1814</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALONE (MORNINGSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001703/MALONE%20%28MORNINGSIDE%29%20CEMETERY">MALONE (MORNINGSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.279,44.85387</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MASSENA (PINE GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001704/MASSENA%20%28PINE%20GROVE%29%20CEMETERY">MASSENA (PINE GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.9002,44.90671</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY MIDDLE VILLAGE LUTHERAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001705/NEW%20YORK%20CITY%20MIDDLE%20VILLAGE%20LUTHERAN%20CEMETERY">NEW YORK CITY MIDDLE VILLAGE LUTHERAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.88834,40.71214</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONSEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001706/MONSEY%20CEMETERY">MONSEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.06686,41.14055</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BROOKLYN (BETHOLOM FIELDS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001708/NEW%20YORK%20CITY%20BROOKLYN%20%28BETHOLOM%20FIELDS%29%20CEMETERY">NEW YORK CITY BROOKLYN (BETHOLOM FIELDS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.87796,40.69065</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BROOKLYN (HOLY CROSS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001710/NEW%20YORK%20CITY%20BROOKLYN%20%28HOLY%20CROSS%29%20CEMETERY">NEW YORK CITY BROOKLYN (HOLY CROSS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.94327,40.64711</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY BROOKLYN (HOLY TRINITY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001711/NEW%20YORK%20CITY%20BROOKLYN%20%28HOLY%20TRINITY%29%20CEMETERY">NEW YORK CITY BROOKLYN (HOLY TRINITY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.90509,40.68679</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY CYPRESS HILLS NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001713/NEW%20YORK%20CITY%20CYPRESS%20HILLS%20NATIONAL%20CEMETERY">NEW YORK CITY CYPRESS HILLS NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.88122,40.68599</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY CEDAR GROVE CEMETERY (FLUSHING)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001715/NEW%20YORK%20CITY%20CEDAR%20GROVE%20CEMETERY%20%28FLUSHING%29">NEW YORK CITY CEDAR GROVE CEMETERY (FLUSHING) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.83581,40.74264</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY FLUSHING (MOUNT HEBRON) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001716/NEW%20YORK%20CITY%20FLUSHING%20%28MOUNT%20HEBRON%29%20CEMETERY">NEW YORK CITY FLUSHING (MOUNT HEBRON) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.83534,40.74263</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY - MOUNT LEBANON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001717/NEW%20YORK%20CITY%20-%20MOUNT%20LEBANON%20CEMETERY">NEW YORK CITY - MOUNT LEBANON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.8711,40.7026</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY RIDGEWOOD (LINDEN HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001718/NEW%20YORK%20CITY%20RIDGEWOOD%20%28LINDEN%20HILL%29%20CEMETERY">NEW YORK CITY RIDGEWOOD (LINDEN HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.9132,40.71311</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY WOODSIDE CALVARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001720/NEW%20YORK%20CITY%20WOODSIDE%20CALVARY%20CEMETERY">NEW YORK CITY WOODSIDE CALVARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.93255,40.73622</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PATCHOGUE (CEDAR GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001721/PATCHOGUE%20%28CEDAR%20GROVE%29%20CEMETERY">PATCHOGUE (CEDAR GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.01682,40.77001</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROCHESTER (RIVERSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001723/ROCHESTER%20%28RIVERSIDE%29%20CEMETERY">ROCHESTER (RIVERSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.62947,43.21701</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROME CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001724/ROME%20CEMETERY">ROME CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.46887,43.23806</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SCHENECTADY (PARKVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001725/SCHENECTADY%20%28PARKVIEW%29%20CEMETERY">SCHENECTADY (PARKVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.91415,42.79333</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYRACUSE (MORNINGSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001726/SYRACUSE%20%28MORNINGSIDE%29%20CEMETERY">SYRACUSE (MORNINGSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.12929,43.0291</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UTICA (FOREST HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001727/UTICA%20%28FOREST%20HILL%29%20CEMETERY">UTICA (FOREST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.25884,43.08059</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VERONA MILLS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001728/VERONA%20MILLS%20CEMETERY">VERONA MILLS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.55976,43.19655</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATERVLIET (ST. PATRICK'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001729/WATERVLIET%20%28ST.%20PATRICK%27S%29%20CEMETERY">WATERVLIET (ST. PATRICK'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.72648,42.73761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YOUNGSTOWN (OAKLAND RURAL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001730/YOUNGSTOWN%20%28OAKLAND%20RURAL%29%20CEMETERY">YOUNGSTOWN (OAKLAND RURAL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.99492,43.26949</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANTON (SUNSBURST) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001731/CANTON%20%28SUNSBURST%29%20CEMETERY">CANTON (SUNSBURST) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.8374,35.53455</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOWDON LUTHERAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001732/BOWDON%20LUTHERAN%20CEMETERY">BOWDON LUTHERAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -99.71432,47.52122</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ERIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001733/ERIE%20CEMETERY">ERIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.39982,47.12262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILTON ICELANDIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001734/MILTON%20ICELANDIC%20CEMETERY">MILTON ICELANDIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -98.026,48.73326</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AKRON (GLENDALE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001735/AKRON%20%28GLENDALE%29%20CEMETERY">AKRON (GLENDALE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.525,41.08507</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANTON (WEST LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001736/CANTON%20%28WEST%20LAWN%29%20CEMETERY">CANTON (WEST LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.39479,40.80463</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHAUNCEY (NYE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001737/CHAUNCEY%20%28NYE%29%20CEMETERY">CHAUNCEY (NYE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.12579,39.40493</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHILLICOTHE (GRANDVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001738/CHILLICOTHE%20%28GRANDVIEW%29%20CEMETERY">CHILLICOTHE (GRANDVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.98657,39.32587</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLEVELAND (CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001739/CLEVELAND%20%28CALVARY%29%20CEMETERY">CLEVELAND (CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.60282,41.44166</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLEVELAND (MAYFIELD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001740/CLEVELAND%20%28MAYFIELD%29%20CEMETERY">CLEVELAND (MAYFIELD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.58179,41.51116</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST CLEVELAND TOWNSHIP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001741/EAST%20CLEVELAND%20TOWNSHIP%20CEMETERY">EAST CLEVELAND TOWNSHIP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.60216,41.51404</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST PALESTINE GLENVIEW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001742/EAST%20PALESTINE%20GLENVIEW%20CEMETERY">EAST PALESTINE GLENVIEW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -80.54118,40.82761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANSFIELD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001743/MANSFIELD%20CEMETERY">MANSFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.51332,40.74765</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MIDDLEPORT HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001744/MIDDLEPORT%20HILL%20CEMETERY">MIDDLEPORT HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -82.05691,39.0056</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPRINGFIELD (CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001745/SPRINGFIELD%20%28CALVARY%29%20CEMETERY">SPRINGFIELD (CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.75491,39.88452</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAYNESVILLE (MIAMI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001746/WAYNESVILLE%20%28MIAMI%29%20CEMETERY">WAYNESVILLE (MIAMI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.06739,39.52224</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARTLESVILLE (WHITE ROSE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001747/BARTLESVILLE%20%28WHITE%20ROSE%29%20CEMETERY">BARTLESVILLE (WHITE ROSE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -95.98942,36.74262</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HENRYETTA (WEST LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001748/HENRYETTA%20%28WEST%20LAWN%29%20CEMETERY">HENRYETTA (WEST LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -96.01254,35.4398</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>McALESTER OAKHILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001749/McALESTER%20OAKHILL%20CEMETERY">McALESTER OAKHILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -95.74705,34.92866</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARDMORE (ST. PAUL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001751/ARDMORE%20%28ST.%20PAUL%27S%29%20CEMETERY">ARDMORE (ST. PAUL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.28815,40.00092</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERWICK (PINE GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001752/BERWICK%20%28PINE%20GROVE%29%20CEMETERY">BERWICK (PINE GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.23669,41.05813</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRADFORD (OAK HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001753/BRADFORD%20%28OAK%20HILL%29%20CEMETERY">BRADFORD (OAK HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.63412,41.95875</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLUMBIA (MOUNT BETHEL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001754/COLUMBIA%20%28MOUNT%20BETHEL%29%20CEMETERY">COLUMBIA (MOUNT BETHEL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.4973,40.03526</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CORRY (ST. ELIZABETH'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001755/CORRY%20%28ST.%20ELIZABETH%27S%29%20CEMETERY">CORRY (ST. ELIZABETH'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.64422,41.93912</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRAVOSBURG (RICHLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001756/DRAVOSBURG%20%28RICHLAND%29%20CEMETERY">DRAVOSBURG (RICHLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.89318,40.34957</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FREEDOM (OAK GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001757/FREEDOM%20%28OAK%20GROVE%29%20CEMETERY">FREEDOM (OAK GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -80.24607,40.6869</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOUNT AIRY (IVY HILL) PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001758/MOUNT%20AIRY%20%28IVY%20HILL%29%20PROTESTANT%20CEMETERY">MOUNT AIRY (IVY HILL) PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.17813,40.07431</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW BEDFORD (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001759/NEW%20BEDFORD%20%28EVERGREEN%29%20CEMETERY">NEW BEDFORD (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -80.5081,41.10102</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTH BRADDOCK (MONONGAHELA) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001760/NORTH%20BRADDOCK%20%28MONONGAHELA%29%20CEMETERY">NORTH BRADDOCK (MONONGAHELA) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.86458,40.41154</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHILADELPHIA (EDEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001761/PHILADELPHIA%20%28EDEN%29%20CEMETERY">PHILADELPHIA (EDEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.27261,39.92141</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHILADELPHIA (MOUNT MORIAH) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001762/PHILADELPHIA%20%28MOUNT%20MORIAH%29%20CEMETERY">PHILADELPHIA (MOUNT MORIAH) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.23828,39.93314</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHILADELPHIA (OAKLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001764/PHILADELPHIA%20%28OAKLAND%29%20CEMETERY">PHILADELPHIA (OAKLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.09575,40.02417</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PHILADELPHIA (ST. DENIS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001765/PHILADELPHIA%20%28ST.%20DENIS%29%20CEMETERY">PHILADELPHIA (ST. DENIS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.30414,39.99124</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PITTSBURGH (CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001766/PITTSBURGH%20%28CALVARY%29%20CEMETERY">PITTSBURGH (CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.92908,40.41965</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PITTSBURGH (ST. MARY'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001767/PITTSBURGH%20%28ST.%20MARY%27S%29%20CEMETERY">PITTSBURGH (ST. MARY'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.99906,40.49551</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALTSBURG (EDGEWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001768/SALTSBURG%20%28EDGEWOOD%29%20CEMETERY">SALTSBURG (EDGEWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -79.44285,40.48825</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATSONTOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001769/WATSONTOWN%20CEMETERY">WATSONTOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.8583,41.08274</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST PHILADELPHIA CATHEDRAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001770/WEST%20PHILADELPHIA%20CATHEDRAL%20CEMETERY">WEST PHILADELPHIA CATHEDRAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -75.21762,39.97173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRANSTON (POCASSET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001771/CRANSTON%20%28POCASSET%29%20CEMETERY">CRANSTON (POCASSET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.45886,41.8027</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRANSTON (ST. ANN'S) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001772/CRANSTON%20%28ST.%20ANN%27S%29%20ROMAN%20CATHOLIC%20CEMETERY">CRANSTON (ST. ANN'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.46178,41.7909</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PROVIDENCE (SWAN POINT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001773/PROVIDENCE%20%28SWAN%20POINT%29%20CEMETERY">PROVIDENCE (SWAN POINT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.3872,41.85273</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKINGS (GREENWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001774/BROOKINGS%20%28GREENWOOD%29%20CEMETERY">BROOKINGS (GREENWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -96.81503,44.29715</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YANKTON (SACRED HEART) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001775/YANKTON%20%28SACRED%20HEART%29%20CEMETERY">YANKTON (SACRED HEART) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.39188,42.89802</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ATHENS (SHORT CREEK) CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001776/ATHENS%20%28SHORT%20CREEK%29%20CHURCH%20CEMETERY">ATHENS (SHORT CREEK) CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -84.80558,35.42028</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHATTANOOGA NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001777/CHATTANOOGA%20NATIONAL%20CEMETERY">CHATTANOOGA NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -85.286,35.03347</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MEMPHIS (FOREST HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001778/MEMPHIS%20%28FOREST%20HILL%29%20CEMETERY">MEMPHIS (FOREST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -90.02674,35.09744</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FORT WORTH (GREENWOOD) MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001779/FORT%20WORTH%20%28GREENWOOD%29%20MEMORIAL%20PARK">FORT WORTH (GREENWOOD) MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.36635,32.75934</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRANBURY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001780/GRANBURY%20CEMETERY">GRANBURY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.78565,32.45152</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MEMPHIS (FAIRVIEW) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001781/MEMPHIS%20%28FAIRVIEW%29%20CEMETERY">MEMPHIS (FAIRVIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -100.52554,34.73098</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARTON (ST. PAUL'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001782/BARTON%20%28ST.%20PAUL%27S%29%20CEMETERY">BARTON (ST. PAUL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.17416,44.75587</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST RICHFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001783/EAST%20RICHFORD%20CEMETERY">EAST RICHFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.583,45.01106</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEWPORT (EAST MAIN STREET) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001784/NEWPORT%20%28EAST%20MAIN%20STREET%29%20CEMETERY">NEWPORT (EAST MAIN STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -72.19883,44.94295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEWPORT NEWS (GREEN LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001786/NEWPORT%20NEWS%20%28GREEN%20LAWN%29%20CEMETERY">NEWPORT NEWS (GREEN LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.40141,36.99144</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PETERSBURG (POPLAR GROVE) NATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001788/PETERSBURG%20%28POPLAR%20GROVE%29%20NATIONAL%20CEMETERY">PETERSBURG (POPLAR GROVE) NATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.42977,37.15982</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RICHMOND (HOLLYWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001789/RICHMOND%20%28HOLLYWOOD%29%20CEMETERY">RICHMOND (HOLLYWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.45412,37.54163</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLVILLE (HIGHLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001790/COLVILLE%20%28HIGHLAND%29%20CEMETERY">COLVILLE (HIGHLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.88744,48.5509</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EVERETT (EVERGREEN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001791/EVERETT%20%28EVERGREEN%29%20CEMETERY">EVERETT (EVERGREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.20114,47.96132</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SEATTLE (CALVARY) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001792/SEATTLE%20%28CALVARY%29%20ROMAN%20CATHOLIC%20CEMETERY">SEATTLE (CALVARY) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.2903,47.66816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SEATTLE (FOREST LAWN) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001793/SEATTLE%20%28FOREST%20LAWN%29%20CEMETERY">SEATTLE (FOREST LAWN) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.36997,47.54189</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPOKANE (FAIRMOUNT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001795/SPOKANE%20%28FAIRMOUNT%29%20CEMETERY">SPOKANE (FAIRMOUNT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.48652,47.7012</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPOKANE (RIVERSIDE PARK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001796/SPOKANE%20%28RIVERSIDE%20PARK%29%20CEMETERY">SPOKANE (RIVERSIDE PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -117.46598,47.66032</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILWAUKEE (FOREST HOME) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001797/MILWAUKEE%20%28FOREST%20HOME%29%20CEMETERY">MILWAUKEE (FOREST HOME) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.94627,43.00185</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHERIDAN MUNICIPAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4001798/SHERIDAN%20MUNICIPAL%20CEMETERY">SHERIDAN MUNICIPAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -106.96513,44.78662</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRESNO (CHAPEL OF LIGHT) COLUMBARIUM</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4002020/FRESNO%20%28CHAPEL%20OF%20LIGHT%29%20COLUMBARIUM">FRESNO (CHAPEL OF LIGHT) COLUMBARIUM at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -119.83072,36.75033</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PROVIDENCE NORTH BURIAL GROUND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4002022/PROVIDENCE%20NORTH%20BURIAL%20GROUND">PROVIDENCE NORTH BURIAL GROUND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.40763,41.84286</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FALL RIVER ST. PATRICK'S CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003800/FALL%20RIVER%20ST.%20PATRICK%27S%20CEMETERY">FALL RIVER ST. PATRICK'S CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.13107,41.72889</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWELL (EDSON) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003802/LOWELL%20%28EDSON%29%20CEMETERY">LOWELL (EDSON) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.30475,42.61836</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DASSEL COMMUNITY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003803/DASSEL%20COMMUNITY%20CEMETERY">DASSEL COMMUNITY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -94.30728,45.08926</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALT LAKE CITY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4003804/SALT%20LAKE%20CITY%20CEMETERY">SALT LAKE CITY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -111.86384,40.77402</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELLISBURG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007181/ELLISBURG%20CEMETERY">ELLISBURG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.13864,43.73066</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTON MACHPELAH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007269/WESTON%20MACHPELAH%20CEMETERY">WESTON MACHPELAH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -80.46296,39.04862</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANTA ROSA RURAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007310/SANTA%20ROSA%20RURAL%20CEMETERY">SANTA ROSA RURAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.70557,38.45552</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW YORK CITY CYPRESS HILLS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007321/NEW%20YORK%20CITY%20CYPRESS%20HILLS%20CEMETERY">NEW YORK CITY CYPRESS HILLS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.87456,40.68919</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALTO MESA CEMETERY, PALO ALTO</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007324/ALTO%20MESA%20CEMETERY%2C%20PALO%20ALTO">ALTO MESA CEMETERY, PALO ALTO at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.13006,37.4005</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOCKPORT COLD SPRINGS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007361/LOCKPORT%20COLD%20SPRINGS%20CEMETERY">LOCKPORT COLD SPRINGS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.6597,43.18243</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHICAGO CALVARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007364/CHICAGO%20CALVARY%20CEMETERY">CHICAGO CALVARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -87.67748,42.02487</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOBURN WOODBROOK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007366/WOBURN%20WOODBROOK%20CEMETERY">WOBURN WOODBROOK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.14539,42.48563</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAINT JOSEPH MOUNT AUBURN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007367/SAINT%20JOSEPH%20MOUNT%20AUBURN%20CEMETERY">SAINT JOSEPH MOUNT AUBURN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -94.81527,39.7861</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WALHALLA ST. BONIFACE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007368/WALHALLA%20ST.%20BONIFACE%20CEMETERY">WALHALLA ST. BONIFACE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -97.91761,48.92153</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKTONDALE CENTRAL CHAPEL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007369/BROOKTONDALE%20CENTRAL%20CHAPEL%20CEMETERY">BROOKTONDALE CENTRAL CHAPEL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -76.34741,42.35345</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLUMBUS ST. JOSEPH'S CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007370/COLUMBUS%20ST.%20JOSEPH%27S%20CEMETERY">COLUMBUS ST. JOSEPH'S CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.00094,39.82589</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LADYSMITH RIVERSIDE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007371/LADYSMITH%20RIVERSIDE%20CEMETERY">LADYSMITH RIVERSIDE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -91.09074,45.48349</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIG FALLS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007372/BIG%20FALLS%20CEMETERY">BIG FALLS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -89.01634,44.61173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DENVER CROWN HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007391/DENVER%20CROWN%20HILL%20CEMETERY">DENVER CROWN HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -105.08174,39.75845</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAVANNAH LAUREL GROVE SOUTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007392/SAVANNAH%20LAUREL%20GROVE%20SOUTH%20CEMETERY">SAVANNAH LAUREL GROVE SOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -81.10725,32.06477</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLMA WOODLAWN MEMORIAL PARK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007407/COLMA%20WOODLAWN%20MEMORIAL%20PARK">COLMA WOODLAWN MEMORIAL PARK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -122.46402,37.68119</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. ALBANS (MOUNT CALVARY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007566/ST.%20ALBANS%20%28MOUNT%20CALVARY%29%20CEMETERY">ST. ALBANS (MOUNT CALVARY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.09084,44.82065</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BANGOR (PINE GROVE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007567/BANGOR%20%28PINE%20GROVE%29%20CEMETERY">BANGOR (PINE GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -68.82608,44.79589</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JERSEY CITY HOLY NAME CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007588/JERSEY%20CITY%20HOLY%20NAME%20CEMETERY">JERSEY CITY HOLY NAME CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -74.07534,40.72872</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DALHART MEMORIAL PARK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001027/DALHART%20MEMORIAL%20PARK%20CEMETERY">DALHART MEMORIAL PARK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -102.52956,36.06523</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CADILLAC MAPLE HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001029/CADILLAC%20MAPLE%20HILL%20CEMETERY">CADILLAC MAPLE HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -85.39628,44.23555</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CENTRAL FALLS MOSHASSUCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001039/CENTRAL%20FALLS%20MOSHASSUCK%20CEMETERY">CENTRAL FALLS MOSHASSUCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.4025,41.89079</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MINNEAPOLIS (LAKEWOOD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001060/MINNEAPOLIS%20%28LAKEWOOD%29%20CEMETERY">MINNEAPOLIS (LAKEWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -93.29849,44.93745</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DRAYTON PLAINS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001094/DRAYTON%20PLAINS%20CEMETERY">DRAYTON PLAINS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -83.38577,42.68948</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COUDERSPORT EULALIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001096/COUDERSPORT%20EULALIA%20CEMETERY">COUDERSPORT EULALIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -78.02768,41.7686</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GLEN FALLS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001097/GLEN%20FALLS%20CEMETERY">GLEN FALLS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -73.65314,43.32023</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARLINGTON ST. PAUL'S CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001139/ARLINGTON%20ST.%20PAUL%27S%20CEMETERY">ARLINGTON ST. PAUL'S CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -71.13534,42.40763</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

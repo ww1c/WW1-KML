@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Peru</name>
+  <description>Cemeteries in Peru from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BELLAVISTA OLD BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000383/BELLAVISTA%20OLD%20BRITISH%20CEMETERY">BELLAVISTA OLD BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -77.12592,-12.06212</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

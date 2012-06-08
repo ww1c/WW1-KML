@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Italy</name>
+  <description>Cemeteries in Italy from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BARENTHAL MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69800/BARENTHAL%20MILITARY%20CEMETERY">BARENTHAL MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.52329,45.84116</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOSCON BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69801/BOSCON%20BRITISH%20CEMETERY">BOSCON BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.48148,45.8371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAGNABOSCHI BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69802/MAGNABOSCHI%20BRITISH%20CEMETERY">MAGNABOSCHI BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.46096,45.82612</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRANEZZA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69803/GRANEZZA%20BRITISH%20CEMETERY">GRANEZZA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.53119,45.8082</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAVALLETTO BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69804/CAVALLETTO%20BRITISH%20CEMETERY">CAVALLETTO BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.51022,45.79996</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIAVERA BRITISH CEMETERY, ARCADE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70000/GIAVERA%20BRITISH%20CEMETERY%2C%20ARCADE">GIAVERA BRITISH CEMETERY, ARCADE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.16509,45.80419</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIAVERA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70100/GIAVERA%20MEMORIAL">GIAVERA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.16466,45.8043</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEZZE BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70200/TEZZE%20BRITISH%20CEMETERY">TEZZE BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.34791,45.81332</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUEVILLE COMMUNAL CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70300/DUEVILLE%20COMMUNAL%20CEMETERY%20EXTENSION">DUEVILLE COMMUNAL CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.54854,45.63978</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTECCHIO PRECALCINO COMMUNAL CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70301/MONTECCHIO%20PRECALCINO%20COMMUNAL%20CEMETERY%20EXTENSION">MONTECCHIO PRECALCINO COMMUNAL CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.55753,45.66659</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STAGLIENO CEMETERY, GENOA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70400/STAGLIENO%20CEMETERY%2C%20GENOA">STAGLIENO CEMETERY, GENOA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.95115,44.42829</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAVONA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70401/SAVONA%20TOWN%20CEMETERY">SAVONA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.43722,44.28406</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAVONA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70402/SAVONA%20MEMORIAL">SAVONA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.43831,44.28596</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARQUATA SCRIVIA COMMUNAL CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70500/ARQUATA%20SCRIVIA%20COMMUNAL%20CEMETERY%20EXTENSION">ARQUATA SCRIVIA COMMUNAL CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.876,44.6955</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BORDIGHERA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70501/BORDIGHERA%20BRITISH%20CEMETERY">BORDIGHERA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.67827,43.78546</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARI WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70502/BARI%20WAR%20CEMETERY">BARI WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 16.8947,41.06481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CREMONA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70503/CREMONA%20TOWN%20CEMETERY">CREMONA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.02321,45.14406</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FAENZA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70504/FAENZA%20COMMUNAL%20CEMETERY">FAENZA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.87148,44.28064</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RAVENNA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70505/RAVENNA%20WAR%20CEMETERY">RAVENNA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.10736,44.44208</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ACQUI NEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70506/ACQUI%20NEW%20COMMUNAL%20CEMETERY">ACQUI NEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.4429,44.66632</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SIRMIONE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70508/SIRMIONE%20COMMUNAL%20CEMETERY">SIRMIONE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.609,45.47104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CARLOFORTE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70509/CARLOFORTE%20COMMUNAL%20CEMETERY">CARLOFORTE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.30505,39.12929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEACH HEAD WAR CEMETERY, ANZIO</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70511/BEACH%20HEAD%20WAR%20CEMETERY%2C%20ANZIO">BEACH HEAD WAR CEMETERY, ANZIO at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.62499,41.48234</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN NICOLA ARCELLA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70513/SAN%20NICOLA%20ARCELLA%20COMMUNAL%20CEMETERY">SAN NICOLA ARCELLA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 15.79507,39.84352</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FOGGIA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70514/FOGGIA%20COMMUNAL%20CEMETERY">FOGGIA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 15.54894,41.47104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RICCIONE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70515/RICCIONE%20COMMUNAL%20CEMETERY">RICCIONE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.64567,43.99963</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEGLI COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70517/PEGLI%20COMMUNAL%20CEMETERY">PEGLI COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.81624,44.42983</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTOVENERE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70518/PORTOVENERE%20COMMUNAL%20CEMETERY">PORTOVENERE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.83429,44.05159</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LA SPEZIA (BOSCHETTI) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70519/LA%20SPEZIA%20%28BOSCHETTI%29%20COMMUNAL%20CEMETERY">LA SPEZIA (BOSCHETTI) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.85961,44.11683</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTO EMPEDOCLE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70520/PORTO%20EMPEDOCLE%20COMMUNAL%20CEMETERY">PORTO EMPEDOCLE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.52515,37.29296</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEGHORN BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70521/LEGHORN%20BRITISH%20CEMETERY">LEGHORN BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.31642,43.56122</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANTOVA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70522/MANTOVA%20TOWN%20CEMETERY">MANTOVA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.75806,45.15518</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MESSINA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70525/MESSINA%20TOWN%20CEMETERY">MESSINA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 15.54301,38.17559</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAPLES BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70527/NAPLES%20BRITISH%20CEMETERY">NAPLES BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.28349,40.86897</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CARMIGNANO DI BRENTA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70528/CARMIGNANO%20DI%20BRENTA%20COMMUNAL%20CEMETERY">CARMIGNANO DI BRENTA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.70133,45.63332</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CREOLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70529/CREOLA%20CEMETERY">CREOLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.73648,45.4161</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTAGNANA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70530/MONTAGNANA%20TOWN%20CEMETERY">MONTAGNANA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.42848,45.23713</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PADUA MAIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70531/PADUA%20MAIN%20CEMETERY">PADUA MAIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.84914,45.4129</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VILLAFRANCA PADOVANA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70532/VILLAFRANCA%20PADOVANA%20COMMUNAL%20CEMETERY">VILLAFRANCA PADOVANA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.79382,45.49273</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PALERMO BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70533/PALERMO%20BRITISH%20CEMETERY">PALERMO BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.3706,38.16181</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRADELLA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70534/STRADELLA%20COMMUNAL%20CEMETERY">STRADELLA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.31471,45.07613</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VOGHERA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70535/VOGHERA%20COMMUNAL%20CEMETERY">VOGHERA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.00406,45.00155</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PESARO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70537/PESARO%20COMMUNAL%20CEMETERY">PESARO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.91517,43.90389</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FIORENZUOLA D'ARDA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70538/FIORENZUOLA%20D%27ARDA%20COMMUNAL%20CEMETERY">FIORENZUOLA D'ARDA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.91694,44.93104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ONEGLIA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70539/ONEGLIA%20TOWN%20CEMETERY">ONEGLIA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.03773,43.89875</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SAN REMO TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70540/SAN%20REMO%20TOWN%20CEMETERY">SAN REMO TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.75971,43.80895</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LUGO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70541/LUGO%20COMMUNAL%20CEMETERY">LUGO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.89499,44.42703</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROME (TESTACCIO) PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70542/ROME%20%28TESTACCIO%29%20PROTESTANT%20CEMETERY">ROME (TESTACCIO) PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.47947,41.87641</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYRACUSE COMMUNAL CEMETERY, SICILY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70543/SYRACUSE%20COMMUNAL%20CEMETERY%2C%20SICILY">SYRACUSE COMMUNAL CEMETERY, SICILY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 15.26453,37.07354</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BORGOFRANCO D'IVREA CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70544/BORGOFRANCO%20D%27IVREA%20CHURCHYARD">BORGOFRANCO D'IVREA CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.85213,45.51246</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MEANA DI SUSA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70545/MEANA%20DI%20SUSA%20COMMUNAL%20CEMETERY">MEANA DI SUSA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.06983,45.11986</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OULX COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70546/OULX%20COMMUNAL%20CEMETERY">OULX COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.83084,45.02565</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TURIN TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70547/TURIN%20TOWN%20CEMETERY">TURIN TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.70214,45.07841</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEVANZO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70548/LEVANZO%20COMMUNAL%20CEMETERY">LEVANZO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.07927,37.9582</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TRAPANI TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70551/TRAPANI%20TOWN%20CEMETERY">TRAPANI TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.53517,38.02628</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EGNA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70552/EGNA%20COMMUNAL%20CEMETERY">EGNA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.27342,46.31638</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MATTARELLO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70553/MATTARELLO%20COMMUNAL%20CEMETERY">MATTARELLO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.12802,46.00252</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROMAGNANO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70554/ROMAGNANO%20COMMUNAL%20CEMETERY">ROMAGNANO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.10421,46.01383</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TRENTO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70555/TRENTO%20COMMUNAL%20CEMETERY">TRENTO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.9548,46.0469</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALTIVOLE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70556/ALTIVOLE%20COMMUNAL%20CEMETERY">ALTIVOLE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.95099,45.7529</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CONEGLIANO (SAN GIUSEPPE) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70557/CONEGLIANO%20%28SAN%20GIUSEPPE%29%20COMMUNAL%20CEMETERY">CONEGLIANO (SAN GIUSEPPE) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.31114,45.88171</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FALZE COMMUNAL CEMETERY, TREVIGNANO</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70558/FALZE%20COMMUNAL%20CEMETERY%2C%20TREVIGNANO">FALZE COMMUNAL CEMETERY, TREVIGNANO at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.07689,45.73974</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALVATRONDA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70559/SALVATRONDA%20CEMETERY">SALVATRONDA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.98836,45.67138</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TREVISO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70561/TREVISO%20COMMUNAL%20CEMETERY">TREVISO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.24535,45.64795</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CORVA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70562/CORVA%20COMMUNAL%20CEMETERY">CORVA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.65077,45.91513</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FONTANAFREDDA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70563/FONTANAFREDDA%20COMMUNAL%20CEMETERY">FONTANAFREDDA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.58105,45.9795</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>UDINE WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70564/UDINE%20WAR%20CEMETERY">UDINE WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 13.22542,46.11641</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VENICE (SAN MICHELE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70565/VENICE%20%28SAN%20MICHELE%29%20CEMETERY">VENICE (SAN MICHELE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.34605,45.44866</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CEREA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70566/CEREA%20COMMUNAL%20CEMETERY">CEREA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.218,45.19322</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ISOLA DELLA SCALA COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70567/ISOLA%20DELLA%20SCALA%20COMMUNAL%20CEMETERY">ISOLA DELLA SCALA COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.00834,45.26903</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEGNAGO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70568/LEGNAGO%20COMMUNAL%20CEMETERY">LEGNAGO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.28961,45.19206</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTECCHIO MAGGIORE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70572/MONTECCHIO%20MAGGIORE%20COMMUNAL%20CEMETERY">MONTECCHIO MAGGIORE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.36344,45.49117</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANDRIGO COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/70574/SANDRIGO%20COMMUNAL%20CEMETERY">SANDRIGO COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 11.59643,45.66659</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GALLIPOLI COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000200/GALLIPOLI%20COMMUNAL%20CEMETERY">GALLIPOLI COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 17.99842,40.05432</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OTRANTO TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000201/OTRANTO%20TOWN%20CEMETERY">OTRANTO TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 18.48958,40.14298</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYRACUSE WAR CEMETERY, SICILY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000407/SYRACUSE%20WAR%20CEMETERY%2C%20SICILY">SYRACUSE WAR CEMETERY, SICILY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 15.25795,37.0747</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALERNO WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2058200/SALERNO%20WAR%20CEMETERY">SALERNO WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.92202,40.62508</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TARANTO TOWN CEMETERY EXTENSION</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2101700/TARANTO%20TOWN%20CEMETERY%20EXTENSION">TARANTO TOWN CEMETERY EXTENSION at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 17.21958,40.49034</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Russian Federation</name>
+  <description>Cemeteries in Russian Federation from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>CHURKIN RUSSIAN NAVAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49435/CHURKIN%20RUSSIAN%20NAVAL%20CEMETERY">CHURKIN RUSSIAN NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 131.94034,43.09028</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VLADIVOSTOK MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49436/VLADIVOSTOK%20MEMORIAL">VLADIVOSTOK MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 131.94042,43.09026</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARCHANGEL ALLIED CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54101/ARCHANGEL%20ALLIED%20CEMETERY">ARCHANGEL ALLIED CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 40.54266,64.55333</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARCHANGEL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54102/ARCHANGEL%20MEMORIAL">ARCHANGEL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 40.5434,64.55302</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MURMANSK NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54103/MURMANSK%20NEW%20BRITISH%20CEMETERY">MURMANSK NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.10926,68.95854</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

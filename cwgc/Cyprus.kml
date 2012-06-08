@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Cyprus</name>
+  <description>Cemeteries in Cyprus from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>FAMAGUSTA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49605/FAMAGUSTA%20MILITARY%20CEMETERY">FAMAGUSTA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.93666,35.11735</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIMASSOL ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49606/LIMASSOL%20ROMAN%20CATHOLIC%20CEMETERY">LIMASSOL ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.06941,34.68992</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NICOSIA BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49607/NICOSIA%20BRITISH%20CEMETERY">NICOSIA BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.35553,35.16003</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POLEMIDIA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49608/POLEMIDIA%20MILITARY%20CEMETERY">POLEMIDIA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 33.00453,34.7034</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TROODOS MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49609/TROODOS%20MILITARY%20CEMETERY">TROODOS MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 32.87168,34.91452</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

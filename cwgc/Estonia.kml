@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Estonia</name>
+  <description>Cemeteries in Estonia from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>KURESAARE TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54221/KURESAARE%20TOWN%20CEMETERY">KURESAARE TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.52323,58.26417</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TALLINN NEW GARRISON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54222/TALLINN%20NEW%20GARRISON%20CEMETERY">TALLINN NEW GARRISON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.7657,59.4212</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

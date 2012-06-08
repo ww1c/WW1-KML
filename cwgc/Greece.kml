@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Greece</name>
+  <description>Cemeteries in Greece from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>SARIGOL MILITARY CEMETERY, KRISTON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34800/SARIGOL%20MILITARY%20CEMETERY%2C%20KRISTON">SARIGOL MILITARY CEMETERY, KRISTON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.85537,40.95247</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KIRECHKOI-HORTAKOI MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34900/KIRECHKOI-HORTAKOI%20MILITARY%20CEMETERY">KIRECHKOI-HORTAKOI MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 23.04968,40.62541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRUMA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/35000/STRUMA%20MILITARY%20CEMETERY">STRUMA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 23.33388,41.01829</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LAHANA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/35001/LAHANA%20MILITARY%20CEMETERY">LAHANA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 23.19071,40.96022</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOIRAN MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/35100/DOIRAN%20MILITARY%20CEMETERY">DOIRAN MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.76776,41.1696</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MIKRA BRITISH CEMETERY, KALAMARIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/35900/MIKRA%20BRITISH%20CEMETERY%2C%20KALAMARIA">MIKRA BRITISH CEMETERY, KALAMARIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.96488,40.57828</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRALO BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36001/BRALO%20BRITISH%20CEMETERY">BRALO BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.43719,38.68747</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEDEAGATCH BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36004/DEDEAGATCH%20BRITISH%20CEMETERY">DEDEAGATCH BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.87097,40.85087</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PIRAEUS NAVAL AND CONSULAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36007/PIRAEUS%20NAVAL%20AND%20CONSULAR%20CEMETERY">PIRAEUS NAVAL AND CONSULAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 23.62304,37.9559</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ATHENS NEW PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36008/ATHENS%20NEW%20PROTESTANT%20CEMETERY">ATHENS NEW PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 23.7356,37.9646</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONASTIR ROAD INDIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36013/MONASTIR%20ROAD%20INDIAN%20CEMETERY">MONASTIR ROAD INDIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.89757,40.66094</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONASTIR ROAD INDIAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36015/MONASTIR%20ROAD%20INDIAN%20MEMORIAL">MONASTIR ROAD INDIAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.89733,40.66095</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KARASOULI MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/68800/KARASOULI%20MILITARY%20CEMETERY">KARASOULI MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.58151,40.99451</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALONIKA (LEMBET ROAD) MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/68901/SALONIKA%20%28LEMBET%20ROAD%29%20MILITARY%20CEMETERY">SALONIKA (LEMBET ROAD) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.93469,40.65392</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST MUDROS MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69001/EAST%20MUDROS%20MILITARY%20CEMETERY">EAST MUDROS MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.27824,39.87429</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTIANOS MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69002/PORTIANOS%20MILITARY%20CEMETERY">PORTIANOS MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 25.1776,39.8847</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYRA NEW BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69003/SYRA%20NEW%20BRITISH%20CEMETERY">SYRA NEW BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.94077,37.4446</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SUDA BAY WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69004/SUDA%20BAY%20WAR%20CEMETERY">SUDA BAY WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.06028,35.50017</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CORFU BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69005/CORFU%20BRITISH%20CEMETERY">CORFU BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 19.91597,39.61893</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MIKRA MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/159800/MIKRA%20MEMORIAL">MIKRA MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.96414,40.57811</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOIRAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/160000/DOIRAN%20MEMORIAL">DOIRAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 22.76234,41.16853</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SKYROS (ISOLATED GRAVE)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000151/SKYROS%20%28ISOLATED%20GRAVE%29">SKYROS (ISOLATED GRAVE) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 24.61336,38.78498</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

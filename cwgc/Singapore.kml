@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Singapore</name>
+  <description>Cemeteries in Singapore from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>CHUA CHU KANG JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000358/CHUA%20CHU%20KANG%20JEWISH%20CEMETERY">CHUA CHU KANG JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 103.6989,1.36985</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KRANJI WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2004200/KRANJI%20WAR%20CEMETERY">KRANJI WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 103.75781,1.41962</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KRANJI MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007211/KRANJI%20MILITARY%20CEMETERY">KRANJI MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 103.75731,1.41846</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

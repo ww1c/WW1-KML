@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Norway</name>
+  <description>Cemeteries in Norway from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ARENDAL HOGEDAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54248/ARENDAL%20HOGEDAL%20CEMETERY">ARENDAL HOGEDAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.74312,58.46906</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EGERSUND (OR EKERSUND) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54249/EGERSUND%20%28OR%20EKERSUND%29%20CHURCHYARD">EGERSUND (OR EKERSUND) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.0041,58.4455</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FARSUND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54250/FARSUND%20CEMETERY">FARSUND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.79882,58.09487</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BODO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54256/BODO%20CEMETERY">BODO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.38378,67.27359</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NARVIK OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54257/NARVIK%20OLD%20CEMETERY">NARVIK OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 17.45285,68.44188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FABERG CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54258/FABERG%20CHURCHYARD">FABERG CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.37148,61.16085</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LILLEHAMMER CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54259/LILLEHAMMER%20CHURCHYARD">LILLEHAMMER CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.46592,61.11178</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VESTRE TOTEN (AAS) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54260/VESTRE%20TOTEN%20%28AAS%29%20CHURCHYARD">VESTRE TOTEN (AAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.70085,60.66953</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FREDRIKSTAD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54261/FREDRIKSTAD%20MILITARY%20CEMETERY">FREDRIKSTAD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.96241,59.20372</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STAVERN CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54262/STAVERN%20CHURCHYARD">STAVERN CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.03512,58.99738</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TONSBERG OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54263/TONSBERG%20OLD%20CEMETERY">TONSBERG OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.41514,59.26936</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

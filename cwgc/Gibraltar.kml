@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Gibraltar</name>
+  <description>Cemeteries in Gibraltar from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>GIBRALTAR (NORTH FRONT) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54318/GIBRALTAR%20%28NORTH%20FRONT%29%20CEMETERY">GIBRALTAR (NORTH FRONT) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -5.34505,36.14794</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIBRALTAR MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54319/GIBRALTAR%20MEMORIAL">GIBRALTAR MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -5.34899,36.14883</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

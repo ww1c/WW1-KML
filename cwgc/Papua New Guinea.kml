@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Papua New Guinea</name>
+  <description>Cemeteries in Papua New Guinea from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>LAE WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14138/LAE%20WAR%20CEMETERY">LAE WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.99785,-6.72245</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RABAUL (BITA PAKA) WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14140/RABAUL%20%28BITA%20PAKA%29%20WAR%20CEMETERY">RABAUL (BITA PAKA) WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.29945,-4.40651</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

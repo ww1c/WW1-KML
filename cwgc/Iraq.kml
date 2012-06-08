@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Iraq</name>
+  <description>Cemeteries in Iraq from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BASRA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/57200/BASRA%20WAR%20CEMETERY">BASRA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 47.82031,30.53022</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMARA (LEFT BANK) INDIAN WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/57302/AMARA%20%28LEFT%20BANK%29%20INDIAN%20WAR%20CEMETERY">AMARA (LEFT BANK) INDIAN WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 47.16024,31.84443</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BAGHDAD (NORTH GATE) WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/57303/BAGHDAD%20%28NORTH%20GATE%29%20WAR%20CEMETERY">BAGHDAD (NORTH GATE) WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 44.38571,33.35396</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMARA WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69100/AMARA%20WAR%20CEMETERY">AMARA WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 47.16144,31.84541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KUT WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/69700/KUT%20WAR%20CEMETERY">KUT WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 45.82816,32.49647</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

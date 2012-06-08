@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Netherlands</name>
+  <description>Cemeteries in Netherlands from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>AMERSFOORT GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54226/AMERSFOORT%20GENERAL%20CEMETERY">AMERSFOORT GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.369,52.15747</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMERSFOORT ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54227/AMERSFOORT%20ROMAN%20CATHOLIC%20CEMETERY">AMERSFOORT ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.38196,52.15151</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIDAM PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54228/DIDAM%20PROTESTANT%20CEMETERY">DIDAM PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.1273,51.94112</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ENSCHEDE EASTERN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54229/ENSCHEDE%20EASTERN%20GENERAL%20CEMETERY">ENSCHEDE EASTERN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.92803,52.2222</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ENSCHEDE ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54230/ENSCHEDE%20ROMAN%20CATHOLIC%20CEMETERY">ENSCHEDE ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.91169,52.24988</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FLUSHING (VLISSINGEN) NORTHERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54231/FLUSHING%20%28VLISSINGEN%29%20NORTHERN%20CEMETERY">FLUSHING (VLISSINGEN) NORTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.58303,51.45439</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRONINGEN SOUTHERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54232/GRONINGEN%20SOUTHERN%20CEMETERY">GRONINGEN SOUTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.57334,53.20631</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAARLEM GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54233/HAARLEM%20GENERAL%20CEMETERY">HAARLEM GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.63882,52.39492</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIJMEGEN (RUSTOORD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54236/NIJMEGEN%20%28RUSTOORD%29%20CEMETERY">NIJMEGEN (RUSTOORD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.88144,51.83087</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NOORDWIJK GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54237/NOORDWIJK%20GENERAL%20CEMETERY">NOORDWIJK GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.43539,52.23796</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORTHEN PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54238/ORTHEN%20PROTESTANT%20CEMETERY">ORTHEN PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.30499,51.70433</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROTTERDAM (CROOSWIJK) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54239/ROTTERDAM%20%28CROOSWIJK%29%20GENERAL%20CEMETERY">ROTTERDAM (CROOSWIJK) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.49267,51.93786</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>'s GRAVENZANDE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54240/%27s%20GRAVENZANDE%20GENERAL%20CEMETERY">'s GRAVENZANDE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.16304,51.99532</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THE HAGUE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54241/THE%20HAGUE%20GENERAL%20CEMETERY">THE HAGUE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.29965,52.0937</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THE HAGUE ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54243/THE%20HAGUE%20ROMAN%20CATHOLIC%20CEMETERY">THE HAGUE ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.30455,52.09584</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAMPERLAND GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54244/KAMPERLAND%20GENERAL%20CEMETERY">KAMPERLAND GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.70301,51.57188</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERGEN-OP-ZOOM WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2002900/BERGEN-OP-ZOOM%20WAR%20CEMETERY">BERGEN-OP-ZOOM WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 4.33289,51.50209</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

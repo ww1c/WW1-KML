@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Algeria</name>
+  <description>Cemeteries in Algeria from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ALGIERS (BOULEVARD BRU) EUROPEAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47302/ALGIERS%20%28BOULEVARD%20BRU%29%20EUROPEAN%20CEMETERY">ALGIERS (BOULEVARD BRU) EUROPEAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 3.06251,36.74844</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARZEW COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47303/ARZEW%20COMMUNAL%20CEMETERY">ARZEW COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.29795,35.86197</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BONE WAR CEMETERY, ANNABA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47304/BONE%20WAR%20CEMETERY%2C%20ANNABA">BONE WAR CEMETERY, ANNABA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 7.71793,36.87218</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOUGIE (BEJAIA) COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47305/BOUGIE%20%28BEJAIA%29%20COMMUNAL%20CEMETERY">BOUGIE (BEJAIA) COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 5.0884,36.7576</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHERCHELL COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47306/CHERCHELL%20COMMUNAL%20CEMETERY">CHERCHELL COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 2.18571,36.60024</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LE PETIT LAC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47309/LE%20PETIT%20LAC%20CEMETERY">LE PETIT LAC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.60937,35.68015</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RELIZANE COMMUNAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47310/RELIZANE%20COMMUNAL%20CEMETERY">RELIZANE COMMUNAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 0.55642,35.73658</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CONSTANTINE EUROPEAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2102831/CONSTANTINE%20EUROPEAN%20CEMETERY">CONSTANTINE EUROPEAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 6.60028,36.36025</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

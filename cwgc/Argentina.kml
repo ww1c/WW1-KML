@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Argentina</name>
+  <description>Cemeteries in Argentina from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ROSARIO PROTESTANT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49817/ROSARIO%20PROTESTANT%20CEMETERY">ROSARIO PROTESTANT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -60.68247,-32.95181</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUENOS AIRES (CHACARITA) BRITISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000382/BUENOS%20AIRES%20%28CHACARITA%29%20BRITISH%20CEMETERY">BUENOS AIRES (CHACARITA) BRITISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -58.46253,-34.5909</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

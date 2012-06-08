@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Tunisia</name>
+  <description>Cemeteries in Tunisia from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BIZERTA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47311/BIZERTA%20CEMETERY">BIZERTA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.8728,37.28011</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SFAX WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47312/SFAX%20WAR%20CEMETERY">SFAX WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.73416,34.71995</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MEDJEZ-EL-BAB WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47314/MEDJEZ-EL-BAB%20WAR%20CEMETERY">MEDJEZ-EL-BAB WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.57115,36.62588</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

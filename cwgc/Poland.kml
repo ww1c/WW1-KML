@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Poland</name>
+  <description>Cemeteries in Poland from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>MALBORK MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34713/MALBORK%20MEMORIAL">MALBORK MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 19.01327,54.02105</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POZNAN OLD GARRISON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34718/POZNAN%20OLD%20GARRISON%20CEMETERY">POZNAN OLD GARRISON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 16.9325,52.41778</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POZNAN MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54266/POZNAN%20MEMORIAL">POZNAN MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 16.93304,52.41817</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALBORK COMMONWEALTH WAR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2016901/MALBORK%20COMMONWEALTH%20WAR%20CEMETERY">MALBORK COMMONWEALTH WAR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 19.01333,54.02111</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

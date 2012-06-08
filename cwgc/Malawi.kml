@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Malawi</name>
+  <description>Cemeteries in Malawi from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BLANTYRE CHURCH OF CENTRAL AFRICA PRESBYTERIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91602/BLANTYRE%20CHURCH%20OF%20CENTRAL%20AFRICA%20PRESBYTERIAN%20CEMETERY">BLANTYRE CHURCH OF CENTRAL AFRICA PRESBYTERIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.02043,-15.78079</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ZOMBA TOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/91607/ZOMBA%20TOWN%20CEMETERY">ZOMBA TOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 35.31925,-15.38443</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

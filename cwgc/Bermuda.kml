@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Bermuda</name>
+  <description>Cemeteries in Bermuda from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>BERMUDA ROYAL NAVAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49801/BERMUDA%20ROYAL%20NAVAL%20CEMETERY">BERMUDA ROYAL NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.84591,32.31613</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAGET (ST. PAUL) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49802/PAGET%20%28ST.%20PAUL%29%20CHURCHYARD">PAGET (ST. PAUL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.77711,32.28312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEMBROKE (ST. JOHN) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49803/PEMBROKE%20%28ST.%20JOHN%29%20CHURCHYARD">PEMBROKE (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.78683,32.30084</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEMBROKE WESLEYAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49804/PEMBROKE%20WESLEYAN%20CEMETERY">PEMBROKE WESLEYAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.79039,32.30024</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PROSPECT HILL MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49805/PROSPECT%20HILL%20MILITARY%20CEMETERY">PROSPECT HILL MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.76515,32.30147</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CALVARY (PROSPECT) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49806/CALVARY%20%28PROSPECT%29%20ROMAN%20CATHOLIC%20CEMETERY">CALVARY (PROSPECT) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.77351,32.30448</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. GEORGE'S MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49807/ST.%20GEORGE%27S%20MILITARY%20CEMETERY">ST. GEORGE'S MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.68128,32.38373</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARWICK (ST. MARY) CHURCH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/49808/WARWICK%20%28ST.%20MARY%29%20CHURCH%20CEMETERY">WARWICK (ST. MARY) CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.80488,32.26724</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANDY'S (ST. JAMES) CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000028/SANDY%27S%20%28ST.%20JAMES%29%20CHURCHYARD">SANDY'S (ST. JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.87382,32.29533</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOMERSET MILITARY BURIAL GROUND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000029/SOMERSET%20MILITARY%20BURIAL%20GROUND">SOMERSET MILITARY BURIAL GROUND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.85993,32.30459</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHAPEL OF EASE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4002635/CHAPEL%20OF%20EASE%20CHURCHYARD">CHAPEL OF EASE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.66714,32.36858</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

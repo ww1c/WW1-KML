@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Ghana</name>
+  <description>Cemeteries in Ghana from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>KUMASI MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47200/KUMASI%20MEMORIAL">KUMASI MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -1.62383,6.69052</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRISTIANSBORG CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47201/CHRISTIANSBORG%20CIVIL%20CEMETERY">CHRISTIANSBORG CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.1897,5.55349</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KUMASI EUROPEAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47203/KUMASI%20EUROPEAN%20CEMETERY">KUMASI EUROPEAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -1.63321,6.69621</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAKORADI EUROPEAN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000167/TAKORADI%20EUROPEAN%20PUBLIC%20CEMETERY">TAKORADI EUROPEAN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -1.7744,4.90585</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

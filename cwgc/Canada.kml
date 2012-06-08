@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Canada</name>
+  <description>Cemeteries in Canada from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>EDGETT'S LANDING GREENHILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079921/EDGETT%27S%20LANDING%20GREENHILL%20CEMETERY">EDGETT'S LANDING GREENHILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -64.6268,45.89392</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARVEY SETTLEMENT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079922/HARVEY%20SETTLEMENT%20CEMETERY">HARVEY SETTLEMENT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.03655,45.69567</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LINDSAY PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079930/LINDSAY%20PUBLIC%20CEMETERY">LINDSAY PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.67881,46.23265</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WINDSOR CEMETERY, NEW BRUNSWICK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079934/WINDSOR%20CEMETERY%2C%20NEW%20BRUNSWICK">WINDSOR CEMETERY, NEW BRUNSWICK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.40826,46.39668</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CASTALIA (BLEUMORTIER) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079939/CASTALIA%20%28BLEUMORTIER%29%20CEMETERY">CASTALIA (BLEUMORTIER) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -66.77841,44.72035</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. GEORGE RURAL CEMETERY, CHARLOTTE COUNTY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079946/ST.%20GEORGE%20RURAL%20CEMETERY%2C%20CHARLOTTE%20COUNTY">ST. GEORGE RURAL CEMETERY, CHARLOTTE COUNTY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -66.81481,45.12962</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. STEPHEN RURAL CEMETERY, CHARLOTTE COUNTY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079948/ST.%20STEPHEN%20RURAL%20CEMETERY%2C%20CHARLOTTE%20COUNTY">ST. STEPHEN RURAL CEMETERY, CHARLOTTE COUNTY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.30065,45.19974</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BATHURST (SACRED HEART) ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079950/BATHURST%20%28SACRED%20HEART%29%20ROMAN%20CATHOLIC%20CEMETERY">BATHURST (SACRED HEART) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -65.65448,47.61705</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. ANDREW'S RURAL CEMETERY, CHARLOTTE COUNTY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2098815/ST.%20ANDREW%27S%20RURAL%20CEMETERY%2C%20CHARLOTTE%20COUNTY">ST. ANDREW'S RURAL CEMETERY, CHARLOTTE COUNTY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -67.07029,45.09795</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

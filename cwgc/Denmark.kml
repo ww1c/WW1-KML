@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Denmark</name>
+  <description>Cemeteries in Denmark from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>AABENRAA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54201/AABENRAA%20CEMETERY">AABENRAA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.40748,55.04747</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FREDERIKSHAVN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54202/FREDERIKSHAVN%20CEMETERY">FREDERIKSHAVN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.53172,57.45219</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUNE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54204/HUNE%20CHURCHYARD">HUNE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.61782,57.25062</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SKAGEN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54205/SKAGEN%20CEMETERY">SKAGEN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 10.58355,57.72274</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SKALLERUP CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54206/SKALLERUP%20CHURCHYARD">SKALLERUP CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.65398,56.85181</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COPENHAGEN WESTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54207/COPENHAGEN%20WESTERN%20CEMETERY">COPENHAGEN WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 12.53171,55.66157</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BORSMOSE CHURCHYARD, AAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54208/BORSMOSE%20CHURCHYARD%2C%20AAL">BORSMOSE CHURCHYARD, AAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.18589,55.65969</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARBOORE CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54212/HARBOORE%20CHURCHYARD">HARBOORE CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.18482,56.6208</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORRE HAVRVIG CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54213/NORRE%20HAVRVIG%20CHURCHYARD">NORRE HAVRVIG CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.1654,55.93887</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUSBY CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54214/HUSBY%20CHURCHYARD">HUSBY CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.86561,55.37123</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VEDERSO CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54215/VEDERSO%20CHURCHYARD">VEDERSO CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.20029,56.23435</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HVIDBJERG ON AA CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54216/HVIDBJERG%20ON%20AA%20CHURCHYARD">HVIDBJERG ON AA CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.36414,56.85151</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STENBJERG CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54218/STENBJERG%20CHURCHYARD">STENBJERG CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 8.35805,56.92109</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TINGLEV CHURCHYARD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54219/TINGLEV%20CHURCHYARD">TINGLEV CHURCHYARD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.24279,54.93307</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VIBORG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/54220/VIBORG%20CEMETERY">VIBORG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 9.40805,56.45665</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

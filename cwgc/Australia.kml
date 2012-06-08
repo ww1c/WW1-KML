@@ -1,0 +1,3428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Australia</name>
+  <description>Cemeteries in Australia from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>ATHERTON OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13700/ATHERTON%20OLD%20CEMETERY">ATHERTON OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.47207,-17.29344</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUGATHELLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13701/AUGATHELLA%20CEMETERY">AUGATHELLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.57977,-25.80559</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AYR CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13702/AYR%20CEMETERY%2C%20QUEENSLAND">AYR CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.38918,-19.56538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BACK PLAINS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13703/BACK%20PLAINS%20CEMETERY">BACK PLAINS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.79691,-27.91217</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALD HILLS AND SANDGATE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13704/BALD%20HILLS%20AND%20SANDGATE%20CEMETERY">BALD HILLS AND SANDGATE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.03477,-27.31825</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEERBURRUM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13705/BEERBURRUM%20CEMETERY">BEERBURRUM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.95554,-26.95299</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOWEN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13706/BOWEN%20GENERAL%20CEMETERY">BOWEN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.23308,-20.00029</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRISBANE GENERAL (TOOWONG) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13707/BRISBANE%20GENERAL%20%28TOOWONG%29%20CEMETERY">BRISBANE GENERAL (TOOWONG) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.98477,-27.47798</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROOKFIELD CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13708/BROOKFIELD%20CEMETERY%2C%20QUEENSLAND">BROOKFIELD CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.91101,-27.49295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BULIMBA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13709/BULIMBA%20CEMETERY">BULIMBA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.06599,-27.46971</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUNDABERG GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13710/BUNDABERG%20GENERAL%20CEMETERY">BUNDABERG GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.32353,-24.88445</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CABOOLTURE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13711/CABOOLTURE%20CEMETERY">CABOOLTURE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.94032,-27.08506</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAIRNS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13712/CAIRNS%20CEMETERY">CAIRNS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.75444,-16.91269</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CALLIOPE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13713/CALLIOPE%20CEMETERY">CALLIOPE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.20934,-24.01016</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHAPEL HILL METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13714/CHAPEL%20HILL%20METHODIST%20CEMETERY">CHAPEL HILL METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.95308,-27.50767</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHARLESTON CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13715/CHARLESTON%20CEMETERY%2C%20QUEENSLAND">CHARLESTON CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.58449,-18.56534</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHARTERS TOWERS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13716/CHARTERS%20TOWERS%20CEMETERY">CHARTERS TOWERS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.24707,-20.0455</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHINCHILLA OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13717/CHINCHILLA%20OLD%20CEMETERY">CHINCHILLA OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.63061,-26.73987</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLONCURRY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13718/CLONCURRY%20CEMETERY">CLONCURRY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 140.50333,-20.69875</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOKTOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13719/COOKTOWN%20CEMETERY">COOKTOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.24183,-15.4775</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CROWS NEST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13720/CROWS%20NEST%20CEMETERY">CROWS NEST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.05299,-27.2506</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DALBY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13721/DALBY%20CEMETERY">DALBY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.28476,-27.18364</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEGILBO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13722/DEGILBO%20CEMETERY">DEGILBO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.99963,-25.47727</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIRRANBANDI GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13723/DIRRANBANDI%20GENERAL%20CEMETERY">DIRRANBANDI GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.2415,-28.56296</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUARINGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13724/DUARINGA%20CEMETERY">DUARINGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.6687,-23.71325</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FOREST HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13725/FOREST%20HILL%20CEMETERY">FOREST HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.34462,-27.56085</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRANCIS LOOKOUT PRIVATE CEMETERY, SHERWOOD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13726/FRANCIS%20LOOKOUT%20PRIVATE%20CEMETERY%2C%20SHERWOOD">FRANCIS LOOKOUT PRIVATE CEMETERY, SHERWOOD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.97627,-27.53644</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GATTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13727/GATTON%20CEMETERY">GATTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.27574,-27.57085</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GAYNDAH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13728/GAYNDAH%20CEMETERY">GAYNDAH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.61432,-25.63104</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GIN GIN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13729/GIN%20GIN%20GENERAL%20CEMETERY">GIN GIN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.94934,-24.99606</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GLADSTONE CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13730/GLADSTONE%20CEMETERY%2C%20QUEENSLAND">GLADSTONE CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.23949,-23.86679</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GLENEAGLE ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13731/GLENEAGLE%20ROMAN%20CATHOLIC%20CEMETERY">GLENEAGLE ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.98669,-27.94688</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOODNA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13732/GOODNA%20CEMETERY">GOODNA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.88635,-27.61615</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GYMPIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13733/GYMPIE%20CEMETERY">GYMPIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.65203,-26.17405</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HALIFAX CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13734/HALIFAX%20CEMETERY">HALIFAX CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.28766,-18.5848</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARRISVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13735/HARRISVILLE%20CEMETERY">HARRISVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.69086,-27.80375</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HERBERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13736/HERBERTON%20CEMETERY">HERBERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.37889,-17.39438</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HODGSON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13737/HODGSON%20CEMETERY">HODGSON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.62444,-26.54739</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOWARD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13738/HOWARD%20CEMETERY">HOWARD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.54868,-25.30602</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HUGHENDEN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13739/HUGHENDEN%20GENERAL%20CEMETERY">HUGHENDEN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.17271,-20.84067</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IPSWICH GENERAL CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13740/IPSWICH%20GENERAL%20CEMETERY%2C%20QUEENSLAND">IPSWICH GENERAL CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.75972,-27.63041</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JANDOWAE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13741/JANDOWAE%20CEMETERY">JANDOWAE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.12387,-26.77747</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KILLARNEY CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13742/KILLARNEY%20CEMETERY%2C%20QUEENSLAND">KILLARNEY CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.27403,-28.34792</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LONGREACH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13743/LONGREACH%20CEMETERY">LONGREACH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.26149,-23.44896</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRISBANE (LUTWYCHE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13744/BRISBANE%20%28LUTWYCHE%29%20CEMETERY">BRISBANE (LUTWYCHE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.0295,-27.3997</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MACKAY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13745/MACKAY%20CEMETERY">MACKAY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.16461,-21.14574</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARYBOROUGH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13746/MARYBOROUGH%20CEMETERY">MARYBOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.67488,-25.51457</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILES GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13747/MILES%20GENERAL%20CEMETERY">MILES GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.19115,-26.64757</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MITCHELL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13748/MITCHELL%20CEMETERY">MITCHELL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.97,-26.47646</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOUNT MORGAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13749/MOUNT%20MORGAN%20CEMETERY">MOUNT MORGAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.38849,-23.65827</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NAMBOUR GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13750/NAMBOUR%20GENERAL%20CEMETERY">NAMBOUR GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.97015,-26.6154</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NANANGO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13751/NANANGO%20CEMETERY">NANANGO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.99291,-26.67528</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NUDGEE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13752/NUDGEE%20CEMETERY">NUDGEE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.08869,-27.36765</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NUNDAH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13753/NUNDAH%20CEMETERY">NUNDAH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.06732,-27.40791</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RICHMOND CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13754/RICHMOND%20CEMETERY%2C%20QUEENSLAND">RICHMOND CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.14384,-20.74583</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTH ROCKHAMPTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13755/NORTH%20ROCKHAMPTON%20CEMETERY">NORTH ROCKHAMPTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.52367,-23.34931</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROMA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13756/ROMA%20CEMETERY">ROMA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.79543,-26.58064</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. GEORGE CEMETERY, QUEENSLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13757/ST.%20GEORGE%20CEMETERY%2C%20QUEENSLAND">ST. GEORGE CEMETERY, QUEENSLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.60363,-28.0233</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHERWOOD (ST. MATTHEW) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13758/SHERWOOD%20%28ST.%20MATTHEW%29%20ANGLICAN%20CEMETERY">SHERWOOD (ST. MATTHEW) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.9875,-27.53305</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. MICHAEL'S ROMAN CATHOLIC CEMETERY, PINE MOUNTAIN</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13759/ST.%20MICHAEL%27S%20ROMAN%20CATHOLIC%20CEMETERY%2C%20PINE%20MOUNTAIN">ST. MICHAEL'S ROMAN CATHOLIC CEMETERY, PINE MOUNTAIN at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.71416,-27.5426</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH BRISBANE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13760/SOUTH%20BRISBANE%20CEMETERY">SOUTH BRISBANE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.02783,-27.49917</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STANTHORPE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13761/STANTHORPE%20GENERAL%20CEMETERY">STANTHORPE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.93403,-28.6469</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRATHDARR STATION CEMETERY, LONGREACH</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13762/STRATHDARR%20STATION%20CEMETERY%2C%20LONGREACH">STRATHDARR STATION CEMETERY, LONGREACH at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.99273,-23.2703</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAABINGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13763/TAABINGA%20CEMETERY">TAABINGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.82583,-26.57846</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THURSDAY ISLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13764/THURSDAY%20ISLAND%20CEMETERY">THURSDAY ISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.21565,-10.57632</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOOWOOMBA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13765/TOOWOOMBA%20CEMETERY">TOOWOOMBA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.9213,-27.57414</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOWNSVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13766/TOWNSVILLE%20CEMETERY">TOWNSVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.78744,-19.24665</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13767/WARRA%20CEMETERY">WARRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.9226,-26.93645</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARWICK GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13768/WARWICK%20GENERAL%20CEMETERY">WARWICK GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.00527,-28.20913</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODFORD GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13770/WOODFORD%20GENERAL%20CEMETERY">WOODFORD GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.78664,-26.94538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ADELAIDE (WEST TERRACE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13771/ADELAIDE%20%28WEST%20TERRACE%29%20CEMETERY">ADELAIDE (WEST TERRACE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.58797,-34.93357</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ANGLE VALE METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13774/ANGLE%20VALE%20METHODIST%20CEMETERY">ANGLE VALE METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.64215,-34.64149</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRINKWORTH CEMETERY, SOUTH AUSTRALIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13775/BRINKWORTH%20CEMETERY%2C%20SOUTH%20AUSTRALIA">BRINKWORTH CEMETERY, SOUTH AUSTRALIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.41511,-33.71816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BURRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13776/BURRA%20CEMETERY">BURRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.94764,-33.68981</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLARENDON AND KANGARILLA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13777/CLARENDON%20AND%20KANGARILLA%20GENERAL%20CEMETERY">CLARENDON AND KANGARILLA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.65499,-35.13203</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CONDOWIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13778/CONDOWIE%20CEMETERY">CONDOWIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.27482,-33.77705</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COWELL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13779/COWELL%20CEMETERY">COWELL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 136.91144,-33.67621</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUDLEY PARK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13780/DUDLEY%20PARK%20CEMETERY">DUDLEY PARK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.58291,-34.88364</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GLEN OSMOND (ST. SAVIOUR) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13781/GLEN%20OSMOND%20%28ST.%20SAVIOUR%29%20ANGLICAN%20CEMETERY">GLEN OSMOND (ST. SAVIOUR) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.64572,-34.96125</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HINDMARSH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13782/HINDMARSH%20CEMETERY">HINDMARSH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.56594,-34.91075</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JAMESTOWN CEMETERY, SOUTH AUSTRALIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13783/JAMESTOWN%20CEMETERY%2C%20SOUTH%20AUSTRALIA">JAMESTOWN CEMETERY, SOUTH AUSTRALIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.60663,-33.21118</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KADINA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13784/KADINA%20CEMETERY">KADINA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 137.70911,-33.94853</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KAPUNDA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13785/KAPUNDA%20CEMETERY">KAPUNDA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.8976,-34.3291</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAGILL GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13786/MAGILL%20GENERAL%20CEMETERY">MAGILL GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.67429,-34.91594</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MITCHAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13787/MITCHAM%20CEMETERY">MITCHAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.61913,-34.98441</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MITCHAM ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13788/MITCHAM%20ANGLICAN%20CEMETERY">MITCHAM ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.62138,-34.98336</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOONTA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13789/MOONTA%20CEMETERY">MOONTA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 137.58677,-34.07414</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MURRAY BRIDGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13790/MURRAY%20BRIDGE%20CEMETERY">MURRAY BRIDGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 139.26039,-35.12504</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTH ROAD ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13791/NORTH%20ROAD%20ANGLICAN%20CEMETERY">NORTH ROAD ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.604,-34.89021</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTON SUMMIT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13792/NORTON%20SUMMIT%20CEMETERY">NORTON SUMMIT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.73089,-34.92669</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAYNEHAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13793/PAYNEHAM%20CEMETERY">PAYNEHAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.64387,-34.90165</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PENWORTHAM METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13794/PENWORTHAM%20METHODIST%20CEMETERY">PENWORTHAM METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.63733,-33.91755</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT ADELAIDE AND SUBURBAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13795/PORT%20ADELAIDE%20AND%20SUBURBAN%20CEMETERY">PORT ADELAIDE AND SUBURBAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.52505,-34.8708</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT PIRIE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13796/PORT%20PIRIE%20GENERAL%20CEMETERY">PORT PIRIE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 137.9942,-33.18543</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLAKISTON (ST. JAMES) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13797/BLAKISTON%20%28ST.%20JAMES%29%20ANGLICAN%20CEMETERY">BLAKISTON (ST. JAMES) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.87637,-35.04484</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PENWORTHAM (ST. MARK) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13798/PENWORTHAM%20%28ST.%20MARK%29%20ANGLICAN%20CEMETERY">PENWORTHAM (ST. MARK) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.6413,-33.92156</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. PAUL'S LUTHERAN CEMETERY, PEKINA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13799/ST.%20PAUL%27S%20LUTHERAN%20CEMETERY%2C%20PEKINA">ST. PAUL'S LUTHERAN CEMETERY, PEKINA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.4396,-32.87821</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHERLOCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13800/SHERLOCK%20CEMETERY">SHERLOCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 139.80362,-35.32552</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STIRLING DISTRICT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13801/STIRLING%20DISTRICT%20CEMETERY">STIRLING DISTRICT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.75076,-35.01971</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STOCKPORT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13802/STOCKPORT%20CEMETERY">STOCKPORT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.74055,-34.33679</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEROWIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13803/TEROWIE%20CEMETERY">TEROWIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.92712,-33.14101</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WALLAROO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13804/WALLAROO%20CEMETERY">WALLAROO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 137.62098,-33.94021</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST MITCHAM METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13805/WEST%20MITCHAM%20METHODIST%20CEMETERY">WEST MITCHAM METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.6115,-34.98603</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WILLASTON GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13806/WILLASTON%20GENERAL%20CEMETERY">WILLASTON GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.74141,-34.57994</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODSIDE METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13807/WOODSIDE%20METHODIST%20CEMETERY">WOODSIDE METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.87891,-34.95517</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YANKALILLA ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13808/YANKALILLA%20ANGLICAN%20CEMETERY">YANKALILLA ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.34396,-35.45526</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALEXANDRA CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13900/ALEXANDRA%20CEMETERY%2C%20VICTORIA">ALEXANDRA CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.70144,-37.18936</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMHERST PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13901/AMHERST%20PUBLIC%20CEMETERY">AMHERST PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.67713,-37.16385</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AMPHITHEATRE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13902/AMPHITHEATRE%20PUBLIC%20CEMETERY">AMPHITHEATRE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.3891,-37.18646</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARARAT GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13903/ARARAT%20GENERAL%20CEMETERY">ARARAT GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.94436,-37.2701</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AVOCA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13904/AVOCA%20CEMETERY">AVOCA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.46649,-37.06882</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BAIRNSDALE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13905/BAIRNSDALE%20PUBLIC%20CEMETERY">BAIRNSDALE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.60801,-37.8475</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALLARAT (NEW) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13906/BALLARAT%20%28NEW%29%20GENERAL%20CEMETERY">BALLARAT (NEW) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.86249,-37.53667</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALLARAT (OLD) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13907/BALLARAT%20%28OLD%29%20GENERAL%20CEMETERY">BALLARAT (OLD) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.84939,-37.54969</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BARNAWARTHA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13908/BARNAWARTHA%20GENERAL%20CEMETERY">BARNAWARTHA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.66612,-36.11046</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEALIBA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13909/BEALIBA%20CEMETERY">BEALIBA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.55903,-36.79136</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEAUFORT PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13910/BEAUFORT%20PUBLIC%20CEMETERY">BEAUFORT PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.38708,-37.43504</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEECHWORTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13911/BEECHWORTH%20CEMETERY">BEECHWORTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.69042,-36.34623</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BELLARINE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13912/BELLARINE%20CEMETERY">BELLARINE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.57511,-38.1651</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BENALLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13913/BENALLA%20CEMETERY">BENALLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.94959,-36.55618</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BENDIGO CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13914/BENDIGO%20CIVIL%20CEMETERY">BENDIGO CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.28452,-36.77835</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BERWICK CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13915/BERWICK%20CIVIL%20CEMETERY">BERWICK CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.35643,-38.02648</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BETHANGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13916/BETHANGA%20CEMETERY">BETHANGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.08448,-36.14052</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEULAH CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13917/BEULAH%20CEMETERY%2C%20VICTORIA">BEULAH CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.45002,-35.93255</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BIRCHIP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13918/BIRCHIP%20CEMETERY">BIRCHIP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.90124,-35.98169</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLEAK HOUSE (NHILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13919/BLEAK%20HOUSE%20%28NHILL%29%20CEMETERY">BLEAK HOUSE (NHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.46843,-36.27042</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOOLARRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13920/BOOLARRA%20CEMETERY">BOOLARRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.26623,-38.39422</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BORAM BORAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13921/BORAM%20BORAM%20CEMETERY">BORAM BORAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.27611,-37.83639</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOROONDARA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13922/BOROONDARA%20GENERAL%20CEMETERY">BOROONDARA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.0412,-37.80366</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOX HILL GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13923/BOX%20HILL%20GENERAL%20CEMETERY">BOX HILL GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.13216,-37.82351</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRIGHT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13924/BRIGHT%20CEMETERY">BRIGHT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.96506,-36.73325</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRIGHTON GENERAL CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13925/BRIGHTON%20GENERAL%20CEMETERY%2C%20VICTORIA">BRIGHTON GENERAL CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.02065,-37.90128</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROADFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13926/BROADFORD%20CEMETERY">BROADFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.04623,-37.20029</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUANGOR PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13927/BUANGOR%20PUBLIC%20CEMETERY">BUANGOR PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.16112,-37.37167</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BUCKLAND CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13928/BUCKLAND%20CEMETERY%2C%20VICTORIA">BUCKLAND CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.85227,-36.82471</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BURWOOD GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13929/BURWOOD%20GENERAL%20CEMETERY">BURWOOD GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.09923,-37.85097</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPBELLFIELD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13930/CAMPBELLFIELD%20PUBLIC%20CEMETERY">CAMPBELLFIELD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.9374,-37.68737</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPERDOWN CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13931/CAMPERDOWN%20CIVIL%20CEMETERY">CAMPERDOWN CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.11693,-38.21732</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CARLYLE-RUTHERGLEN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13932/CARLYLE-RUTHERGLEN%20PUBLIC%20CEMETERY">CARLYLE-RUTHERGLEN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.4038,-36.03838</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CASTERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13933/CASTERTON%20CEMETERY">CASTERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.40881,-37.59896</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CASTERTON NEW PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13934/CASTERTON%20NEW%20PUBLIC%20CEMETERY">CASTERTON NEW PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.40887,-37.59923</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CASTERTON OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13935/CASTERTON%20OLD%20CEMETERY">CASTERTON OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.37031,-37.59481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHELTENHAM (OLD) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13936/CHELTENHAM%20%28OLD%29%20CEMETERY">CHELTENHAM (OLD) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.0551,-37.96789</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHEWTON GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13937/CHEWTON%20GENERAL%20CEMETERY">CHEWTON GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.27697,-37.08445</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHILTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13938/CHILTERN%20CEMETERY">CHILTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.59226,-36.14431</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLUNES PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13939/CLUNES%20PUBLIC%20CEMETERY">CLUNES PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.75799,-37.29387</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COBRAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13940/COBRAM%20CEMETERY">COBRAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.71391,-35.96371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COBURG PINE RIDGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13941/COBURG%20PINE%20RIDGE%20CEMETERY">COBURG PINE RIDGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.98215,-37.74286</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLAC GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13942/COLAC%20GENERAL%20CEMETERY">COLAC GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.5846,-38.34964</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CORRYONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13943/CORRYONG%20CEMETERY">CORRYONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.89787,-36.20271</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRANBOURNE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13944/CRANBOURNE%20CEMETERY">CRANBOURNE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.27205,-38.11189</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRESSY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13945/CRESSY%20CEMETERY">CRESSY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.62245,-38.03423</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRESWICK PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13946/CRESWICK%20PUBLIC%20CEMETERY">CRESWICK PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.88582,-37.40552</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CRIB POINT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13947/CRIB%20POINT%20CEMETERY">CRIB POINT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.18889,-38.35358</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DANDENONG GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13948/DANDENONG%20GENERAL%20CEMETERY">DANDENONG GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.21393,-37.99944</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DAYLESFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13949/DAYLESFORD%20CEMETERY">DAYLESFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.17016,-37.34268</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIGBY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13950/DIGBY%20CEMETERY">DIGBY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.50273,-37.8187</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DIMBOOLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13951/DIMBOOLA%20CEMETERY">DIMBOOLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.02436,-36.44074</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DROUIN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13952/DROUIN%20PUBLIC%20CEMETERY">DROUIN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.83089,-38.12334</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DROUIN WEST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13953/DROUIN%20WEST%20CEMETERY">DROUIN WEST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.84551,-38.09098</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNKELD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13954/DUNKELD%20CEMETERY">DUNKELD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.34527,-37.6337</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNOLLY PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13955/DUNOLLY%20PUBLIC%20CEMETERY">DUNOLLY PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.72231,-36.84085</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAGLEHAWK CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13956/EAGLEHAWK%20CIVIL%20CEMETERY">EAGLEHAWK CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.26366,-36.71431</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ECHUCA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13957/ECHUCA%20GENERAL%20CEMETERY">ECHUCA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.73539,-36.12341</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EDDINGTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13958/EDDINGTON%20CEMETERY">EDDINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.87207,-36.88135</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EDENHOPE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13959/EDENHOPE%20PUBLIC%20CEMETERY">EDENHOPE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.304,-37.04125</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ELLERSLIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13960/ELLERSLIE%20CEMETERY">ELLERSLIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.6895,-38.15807</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EUREKA PUBLIC CEMETERY, CHINKAPOOK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13961/EUREKA%20PUBLIC%20CEMETERY%2C%20CHINKAPOOK">EUREKA PUBLIC CEMETERY, CHINKAPOOK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.94431,-35.1845</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FAWKNER MEMORIAL PARK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13962/FAWKNER%20MEMORIAL%20PARK%20CEMETERY">FAWKNER MEMORIAL PARK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.96171,-37.71342</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FOOTSCRAY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13964/FOOTSCRAY%20CEMETERY">FOOTSCRAY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.86219,-37.81345</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FRANKSTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13965/FRANKSTON%20CEMETERY">FRANKSTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.13308,-38.14716</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GEELONG EASTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13966/GEELONG%20EASTERN%20CEMETERY">GEELONG EASTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.38011,-38.16364</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GEELONG WESTERN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13967/GEELONG%20WESTERN%20PUBLIC%20CEMETERY">GEELONG WESTERN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.33043,-38.13637</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GISBORNE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13968/GISBORNE%20CEMETERY">GISBORNE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.58963,-37.49535</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GORDON CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13969/GORDON%20CEMETERY%2C%20VICTORIA">GORDON CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.11287,-37.58526</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOROKE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13970/GOROKE%20PUBLIC%20CEMETERY">GOROKE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.49006,-36.71373</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRAYTOWN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13971/GRAYTOWN%20CEMETERY">GRAYTOWN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.95556,-36.81038</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GREAT WESTERN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13972/GREAT%20WESTERN%20CEMETERY">GREAT WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.85626,-37.15929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAMILTON PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13973/HAMILTON%20PUBLIC%20CEMETERY">HAMILTON PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.00476,-37.72937</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HARCOURT GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13974/HARCOURT%20GENERAL%20CEMETERY">HARCOURT GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.2565,-36.98245</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HAZELWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13975/HAZELWOOD%20CEMETERY">HAZELWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.3787,-38.27788</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HEALESVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13976/HEALESVILLE%20CEMETERY">HEALESVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.5281,-37.66102</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOPETOUN CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13977/HOPETOUN%20CIVIL%20CEMETERY">HOPETOUN CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.37117,-35.74783</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INVERLEIGH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13978/INVERLEIGH%20CEMETERY">INVERLEIGH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.03896,-38.10611</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JUNG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13979/JUNG%20CEMETERY">JUNG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.37258,-36.59072</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KERANG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13980/KERANG%20CEMETERY">KERANG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.92327,-35.72127</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KORUMBURRA CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13981/KORUMBURRA%20CIVIL%20CEMETERY">KORUMBURRA CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.84997,-38.43042</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KYABRAM CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13982/KYABRAM%20CIVIL%20CEMETERY">KYABRAM CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.0933,-36.31357</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LANCEFIELD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13983/LANCEFIELD%20CEMETERY">LANCEFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.7411,-37.29193</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEARMONTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13984/LEARMONTH%20CEMETERY">LEARMONTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.69339,-37.41842</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEONGATHA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13985/LEONGATHA%20CEMETERY">LEONGATHA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.93761,-38.48378</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LILYDALE CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13986/LILYDALE%20CIVIL%20CEMETERY">LILYDALE CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.3373,-37.74675</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LINTON CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13987/LINTON%20CIVIL%20CEMETERY">LINTON CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.56792,-37.67239</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LONGWOOD CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13988/LONGWOOD%20CEMETERY%2C%20VICTORIA">LONGWOOD CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.44041,-36.81923</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MADDINGLY (BACCHUS MARSH) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13989/MADDINGLY%20%28BACCHUS%20MARSH%29%20GENERAL%20CEMETERY">MADDINGLY (BACCHUS MARSH) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.41835,-37.68898</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MAFFRA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13990/MAFFRA%20PUBLIC%20CEMETERY">MAFFRA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.98053,-37.94112</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALDON GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13991/MALDON%20GENERAL%20CEMETERY">MALDON GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.05263,-36.973</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALMSBURY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13992/MALMSBURY%20CEMETERY">MALMSBURY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.38366,-37.19792</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANSFIELD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13993/MANSFIELD%20PUBLIC%20CEMETERY">MANSFIELD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.08542,-37.06495</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARYBOROUGH PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13994/MARYBOROUGH%20PUBLIC%20CEMETERY">MARYBOROUGH PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.75788,-37.05938</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MELBOURNE GENERAL CEMETERY, CARLTON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13995/MELBOURNE%20GENERAL%20CEMETERY%2C%20CARLTON">MELBOURNE GENERAL CEMETERY, CARLTON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.96626,-37.7854</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MERBEIN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13996/MERBEIN%20PUBLIC%20CEMETERY">MERBEIN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.04343,-34.14856</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MERINO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13997/MERINO%20CEMETERY">MERINO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.54602,-37.69439</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILAWA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13998/MILAWA%20PUBLIC%20CEMETERY">MILAWA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.4377,-36.43858</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MILDURA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/13999/MILDURA%20PUBLIC%20CEMETERY">MILDURA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.09414,-34.24135</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14000/MOE%20PUBLIC%20CEMETERY">MOE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.268,-38.18647</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOOROOPNA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14001/MOOROOPNA%20PUBLIC%20CEMETERY">MOOROOPNA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.33946,-36.35905</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MORNINGTON PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14002/MORNINGTON%20PUBLIC%20CEMETERY">MORNINGTON PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.03272,-38.25546</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MORRISON PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14003/MORRISON%20PUBLIC%20CEMETERY">MORRISON PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.08726,-37.77263</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOUNT DUNEED PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14004/MOUNT%20DUNEED%20PUBLIC%20CEMETERY">MOUNT DUNEED PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.31961,-38.24209</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOUNT EGERTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14005/MOUNT%20EGERTON%20CEMETERY">MOUNT EGERTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.10051,-37.63823</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MYRTLEFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14006/MYRTLEFORD%20CEMETERY">MYRTLEFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.72759,-36.55003</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEERIM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14007/NEERIM%20CEMETERY">NEERIM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.95516,-37.95755</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTHCOTE CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14008/NORTHCOTE%20CIVIL%20CEMETERY">NORTHCOTE CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.00622,-37.77016</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NUMURKAH GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14009/NUMURKAH%20GENERAL%20CEMETERY">NUMURKAH GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.45159,-36.09724</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NYORA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14010/NYORA%20CEMETERY">NYORA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.66366,-38.34124</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ONDIT AND CUNDARE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14011/ONDIT%20AND%20CUNDARE%20PUBLIC%20CEMETERY">ONDIT AND CUNDARE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.61858,-38.16721</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORBOST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14012/ORBOST%20CEMETERY">ORBOST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.46311,-37.70822</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OUYEN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14013/OUYEN%20CEMETERY">OUYEN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.32495,-35.09041</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PIMPINIO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14014/PIMPINIO%20CEMETERY">PIMPINIO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.10661,-36.5964</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POOWONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14015/POOWONG%20CEMETERY">POOWONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.76159,-38.34547</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORT FAIRY PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14016/PORT%20FAIRY%20PUBLIC%20CEMETERY">PORT FAIRY PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.22287,-38.38466</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTLAND PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14017/PORTLAND%20PUBLIC%20CEMETERY">PORTLAND PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.59216,-38.36983</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTSEA QUARANTINE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14018/PORTSEA%20QUARANTINE%20CEMETERY">PORTSEA QUARANTINE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.67888,-38.30853</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUAMBATOOK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14019/QUAMBATOOK%20CEMETERY">QUAMBATOOK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.54079,-35.87688</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEENSCLIFF CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14020/QUEENSCLIFF%20CIVIL%20CEMETERY">QUEENSCLIFF CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.61593,-38.27966</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RHEOLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14021/RHEOLA%20CEMETERY">RHEOLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.70582,-36.65088</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROCHESTER CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14022/ROCHESTER%20CIVIL%20CEMETERY">ROCHESTER CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.72331,-36.36447</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROKEWOOD CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14023/ROKEWOOD%20CIVIL%20CEMETERY">ROKEWOOD CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.71256,-37.88984</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROSEDALE CEMETERY, VICTORIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14024/ROSEDALE%20CEMETERY%2C%20VICTORIA">ROSEDALE CEMETERY, VICTORIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.80075,-38.16803</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUSHWORTH PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14025/RUSHWORTH%20PUBLIC%20CEMETERY">RUSHWORTH PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.01598,-36.58449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. ARNAUD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14026/ST.%20ARNAUD%20CEMETERY">ST. ARNAUD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.28124,-36.62625</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. KILDA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14027/ST.%20KILDA%20GENERAL%20CEMETERY">ST. KILDA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.00266,-37.85948</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SALE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14028/SALE%20PUBLIC%20CEMETERY">SALE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.05182,-38.08122</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SEYMOUR GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14029/SEYMOUR%20GENERAL%20CEMETERY">SEYMOUR GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.16586,-37.03776</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHELFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14030/SHELFORD%20CEMETERY">SHELFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.97373,-38.01887</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHEPPARTON PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14031/SHEPPARTON%20PUBLIC%20CEMETERY">SHEPPARTON PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.37034,-36.36129</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SMYTHESDALE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14032/SMYTHESDALE%20CEMETERY">SMYTHESDALE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.66089,-37.65911</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SORRENTO CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14033/SORRENTO%20CIVIL%20CEMETERY">SORRENTO CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.72806,-38.34196</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPRINGHURST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14034/SPRINGHURST%20CEMETERY">SPRINGHURST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.4678,-36.22575</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STAWELL (PLEASANT CREEK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14035/STAWELL%20%28PLEASANT%20CREEK%29%20CEMETERY">STAWELL (PLEASANT CREEK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.76674,-37.05538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STEIGLITZ CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14036/STEIGLITZ%20CEMETERY">STEIGLITZ CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.18847,-37.88713</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STUART MILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14037/STUART%20MILL%20CEMETERY">STUART MILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.29482,-36.79892</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SWAN HILL PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14038/SWAN%20HILL%20PUBLIC%20CEMETERY">SWAN HILL PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.55275,-35.35501</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SWANWATER WEST GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14039/SWANWATER%20WEST%20GENERAL%20CEMETERY">SWANWATER WEST GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.02544,-36.51586</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TALLANGATTA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14040/TALLANGATTA%20CEMETERY">TALLANGATTA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.27497,-36.19936</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TALLAROOK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14041/TALLAROOK%20CEMETERY">TALLAROOK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.09849,-37.09929</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TATURA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14042/TATURA%20PUBLIC%20CEMETERY">TATURA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.20457,-36.43055</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TERANG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14044/TERANG%20CEMETERY">TERANG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.9108,-38.25481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TIMOR CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14045/TIMOR%20CEMETERY">TIMOR CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.70686,-36.98918</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOONGABBIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14046/TOONGABBIE%20CEMETERY">TOONGABBIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.61823,-38.06509</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOWER HILL (KOROIT) CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14047/TOWER%20HILL%20%28KOROIT%29%20CIVIL%20CEMETERY">TOWER HILL (KOROIT) CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.38796,-38.32788</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VIOLET TOWN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14048/VIOLET%20TOWN%20PUBLIC%20CEMETERY">VIOLET TOWN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.70946,-36.64925</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WANGARATTA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14049/WANGARATTA%20CEMETERY">WANGARATTA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.29259,-36.37326</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRACKNABEAL PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14050/WARRACKNABEAL%20PUBLIC%20CEMETERY">WARRACKNABEAL PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.3937,-36.26484</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRAGUL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14051/WARRAGUL%20CEMETERY">WARRAGUL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.93476,-38.15304</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRINGAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14052/WARRINGAL%20CEMETERY">WARRINGAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.05917,-37.7521</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARRNAMBOOL PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14053/WARRNAMBOOL%20PUBLIC%20CEMETERY">WARRNAMBOOL PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.50766,-38.39204</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATCHEM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14054/WATCHEM%20CEMETERY">WATCHEM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.86753,-36.14776</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEDDERBURN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14055/WEDDERBURN%20GENERAL%20CEMETERY">WEDDERBURN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.63393,-36.41742</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WHITE HILLS CEMETERY, BENDIGO</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14056/WHITE%20HILLS%20CEMETERY%2C%20BENDIGO">WHITE HILLS CEMETERY, BENDIGO at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.29948,-36.72959</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WILLIAMSTOWN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14057/WILLIAMSTOWN%20GENERAL%20CEMETERY">WILLIAMSTOWN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.88077,-37.85298</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WILL WILL ROOK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14058/WILL%20WILL%20ROOK%20CEMETERY">WILL WILL ROOK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.93741,-37.68736</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WINCHELSEA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14059/WINCHELSEA%20CEMETERY">WINCHELSEA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.01014,-38.25336</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WODONGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14060/WODONGA%20CEMETERY">WODONGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.86965,-36.11481</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WONTHAGGI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14061/WONTHAGGI%20CEMETERY">WONTHAGGI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.58444,-38.62018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODEND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14062/WOODEND%20CEMETERY">WOODEND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.53476,-37.35291</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOOMELANG PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14063/WOOMELANG%20PUBLIC%20CEMETERY">WOOMELANG PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.67101,-35.69317</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYCHEPROOF PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14064/WYCHEPROOF%20PUBLIC%20CEMETERY">WYCHEPROOF PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.24142,-36.1035</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YAN YEAN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14065/YAN%20YEAN%20PUBLIC%20CEMETERY">YAN YEAN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.11223,-37.52992</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YARCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14066/YARCK%20CEMETERY">YARCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.62417,-37.10183</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YEA PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14067/YEA%20PUBLIC%20CEMETERY">YEA PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.4267,-37.22386</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBANY PUBLIC CEMETERY (OLD)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14100/ALBANY%20PUBLIC%20CEMETERY%20%28OLD%29">ALBANY PUBLIC CEMETERY (OLD) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.88789,-35.01763</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBANY QUARANTINE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14101/ALBANY%20QUARANTINE%20CEMETERY">ALBANY QUARANTINE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.91384,-35.05184</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOULDER GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14102/BOULDER%20GENERAL%20CEMETERY">BOULDER GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 121.49357,-30.80282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CARNARVON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14103/CARNARVON%20CEMETERY">CARNARVON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 113.72166,-24.91388</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLLIE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14104/COLLIE%20GENERAL%20CEMETERY">COLLIE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.13055,-33.35087</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOLGARDIE CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14105/COOLGARDIE%20CIVIL%20CEMETERY">COOLGARDIE CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 121.14456,-30.95344</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FREMANTLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14106/FREMANTLE%20CEMETERY">FREMANTLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.77959,-32.05187</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHITTERING HOLY TRINITY ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14108/CHITTERING%20HOLY%20TRINITY%20ANGLICAN%20CEMETERY">CHITTERING HOLY TRINITY ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.09023,-31.42371</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KALGOORLIE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14109/KALGOORLIE%20CEMETERY">KALGOORLIE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 121.45408,-30.73924</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KATANNING PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14110/KATANNING%20PUBLIC%20CEMETERY">KATANNING PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.54566,-33.66882</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LEONORA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14111/LEONORA%20CEMETERY">LEONORA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 121.34459,-28.89867</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MIDLAND JUNCTION CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14112/MIDLAND%20JUNCTION%20CEMETERY">MIDLAND JUNCTION CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.04183,-31.87977</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NANNUP CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14113/NANNUP%20CEMETERY">NANNUP CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.7625,-33.99174</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NARROGIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14114/NARROGIN%20CEMETERY">NARROGIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.15672,-32.94088</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NIPPERING CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14115/NIPPERING%20CEMETERY">NIPPERING CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.67399,-33.30771</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORSEMAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14116/NORSEMAN%20CEMETERY">NORSEMAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 121.76143,-32.21547</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTHAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14117/NORTHAM%20CEMETERY">NORTHAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.65726,-31.6374</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PAGO MISSION CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14118/PAGO%20MISSION%20CEMETERY">PAGO MISSION CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 126.72233,-14.12647</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PERTH (KARRAKATTA) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14119/PERTH%20%28KARRAKATTA%29%20GENERAL%20CEMETERY">PERTH (KARRAKATTA) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.79657,-31.96862</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PERTH WAR CEMETERY AND ANNEX</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14120/PERTH%20WAR%20CEMETERY%20AND%20ANNEX">PERTH WAR CEMETERY AND ANNEX at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.80571,-31.97194</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROCKINGHAM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14121/ROCKINGHAM%20CEMETERY">ROCKINGHAM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.78196,-32.25319</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROEBOURNE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14122/ROEBOURNE%20CEMETERY">ROEBOURNE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.13876,-20.76719</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTHERN CROSS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14123/SOUTHERN%20CROSS%20CEMETERY">SOUTHERN CROSS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 119.31473,-31.21515</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAGIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14124/WAGIN%20CEMETERY">WAGIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.32828,-33.31072</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOOROLOO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14125/WOOROLOO%20CEMETERY">WOOROLOO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.32716,-31.80987</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYNDHAM OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14126/WYNDHAM%20OLD%20CEMETERY">WYNDHAM OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 128.0974,-15.48059</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YORK CEMETERY, WESTERN AUSTRALIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14127/YORK%20CEMETERY%2C%20WESTERN%20AUSTRALIA">YORK CEMETERY, WESTERN AUSTRALIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 116.77915,-31.88542</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTERN AUSTRALIA GARDEN OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14128/WESTERN%20AUSTRALIA%20GARDEN%20OF%20REMEMBRANCE">WESTERN AUSTRALIA GARDEN OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.80572,-31.97113</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNTROON MILITARY COLLEGE GROUNDS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/14135/DUNTROON%20MILITARY%20COLLEGE%20GROUNDS">DUNTROON MILITARY COLLEGE GROUNDS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.1581,-35.29867</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANDIGA SIDING ISOLATED GRAVE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000276/MANDIGA%20SIDING%20ISOLATED%20GRAVE">MANDIGA SIDING ISOLATED GRAVE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 117.8008,-30.88714</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUARANTINE STATION, WOODMAN POINT</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000277/QUARANTINE%20STATION%2C%20WOODMAN%20POINT">QUARANTINE STATION, WOODMAN POINT at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 115.75628,-32.13312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CREMAC PRIVATE PROPERTY, PORT DOUGLAS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000391/CREMAC%20PRIVATE%20PROPERTY%2C%20PORT%20DOUGLAS">CREMAC PRIVATE PROPERTY, PORT DOUGLAS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.43558,-16.51467</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEENSLAND GARDEN OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000394/QUEENSLAND%20GARDEN%20OF%20REMEMBRANCE">QUEENSLAND GARDEN OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.99185,-27.34961</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SPRINGVALE BOTANICAL CEMETERY, MELBOURNE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000395/SPRINGVALE%20BOTANICAL%20CEMETERY%2C%20MELBOURNE">SPRINGVALE BOTANICAL CEMETERY, MELBOURNE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.17407,-37.94843</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>VICTORIA GARDEN OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000397/VICTORIA%20GARDEN%20OF%20REMEMBRANCE">VICTORIA GARDEN OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.1779,-37.94306</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYDNEY MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2020500/SYDNEY%20MEMORIAL">SYDNEY MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.06387,-33.87738</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CLERMONT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022605/CLERMONT%20CEMETERY">CLERMONT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.64724,-22.81095</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ALBURY GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022703/ALBURY%20GENERAL%20CEMETERY">ALBURY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.926,-36.06228</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARMIDALE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022706/ARMIDALE%20GENERAL%20CEMETERY">ARMIDALE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.65902,-30.52959</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BANGALOW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022708/BANGALOW%20CEMETERY">BANGALOW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.52534,-28.67518</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BATHURST GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022711/BATHURST%20GENERAL%20CEMETERY">BATHURST GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.55027,-33.41055</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEGA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022712/BEGA%20CEMETERY">BEGA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.84104,-36.70412</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOREE CREEK METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022723/BOREE%20CREEK%20METHODIST%20CEMETERY">BOREE CREEK METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.60383,-35.10011</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOTANY GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022724/BOTANY%20GENERAL%20CEMETERY">BOTANY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.22675,-33.97347</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROKEN HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022730/BROKEN%20HILL%20CEMETERY">BROKEN HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.43263,-31.96461</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BULLI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022732/BULLI%20CEMETERY">BULLI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.92045,-34.3406</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPBELL'S HILL (WEST MAITLAND) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022737/CAMPBELL%27S%20HILL%20%28WEST%20MAITLAND%29%20CEMETERY">CAMPBELL'S HILL (WEST MAITLAND) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.53608,-32.72509</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CESSNOCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022741/CESSNOCK%20CEMETERY">CESSNOCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.34989,-32.81579</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOLAMON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022745/COOLAMON%20CEMETERY">COOLAMON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.19126,-34.80885</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOMA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022746/COOMA%20CEMETERY">COOMA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.13141,-36.21511</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COONABARABRAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022747/COONABARABRAN%20CEMETERY">COONABARABRAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.29047,-31.26957</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUBBO GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022761/DUBBO%20GENERAL%20CEMETERY">DUBBO GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.64234,-32.23348</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DUNGOG GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022762/DUNGOG%20GENERAL%20CEMETERY">DUNGOG GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.73861,-32.41857</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FIELD OF MARS CEMETERY, RYDE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022769/FIELD%20OF%20MARS%20CEMETERY%2C%20RYDE">FIELD OF MARS CEMETERY, RYDE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.12462,-33.81196</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FORBES CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022771/FORBES%20CEMETERY">FORBES CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.99589,-33.36961</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GLEN INNES GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022776/GLEN%20INNES%20GENERAL%20CEMETERY">GLEN INNES GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.75209,-29.72816</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GOULBURN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022778/GOULBURN%20GENERAL%20CEMETERY">GOULBURN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.75423,-34.74607</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GRAFTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022779/GRAFTON%20CEMETERY">GRAFTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.94985,-29.67736</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GULGONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022783/GULGONG%20CEMETERY">GULGONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.53111,-32.37554</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GUNNEDAH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022784/GUNNEDAH%20CEMETERY">GUNNEDAH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.24555,-30.98448</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOLBROOK CIVIL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022791/HOLBROOK%20CIVIL%20CEMETERY">HOLBROOK CIVIL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.31509,-35.71283</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>INVERELL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022792/INVERELL%20CEMETERY">INVERELL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.12531,-29.75709</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JILLIBY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022795/JILLIBY%20CEMETERY">JILLIBY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.39851,-33.26203</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>JUNEE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022798/JUNEE%20CEMETERY">JUNEE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.6084,-34.88</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KATOOMBA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022801/KATOOMBA%20GENERAL%20CEMETERY">KATOOMBA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.321,-33.70264</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LISMORE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022807/LISMORE%20CEMETERY">LISMORE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.29988,-28.82382</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIVERPOOL NEW CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022808/LIVERPOOL%20NEW%20CEMETERY">LIVERPOOL NEW CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.91216,-33.91819</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANLY GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022811/MANLY%20GENERAL%20CEMETERY">MANLY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.27153,-33.79177</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARLEE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022812/MARLEE%20CEMETERY">MARLEE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.31397,-31.80473</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MONTEAGLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022819/MONTEAGLE%20CEMETERY">MONTEAGLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.34283,-34.20163</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOREE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022822/MOREE%20CEMETERY">MOREE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.82378,-29.46608</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MUDGEE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022824/MUDGEE%20GENERAL%20CEMETERY">MUDGEE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.62078,-32.56499</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NARRABRI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022831/NARRABRI%20CEMETERY">NARRABRI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.79136,-30.3173</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORTH GUNDAGAI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022835/NORTH%20GUNDAGAI%20CEMETERY">NORTH GUNDAGAI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.11223,-35.0513</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ORANGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022901/ORANGE%20CEMETERY">ORANGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.11963,-33.29475</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PENRITH GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022904/PENRITH%20GENERAL%20CEMETERY">PENRITH GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.71847,-33.75696</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>POINT CLARE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022906/POINT%20CLARE%20GENERAL%20CEMETERY">POINT CLARE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.31461,-33.43427</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEANBEYAN (RIVERSIDE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022908/QUEANBEYAN%20%28RIVERSIDE%29%20CEMETERY">QUEANBEYAN (RIVERSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.20329,-35.36879</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RANDWICK GENERAL CEMETERY, SYDNEY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022910/RANDWICK%20GENERAL%20CEMETERY%2C%20SYDNEY">RANDWICK GENERAL CEMETERY, SYDNEY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.25487,-33.92871</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROOKWOOD NECROPOLIS, SYDNEY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022914/ROOKWOOD%20NECROPOLIS%2C%20SYDNEY">ROOKWOOD NECROPOLIS, SYDNEY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.06494,-33.87516</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RUTHERFORD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022915/RUTHERFORD%20CEMETERY">RUTHERFORD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.52072,-32.71311</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SCONE ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022929/SCONE%20ROMAN%20CATHOLIC%20CEMETERY">SCONE ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.86341,-32.02859</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SINGLETON ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022932/SINGLETON%20ROMAN%20CATHOLIC%20CEMETERY">SINGLETON ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.18077,-32.55959</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH HEAD GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022935/SOUTH%20HEAD%20GENERAL%20CEMETERY">SOUTH HEAD GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.28224,-33.85746</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SOUTH MAITLAND (KURRI KURRI) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022936/SOUTH%20MAITLAND%20%28KURRI%20KURRI%29%20CEMETERY">SOUTH MAITLAND (KURRI KURRI) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.46356,-32.81834</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYDNEY (WAVERLEY) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022938/SYDNEY%20%28WAVERLEY%29%20GENERAL%20CEMETERY">SYDNEY (WAVERLEY) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.26418,-33.90725</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TEMORA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022941/TEMORA%20GENERAL%20CEMETERY">TEMORA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.52917,-34.45493</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THE ROCK CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022943/THE%20ROCK%20CEMETERY">THE ROCK CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.12683,-35.27933</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>THIRLMERE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022944/THIRLMERE%20CEMETERY">THIRLMERE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.56522,-34.21212</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUMBARUMBA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022948/TUMBARUMBA%20CEMETERY">TUMBARUMBA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.02041,-35.79772</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TWEED HEADS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022950/TWEED%20HEADS%20CEMETERY">TWEED HEADS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.53728,-28.17532</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WAGGA WAGGA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022952/WAGGA%20WAGGA%20GENERAL%20CEMETERY">WAGGA WAGGA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.38934,-35.13294</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WARREN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022957/WARREN%20GENERAL%20CEMETERY">WARREN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.81904,-31.69746</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WELLINGTON GENERAL CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022960/WELLINGTON%20GENERAL%20CEMETERY%2C%20NEW%20SOUTH%20WALES">WELLINGTON GENERAL CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.95239,-32.57968</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WENTWORTH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022961/WENTWORTH%20CEMETERY">WENTWORTH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 141.90252,-34.10806</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WENTWORTH FALLS GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022962/WENTWORTH%20FALLS%20GENERAL%20CEMETERY">WENTWORTH FALLS GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.36622,-33.71126</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST KEMPSEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022963/WEST%20KEMPSEY%20CEMETERY">WEST KEMPSEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.82199,-31.06995</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TAMWORTH GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022964/TAMWORTH%20GENERAL%20CEMETERY">TAMWORTH GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.90404,-31.09202</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOLLONGONG GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022967/WOLLONGONG%20GENERAL%20CEMETERY">WOLLONGONG GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.88975,-34.43506</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WORONORA GENERAL CEMETERY, SUTHERLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022969/WORONORA%20GENERAL%20CEMETERY%2C%20SUTHERLAND">WORONORA GENERAL CEMETERY, SUTHERLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.05408,-34.03334</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYALONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022970/WYALONG%20CEMETERY">WYALONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.24218,-33.90801</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YASS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022972/YASS%20CEMETERY">YASS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.89689,-34.83678</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YOUNG CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2022974/YOUNG%20CEMETERY%2C%20NEW%20SOUTH%20WALES">YOUNG CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.28725,-34.32666</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ADAMINABY GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077400/ADAMINABY%20GENERAL%20CEMETERY">ADAMINABY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.78725,-36.00133</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ARDLETHAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077402/ARDLETHAN%20CEMETERY">ARDLETHAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.91482,-34.35057</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BALRANALD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077404/BALRANALD%20CEMETERY">BALRANALD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.56468,-34.62856</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEECHWOOD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077407/BEECHWOOD%20CEMETERY">BEECHWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.66073,-31.44106</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BEMBOKA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077409/BEMBOKA%20CEMETERY">BEMBOKA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.57942,-36.63874</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLACKHEATH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077410/BLACKHEATH%20CEMETERY">BLACKHEATH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.28148,-33.62575</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BLACK MOUNTAIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077411/BLACK%20MOUNTAIN%20CEMETERY">BLACK MOUNTAIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.66133,-30.31534</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BONG BONG (NEW MOSS VALE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077412/BONG%20BONG%20%28NEW%20MOSS%20VALE%29%20CEMETERY">BONG BONG (NEW MOSS VALE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.39033,-34.53777</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRAIDWOOD GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077415/BRAIDWOOD%20GENERAL%20CEMETERY">BRAIDWOOD GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.79704,-35.44999</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BROWNSVILLE (ST. LUKES) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077416/BROWNSVILLE%20%28ST.%20LUKES%29%20CEMETERY">BROWNSVILLE (ST. LUKES) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.80366,-34.48312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BURRAWANG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077418/BURRAWANG%20CEMETERY">BURRAWANG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.50094,-34.58204</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BYNG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077419/BYNG%20CEMETERY">BYNG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.25477,-33.34955</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CANDELO CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077421/CANDELO%20CEMETERY">CANDELO CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.70259,-36.76077</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CENTRAL MACDONALD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077422/CENTRAL%20MACDONALD%20CEMETERY">CENTRAL MACDONALD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.97974,-33.34178</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHATSWOOD SOUTH METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077424/CHATSWOOD%20SOUTH%20METHODIST%20CEMETERY">CHATSWOOD SOUTH METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.17834,-33.80559</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COAST HOSPITAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077425/COAST%20HOSPITAL%20CEMETERY">COAST HOSPITAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.25005,-33.99034</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOLAC ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077426/COOLAC%20ANGLICAN%20CEMETERY">COOLAC ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.16644,-34.93166</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOLAH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077427/COOLAH%20CEMETERY">COOLAH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.70886,-31.82628</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COOTAMUNDRA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077431/COOTAMUNDRA%20GENERAL%20CEMETERY">COOTAMUNDRA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.04368,-34.63133</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COWRA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077432/COWRA%20GENERAL%20CEMETERY">COWRA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.68967,-33.80152</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DENILIQUIN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077433/DENILIQUIN%20GENERAL%20CEMETERY">DENILIQUIN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 144.93671,-35.55486</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST KEMPSEY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077436/EAST%20KEMPSEY%20CEMETERY">EAST KEMPSEY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.83943,-31.08884</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EATONSVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077437/EATONSVILLE%20CEMETERY">EATONSVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.83847,-29.63197</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GALONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077440/GALONG%20CEMETERY">GALONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.55997,-34.56781</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GANMAIN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077441/GANMAIN%20CEMETERY">GANMAIN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.04694,-34.80233</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GERRINGONG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077442/GERRINGONG%20CEMETERY">GERRINGONG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.83172,-34.74904</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GILGANDRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077443/GILGANDRA%20CEMETERY">GILGANDRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.68661,-31.71375</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GORE HILL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077445/GORE%20HILL%20CEMETERY">GORE HILL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.19024,-33.82462</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>GYGEDERICK (GEGEDZERICK) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077450/GYGEDERICK%20%28GEGEDZERICK%29%20CEMETERY">GYGEDERICK (GEGEDZERICK) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.852,-36.37275</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HILLSTON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077451/HILLSTON%20CEMETERY">HILLSTON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.53183,-33.49988</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KELSO (HOLY TRINITY) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077457/KELSO%20%28HOLY%20TRINITY%29%20ANGLICAN%20CEMETERY">KELSO (HOLY TRINITY) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.60345,-33.41141</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KIAMA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077458/KIAMA%20GENERAL%20CEMETERY">KIAMA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.85335,-34.65875</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>KYOGLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077459/KYOGLE%20CEMETERY">KYOGLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.99681,-28.6502</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LIVERPOOL OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077462/LIVERPOOL%20OLD%20CEMETERY">LIVERPOOL OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.92451,-33.91776</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOCKHART CEMETERY (ANGLICAN SECTION)</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077463/LOCKHART%20CEMETERY%20%28ANGLICAN%20SECTION%29">LOCKHART CEMETERY (ANGLICAN SECTION) at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.68753,-35.22696</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LYNDHURST CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077464/LYNDHURST%20CEMETERY%2C%20NEW%20SOUTH%20WALES">LYNDHURST CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.02898,-33.66967</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MANILLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077465/MANILLA%20CEMETERY">MANILLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.73289,-30.72399</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MITTAGONG (ROWES HILL) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077468/MITTAGONG%20%28ROWES%20HILL%29%20CEMETERY">MITTAGONG (ROWES HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.47961,-34.46018</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MITTAGONG (WELBY) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077469/MITTAGONG%20%28WELBY%29%20CEMETERY">MITTAGONG (WELBY) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.42903,-34.43628</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOONBI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077471/MOONBI%20CEMETERY">MOONBI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.07711,-31.02214</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MORPETH CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077473/MORPETH%20CEMETERY%2C%20NEW%20SOUTH%20WALES">MORPETH CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.62406,-32.73312</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NARRANDERA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077477/NARRANDERA%20GENERAL%20CEMETERY">NARRANDERA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.54223,-34.74297</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEWCASTLE (SANDGATE) GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077478/NEWCASTLE%20%28SANDGATE%29%20GENERAL%20CEMETERY">NEWCASTLE (SANDGATE) GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.70799,-32.86785</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NORAVILLE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077479/NORAVILLE%20CEMETERY">NORAVILLE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.5571,-33.27521</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NOWRA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077481/NOWRA%20GENERAL%20CEMETERY">NOWRA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.6033,-34.88751</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>OBERON CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077482/OBERON%20CEMETERY">OBERON CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.83463,-33.70706</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PARRAMATTA (ALL SAINTS) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077484/PARRAMATTA%20%28ALL%20SAINTS%29%20CEMETERY">PARRAMATTA (ALL SAINTS) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.01072,-33.80627</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTLAND CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077487/PORTLAND%20CEMETERY">PORTLAND CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.97285,-33.37352</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PUNCHBOWL ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077488/PUNCHBOWL%20ANGLICAN%20CEMETERY">PUNCHBOWL ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.0553,-33.93083</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RED RANGE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077490/RED%20RANGE%20CEMETERY">RED RANGE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.882,-29.7641</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROSEWOOD ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077491/ROSEWOOD%20ROMAN%20CATHOLIC%20CEMETERY">ROSEWOOD ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.86232,-35.69022</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROUS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077492/ROUS%20CEMETERY">ROUS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 153.40836,-28.86739</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROUSE HILL (WINDSOR) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077493/ROUSE%20HILL%20%28WINDSOR%29%20CEMETERY">ROUSE HILL (WINDSOR) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.91743,-33.68102</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RYLSTONE CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077495/RYLSTONE%20CEMETERY%2C%20NEW%20SOUTH%20WALES">RYLSTONE CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.00727,-32.81266</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROSSMORE (ST. JAMES) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077496/ROSSMORE%20%28ST.%20JAMES%29%20ANGLICAN%20CEMETERY">ROSSMORE (ST. JAMES) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.76451,-33.94366</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PATERSON (ST. PAUL) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077497/PATERSON%20%28ST.%20PAUL%29%20ANGLICAN%20CEMETERY">PATERSON (ST. PAUL) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.60826,-32.6068</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SANDGATE CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077498/SANDGATE%20CATHOLIC%20CEMETERY">SANDGATE CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.70517,-32.8704</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SMITHFIELD METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077501/SMITHFIELD%20METHODIST%20CEMETERY">SMITHFIELD METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.93729,-33.85295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SYDNEY NORTH HEAD (QUARANTINE) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077504/SYDNEY%20NORTH%20HEAD%20%28QUARANTINE%29%20CEMETERY">SYDNEY NORTH HEAD (QUARANTINE) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.29478,-33.81741</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUMUT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077511/TUMUT%20CEMETERY">TUMUT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.23298,-35.32004</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>URALLA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077513/URALLA%20CEMETERY">URALLA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.48425,-30.6454</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WATERFALL SANATORIUM CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077516/WATERFALL%20SANATORIUM%20CEMETERY">WATERFALL SANATORIUM CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.97047,-34.17535</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WEST WALLSEND GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077521/WEST%20WALLSEND%20GENERAL%20CEMETERY">WEST WALLSEND GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.57103,-32.90295</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WILLOW TREE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077522/WILLOW%20TREE%20CEMETERY">WILLOW TREE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.72858,-31.65318</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WILTON CEMETERY, NEW SOUTH WALES</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077523/WILTON%20CEMETERY%2C%20NEW%20SOUTH%20WALES">WILTON CEMETERY, NEW SOUTH WALES at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 150.69728,-34.24049</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOMBAT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077525/WOMBAT%20CEMETERY">WOMBAT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 148.22232,-34.42541</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WOODSIDE PRIVATE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077526/WOODSIDE%20PRIVATE%20CEMETERY">WOODSIDE PRIVATE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.20045,-31.90449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CARR VILLA GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082941/CARR%20VILLA%20GENERAL%20CEMETERY">CARR VILLA GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.16616,-41.47033</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CURRIE PUBLIC CEMETERY, KING ISLAND</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082944/CURRIE%20PUBLIC%20CEMETERY%2C%20KING%20ISLAND">CURRIE PUBLIC CEMETERY, KING ISLAND at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 143.85376,-39.93449</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOBART (CORNELIAN BAY) PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082948/HOBART%20%28CORNELIAN%20BAY%29%20PUBLIC%20CEMETERY">HOBART (CORNELIAN BAY) PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.3167,-42.85029</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW NORFOLK GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082952/NEW%20NORFOLK%20GENERAL%20CEMETERY">NEW NORFOLK GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.05912,-42.77232</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>RINGAROOMA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082954/RINGAROOMA%20CEMETERY">RINGAROOMA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.78069,-41.26615</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ULVERSTONE CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082956/ULVERSTONE%20CEMETERY">ULVERSTONE CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.1651,-41.16278</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WYNYARD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082958/WYNYARD%20PUBLIC%20CEMETERY">WYNYARD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.71829,-40.98313</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOTHWELL PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087909/BOTHWELL%20PUBLIC%20CEMETERY">BOTHWELL PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.008,-42.38282</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BOTHWELL ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087910/BOTHWELL%20ROMAN%20CATHOLIC%20CEMETERY">BOTHWELL ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.01049,-42.38334</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>BRANXHOLM DERBY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087911/BRANXHOLM%20DERBY%20CEMETERY">BRANXHOLM DERBY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.75625,-41.16589</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPBELL TOWN PRESBYTERIAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087912/CAMPBELL%20TOWN%20PRESBYTERIAN%20CEMETERY">CAMPBELL TOWN PRESBYTERIAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.49342,-41.93948</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHRIST CHURCH CEMETERY, LONGFORD</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087914/CHRIST%20CHURCH%20CEMETERY%2C%20LONGFORD">CHRIST CHURCH CEMETERY, LONGFORD at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.11999,-41.59345</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHUDLEIGH CEMETERY, TASMANIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087915/CHUDLEIGH%20CEMETERY%2C%20TASMANIA">CHUDLEIGH CEMETERY, TASMANIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.47877,-41.55326</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DELORAINE PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087917/DELORAINE%20PUBLIC%20CEMETERY">DELORAINE PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.63119,-41.50905</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DEVONPORT OLD PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087918/DEVONPORT%20OLD%20PUBLIC%20CEMETERY">DEVONPORT OLD PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.35335,-41.16191</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DON CONGREGATIONAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087919/DON%20CONGREGATIONAL%20CEMETERY">DON CONGREGATIONAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.32106,-41.18423</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>DOVER CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087920/DOVER%20CEMETERY">DOVER CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.9978,-43.32849</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST DEVONPORT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087921/EAST%20DEVONPORT%20CEMETERY">EAST DEVONPORT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.36899,-41.1767</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>FORTH METHODIST CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087922/FORTH%20METHODIST%20CEMETERY">FORTH METHODIST CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.24363,-41.18</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOBART (QUEENBOROUGH) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087924/HOBART%20%28QUEENBOROUGH%29%20CEMETERY">HOBART (QUEENBOROUGH) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.33135,-42.9048</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IRISHTOWN PUBLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087925/IRISHTOWN%20PUBLIC%20CEMETERY">IRISHTOWN PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.14466,-40.89761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LOWER MOUNT HICKS CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087926/LOWER%20MOUNT%20HICKS%20CEMETERY">LOWER MOUNT HICKS CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.73888,-41.04258</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW TOWN (ST. JOHN'S) CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087928/NEW%20TOWN%20%28ST.%20JOHN%27S%29%20CEMETERY">NEW TOWN (ST. JOHN'S) CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.29603,-42.85626</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PERTH CEMETERY, TASMANIA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087929/PERTH%20CEMETERY%2C%20TASMANIA">PERTH CEMETERY, TASMANIA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.16049,-41.57778</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>QUEENSTOWN OLD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087930/QUEENSTOWN%20OLD%20CEMETERY">QUEENSTOWN OLD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 145.55115,-42.0864</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>COLEBROOK (ST. JAMES) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087932/COLEBROOK%20%28ST.%20JAMES%29%20ANGLICAN%20CEMETERY">COLEBROOK (ST. JAMES) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.36429,-42.53687</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CAMPBELL TOWN (ST. LUKE) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087933/CAMPBELL%20TOWN%20%28ST.%20LUKE%29%20ANGLICAN%20CEMETERY">CAMPBELL TOWN (ST. LUKE) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.49416,-41.92648</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. PATRICK'S CATHOLIC CEMETERY, COLEBROOK</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087934/ST.%20PATRICK%27S%20CATHOLIC%20CEMETERY%2C%20COLEBROOK">ST. PATRICK'S CATHOLIC CEMETERY, COLEBROOK at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.36204,-42.53499</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EAST DEVONPORT (ST. PAUL) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087935/EAST%20DEVONPORT%20%28ST.%20PAUL%29%20ANGLICAN%20CEMETERY">EAST DEVONPORT (ST. PAUL) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.36813,-41.17819</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ST. PAUL'S ROMAN CATHOLIC CEMETERY, OATLANDS</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087936/ST.%20PAUL%27S%20ROMAN%20CATHOLIC%20CEMETERY%2C%20OATLANDS">ST. PAUL'S ROMAN CATHOLIC CEMETERY, OATLANDS at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.37141,-42.29784</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>SHEFFIELD CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087937/SHEFFIELD%20CEMETERY">SHEFFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.30452,-41.37222</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TUNNACK ROMAN CATHOLIC CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087938/TUNNACK%20ROMAN%20CATHOLIC%20CEMETERY">TUNNACK ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.45962,-42.45482</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>WESTBURY ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087940/WESTBURY%20ANGLICAN%20CEMETERY">WESTBURY ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.82526,-41.53125</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TASMANIA (HOBART) GARDEN OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2090617/TASMANIA%20%28HOBART%29%20GARDEN%20OF%20REMEMBRANCE">TASMANIA (HOBART) GARDEN OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.31754,-42.85106</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NEW SOUTH WALES GARDEN OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096451/NEW%20SOUTH%20WALES%20GARDEN%20OF%20REMEMBRANCE">NEW SOUTH WALES GARDEN OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.0627,-33.87761</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CYGNET (ST. MARK) ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4000002/CYGNET%20%28ST.%20MARK%29%20ANGLICAN%20CEMETERY">CYGNET (ST. MARK) ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 147.07488,-43.16167</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NARRA TARRA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007598/NARRA%20TARRA%20CEMETERY">NARRA TARRA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 114.77059,-28.64733</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>NICHOLLS POINT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001035/NICHOLLS%20POINT%20CEMETERY">NICHOLLS POINT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 142.21725,-34.19474</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>EUNGAI CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001058/EUNGAI%20CEMETERY">EUNGAI CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.87548,-30.82553</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARULAN ANGLICAN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001083/MARULAN%20ANGLICAN%20CEMETERY">MARULAN ANGLICAN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.98095,-34.73136</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>LATROBE GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001099/LATROBE%20GENERAL%20CEMETERY">LATROBE GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.42311,-41.23728</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>YANGAN GENERAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001101/YANGAN%20GENERAL%20CEMETERY">YANGAN GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 152.2208,-28.20516</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>STRATHALBYN CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001104/STRATHALBYN%20CEMETERY">STRATHALBYN CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.90341,-35.26538</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>AUSTRALIAN BOOK OF REMEMBRANCE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001125/AUSTRALIAN%20BOOK%20OF%20REMEMBRANCE">AUSTRALIAN BOOK OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 149.14908,-35.28041</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MOORNGAG CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001128/MOORNGAG%20CEMETERY">MOORNGAG CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 146.05181,-36.75206</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ROOKWOOD INDEPENDENT CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001137/ROOKWOOD%20INDEPENDENT%20CEMETERY">ROOKWOOD INDEPENDENT CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 151.05448,-33.87128</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHELTENHAM CEMETERY, ADELAIDE</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001138/CHELTENHAM%20CEMETERY%2C%20ADELAIDE">CHELTENHAM CEMETERY, ADELAIDE at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 138.52411,-34.8717</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	  <Document><name>Cemeteries of the Commonwealth War Graves Commission for Malta</name>
+  <description>Cemeteries in Malta from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales </description><Placemark>
+		  <name>PIETA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11200/PIETA%20MILITARY%20CEMETERY">PIETA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.49549,35.89042</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TA-BRAXIA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11202/TA-BRAXIA%20CEMETERY">TA-BRAXIA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.49899,35.89019</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MALTA (CAPUCCINI) NAVAL CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11204/MALTA%20%28CAPUCCINI%29%20NAVAL%20CEMETERY">MALTA (CAPUCCINI) NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.53636,35.88776</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PEMBROKE MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11205/PEMBROKE%20MILITARY%20CEMETERY">PEMBROKE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.47067,35.92954</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>IMTARFA MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11206/IMTARFA%20MILITARY%20CEMETERY">IMTARFA MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.40955,35.89097</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARSA JEWISH CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11207/MARSA%20JEWISH%20CEMETERY">MARSA JEWISH CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.49391,35.87365</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TURKISH MILITARY CEMETERY, MARSA</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11208/TURKISH%20MILITARY%20CEMETERY%2C%20MARSA">TURKISH MILITARY CEMETERY, MARSA at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.49421,35.87377</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>ADDOLORATA CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/11209/ADDOLORATA%20CEMETERY">ADDOLORATA CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.50019,35.87126</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>MARIA ADDOLORATA CEMETERY, CASAL DINGLI</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000007/MARIA%20ADDOLORATA%20CEMETERY%2C%20CASAL%20DINGLI">MARIA ADDOLORATA CEMETERY, CASAL DINGLI at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.38214,35.85698</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CASAL ZEBBUG CHURCH</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000008/CASAL%20ZEBBUG%20CHURCH">CASAL ZEBBUG CHURCH at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 14.23601,36.06953</coordinates>
+		  </Point>
+		</Placemark></Document>
+				</kml>
