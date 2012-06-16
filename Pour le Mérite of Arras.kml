@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pour le Mérite of Arras.kml</name>
+	<Style id="style7">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style70">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style72">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style74">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style75">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style76">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="style77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style79">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style710">
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Pour le Mérite of Arras</name>
+		<description>http://en.wikipedia.org/wiki/Pour_le_M%C3%A9rite</description>
+		<Placemark>
+			<name>Fritz von Lossberg</name>
+			<description>http://en.wikipedia.org/wiki/Fritz_von_Lossberg</description>
+			<styleUrl>#style77</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.612224139369749,50.21749573654351,0 2.805924416720262,50.29070713490602,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fritz Otto Bernert</name>
+			<description>http://en.wikipedia.org/wiki/Fritz_Otto_Bernert</description>
+			<styleUrl>#style78</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					18.20933109232948,50.09550157912304,0 2.805220316147516,50.2861925587879,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Eberhard von Hofacker</name>
+			<description>http://de.wikipedia.org/wiki/Eberhard_von_Hofacker</description>
+			<styleUrl>#style73</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					9.730843928528794,52.32074678455845,0 2.801710849874168,50.29527373390918,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Karl Dieffenbach</name>
+			<description>http://de.wikipedia.org/wiki/Karl_Dieffenbach</description>
+			<styleUrl>#style71</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					9.564792941364516,50.67194155618164,0 2.799498327174157,50.30401081056013,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
