@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Monmouthshire
+						</name>
+						<description>
+							Cemeteries in Monmouthshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABERGAVENNY NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42503/ABERGAVENNY%20NEW%20CEMETERY">ABERGAVENNY NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.03142,51.8185</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BEDWELLTY (ST. SANNAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42526/BEDWELLTY%20(ST.%20SANNAN)%20CHURCHYARD">BEDWELLTY (ST. SANNAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.20721,51.69501</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHEPSTOW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42539/CHEPSTOW%20CEMETERY">CHEPSTOW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.68014,51.63264</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CWMBRAN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42545/CWMBRAN%20CEMETERY">CWMBRAN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.0177,51.64152</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EBBW VALE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42541/EBBW%20VALE%20CEMETERY">EBBW VALE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.21853,51.78863</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWPORT (CHRISTCHURCH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42549/NEWPORT%20(CHRISTCHURCH)%20CEMETERY">NEWPORT (CHRISTCHURCH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.95081,51.59551</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWPORT (ST. WOOLOS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42564/NEWPORT%20(ST.%20WOOLOS)%20CEMETERY">NEWPORT (ST. WOOLOS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.01555,51.58128</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PONTNEWYDD (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42543/PONTNEWYDD%20(HOLY%20TRINITY)%20CHURCHYARD">PONTNEWYDD (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.03125,51.66111</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PONTYPOOL (PANTEG) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42566/PONTYPOOL%20(PANTEG)%20CEMETERY">PONTYPOOL (PANTEG) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.02055,51.69799</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RISCA OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42574/RISCA%20OLD%20CEMETERY">RISCA OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.11387,51.61708</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

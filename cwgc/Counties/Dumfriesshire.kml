@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Dumfriesshire
+						</name>
+						<description>
+							Cemeteries in Dumfriesshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ANNAN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74174/ANNAN%20CEMETERY">ANNAN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.26955,55.00088</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>APPLEGARTH PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74175/APPLEGARTH%20PARISH%20CHURCHYARD%20EXTENSION">APPLEGARTH PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.40613,55.14527</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAERLAVEROCK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74176/CAERLAVEROCK%20PARISH%20CHURCHYARD">CAERLAVEROCK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.52642,55.00722</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CANONBIE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74177/CANONBIE%20PARISH%20CHURCHYARD">CANONBIE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.94984,55.07796</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLOSEBURN PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74178/CLOSEBURN%20PARISH%20CHURCHYARD%20EXTENSION">CLOSEBURN PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.72475,55.21229</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CUMMERTREES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74179/CUMMERTREES%20CEMETERY">CUMMERTREES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.33931,54.98547</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALTON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74180/DALTON%20PARISH%20CHURCHYARD">DALTON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.38879,55.0524</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORNOCK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74182/DORNOCK%20CEMETERY">DORNOCK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.18926,54.98729</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUMFRIES (ST. ANDREW'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74186/DUMFRIES%20(ST.%20ANDREW'S)%20ROMAN%20CATHOLIC%20CEMETERY">DUMFRIES (ST. ANDREW'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.59075,55.0618</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUMFRIES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74184/DUMFRIES%20CEMETERY">DUMFRIES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.59753,55.06288</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCKERBIE (DRYFESDALE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74183/LOCKERBIE%20(DRYFESDALE)%20CEMETERY">LOCKERBIE (DRYFESDALE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.3788,55.11539</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUMFRIES (ST. MICHAEL'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74188/DUMFRIES%20(ST.%20MICHAEL'S)%20CEMETERY">DUMFRIES (ST. MICHAEL'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.59683,55.06291</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUMFRIES (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74187/DUMFRIES%20(ST.%20MICHAEL)%20CHURCHYARD">DUMFRIES (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.6069,55.0652</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNSCORE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74189/DUNSCORE%20PARISH%20CHURCHYARD">DUNSCORE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.78011,55.14038</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENCAIRN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74190/GLENCAIRN%20PARISH%20CHURCHYARD">GLENCAIRN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.87223,55.19424</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRETNA CEMETERY, DUMFRIESSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74191/GRETNA%20CEMETERY,%20DUMFRIESSHIRE">GRETNA CEMETERY, DUMFRIESSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.09474,54.99487</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HODDOM NEW PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74192/HODDOM%20NEW%20PARISH%20CHURCHYARD">HODDOM NEW PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.26623,55.05863</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HODDOM OLD PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74193/HODDOM%20OLD%20PARISH%20CHURCHYARD">HODDOM OLD PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.30548,55.04157</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKCONNEL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74195/KIRKCONNEL%20CEMETERY">KIRKCONNEL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.02571,55.38752</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKMAHOE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74196/KIRKMAHOE%20PARISH%20CHURCHYARD">KIRKMAHOE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.60899,55.1176</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKMICHAEL PARISH CHURCHYARD, DUMFRIESSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74197/KIRKMICHAEL%20PARISH%20CHURCHYARD,%20DUMFRIESSHIRE">KIRKMICHAEL PARISH CHURCHYARD, DUMFRIESSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.56435,55.17956</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKPATRICK-FLEMING CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74198/KIRKPATRICK-FLEMING%20CEMETERY">KIRKPATRICK-FLEMING CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.13356,55.0202</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKPATRICK-JUXTA PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74199/KIRKPATRICK-JUXTA%20PARISH%20CHURCHYARD">KIRKPATRICK-JUXTA PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.44693,55.29429</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LANGHOLM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74200/LANGHOLM%20CEMETERY">LANGHOLM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.99287,55.14052</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCHMABEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74201/LOCHMABEN%20CEMETERY">LOCHMABEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.45063,55.12111</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MIDDLEBIE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74202/MIDDLEBIE%20CEMETERY">MIDDLEBIE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.22756,55.07021</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOFFAT CEMETERY, KIRKPATRICK, JUXTA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74203/MOFFAT%20CEMETERY,%20KIRKPATRICK,%20JUXTA">MOFFAT CEMETERY, KIRKPATRICK, JUXTA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.45577,55.33787</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MORTON (THORNHILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74204/MORTON%20(THORNHILL)%20CEMETERY">MORTON (THORNHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.75851,55.24334</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOUSWALD PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74205/MOUSWALD%20PARISH%20CHURCHYARD%20EXTENSION">MOUSWALD PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.46558,55.03937</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENPONT PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74206/PENPONT%20PARISH%20CHURCHYARD">PENPONT PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.81126,55.23152</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RUTHWELL PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74207/RUTHWELL%20PARISH%20CHURCHYARD">RUTHWELL PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.40755,55.00011</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SANQUHAR PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74209/SANQUHAR%20PARISH%20CHURCHYARD%20EXTENSION">SANQUHAR PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.92861,55.3706</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. MUNGO OLD PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74208/ST.%20MUNGO%20OLD%20PARISH%20CHURCHYARD">ST. MUNGO OLD PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.36801,55.06786</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TINWALD PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74210/TINWALD%20PARISH%20CHURCHYARD%20EXTENSION">TINWALD PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.56475,55.11948</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TORTHORWALD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74211/TORTHORWALD%20CHURCHYARD">TORTHORWALD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.51266,55.08912</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WAUCHOPE CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74213/WAUCHOPE%20CHURCHYARD">WAUCHOPE CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.01348,55.14711</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENCAIRN PARISH CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000176/GLENCAIRN%20PARISH%20CHURCHYARD%20EXTENSION">GLENCAIRN PARISH CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.87223,55.19424</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STAPLEGORDON OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000266/STAPLEGORDON%20OLD%20CHURCHYARD">STAPLEGORDON OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.01822,55.18107</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TROQUEER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000177/TROQUEER%20CEMETERY">TROQUEER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.60782,55.05986</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WANLOCKHEAD BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000178/WANLOCKHEAD%20BURIAL%20GROUND">WANLOCKHEAD BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.77624,55.39658</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HUTTON PARISH CHURCHYARD, DUMFRIESSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007068/HUTTON%20PARISH%20CHURCHYARD,%20DUMFRIESSHIRE">HUTTON PARISH CHURCHYARD, DUMFRIESSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.30463,55.20517</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

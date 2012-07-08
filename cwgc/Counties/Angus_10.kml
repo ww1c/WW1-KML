@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Angus
+						</name>
+						<description>
+							Cemeteries in Angus from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ARBROATH EASTERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34195/ARBROATH%20EASTERN%20CEMETERY">ARBROATH EASTERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.57824,56.56934</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BARNHILL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34208/BARNHILL%20CEMETERY">BARNHILL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.85664,56.47459</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRECHIN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34198/BRECHIN%20CEMETERY">BRECHIN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.65587,56.73397</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNDEE WESTERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34200/DUNDEE%20WESTERN%20CEMETERY">DUNDEE WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.00776,56.45655</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORFAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34203/FORFAR%20CEMETERY">FORFAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.88263,56.64247</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MONTROSE (SLEEPYHILLOCK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34211/MONTROSE%20(SLEEPYHILLOCK)%20CEMETERY">MONTROSE (SLEEPYHILLOCK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.49067,56.72335</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNDEE (BALGAY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000209/DUNDEE%20(BALGAY)%20CEMETERY">DUNDEE (BALGAY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.02226,56.46396</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNDEE EASTERN NECROPOLIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000208/DUNDEE%20EASTERN%20NECROPOLIS">DUNDEE EASTERN NECROPOLIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.93671,56.47189</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

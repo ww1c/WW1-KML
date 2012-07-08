@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Cheshire
+						</name>
+						<description>
+							Cemeteries in Cheshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ALTRINCHAM BOWDON AND HALE (ALTRINCHAM) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/150604/ALTRINCHAM%20BOWDON%20AND%20HALE%20(ALTRINCHAM)%20CEMETERY">ALTRINCHAM BOWDON AND HALE (ALTRINCHAM) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.33308,53.37885</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHTON-UNDER-LYNE AND DUKINFIELD JOINT CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/150607/ASHTON-UNDER-LYNE%20AND%20DUKINFIELD%20JOINT%20CEMETERY">ASHTON-UNDER-LYNE AND DUKINFIELD JOINT CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.08458,53.48005</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BEBINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/150614/BEBINGTON%20CEMETERY">BEBINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.01661,53.35875</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRKENHEAD (FLAYBRICK HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/150600/BIRKENHEAD%20(FLAYBRICK%20HILL)%20CEMETERY">BIRKENHEAD (FLAYBRICK HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.06316,53.39682</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOCKPORT BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2075400/STOCKPORT%20BOROUGH%20CEMETERY">STOCKPORT BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.1513,53.39786</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHESTER (OVERLEIGH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077826/CHESTER%20(OVERLEIGH)%20CEMETERY">CHESTER (OVERLEIGH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.89385,53.18061</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOCKPORT (WILLOW GROVE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2075487/STOCKPORT%20(WILLOW%20GROVE)%20CEMETERY">STOCKPORT (WILLOW GROVE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15081,53.42529</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALLASEY (RAKE LANE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2077976/WALLASEY%20(RAKE%20LANE)%20CEMETERY">WALLASEY (RAKE LANE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.04375,53.42562</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

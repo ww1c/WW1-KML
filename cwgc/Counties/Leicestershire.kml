@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Leicestershire
+						</name>
+						<description>
+							Cemeteries in Leicestershire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>AB KETTLEBY (ST. JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41296/AB%20KETTLEBY%20(ST.%20JAMES)%20CHURCHYARD">AB KETTLEBY (ST. JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.92686,52.79873</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ANSTEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41210/ANSTEY%20CEMETERY">ANSTEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19591,52.66808</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASFORDBY (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41297/ASFORDBY%20(ALL%20SAINTS)%20CHURCHYARD">ASFORDBY (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.95227,52.76343</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHBY-DE-LA-ZOUCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41209/ASHBY-DE-LA-ZOUCH%20CEMETERY">ASHBY-DE-LA-ZOUCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.47939,52.74602</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BAGWORTH (HOLY ROOD) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41272/BAGWORTH%20(HOLY%20ROOD)%20CHURCHYARD">BAGWORTH (HOLY ROOD) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.33671,52.66734</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BARDON HILL (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41200/BARDON%20HILL%20(ST.%20PETER)%20CHURCHYARD">BARDON HILL (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.33615,52.70883</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BARKBY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41211/BARKBY%20CEMETERY">BARKBY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.06022,52.68408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BARROW-UPON-SOAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41212/BARROW-UPON-SOAR%20CEMETERY">BARROW-UPON-SOAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15581,52.7589</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BITTESWELL (ST. MARY) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41265/BITTESWELL%20(ST.%20MARY)%20CHURCHYARD%20EXTENSION">BITTESWELL (ST. MARY) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.21443,52.46877</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLABY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41234/BLABY%20CEMETERY">BLABY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15358,52.57453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOTTESFORD (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41224/BOTTESFORD%20(ST.%20MARY)%20CHURCHYARD">BOTTESFORD (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.80061,52.9436</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BREEDON-ON-THE-HILL (SS. MARY AND HARDULPH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41241/BREEDON-ON-THE-HILL%20(SS.%20MARY%20AND%20HARDULPH)%20CHURCHYARD">BREEDON-ON-THE-HILL (SS. MARY AND HARDULPH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.39917,52.80653</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROUGHTON ASTLEY (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41266/BROUGHTON%20ASTLEY%20(ST.%20MARY)%20CHURCHYARD">BROUGHTON ASTLEY (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22673,52.52924</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURBAGE (ST. CATHERINE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41254/BURBAGE%20(ST.%20CATHERINE)%20CHURCHYARD">BURBAGE (ST. CATHERINE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.3488,52.53066</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURTON OVERY (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41227/BURTON%20OVERY%20(ST.%20ANDREW)%20CHURCHYARD">BURTON OVERY (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.00016,52.57723</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CADEBY (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41273/CADEBY%20(ALL%20SAINTS)%20CHURCHYARD">CADEBY (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.37273,52.61722</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CASTLE DONINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41242/CASTLE%20DONINGTON%20CEMETERY">CASTLE DONINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.33117,52.84327</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CATTHORPE (ST. THOMAS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41267/CATTHORPE%20(ST.%20THOMAS)%20CHURCHYARD">CATTHORPE (ST. THOMAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.1903,52.3984</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHURCH LANGTON (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41287/CHURCH%20LANGTON%20(ST.%20PETER)%20CHURCHYARD">CHURCH LANGTON (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.93351,52.53333</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COALVILLE (HUGGLESCOTE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41247/COALVILLE%20(HUGGLESCOTE)%20CEMETERY">COALVILLE (HUGGLESCOTE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.3723,52.70737</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COALVILLE (LONDON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41248/COALVILLE%20(LONDON%20ROAD)%20CEMETERY">COALVILLE (LONDON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.36475,52.72226</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COALVILLE (WHITWICK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41250/COALVILLE%20(WHITWICK)%20CEMETERY">COALVILLE (WHITWICK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.36101,52.74025</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COLE-ORTON (OR COLEORTON) (ST. JOHN'S) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41201/COLE-ORTON%20(OR%20COLEORTON)%20(ST.%20JOHN'S)%20CHURCHYARD">COLE-ORTON (OR COLEORTON) (ST. JOHN'S) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.41244,52.74861</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COPT OAK (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41274/COPT%20OAK%20(ST.%20PETER)%20CHURCHYARD">COPT OAK (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.28681,52.71144</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COSBY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41235/COSBY%20CEMETERY">COSBY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19682,52.55625</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COSSINGTON (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41213/COSSINGTON%20(ALL%20SAINTS)%20CHURCHYARD">COSSINGTON (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.10703,52.71758</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COUNTESTHORPE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41236/COUNTESTHORPE%20CEMETERY">COUNTESTHORPE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.13093,52.55789</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROFT (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41237/CROFT%20(ST.%20MICHAEL)%20CHURCHYARD">CROFT (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.2485,52.55915</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DADLINGTON (ST. JAMES THE GREAT) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41275/DADLINGTON%20(ST.%20JAMES%20THE%20GREAT)%20CHURCHYARD">DADLINGTON (ST. JAMES THE GREAT) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.40582,52.57869</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DESFORD (ST. MARTIN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41276/DESFORD%20(ST.%20MARTIN)%20CHURCHYARD">DESFORD (ST. MARTIN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.29403,52.62689</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DISEWORTH (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41243/DISEWORTH%20(ST.%20MICHAEL)%20CHURCHYARD">DISEWORTH (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.32845,52.81664</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DONISTHORPE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41202/DONISTHORPE%20CEMETERY">DONISTHORPE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.53269,52.72322</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EARL SHILTON (SS. SIMON AND JUDE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41255/EARL%20SHILTON%20(SS.%20SIMON%20AND%20JUDE)%20CHURCHYARD">EARL SHILTON (SS. SIMON AND JUDE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30639,52.57929</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EATON CEMETERY, LEICESTERSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41298/EATON%20CEMETERY,%20LEICESTERSHIRE">EATON CEMETERY, LEICESTERSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.81752,52.8542</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDMONDTHORPE (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41299/EDMONDTHORPE%20(ST.%20MICHAEL)%20CHURCHYARD">EDMONDTHORPE (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.73024,52.74894</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FLECKNEY (ST. NICHOLAS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41288/FLECKNEY%20(ST.%20NICHOLAS)%20CHURCHYARD">FLECKNEY (ST. NICHOLAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.04699,52.53483</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FOXTON (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41289/FOXTON%20(ST.%20ANDREW)%20CHURCHYARD">FOXTON (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.97138,52.50137</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FREEBY (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41300/FREEBY%20(ST.%20MARY)%20CHURCHYARD">FREEBY (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.81004,52.77249</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENFIELD (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41238/GLENFIELD%20(ST.%20PETER)%20CHURCHYARD">GLENFIELD (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20621,52.64905</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GREAT EASTON (OR EASTON MAGNA) (ST. ANDREW) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41251/GREAT%20EASTON%20(OR%20EASTON%20MAGNA)%20(ST.%20ANDREW)%20CHURCHYARD%20EXTENSION">GREAT EASTON (OR EASTON MAGNA) (ST. ANDREW) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.75058,52.53067</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRIFFYDAM WESLEYAN METHODIST CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41203/GRIFFYDAM%20WESLEYAN%20METHODIST%20CHAPELYARD">GRIFFYDAM WESLEYAN METHODIST CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.38937,52.76264</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRIMSTON (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41301/GRIMSTON%20(ST.%20JOHN)%20CHURCHYARD">GRIMSTON (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.98455,52.79026</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HARBY (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41302/HARBY%20(ST.%20MARY)%20CHURCHYARD">HARBY (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.89172,52.87396</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HIGHAM-ON-THE-HILL (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41256/HIGHAM-ON-THE-HILL%20(ST.%20PETER)%20CHURCHYARD">HIGHAM-ON-THE-HILL (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.43738,52.55635</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HINCKLEY (BARWELL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41253/HINCKLEY%20(BARWELL)%20CEMETERY">HINCKLEY (BARWELL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.34473,52.57301</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HINCKLEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41259/HINCKLEY%20CEMETERY">HINCKLEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.36802,52.54929</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOSE (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41304/HOSE%20(ST.%20MICHAEL)%20CHURCHYARD">HOSE (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.90808,52.85608</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOSE BAPTIST CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41303/HOSE%20BAPTIST%20CHAPELYARD">HOSE BAPTIST CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.90475,52.85885</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOUGHTON-ON-THE-HILL (ST. CATHERINE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41229/HOUGHTON-ON-THE-HILL%20(ST.%20CATHERINE)%20CHURCHYARD">HOUGHTON-ON-THE-HILL (ST. CATHERINE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.00264,52.62336</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HUGGLESCOTE BAPTIST CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41249/HUGGLESCOTE%20BAPTIST%20CHAPELYARD">HUGGLESCOTE BAPTIST CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.36693,52.71101</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HUMBERSTONE (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41230/HUMBERSTONE%20(ST.%20MARY)%20CHURCHYARD">HUMBERSTONE (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.07601,52.64792</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HUNCOTE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41239/HUNCOTE%20CEMETERY">HUNCOTE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.23857,52.57652</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>IBSTOCK (ST. DENYS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41278/IBSTOCK%20(ST.%20DENYS)%20CHURCHYARD">IBSTOCK (ST. DENYS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.40347,52.68355</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>IBSTOCK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41277/IBSTOCK%20CEMETERY">IBSTOCK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.39181,52.69096</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KEGWORTH (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41245/KEGWORTH%20(ST.%20ANDREW)%20CHURCHYARD">KEGWORTH (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27772,52.83543</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KEGWORTH BAPTIST CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41244/KEGWORTH%20BAPTIST%20CHAPELYARD">KEGWORTH BAPTIST CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27992,52.83604</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIBWORTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41290/KIBWORTH%20CEMETERY">KIBWORTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.98747,52.53988</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KNIGHTON (ST. MARY MAGDALENE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41260/KNIGHTON%20(ST.%20MARY%20MAGDALENE)%20CHURCHYARD">KNIGHTON (ST. MARY MAGDALENE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.11667,52.60543</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KNOSSINGTON (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41305/KNOSSINGTON%20(ST.%20PETER)%20CHURCHYARD">KNOSSINGTON (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.81685,52.6699</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LAUGHTON (ST. LUKE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41291/LAUGHTON%20(ST.%20LUKE)%20CHURCHYARD">LAUGHTON (ST. LUKE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.0307,52.49613</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (BELGRAVE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41261/LEICESTER%20(BELGRAVE)%20CEMETERY">LEICESTER (BELGRAVE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.13095,52.66527</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (GILROES) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41214/LEICESTER%20(GILROES)%20CEMETERY">LEICESTER (GILROES) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.17159,52.65121</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (WELFORD ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41262/LEICESTER%20(WELFORD%20ROAD)%20CEMETERY">LEICESTER (WELFORD ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.12969,52.61996</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEIRE (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41268/LEIRE%20(ST.%20PETER)%20CHURCHYARD">LEIRE (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22719,52.50552</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCKINGTON (ST. NICHOLAS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41246/LOCKINGTON%20(ST.%20NICHOLAS)%20CHURCHYARD">LOCKINGTON (ST. NICHOLAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30708,52.8467</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LONG CLAWSON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41306/LONG%20CLAWSON%20CEMETERY">LONG CLAWSON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.92694,52.83396</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOUGHBOROUGH (LEICESTER ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41263/LOUGHBOROUGH%20(LEICESTER%20ROAD)%20CEMETERY">LOUGHBOROUGH (LEICESTER ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19523,52.75998</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LUBENHAM (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41292/LUBENHAM%20(ALL%20SAINTS)%20CHURCHYARD">LUBENHAM (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.96328,52.47659</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LUTTERWORTH (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41269/LUTTERWORTH%20(ST.%20MARY)%20CHURCHYARD">LUTTERWORTH (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20238,52.45545</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARKET HARBOROUGH (GREAT BOWDEN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41294/MARKET%20HARBOROUGH%20(GREAT%20BOWDEN)%20CEMETERY">MARKET HARBOROUGH (GREAT BOWDEN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.89953,52.49169</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARKET HARBOROUGH (NORTHAMPTON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41295/MARKET%20HARBOROUGH%20(NORTHAMPTON%20ROAD)%20CEMETERY">MARKET HARBOROUGH (NORTHAMPTON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.91335,52.46839</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARKFIELD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41279/MARKFIELD%20CEMETERY">MARKFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27108,52.688</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MEASHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41204/MEASHAM%20CEMETERY">MEASHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.49927,52.70381</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MEDBOURNE (ST. GILES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41252/MEDBOURNE%20(ST.%20GILES)%20CHURCHYARD">MEDBOURNE (ST. GILES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.82352,52.52964</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELTON MOWBRAY (THORPE ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41313/MELTON%20MOWBRAY%20(THORPE%20ROAD)%20CEMETERY">MELTON MOWBRAY (THORPE ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.87068,52.77063</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOUNTSORREL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41215/MOUNTSORREL%20CEMETERY">MOUNTSORREL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15438,52.73764</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NAILSTONE (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41280/NAILSTONE%20(ALL%20SAINTS)%20CHURCHYARD">NAILSTONE (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.38357,52.6601</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWBOLD VERDON (ST. JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41281/NEWBOLD%20VERDON%20(ST.%20JAMES)%20CHURCHYARD">NEWBOLD VERDON (ST. JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.34629,52.62973</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWTON HARCOURT (ST. LUKE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41231/NEWTON%20HARCOURT%20(ST.%20LUKE)%20CHURCHYARD">NEWTON HARCOURT (ST. LUKE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.05755,52.56453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWTOWN LINFORD (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41216/NEWTOWN%20LINFORD%20(ALL%20SAINTS)%20CHURCHYARD">NEWTOWN LINFORD (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22929,52.68304</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH KILWORTH (ST. ANDREWS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41270/NORTH%20KILWORTH%20(ST.%20ANDREWS)%20CHURCHYARD">NORTH KILWORTH (ST. ANDREWS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.09542,52.44304</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OADBY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41315/OADBY%20CEMETERY">OADBY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.08308,52.59611</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PACKINGTON (HOLY ROOD) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41205/PACKINGTON%20(HOLY%20ROOD)%20CHURCHYARD">PACKINGTON (HOLY ROOD) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.47079,52.72668</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PICKWELL (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41307/PICKWELL%20(ALL%20SAINTS)%20CHURCHYARD">PICKWELL (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.83915,52.69423</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PLUNGAR (ST. HELEN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41225/PLUNGAR%20(ST.%20HELEN)%20CHURCHYARD">PLUNGAR (ST. HELEN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.85778,52.8981</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>QUORN (ST. BARTHOLOMEW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41316/QUORN%20(ST.%20BARTHOLOMEW)%20CHURCHYARD">QUORN (ST. BARTHOLOMEW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.17097,52.74392</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RATCLIFFE CULEY (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41282/RATCLIFFE%20CULEY%20(ALL%20SAINTS)%20CHURCHYARD">RATCLIFFE CULEY (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.51895,52.59181</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RATCLIFFE-ON-THE-WREAK (ST. BOTOLPH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41217/RATCLIFFE-ON-THE-WREAK%20(ST.%20BOTOLPH)%20CHURCHYARD">RATCLIFFE-ON-THE-WREAK (ST. BOTOLPH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.06782,52.72497</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RAVENSTONE (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41206/RAVENSTONE%20(ST.%20MICHAEL)%20CHURCHYARD">RAVENSTONE (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.40629,52.72112</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>REDMILE (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41226/REDMILE%20(ST.%20PETER)%20CHURCHYARD">REDMILE (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.8161,52.91111</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROTHLEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41218/ROTHLEY%20CEMETERY">ROTHLEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.1376,52.71612</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SAPCOTE (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41257/SAPCOTE%20(ALL%20SAINTS)%20CHURCHYARD">SAPCOTE (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.28145,52.53465</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SCALFORD (ST. EDELWIN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41308/SCALFORD%20(ST.%20EDELWIN)%20CHURCHYARD">SCALFORD (ST. EDELWIN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.86973,52.8091</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SCALFORD WESLEYAN CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41309/SCALFORD%20WESLEYAN%20CHAPELYARD">SCALFORD WESLEYAN CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.87027,52.80805</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHACKERSTONE (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41283/SHACKERSTONE%20(ST.%20PETER)%20CHURCHYARD">SHACKERSTONE (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.44849,52.65691</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHAWELL (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41271/SHAWELL%20(ALL%20SAINTS)%20CHURCHYARD">SHAWELL (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20499,52.4125</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHEEPY MAGNA (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41284/SHEEPY%20MAGNA%20(ALL%20SAINTS)%20CHURCHYARD">SHEEPY MAGNA (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.51944,52.60903</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHENTON (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41285/SHENTON%20(ST.%20JOHN)%20CHURCHYARD">SHENTON (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.43042,52.59925</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHEPSHED CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41317/SHEPSHED%20CEMETERY">SHEPSHED CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.29614,52.76404</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SILEBY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41219/SILEBY%20CEMETERY">SILEBY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.10145,52.72999</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SNARESTONE (OR SNARESTON) (ST. BARTHOLOMEW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41207/SNARESTONE%20(OR%20SNARESTON)%20(ST.%20BARTHOLOMEW)%20CHURCHYARD">SNARESTONE (OR SNARESTON) (ST. BARTHOLOMEW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.49623,52.68153</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STONESBY (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41310/STONESBY%20(ST.%20PETER)%20CHURCHYARD">STONESBY (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.7809,52.81393</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STONEY STANTON (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41258/STONEY%20STANTON%20(ST.%20MICHAEL)%20CHURCHYARD">STONEY STANTON (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.28028,52.54857</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SYSONBY CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41314/SYSONBY%20CHURCHYARD">SYSONBY CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.90762,52.76339</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SYSTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41220/SYSTON%20CEMETERY">SYSTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.0675,52.69511</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THEDDINGWORTH (ALL SAINTS) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41293/THEDDINGWORTH%20(ALL%20SAINTS)%20CHURCHYARD%20EXTENSION">THEDDINGWORTH (ALL SAINTS) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.01937,52.46564</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THRINGSTONE (OR THRINGSTON) (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41208/THRINGSTONE%20(OR%20THRINGSTON)%20(ST.%20ANDREW)%20CHURCHYARD">THRINGSTONE (OR THRINGSTON) (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.3699,52.75269</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THURCASTON (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41221/THURCASTON%20(ALL%20SAINTS)%20CHURCHYARD">THURCASTON (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16435,52.69071</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THURMASTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41318/THURMASTON%20CEMETERY">THURMASTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.09361,52.67849</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THURNBY (ST. LUKE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41232/THURNBY%20(ST.%20LUKE)%20CHURCHYARD">THURNBY (ST. LUKE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.04571,52.62914</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TILTON (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41233/TILTON%20(ST.%20PETER)%20CHURCHYARD">TILTON (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.90312,52.64372</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TWYFORD (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41311/TWYFORD%20(ST.%20ANDREW)%20CHURCHYARD">TWYFORD (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.92202,52.68343</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALTHAM-ON-THE-WOLDS (ST. MARY MAGDALENE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41222/WALTHAM-ON-THE-WOLDS%20(ST.%20MARY%20MAGDALENE)%20CHURCHYARD">WALTHAM-ON-THE-WOLDS (ST. MARY MAGDALENE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.81121,52.817</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHETSTONE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41240/WHETSTONE%20CEMETERY">WHETSTONE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.17795,52.57227</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIGSTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41319/WIGSTON%20CEMETERY">WIGSTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.10066,52.57539</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WITHERLEY (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41286/WITHERLEY%20(ST.%20PETER)%20CHURCHYARD">WITHERLEY (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.5212,52.57314</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WOODHOUSE EAVES (ST. PAUL) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41223/WOODHOUSE%20EAVES%20(ST.%20PAUL)%20CHURCHYARD%20EXTENSION">WOODHOUSE EAVES (ST. PAUL) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.21371,52.72162</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WYMONDHAM (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41312/WYMONDHAM%20(ST.%20PETER)%20CHURCHYARD">WYMONDHAM (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.73937,52.75836</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GROBY (SS. PHILIP AND JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000379/GROBY%20(SS.%20PHILIP%20AND%20JAMES)%20CHURCHYARD">GROBY (SS. PHILIP AND JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22815,52.66362</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOMERBY (ALL SAINTS) CHURCH BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000380/SOMERBY%20(ALL%20SAINTS)%20CHURCH%20BURIAL%20GROUND">SOMERBY (ALL SAINTS) CHURCH BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.84468,52.68646</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ENDERBY (ST. JOHN THE BAPTIST) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072833/ENDERBY%20(ST.%20JOHN%20THE%20BAPTIST)%20CHURCHYARD">ENDERBY (ST. JOHN THE BAPTIST) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20779,52.59019</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ENDERBY DISSENTERS' CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072832/ENDERBY%20DISSENTERS'%20CEMETERY">ENDERBY DISSENTERS' CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20779,52.59019</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>QUENIBOROUGH (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072879/QUENIBOROUGH%20(ST.%20MARY)%20CHURCHYARD">QUENIBOROUGH (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.03873,52.70232</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RATBY (SS. PHILIP AND JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072882/RATBY%20(SS.%20PHILIP%20AND%20JAMES)%20CHURCHYARD">RATBY (SS. PHILIP AND JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.24329,52.64925</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SCRAPTOFT (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072889/SCRAPTOFT%20(ALL%20SAINTS)%20CHURCHYARD">SCRAPTOFT (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.04459,52.64426</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

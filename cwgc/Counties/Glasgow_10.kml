@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Glasgow
+						</name>
+						<description>
+							Cemeteries in Glasgow from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>GLASGOW (CRAIGTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74401/GLASGOW%20(CRAIGTON)%20CEMETERY">GLASGOW (CRAIGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.34043,55.85145</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (EASTWOOD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74260/GLASGOW%20(EASTWOOD)%20CEMETERY">GLASGOW (EASTWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.31239,55.8108</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (LAMBHILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74403/GLASGOW%20(LAMBHILL)%20CEMETERY">GLASGOW (LAMBHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.26939,55.9025</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (RIDDRIE PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74404/GLASGOW%20(RIDDRIE%20PARK)%20CEMETERY">GLASGOW (RIDDRIE PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.18248,55.87517</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (SANDYMOUNT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74407/GLASGOW%20(SANDYMOUNT)%20CEMETERY">GLASGOW (SANDYMOUNT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.15061,55.85409</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (ST. KENTIGERN'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74405/GLASGOW%20(ST.%20KENTIGERN'S)%20ROMAN%20CATHOLIC%20CEMETERY">GLASGOW (ST. KENTIGERN'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.2764,55.89901</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW (ST. PETER'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74406/GLASGOW%20(ST.%20PETER'S)%20ROMAN%20CATHOLIC%20CEMETERY">GLASGOW (ST. PETER'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.18465,55.84096</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW WESTERN NECROPOLIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000488/GLASGOW%20WESTERN%20NECROPOLIS">GLASGOW WESTERN NECROPOLIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.28173,55.89911</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW EASTERN NECROPOLIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2081110/GLASGOW%20EASTERN%20NECROPOLIS">GLASGOW EASTERN NECROPOLIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.20181,55.85256</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLASGOW NECROPOLIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2081112/GLASGOW%20NECROPOLIS">GLASGOW NECROPOLIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.23335,55.86217</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

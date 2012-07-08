@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for County Down
+						</name>
+						<description>
+							Cemeteries in County Down from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BANGOR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73396/BANGOR%20CEMETERY">BANGOR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.67565,54.6506</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BELFAST (DUNDONALD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73399/BELFAST%20(DUNDONALD)%20CEMETERY">BELFAST (DUNDONALD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.82071,54.59415</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWTOWNARDS (MOVILLA) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73448/NEWTOWNARDS%20(MOVILLA)%20CEMETERY">NEWTOWNARDS (MOVILLA) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.67248,54.59541</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

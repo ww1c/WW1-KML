@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Cumberland
+						</name>
+						<description>
+							Cemeteries in Cumberland from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>COCKERMOUTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068325/COCKERMOUTH%20CEMETERY">COCKERMOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.35483,54.65849</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENRITH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068361/PENRITH%20CEMETERY">PENRITH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.75024,54.67262</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHITEHAVEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068375/WHITEHAVEN%20CEMETERY">WHITEHAVEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.58309,54.53471</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068377/WIGTON%20CEMETERY">WIGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.17692,54.8299</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WORKINGTON (HARRINGTON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068378/WORKINGTON%20(HARRINGTON%20ROAD)%20CEMETERY">WORKINGTON (HARRINGTON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.55098,54.63875</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARLISLE (DALSTON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2078115/CARLISLE%20(DALSTON%20ROAD)%20CEMETERY">CARLISLE (DALSTON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.95469,54.88068</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

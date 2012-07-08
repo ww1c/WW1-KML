@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Northamptonshire
+						</name>
+						<description>
+							Cemeteries in Northamptonshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>KETTERING (LONDON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42673/KETTERING%20(LONDON%20ROAD)%20CEMETERY">KETTERING (LONDON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.72424,52.39571</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTHAMPTON (BILLING ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42678/NORTHAMPTON%20(BILLING%20ROAD)%20CEMETERY">NORTHAMPTON (BILLING ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.87509,52.23872</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTHAMPTON (TOWCESTER ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42659/NORTHAMPTON%20(TOWCESTER%20ROAD)%20CEMETERY">NORTHAMPTON (TOWCESTER ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.91116,52.2177</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

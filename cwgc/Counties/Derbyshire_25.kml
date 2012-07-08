@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Derbyshire
+						</name>
+						<description>
+							Cemeteries in Derbyshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BUXTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37651/BUXTON%20CEMETERY">BUXTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.90132,53.24471</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHESTERFIELD (SPITAL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37668/CHESTERFIELD%20(SPITAL)%20CEMETERY">CHESTERFIELD (SPITAL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.41431,53.23203</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERBY (NOTTINGHAM ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37691/DERBY%20(NOTTINGHAM%20ROAD)%20CEMETERY">DERBY (NOTTINGHAM ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.44727,52.92627</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLOSSOP CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37695/GLOSSOP%20CEMETERY">GLOSSOP CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.95063,53.45726</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ILKESTON (PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37710/ILKESTON%20(PARK)%20CEMETERY">ILKESTON (PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30158,52.97048</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

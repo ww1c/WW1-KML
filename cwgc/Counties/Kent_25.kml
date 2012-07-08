@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Kent
+						</name>
+						<description>
+							Cemeteries in Kent from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BECKENHAM CREMATORIUM AND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40001/BECKENHAM%20CREMATORIUM%20AND%20CEMETERY">BECKENHAM CREMATORIUM AND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.05672,51.40156</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DARTFORD (EAST HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40039/DARTFORD%20(EAST%20HILL)%20CEMETERY">DARTFORD (EAST HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.23018,51.44235</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DARTFORD (WATLING STREET) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40040/DARTFORD%20(WATLING%20STREET)%20CEMETERY">DARTFORD (WATLING STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.24133,51.44031</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DEAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39801/DEAL%20CEMETERY">DEAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.39232,51.21408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DOVER (CHARLTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39804/DOVER%20(CHARLTON)%20CEMETERY">DOVER (CHARLTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.3102,51.13673</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DOVER (ST. JAMES'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39806/DOVER%20(ST.%20JAMES'S)%20CEMETERY">DOVER (ST. JAMES'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.31198,51.13704</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DOVER (ST. MARY'S) NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39807/DOVER%20(ST.%20MARY'S)%20NEW%20CEMETERY">DOVER (ST. MARY'S) NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.30737,51.13453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRAVESEND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40044/GRAVESEND%20CEMETERY">GRAVESEND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.35962,51.43451</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARGATE CEMETERY, KENT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39826/MARGATE%20CEMETERY,%20KENT">MARGATE CEMETERY, KENT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.37619,51.37408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MINSTER (THANET) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39824/MINSTER%20(THANET)%20CEMETERY">MINSTER (THANET) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.31606,51.34231</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ORPINGTON (ALL SAINTS) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40016/ORPINGTON%20(ALL%20SAINTS)%20CHURCHYARD%20EXTENSION">ORPINGTON (ALL SAINTS) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.10605,51.37884</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RAMSGATE AND ST. LAWRENCE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39827/RAMSGATE%20AND%20ST.%20LAWRENCE%20CEMETERY">RAMSGATE AND ST. LAWRENCE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.42088,51.34263</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER-IN-THANET CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39800/ST.%20PETER-IN-THANET%20CHURCHYARD">ST. PETER-IN-THANET CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.41907,51.36504</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHFORD CEMETERY, KENT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40100/ASHFORD%20CEMETERY,%20KENT">ASHFORD CEMETERY, KENT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.87386,51.15326</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CANTERBURY CEMETERY, KENT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40115/CANTERBURY%20CEMETERY,%20KENT">CANTERBURY CEMETERY, KENT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.06376,51.28435</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FAVERSHAM BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40144/FAVERSHAM%20BOROUGH%20CEMETERY">FAVERSHAM BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.90508,51.31057</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FOLKESTONE OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40156/FOLKESTONE%20OLD%20CEMETERY">FOLKESTONE OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.15938,51.08507</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LENHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40166/LENHAM%20CEMETERY">LENHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.72202,51.23894</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MAIDSTONE CEMETERY, KENT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40171/MAIDSTONE%20CEMETERY,%20KENT">MAIDSTONE CEMETERY, KENT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.53259,51.25574</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHORNCLIFFE MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40120/SHORNCLIFFE%20MILITARY%20CEMETERY">SHORNCLIFFE MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.12844,51.07627</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TONBRIDGE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40228/TONBRIDGE%20CEMETERY">TONBRIDGE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.27722,51.20577</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TUNBRIDGE WELLS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40207/TUNBRIDGE%20WELLS%20CEMETERY">TUNBRIDGE WELLS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.2741,51.11747</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHATHAM NAVAL MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142000/CHATHAM%20NAVAL%20MEMORIAL">CHATHAM NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.53245,51.384</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORT PITT MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2035820/FORT%20PITT%20MILITARY%20CEMETERY">FORT PITT MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.51094,51.37664</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHEERNESS (ISLE-OF-SHEPPEY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2063163/SHEERNESS%20(ISLE-OF-SHEPPEY)%20CEMETERY">SHEERNESS (ISLE-OF-SHEPPEY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.77201,51.42307</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SITTINGBOURNE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2063172/SITTINGBOURNE%20CEMETERY">SITTINGBOURNE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.7348,51.33453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHATHAM (MAIDSTONE ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2087553/CHATHAM%20(MAIDSTONE%20ROAD)%20CEMETERY">CHATHAM (MAIDSTONE ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.5207,51.3715</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Stirlingshire
+						</name>
+						<description>
+							Cemeteries in Stirlingshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CAMELON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047843/CAMELON%20CEMETERY">CAMELON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.80673,56.00677</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STIRLING (BALLENGEICH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079200/STIRLING%20(BALLENGEICH)%20CEMETERY">STIRLING (BALLENGEICH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.94692,56.12462</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STIRLING (MAR PLACE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079202/STIRLING%20(MAR%20PLACE)%20CEMETERY">STIRLING (MAR PLACE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.94428,56.12182</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

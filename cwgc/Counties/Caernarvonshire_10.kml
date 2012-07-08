@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Caernarvonshire
+						</name>
+						<description>
+							Cemeteries in Caernarvonshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BANGOR (GLANADDA) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75246/BANGOR%20(GLANADDA)%20CEMETERY">BANGOR (GLANADDA) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.13879,53.21931</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LLANBEBLIG (ST. PEBLIG) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75251/LLANBEBLIG%20(ST.%20PEBLIG)%20CHURCHYARD">LLANBEBLIG (ST. PEBLIG) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.26257,53.1359</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LLANDUDNO (GREAT ORME'S HEAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75288/LLANDUDNO%20(GREAT%20ORME'S%20HEAD)%20CEMETERY">LLANDUDNO (GREAT ORME'S HEAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.85073,53.33624</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LLANRHOS (OR EGLWYS-RHOS) (SS. ELERI AND MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75290/LLANRHOS%20(OR%20EGLWYS-RHOS)%20(SS.%20ELERI%20AND%20MARY)%20CHURCHYARD">LLANRHOS (OR EGLWYS-RHOS) (SS. ELERI AND MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.81266,53.30571</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENMAENMAWR (DWYGYFYLCHI) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75316/PENMAENMAWR%20(DWYGYFYLCHI)%20CEMETERY">PENMAENMAWR (DWYGYFYLCHI) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.89555,53.27827</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTMADOC PUBLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75317/PORTMADOC%20PUBLIC%20CEMETERY">PORTMADOC PUBLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.14917,52.93064</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

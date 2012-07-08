@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Peeblesshire
+						</name>
+						<description>
+							Cemeteries in Peeblesshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BROUGHTON OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74253/BROUGHTON%20OLD%20CHURCHYARD">BROUGHTON OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.41365,55.61653</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDDLESTON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74254/EDDLESTON%20PARISH%20CHURCHYARD">EDDLESTON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.20497,55.71262</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INNERLEITHEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74255/INNERLEITHEN%20CEMETERY">INNERLEITHEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.06166,55.61437</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWLANDS OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74256/NEWLANDS%20OLD%20CHURCHYARD">NEWLANDS OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.33637,55.70546</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PEEBLES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74257/PEEBLES%20CEMETERY">PEEBLES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.19881,55.65298</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

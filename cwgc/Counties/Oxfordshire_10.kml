@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Oxfordshire
+						</name>
+						<description>
+							Cemeteries in Oxfordshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BANBURY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43100/BANBURY%20CEMETERY">BANBURY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.34086,52.06811</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OXFORD (BOTLEY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43167/OXFORD%20(BOTLEY)%20CEMETERY">OXFORD (BOTLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.29295,51.7519</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OXFORD (OSNEY ST. MARY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43170/OXFORD%20(OSNEY%20ST.%20MARY)%20CEMETERY">OXFORD (OSNEY ST. MARY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27032,51.75054</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OXFORD (ROSE HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43171/OXFORD%20(ROSE%20HILL)%20CEMETERY">OXFORD (ROSE HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22542,51.73209</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OXFORD (WOLVERCOTE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43172/OXFORD%20(WOLVERCOTE)%20CEMETERY">OXFORD (WOLVERCOTE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27205,51.79137</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

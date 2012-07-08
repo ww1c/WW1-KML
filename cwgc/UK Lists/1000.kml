@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<kml xmlns="http://www.opengis.net/kml/2.2">
+				<Document>
+					<name>
+						Cemeteries of the Commonwealth War Graves Commission where 1000 people are buried
+					</name>
+					<description>
+						Cemeteries from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+					</description><Placemark>
+		  <name>BROOKWOOD MILITARY CEMETERY</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44400/BROOKWOOD%20MILITARY%20CEMETERY">BROOKWOOD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.64212,51.30022</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>CHATHAM NAVAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142000/CHATHAM%20NAVAL%20MEMORIAL">CHATHAM NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> 0.53245,51.384</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>HOLLYBROOK MEMORIAL, SOUTHAMPTON</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142019/HOLLYBROOK%20MEMORIAL,%20SOUTHAMPTON">HOLLYBROOK MEMORIAL, SOUTHAMPTON at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -1.43114,50.93384</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PLYMOUTH NAVAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142001/PLYMOUTH%20NAVAL%20MEMORIAL">PLYMOUTH NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -4.14223,50.36573</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>TOWER HILL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90002/TOWER%20HILL%20MEMORIAL">TOWER HILL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -0.07769,51.50955</coordinates>
+		  </Point>
+		</Placemark><Placemark>
+		  <name>PORTSMOUTH NAVAL MEMORIAL</name>
+		  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/144703/PORTSMOUTH%20NAVAL%20MEMORIAL">PORTSMOUTH NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+		  </description>
+		  <Point>
+			<coordinates> -1.09599,50.78242</coordinates>
+		  </Point>
+		</Placemark></Document></kml>

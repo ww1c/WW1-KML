@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Edinburgh
+						</name>
+						<description>
+							Cemeteries in Edinburgh from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>EDINBURGH (COMELY BANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47104/EDINBURGH%20(COMELY%20BANK)%20CEMETERY">EDINBURGH (COMELY BANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.2284,55.95983</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (DEAN OR WESTERN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47106/EDINBURGH%20(DEAN%20OR%20WESTERN)%20CEMETERY">EDINBURGH (DEAN OR WESTERN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.22073,55.95363</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (GRANGE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47107/EDINBURGH%20(GRANGE)%20CEMETERY">EDINBURGH (GRANGE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.18993,55.93536</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (MORNINGSIDE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47109/EDINBURGH%20(MORNINGSIDE)%20CEMETERY">EDINBURGH (MORNINGSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.2139,55.92335</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (MOUNT VERNON) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47113/EDINBURGH%20(MOUNT%20VERNON)%20ROMAN%20CATHOLIC%20CEMETERY">EDINBURGH (MOUNT VERNON) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.15754,55.91494</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (NEWINGTON OR ECHO BANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47110/EDINBURGH%20(NEWINGTON%20OR%20ECHO%20BANK)%20CEMETERY">EDINBURGH (NEWINGTON OR ECHO BANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.16562,55.93272</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (PIERSHILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47111/EDINBURGH%20(PIERSHILL)%20CEMETERY">EDINBURGH (PIERSHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.13913,55.95571</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (ROSEBANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47114/EDINBURGH%20(ROSEBANK)%20CEMETERY">EDINBURGH (ROSEBANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.18366,55.96813</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (SEAFIELD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47117/EDINBURGH%20(SEAFIELD)%20CEMETERY">EDINBURGH (SEAFIELD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.15133,55.97033</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (WARRISTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47118/EDINBURGH%20(WARRISTON)%20CEMETERY">EDINBURGH (WARRISTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.20041,55.96974</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH (NORTH MERCHISTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000413/EDINBURGH%20(NORTH%20MERCHISTON)%20CEMETERY">EDINBURGH (NORTH MERCHISTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.22674,55.93736</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDINBURGH EASTERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000639/EDINBURGH%20EASTERN%20CEMETERY">EDINBURGH EASTERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.16965,55.9624</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

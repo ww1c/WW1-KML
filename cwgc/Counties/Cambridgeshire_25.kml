@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Cambridgeshire
+						</name>
+						<description>
+							Cemeteries in Cambridgeshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CAMBRIDGE (MILL ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36501/CAMBRIDGE%20(MILL%20ROAD)%20CEMETERY">CAMBRIDGE (MILL ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.13591,52.20205</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAMBRIDGE CITY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36515/CAMBRIDGE%20CITY%20CEMETERY">CAMBRIDGE CITY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.16699,52.21324</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOUNT PLEASANT CEMETERY, WISBECH</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2062684/MOUNT%20PLEASANT%20CEMETERY,%20WISBECH">MOUNT PLEASANT CEMETERY, WISBECH at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.1648,52.67202</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

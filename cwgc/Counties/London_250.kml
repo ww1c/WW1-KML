@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for London
+						</name>
+						<description>
+							Cemeteries in London from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABNEY PARK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41900/ABNEY%20PARK%20CEMETERY">ABNEY PARK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.07347,51.56357</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAMBERWELL OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41702/CAMBERWELL%20OLD%20CEMETERY">CAMBERWELL OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.05852,51.45078</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GREENWICH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42100/GREENWICH%20CEMETERY">GREENWICH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.05247,51.46799</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HIGHGATE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41905/HIGHGATE%20CEMETERY">HIGHGATE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.14683,51.56691</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NUNHEAD (ALL SAINTS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41701/NUNHEAD%20(ALL%20SAINTS)%20CEMETERY">NUNHEAD (ALL SAINTS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.05316,51.46431</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WANDSWORTH (EARLSFIELD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41700/WANDSWORTH%20(EARLSFIELD)%20CEMETERY">WANDSWORTH (EARLSFIELD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.17938,51.4461</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TOWER HILL MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/90002/TOWER%20HILL%20MEMORIAL">TOWER HILL MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.07769,51.50955</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROMPTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2040195/BROMPTON%20CEMETERY">BROMPTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.19396,51.4879</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KENSAL GREEN (ALL SOULS') CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2043517/KENSAL%20GREEN%20(ALL%20SOULS')%20CEMETERY">KENSAL GREEN (ALL SOULS') CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.21732,51.52812</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

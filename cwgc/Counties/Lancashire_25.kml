@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Lancashire
+						</name>
+						<description>
+							Cemeteries in Lancashire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BARROW-IN-FURNESS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40500/BARROW-IN-FURNESS%20CEMETERY">BARROW-IN-FURNESS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.22499,54.12889</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLACKPOOL (LAYTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40503/BLACKPOOL%20(LAYTON)%20CEMETERY">BLACKPOOL (LAYTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.03583,53.83126</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FLEETWOOD BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40506/FLEETWOOD%20BOROUGH%20CEMETERY">FLEETWOOD BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.03649,53.92089</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LANCASTER CEMETERY, LANCASHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40535/LANCASTER%20CEMETERY,%20LANCASHIRE">LANCASTER CEMETERY, LANCASHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.77934,54.04912</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (ALLERTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40300/LIVERPOOL%20(ALLERTON)%20CEMETERY">LIVERPOOL (ALLERTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.88478,53.3617</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (ANFIELD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40301/LIVERPOOL%20(ANFIELD)%20CEMETERY">LIVERPOOL (ANFIELD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.95898,53.43602</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (EVERTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40303/LIVERPOOL%20(EVERTON)%20CEMETERY">LIVERPOOL (EVERTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.94418,53.45552</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (KIRKDALE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40306/LIVERPOOL%20(KIRKDALE)%20CEMETERY">LIVERPOOL (KIRKDALE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.94801,53.4673</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (TOXTETH PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40313/LIVERPOOL%20(TOXTETH%20PARK)%20CEMETERY">LIVERPOOL (TOXTETH PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.93964,53.3952</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANCHESTER (GORTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40411/MANCHESTER%20(GORTON)%20CEMETERY">MANCHESTER (GORTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.16325,53.4567</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANCHESTER (PHILIPS PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40412/MANCHESTER%20(PHILIPS%20PARK)%20CEMETERY">MANCHESTER (PHILIPS PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19504,53.49097</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANCHESTER SOUTHERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40413/MANCHESTER%20SOUTHERN%20CEMETERY">MANCHESTER SOUTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.26122,53.42769</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOSTON (ST. JOSEPH'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40414/MOSTON%20(ST.%20JOSEPH'S)%20ROMAN%20CATHOLIC%20CEMETERY">MOSTON (ST. JOSEPH'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.18963,53.51627</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PRESTON (NEW HALL LANE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40561/PRESTON%20(NEW%20HALL%20LANE)%20CEMETERY">PRESTON (NEW HALL LANE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.66297,53.76589</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ACCRINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40800/ACCRINGTON%20CEMETERY">ACCRINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.35086,53.76237</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHTON-UNDER-LYNE (HURST) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41101/ASHTON-UNDER-LYNE%20(HURST)%20CEMETERY">ASHTON-UNDER-LYNE (HURST) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.07335,53.50083</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ATHERTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41104/ATHERTON%20CEMETERY">ATHERTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.50106,53.52153</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BACUP (FAIRWELL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40901/BACUP%20(FAIRWELL)%20CEMETERY">BACUP (FAIRWELL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.21536,53.69074</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLACKBURN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40803/BLACKBURN%20CEMETERY">BLACKBURN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.47303,53.76612</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOLTON (HEATON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40906/BOLTON%20(HEATON)%20CEMETERY">BOLTON (HEATON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.45186,53.5758</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOLTON (TONGE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40907/BOLTON%20(TONGE)%20CEMETERY">BOLTON (TONGE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.40972,53.57832</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOOTLE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40700/BOOTLE%20CEMETERY">BOOTLE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.97857,53.46276</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURNLEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40814/BURNLEY%20CEMETERY">BURNLEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.27903,53.78263</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURY CEMETERY, REDVALES</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40913/BURY%20CEMETERY,%20REDVALES">BURY CEMETERY, REDVALES at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.29107,53.57771</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COLNE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40841/COLNE%20CEMETERY">COLNE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15854,53.85781</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DARWEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40926/DARWEN%20CEMETERY">DARWEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.45771,53.67814</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DROYLSDEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41118/DROYLSDEN%20CEMETERY">DROYLSDEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.1533,53.48371</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FARNWORTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40928/FARNWORTH%20CEMETERY">FARNWORTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.38352,53.55374</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GREAT HARWOOD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40843/GREAT%20HARWOOD%20CEMETERY">GREAT HARWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.40949,53.7804</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HASLINGDEN (HOLDEN HALL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40932/HASLINGDEN%20(HOLDEN%20HALL)%20CEMETERY">HASLINGDEN (HOLDEN HALL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.34277,53.69899</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HEYWOOD CEMETERY, LANCASHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40936/HEYWOOD%20CEMETERY,%20LANCASHIRE">HEYWOOD CEMETERY, LANCASHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19569,53.60239</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INGHAMITE CHURCH, WHEATLEY CARR</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40827/INGHAMITE%20CHURCH,%20WHEATLEY%20CARR">INGHAMITE CHURCH, WHEATLEY CARR at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.24586,53.84154</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEIGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41128/LEIGH%20CEMETERY">LEIGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.48086,53.49346</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (FORD) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40723/LIVERPOOL%20(FORD)%20ROMAN%20CATHOLIC%20CEMETERY">LIVERPOOL (FORD) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.99632,53.48079</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (WEST DERBY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40709/LIVERPOOL%20(WEST%20DERBY)%20CEMETERY">LIVERPOOL (WEST DERBY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.91558,53.45119</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LIVERPOOL (YEW TREE) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40710/LIVERPOOL%20(YEW%20TREE)%20ROMAN%20CATHOLIC%20CEMETERY">LIVERPOOL (YEW TREE) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.87783,53.4293</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NELSON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40848/NELSON%20CEMETERY">NELSON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19667,53.8422</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDHAM (CHADDERTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41112/OLDHAM%20(CHADDERTON)%20CEMETERY">OLDHAM (CHADDERTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.14677,53.54678</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDHAM (GREENACRES) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41143/OLDHAM%20(GREENACRES)%20CEMETERY">OLDHAM (GREENACRES) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.08181,53.54528</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PEEL GREEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41119/PEEL%20GREEN%20CEMETERY">PEEL GREEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.37531,53.47605</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROCHDALE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40965/ROCHDALE%20CEMETERY">ROCHDALE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.18333,53.61328</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELENS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40718/ST.%20HELENS%20CEMETERY">ST. HELENS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.75552,53.46567</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WARRINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40725/WARRINGTON%20CEMETERY">WARRINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.57312,53.39648</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHALLEY (QUEEN MARY'S HOSPITAL) MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40839/WHALLEY%20(QUEEN%20MARY'S%20HOSPITAL)%20MILITARY%20CEMETERY">WHALLEY (QUEEN MARY'S HOSPITAL) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.40462,53.83105</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIDNES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/40739/WIDNES%20CEMETERY">WIDNES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.73259,53.38035</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDHAM (HOLLINWOOD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41144/OLDHAM%20(HOLLINWOOD)%20CEMETERY">OLDHAM (HOLLINWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.13281,53.51767</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PRESTWICH (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41147/PRESTWICH%20(ST.%20MARY)%20CHURCHYARD">PRESTWICH (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.28616,53.52965</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SALFORD (AGECROFT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41162/SALFORD%20(AGECROFT)%20CEMETERY">SALFORD (AGECROFT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.29403,53.51005</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SALFORD (WEASTE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41156/SALFORD%20(WEASTE)%20CEMETERY">SALFORD (WEASTE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.30233,53.47751</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STRETFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41157/STRETFORD%20CEMETERY">STRETFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.30466,53.44297</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHORLEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068710/CHORLEY%20CEMETERY">CHORLEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.64474,53.65501</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INCE-IN-MAKERFIELD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068818/INCE-IN-MAKERFIELD%20CEMETERY">INCE-IN-MAKERFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.61878,53.53051</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHPORT (DUKE STREET) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069019/SOUTHPORT%20(DUKE%20STREET)%20CEMETERY">SOUTHPORT (DUKE STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.9993,53.63434</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHPORT (ST. CUTHBERT) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069020/SOUTHPORT%20(ST.%20CUTHBERT)%20CHURCHYARD">SOUTHPORT (ST. CUTHBERT) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.96208,53.66008</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIGAN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069083/WIGAN%20CEMETERY">WIGAN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.61884,53.53048</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

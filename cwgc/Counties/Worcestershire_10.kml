@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Worcestershire
+						</name>
+						<description>
+							Cemeteries in Worcestershire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BROMSGROVE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39407/BROMSGROVE%20CEMETERY">BROMSGROVE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.06522,52.33508</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUDLEY BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39417/DUDLEY%20BOROUGH%20CEMETERY">DUDLEY BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.09558,52.50336</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIDDERMINSTER (ST. JOHN THE BAPTIST) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39440/KIDDERMINSTER%20(ST.%20JOHN%20THE%20BAPTIST)%20CHURCHYARD">KIDDERMINSTER (ST. JOHN THE BAPTIST) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.26095,52.38656</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIDDERMINSTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39438/KIDDERMINSTER%20CEMETERY">KIDDERMINSTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.25195,52.38389</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOURBRIDGE (LYE AND WOLLESCOTE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39448/STOURBRIDGE%20(LYE%20AND%20WOLLESCOTE)%20CEMETERY">STOURBRIDGE (LYE AND WOLLESCOTE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11537,52.45435</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GREAT MALVERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39450/GREAT%20MALVERN%20CEMETERY">GREAT MALVERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.31172,52.11091</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDBURY CEMETERY, WARLEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39467/OLDBURY%20CEMETERY,%20WARLEY">OLDBURY CEMETERY, WARLEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.99312,52.49921</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>REDDITCH (PLYMOUTH ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39477/REDDITCH%20(PLYMOUTH%20ROAD)%20CEMETERY">REDDITCH (PLYMOUTH ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.94737,52.30242</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOURBRIDGE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39482/STOURBRIDGE%20CEMETERY">STOURBRIDGE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.16827,52.45306</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WORCESTER (ASTWOOD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39504/WORCESTER%20(ASTWOOD)%20CEMETERY">WORCESTER (ASTWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20595,52.20686</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WORCESTER (ST. JOHN'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39505/WORCESTER%20(ST.%20JOHN'S)%20CEMETERY">WORCESTER (ST. JOHN'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.24353,52.18945</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

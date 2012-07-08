@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Shropshire
+						</name>
+						<description>
+							Cemeteries in Shropshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BRIDGNORTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43321/BRIDGNORTH%20CEMETERY">BRIDGNORTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.40818,52.53871</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARKET DRAYTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43380/MARKET%20DRAYTON%20CEMETERY">MARKET DRAYTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.49256,52.90505</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWPORT CEMETERY, SHROPSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43387/NEWPORT%20CEMETERY,%20SHROPSHIRE">NEWPORT CEMETERY, SHROPSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.36651,52.765</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OSWESTRY GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43391/OSWESTRY%20GENERAL%20CEMETERY">OSWESTRY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.04818,52.85354</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHIFNAL (ST. ANDREW) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43411/SHIFNAL%20(ST.%20ANDREW)%20CHURCHYARD">SHIFNAL (ST. ANDREW) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.37595,52.66434</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHREWSBURY GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43318/SHREWSBURY%20GENERAL%20CEMETERY">SHREWSBURY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.76274,52.69674</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TILSTOCK (CHRIST CHURCH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43442/TILSTOCK%20(CHRIST%20CHURCH)%20CHURCHYARD">TILSTOCK (CHRIST CHURCH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.68184,52.93609</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WELLINGTON GENERAL CEMETERY, SHROPSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43421/WELLINGTON%20GENERAL%20CEMETERY,%20SHROPSHIRE">WELLINGTON GENERAL CEMETERY, SHROPSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.52422,52.69682</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHITCHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43443/WHITCHURCH%20CEMETERY">WHITCHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.67324,52.98022</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TILSTOCK (CHRIST CHURCH) CHURCHYARD EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000399/TILSTOCK%20(CHRIST%20CHURCH)%20CHURCHYARD%20EXTENSION">TILSTOCK (CHRIST CHURCH) CHURCHYARD EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.68047,52.93607</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

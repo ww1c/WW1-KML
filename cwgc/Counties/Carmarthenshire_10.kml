@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Carmarthenshire
+						</name>
+						<description>
+							Cemeteries in Carmarthenshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>LLANELLI (BOX) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75006/LLANELLI%20(BOX)%20CEMETERY">LLANELLI (BOX) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.14588,51.68646</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLD ROAD CEMETERY, LLANELLI</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75008/OLD%20ROAD%20CEMETERY,%20LLANELLI">OLD ROAD CEMETERY, LLANELLI at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.16176,51.68777</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

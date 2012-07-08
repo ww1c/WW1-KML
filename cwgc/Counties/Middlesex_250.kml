@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Middlesex
+						</name>
+						<description>
+							Cemeteries in Middlesex from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ISLINGTON CEMETERY AND CREMATORIUM</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42302/ISLINGTON%20CEMETERY%20AND%20CREMATORIUM">ISLINGTON CEMETERY AND CREMATORIUM at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.16944,51.59651</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PANCRAS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42304/ST.%20PANCRAS%20CEMETERY">ST. PANCRAS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.17077,51.59623</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TOTTENHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42212/TOTTENHAM%20CEMETERY">TOTTENHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.08185,51.60493</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

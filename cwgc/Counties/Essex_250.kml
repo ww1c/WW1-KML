@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Essex
+						</name>
+						<description>
+							Cemeteries in Essex from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CITY OF LONDON CEMETERY AND CREMATORIUM, MANOR PARK</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38300/CITY%20OF%20LONDON%20CEMETERY%20AND%20CREMATORIUM,%20MANOR%20PARK">CITY OF LONDON CEMETERY AND CREMATORIUM, MANOR PARK at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.04449,51.55792</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COLCHESTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2075250/COLCHESTER%20CEMETERY">COLCHESTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.90392,51.87471</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

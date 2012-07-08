@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Gloucestershire
+						</name>
+						<description>
+							Cemeteries in Gloucestershire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BRISTOL (ARNOS VALE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38504/BRISTOL%20(ARNOS%20VALE)%20CEMETERY">BRISTOL (ARNOS VALE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.5649,51.44235</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (ARNOS VALE) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38505/BRISTOL%20(ARNOS%20VALE)%20ROMAN%20CATHOLIC%20CEMETERY">BRISTOL (ARNOS VALE) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.56393,51.44228</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (AVON VIEW) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38506/BRISTOL%20(AVON%20VIEW)%20CEMETERY">BRISTOL (AVON VIEW) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.54938,51.4574</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (CANFORD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38507/BRISTOL%20(CANFORD)%20CEMETERY">BRISTOL (CANFORD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.62713,51.49448</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (GREENBANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38508/BRISTOL%20(GREENBANK)%20CEMETERY">BRISTOL (GREENBANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.55396,51.46844</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (RIDGEWAY PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38509/BRISTOL%20(RIDGEWAY%20PARK)%20CEMETERY">BRISTOL (RIDGEWAY PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.54948,51.47558</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHELTENHAM CEMETERY, PRESTBURY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38524/CHELTENHAM%20CEMETERY,%20PRESTBURY">CHELTENHAM CEMETERY, PRESTBURY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.04539,51.90552</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CIRENCESTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38563/CIRENCESTER%20CEMETERY">CIRENCESTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.9801,51.70994</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLOUCESTER OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38582/GLOUCESTER%20OLD%20CEMETERY">GLOUCESTER OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.22776,51.84825</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HORFIELD (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38513/HORFIELD%20(HOLY%20TRINITY)%20CHURCHYARD">HORFIELD (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.58904,51.48794</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANGOTSFIELD (DOWNEND) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38609/MANGOTSFIELD%20(DOWNEND)%20CEMETERY">MANGOTSFIELD (DOWNEND) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.49462,51.49112</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PAINSWICK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38647/PAINSWICK%20CEMETERY">PAINSWICK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19103,51.79702</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEIGHTERTON CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38662/LEIGHTERTON%20CHURCH%20CEMETERY">LEIGHTERTON CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.25184,51.61769</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STROUD OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38658/STROUD%20OLD%20CEMETERY">STROUD OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20202,51.74258</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Fifeshire
+						</name>
+						<description>
+							Cemeteries in Fifeshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABBOTSHALL PARISH CHURCHYARD, KIRKCALDY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047601/ABBOTSHALL%20PARISH%20CHURCHYARD,%20KIRKCALDY">ABBOTSHALL PARISH CHURCHYARD, KIRKCALDY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.16915,56.10969</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BALLINGRY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047606/BALLINGRY%20CEMETERY">BALLINGRY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.32811,56.16447</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURNTISLAND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047611/BURNTISLAND%20CEMETERY">BURNTISLAND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.21304,56.06444</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CUPAR NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047616/CUPAR%20NEW%20CEMETERY">CUPAR NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.00731,56.31151</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNFERMLINE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047618/DUNFERMLINE%20CEMETERY">DUNFERMLINE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.43949,56.07697</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EAST WEMYSS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047620/EAST%20WEMYSS%20CEMETERY">EAST WEMYSS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.06185,56.16207</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKCALDY (BENNOCHY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047628/KIRKCALDY%20(BENNOCHY)%20CEMETERY">KIRKCALDY (BENNOCHY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.16504,56.11534</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKCALDY (DYSART) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047629/KIRKCALDY%20(DYSART)%20CEMETERY">KIRKCALDY (DYSART) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.12726,56.12706</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. ANDREWS WESTERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047641/ST.%20ANDREWS%20WESTERN%20CEMETERY">ST. ANDREWS WESTERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.83142,56.33493</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

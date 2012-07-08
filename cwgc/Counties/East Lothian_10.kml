@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for East Lothian
+						</name>
+						<description>
+							Cemeteries in East Lothian from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>DUNBAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74217/DUNBAR%20CEMETERY">DUNBAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.51056,55.99907</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HADDINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74221/HADDINGTON%20CEMETERY">HADDINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.77396,55.95296</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH BERWICK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74222/NORTH%20BERWICK%20CEMETERY">NORTH BERWICK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.70288,56.05334</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PRESTONPANS NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74227/PRESTONPANS%20NEW%20CEMETERY">PRESTONPANS NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.97583,55.96178</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

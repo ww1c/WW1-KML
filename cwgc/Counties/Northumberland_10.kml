@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Northumberland
+						</name>
+						<description>
+							Cemeteries in Northumberland from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BENWELL (ST. JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42810/BENWELL%20(ST.%20JAMES)%20CHURCHYARD">BENWELL (ST. JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.6608,54.97065</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (ALL SAINTS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42801/NEWCASTLE-UPON-TYNE%20(ALL%20SAINTS)%20CEMETERY">NEWCASTLE-UPON-TYNE (ALL SAINTS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.59819,54.985</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (BYKER AND HEATON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42802/NEWCASTLE-UPON-TYNE%20(BYKER%20AND%20HEATON)%20CEMETERY">NEWCASTLE-UPON-TYNE (BYKER AND HEATON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.57955,54.99442</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (ST. ANDREW'S AND JESMOND) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42804/NEWCASTLE-UPON-TYNE%20(ST.%20ANDREW'S%20AND%20JESMOND)%20CEMETERY">NEWCASTLE-UPON-TYNE (ST. ANDREW'S AND JESMOND) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.60814,54.98985</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (ST. JOHN'S WESTGATE AND ELSWICK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42805/NEWCASTLE-UPON-TYNE%20(ST.%20JOHN'S%20WESTGATE%20AND%20ELSWICK)%20CEMETERY">NEWCASTLE-UPON-TYNE (ST. JOHN'S WESTGATE AND ELSWICK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.64904,54.9688</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (ST. NICHOLAS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42808/NEWCASTLE-UPON-TYNE%20(ST.%20NICHOLAS)%20CEMETERY">NEWCASTLE-UPON-TYNE (ST. NICHOLAS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.64497,54.98046</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UPON-TYNE (WEST ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42809/NEWCASTLE-UPON-TYNE%20(WEST%20ROAD)%20CEMETERY">NEWCASTLE-UPON-TYNE (WEST ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.67806,54.98188</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALKER (CHRIST CHURCH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/42811/WALKER%20(CHRIST%20CHURCH)%20CHURCHYARD">WALKER (CHRIST CHURCH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.54633,54.97338</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ALNWICK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73000/ALNWICK%20CEMETERY">ALNWICK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.69209,55.4037</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHBURTON ROMAN CATHOLIC CEMETERY, GOSFORTH</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73036/ASHBURTON%20ROMAN%20CATHOLIC%20CEMETERY,%20GOSFORTH">ASHBURTON ROMAN CATHOLIC CEMETERY, GOSFORTH at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.63165,55.00293</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BERWICK-UPON-TWEED CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73020/BERWICK-UPON-TWEED%20CEMETERY">BERWICK-UPON-TWEED CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.01075,55.77998</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLYTH (COWPEN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73023/BLYTH%20(COWPEN)%20CEMETERY">BLYTH (COWPEN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.52951,55.13031</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLYTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73022/BLYTH%20CEMETERY">BLYTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.49973,55.10538</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EARSDON (ST. ALBAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73028/EARSDON%20(ST.%20ALBAN)%20CHURCHYARD">EARSDON (ST. ALBAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.5004,55.04564</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GOSFORTH (ST. NICHOLAS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73037/GOSFORTH%20(ST.%20NICHOLAS)%20CHURCHYARD">GOSFORTH (ST. NICHOLAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.60994,55.00653</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HEXHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73039/HEXHAM%20CEMETERY">HEXHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.12764,54.97894</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LONGBENTON (BENTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73050/LONGBENTON%20(BENTON)%20CEMETERY">LONGBENTON (BENTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.57013,55.01507</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MORPETH (SS. MARY AND JAMES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73051/MORPETH%20(SS.%20MARY%20AND%20JAMES)%20CHURCHYARD">MORPETH (SS. MARY AND JAMES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.69362,55.16045</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWBURN (LEMINGTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73059/NEWBURN%20(LEMINGTON)%20CEMETERY">NEWBURN (LEMINGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.71216,54.98307</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SEATON HIRST (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73012/SEATON%20HIRST%20(ST.%20JOHN)%20CHURCHYARD">SEATON HIRST (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.55985,55.16986</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SEGHILL (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73070/SEGHILL%20(HOLY%20TRINITY)%20CHURCHYARD">SEGHILL (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.53925,55.06877</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TYNEMOUTH (PRESTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73071/TYNEMOUTH%20(PRESTON)%20CEMETERY">TYNEMOUTH (PRESTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.45847,55.01761</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALLSEND (CHURCH BANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73072/WALLSEND%20(CHURCH%20BANK)%20CEMETERY">WALLSEND (CHURCH BANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.51361,54.99333</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHITLEY BAY (HARTLEY SOUTH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73074/WHITLEY%20BAY%20(HARTLEY%20SOUTH)%20CEMETERY">WHITLEY BAY (HARTLEY SOUTH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.45889,55.0637</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BEDLINGTON (NETHERTON LANE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000476/BEDLINGTON%20(NETHERTON%20LANE)%20CEMETERY">BEDLINGTON (NETHERTON LANE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.61116,55.13187</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

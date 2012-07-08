@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Derbyshire
+						</name>
+						<description>
+							Cemeteries in Derbyshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BELPER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37637/BELPER%20CEMETERY">BELPER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.47967,53.03744</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BUXTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37651/BUXTON%20CEMETERY">BUXTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.90132,53.24471</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FAIRFIELD (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37652/FAIRFIELD%20(ST.%20PETER)%20CHURCHYARD">FAIRFIELD (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.90213,53.26425</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHESTERFIELD (SPITAL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37668/CHESTERFIELD%20(SPITAL)%20CEMETERY">CHESTERFIELD (SPITAL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.41431,53.23203</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLAY CROSS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37683/CLAY%20CROSS%20CEMETERY">CLAY CROSS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.40723,53.16122</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CRESWELL (ST. MARY MAGDALENE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37686/CRESWELL%20(ST.%20MARY%20MAGDALENE)%20CHURCHYARD">CRESWELL (ST. MARY MAGDALENE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.2128,53.26307</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERBY (NORMANTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37690/DERBY%20(NORMANTON)%20CEMETERY">DERBY (NORMANTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.49422,52.89737</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERBY (NOTTINGHAM ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37691/DERBY%20(NOTTINGHAM%20ROAD)%20CEMETERY">DERBY (NOTTINGHAM ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.44727,52.92627</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERBY (UTTOXETER ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37692/DERBY%20(UTTOXETER%20ROAD)%20CEMETERY">DERBY (UTTOXETER ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.49377,52.91944</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLOSSOP CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37695/GLOSSOP%20CEMETERY">GLOSSOP CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.95063,53.45726</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HASLAND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37676/HASLAND%20CEMETERY">HASLAND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.4084,53.21323</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HEANOR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37709/HEANOR%20CEMETERY">HEANOR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.35269,53.00798</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ILKESTON (PARK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37710/ILKESTON%20(PARK)%20CEMETERY">ILKESTON (PARK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30158,52.97048</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LONG EATON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37712/LONG%20EATON%20CEMETERY">LONG EATON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27741,52.89929</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELBOURNE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37736/MELBOURNE%20CEMETERY">MELBOURNE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.42717,52.82911</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWBOLD (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37669/NEWBOLD%20(ST.%20JOHN)%20CHURCHYARD">NEWBOLD (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.44473,53.25899</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STAVELEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37682/STAVELEY%20CEMETERY">STAVELEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.35285,53.26194</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

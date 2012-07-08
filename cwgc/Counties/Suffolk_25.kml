@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Suffolk
+						</name>
+						<description>
+							Cemeteries in Suffolk from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>FELIXSTOWE (WALTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44156/FELIXSTOWE%20(WALTON)%20CEMETERY">FELIXSTOWE (WALTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.34125,51.9723</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FELIXSTOWE NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44154/FELIXSTOWE%20NEW%20CEMETERY">FELIXSTOWE NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.33686,51.96497</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>IPSWICH OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44182/IPSWICH%20OLD%20CEMETERY">IPSWICH OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.16761,52.06351</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOWESTOFT (BECCLES ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44184/LOWESTOFT%20(BECCLES%20ROAD)%20CEMETERY">LOWESTOFT (BECCLES ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.7404,52.48142</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOWESTOFT (KIRKLEY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44185/LOWESTOFT%20(KIRKLEY)%20CEMETERY">LOWESTOFT (KIRKLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.73534,52.45833</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURY ST. EDMUNDS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44274/BURY%20ST.%20EDMUNDS%20CEMETERY">BURY ST. EDMUNDS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.70189,52.24404</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHOTLEY (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44229/SHOTLEY%20(ST.%20MARY)%20CHURCHYARD">SHOTLEY (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.25586,51.97747</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

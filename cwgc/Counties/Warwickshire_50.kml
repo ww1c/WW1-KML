@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Warwickshire
+						</name>
+						<description>
+							Cemeteries in Warwickshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BIRMINGHAM (BRANDWOOD END) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45002/BIRMINGHAM%20(BRANDWOOD%20END)%20CEMETERY">BIRMINGHAM (BRANDWOOD END) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.89911,52.41819</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRMINGHAM (HANDSWORTH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45004/BIRMINGHAM%20(HANDSWORTH)%20CEMETERY">BIRMINGHAM (HANDSWORTH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96176,52.51239</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRMINGHAM (LODGE HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45005/BIRMINGHAM%20(LODGE%20HILL)%20CEMETERY">BIRMINGHAM (LODGE HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.95495,52.43887</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRMINGHAM (WARSTONE LANE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45006/BIRMINGHAM%20(WARSTONE%20LANE)%20CEMETERY">BIRMINGHAM (WARSTONE LANE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.91394,52.48719</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRMINGHAM (WITTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45007/BIRMINGHAM%20(WITTON)%20CEMETERY">BIRMINGHAM (WITTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.87843,52.52742</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BIRMINGHAM (YARDLEY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45008/BIRMINGHAM%20(YARDLEY)%20CEMETERY">BIRMINGHAM (YARDLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.81784,52.45913</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COVENTRY (LONDON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2072000/COVENTRY%20(LONDON%20ROAD)%20CEMETERY">COVENTRY (LONDON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.50036,52.39828</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

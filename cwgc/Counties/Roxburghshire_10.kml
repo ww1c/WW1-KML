@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Roxburghshire
+						</name>
+						<description>
+							Cemeteries in Roxburghshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>HAWICK (WELLOGATE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74278/HAWICK%20(WELLOGATE)%20CEMETERY">HAWICK (WELLOGATE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.78387,55.42033</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAWICK (WILTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74279/HAWICK%20(WILTON)%20CEMETERY">HAWICK (WILTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.77937,55.43304</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Staffordshire
+						</name>
+						<description>
+							Cemeteries in Staffordshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BILSTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43801/BILSTON%20CEMETERY">BILSTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.08628,52.57085</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DARLASTON (JAMES BRIDGE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43822/DARLASTON%20(JAMES%20BRIDGE)%20CEMETERY">DARLASTON (JAMES BRIDGE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.01988,52.57662</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BENTLEY CEMETERY, STAFFORDSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43861/BENTLEY%20CEMETERY,%20STAFFORDSHIRE">BENTLEY CEMETERY, STAFFORDSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.02992,52.58695</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BURTON-UPON-TRENT CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43905/BURTON-UPON-TRENT%20CEMETERY">BURTON-UPON-TRENT CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.62092,52.80261</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HEATH TOWN (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43869/HEATH%20TOWN%20(HOLY%20TRINITY)%20CHURCHYARD">HEATH TOWN (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.10229,52.59609</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEEK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43927/LEEK%20CEMETERY">LEEK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.02477,53.1002</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LICHFIELD (ST. MICHAEL) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43929/LICHFIELD%20(ST.%20MICHAEL)%20CHURCHYARD">LICHFIELD (ST. MICHAEL) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.81949,52.68392</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWCASTLE-UNDER-LYME CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43948/NEWCASTLE-UNDER-LYME%20CEMETERY">NEWCASTLE-UNDER-LYME CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.22856,53.00662</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SMETHWICK (UPLANDS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43846/SMETHWICK%20(UPLANDS)%20CEMETERY">SMETHWICK (UPLANDS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.97548,52.4868</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SMETHWICK OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43845/SMETHWICK%20OLD%20CHURCHYARD">SMETHWICK OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.97246,52.4869</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STAFFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43952/STAFFORD%20CEMETERY">STAFFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.12744,52.81683</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOKE-ON-TRENT (BURSLEM) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43970/STOKE-ON-TRENT%20(BURSLEM)%20CEMETERY">STOKE-ON-TRENT (BURSLEM) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.17468,53.0463</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOKE-ON-TRENT (HANLEY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43972/STOKE-ON-TRENT%20(HANLEY)%20CEMETERY">STOKE-ON-TRENT (HANLEY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.18509,53.01408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOKE-ON-TRENT (HARTSHILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43973/STOKE-ON-TRENT%20(HARTSHILL)%20CEMETERY">STOKE-ON-TRENT (HARTSHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20257,53.00668</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOKE-ON-TRENT (LONGTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43974/STOKE-ON-TRENT%20(LONGTON)%20CEMETERY">STOKE-ON-TRENT (LONGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.1371,52.98093</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOKE-ON-TRENT (TUNSTALL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43976/STOKE-ON-TRENT%20(TUNSTALL)%20CEMETERY">STOKE-ON-TRENT (TUNSTALL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.21835,53.05964</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TIPTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43853/TIPTON%20CEMETERY">TIPTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.04649,52.53214</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALSALL (RYECROFT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43855/WALSALL%20(RYECROFT)%20CEMETERY">WALSALL (RYECROFT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.97684,52.5979</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEDNESBURY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43863/WEDNESBURY%20CEMETERY">WEDNESBURY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.00911,52.55867</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEST BROMWICH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43866/WEST%20BROMWICH%20CEMETERY">WEST BROMWICH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.98858,52.53555</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHITTINGTON (ST. GILES) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43943/WHITTINGTON%20(ST.%20GILES)%20CHURCHYARD">WHITTINGTON (ST. GILES) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.76794,52.67265</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WOLVERHAMPTON BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43870/WOLVERHAMPTON%20BOROUGH%20CEMETERY">WOLVERHAMPTON BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15062,52.57914</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CANNOCK CHASE WAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000401/CANNOCK%20CHASE%20WAR%20CEMETERY">CANNOCK CHASE WAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.02703,52.73691</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RUGELEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000405/RUGELEY%20CEMETERY">RUGELEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.93743,52.76578</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

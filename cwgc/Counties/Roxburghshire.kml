@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Roxburghshire
+						</name>
+						<description>
+							Cemeteries in Roxburghshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ANCRUM PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74274/ANCRUM%20PARISH%20CHURCHYARD">ANCRUM PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.60124,55.51623</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAVERS (DENHOLM) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74275/CAVERS%20(DENHOLM)%20CEMETERY">CAVERS (DENHOLM) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.6793,55.46124</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CRAILING PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74276/CRAILING%20PARISH%20CHURCHYARD">CRAILING PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.50536,55.51795</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ECKFORD PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74277/ECKFORD%20PARISH%20CHURCHYARD">ECKFORD PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.46589,55.53646</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAWICK (WELLOGATE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74278/HAWICK%20(WELLOGATE)%20CEMETERY">HAWICK (WELLOGATE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.78387,55.42033</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAWICK (WILTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74279/HAWICK%20(WILTON)%20CEMETERY">HAWICK (WILTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.77937,55.43304</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>JEDBURGH (CASTLEWOOD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74280/JEDBURGH%20(CASTLEWOOD)%20CEMETERY">JEDBURGH (CASTLEWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.55968,55.47401</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KELSO CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74281/KELSO%20CEMETERY">KELSO CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.42614,55.60091</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKTON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74282/KIRKTON%20PARISH%20CHURCHYARD">KIRKTON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.72763,55.41709</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MAKERSTOUN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74283/MAKERSTOUN%20PARISH%20CHURCHYARD">MAKERSTOUN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.52729,55.59085</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELROSE (WAIRDS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74286/MELROSE%20(WAIRDS)%20CEMETERY">MELROSE (WAIRDS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.70361,55.59669</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELROSE ABBEY CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74284/MELROSE%20ABBEY%20CHURCHYARD">MELROSE ABBEY CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.72408,55.6006</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELROSE CEMETERY, ROXBURGHSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74285/MELROSE%20CEMETERY,%20ROXBURGHSHIRE">MELROSE CEMETERY, ROXBURGHSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.72751,55.59812</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROBERTON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74287/ROBERTON%20PARISH%20CHURCHYARD">ROBERTON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.89775,55.42229</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SMAILHOLM PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74289/SMAILHOLM%20PARISH%20CHURCHYARD">SMAILHOLM PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.5587,55.62024</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHDEAN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74290/SOUTHDEAN%20PARISH%20CHURCHYARD">SOUTHDEAN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.59523,55.39064</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SPROUSTON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74291/SPROUSTON%20PARISH%20CHURCHYARD">SPROUSTON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.3882,55.61071</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. BOSWELLS PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74288/ST.%20BOSWELLS%20PARISH%20CHURCHYARD">ST. BOSWELLS PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.62653,55.5676</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STICHILL PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74292/STICHILL%20PARISH%20CHURCHYARD">STICHILL PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.45969,55.63731</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TEVIOTHEAD NEW PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74294/TEVIOTHEAD%20NEW%20PARISH%20CHURCHYARD">TEVIOTHEAD NEW PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.94139,55.33698</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>YETHOLM PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74295/YETHOLM%20PARISH%20CHURCHYARD">YETHOLM PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.27753,55.54583</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAWICK (ST. CUTHBERT) EPISCOPALIAN CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000271/HAWICK%20(ST.%20CUTHBERT)%20EPISCOPALIAN%20CHURCHYARD">HAWICK (ST. CUTHBERT) EPISCOPALIAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.78892,55.41877</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

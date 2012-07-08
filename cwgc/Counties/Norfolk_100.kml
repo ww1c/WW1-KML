@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Norfolk
+						</name>
+						<description>
+							Cemeteries in Norfolk from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>GREAT YARMOUTH (CAISTER) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2081585/GREAT%20YARMOUTH%20(CAISTER)%20CEMETERY">GREAT YARMOUTH (CAISTER) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.72305,52.65245</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORWICH CEMETERY, NORFOLK</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2081652/NORWICH%20CEMETERY,%20NORFOLK">NORWICH CEMETERY, NORFOLK at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 1.26774,52.63059</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

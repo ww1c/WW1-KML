@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Inverness-shire
+						</name>
+						<description>
+							Cemeteries in Inverness-shire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABERNETHY PARISH CHURCHYARD, INVERNESS-SHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34215/ABERNETHY%20PARISH%20CHURCHYARD,%20INVERNESS-SHIRE">ABERNETHY PARISH CHURCHYARD, INVERNESS-SHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.64995,57.27579</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ALVIE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34216/ALVIE%20PARISH%20CHURCHYARD">ALVIE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.87995,57.16052</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARDERSIER PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34217/ARDERSIER%20PARISH%20CHURCHYARD">ARDERSIER PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.02323,57.57431</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARDMICHAEL CEMETERY, SOUTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34218/ARDMICHAEL%20CEMETERY,%20SOUTH%20UIST">ARDMICHAEL CEMETERY, SOUTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.42442,57.27393</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARNISDALE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34219/ARNISDALE%20CEMETERY">ARNISDALE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.56229,57.13396</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHAIG CEMETERY, ISLE OF SKYE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34220/ASHAIG%20CEMETERY,%20ISLE%20OF%20SKYE">ASHAIG CEMETERY, ISLE OF SKYE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.8359,57.24975</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BANCHOR BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34221/BANCHOR%20BURIAL%20GROUND">BANCHOR BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.13706,57.06285</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BEAULY ROMAN CATHOLIC CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34222/BEAULY%20ROMAN%20CATHOLIC%20CHAPELYARD">BEAULY ROMAN CATHOLIC CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.45823,57.48625</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARINISH (OR TRINITY TEMPLE) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34224/CARINISH%20(OR%20TRINITY%20TEMPLE)%20OLD%20CHURCHYARD">CARINISH (OR TRINITY TEMPLE) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.31986,57.52041</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARRBRIDGE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34225/CARRBRIDGE%20CEMETERY">CARRBRIDGE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.82033,57.28266</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROY PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34226/CROY%20PARISH%20CHURCHYARD">CROY PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.01111,57.52318</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CUIER (OR BARRA PARISH) CHURCHYARD, ISLE OF BARRA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34227/CUIER%20(OR%20BARRA%20PARISH)%20CHURCHYARD,%20ISLE%20OF%20BARRA">CUIER (OR BARRA PARISH) CHURCHYARD, ISLE OF BARRA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.48549,57.00136</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALCHRIECHARD OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34228/DALCHRIECHARD%20OLD%20CHURCHYARD">DALCHRIECHARD OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.84839,57.1728</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DAVIOT PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34229/DAVIOT%20PARISH%20CHURCHYARD">DAVIOT PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.12824,57.42762</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORES PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34230/DORES%20PARISH%20CHURCHYARD">DORES PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.32813,57.38408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DRUMTEMPLE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34223/DRUMTEMPLE%20CEMETERY">DRUMTEMPLE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.47443,57.23063</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUTHIL PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34231/DUTHIL%20PARISH%20CHURCHYARD">DUTHIL PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.76808,57.29714</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EOLIGARRY (ST. BARR) OLD CHURCHYARD, BARRA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34232/EOLIGARRY%20(ST.%20BARR)%20OLD%20CHURCHYARD,%20BARRA">EOLIGARRY (ST. BARR) OLD CHURCHYARD, BARRA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.43405,57.03986</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ERISKAY CEMETERY, SOUTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34233/ERISKAY%20CEMETERY,%20SOUTH%20UIST">ERISKAY CEMETERY, SOUTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.30924,57.08347</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ESKADALE (ST. MARY) ROMAN CATHOLIC CHAPELYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34234/ESKADALE%20(ST.%20MARY)%20ROMAN%20CATHOLIC%20CHAPELYARD">ESKADALE (ST. MARY) ROMAN CATHOLIC CHAPELYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.57622,57.42337</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORT WILLIAM (ST. ANDREW) EPISCOPALIAN CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34235/FORT%20WILLIAM%20(ST.%20ANDREW)%20EPISCOPALIAN%20CHURCHYARD">FORT WILLIAM (ST. ANDREW) EPISCOPALIAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.10688,56.81955</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORT WILLIAM (THE CRAIGS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34236/FORT%20WILLIAM%20(THE%20CRAIGS)%20CEMETERY">FORT WILLIAM (THE CRAIGS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.10205,56.82056</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENCONVINTH OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34237/GLENCONVINTH%20OLD%20CHURCHYARD">GLENCONVINTH OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.47737,57.4034</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENELG PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34238/GLENELG%20PARISH%20CHURCHYARD">GLENELG PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.62414,57.21161</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HALLAN CEMETERY, SOUTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34239/HALLAN%20CEMETERY,%20SOUTH%20UIST">HALLAN CEMETERY, SOUTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.40429,57.17166</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INSH (ST. EUNAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34241/INSH%20(ST.%20EUNAN)%20CHURCHYARD">INSH (ST. EUNAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.9246,57.12358</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERNESS (TOMNAHURICH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34242/INVERNESS%20(TOMNAHURICH)%20CEMETERY">INVERNESS (TOMNAHURICH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.24369,57.47035</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILCHOAN OLD CHURCHYARD, DUIRINISH</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34243/KILCHOAN%20OLD%20CHURCHYARD,%20DUIRINISH">KILCHOAN OLD CHURCHYARD, DUIRINISH at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.70485,57.44995</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILCHRIST OLD CHURCHYARD, STRATH, ISLE OF SKYE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34244/KILCHRIST%20OLD%20CHURCHYARD,%20STRATH,%20ISLE%20OF%20SKYE">KILCHRIST OLD CHURCHYARD, STRATH, ISLE OF SKYE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.94807,57.2147</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMALLIE OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34245/KILMALLIE%20OLD%20CHURCHYARD">KILMALLIE OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.13193,56.8447</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMALUAG OLD CHURCHYARD, KILMUIR, ISLE OF SKYE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34246/KILMALUAG%20OLD%20CHURCHYARD,%20KILMUIR,%20ISLE%20OF%20SKYE">KILMALUAG OLD CHURCHYARD, KILMUIR, ISLE OF SKYE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.3045,57.6909</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMARIE CEMETERY, STRATH, ISLE OF SKYE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34247/KILMARIE%20CEMETERY,%20STRATH,%20ISLE%20OF%20SKYE">KILMARIE CEMETERY, STRATH, ISLE OF SKYE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.04937,57.17951</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMORACK NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34248/KILMORACK%20NEW%20CEMETERY">KILMORACK NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.51117,57.46405</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMORE (DRUMNADROCHIT) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34249/KILMORE%20(DRUMNADROCHIT)%20OLD%20CHURCHYARD">KILMORE (DRUMNADROCHIT) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.46811,57.33176</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMORY OLD CHURCHYARD, ARISAIG AND MOIDART</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34250/KILMORY%20OLD%20CHURCHYARD,%20ARISAIG%20AND%20MOIDART">KILMORY OLD CHURCHYARD, ARISAIG AND MOIDART at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.84715,56.91432</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMUIR OLD CHURCHYARD, KILMUIR</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34251/KILMUIR%20OLD%20CHURCHYARD,%20KILMUIR">KILMUIR OLD CHURCHYARD, KILMUIR at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.36287,57.66119</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINGUSSIE (ST. COLUMBA) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34255/KINGUSSIE%20(ST.%20COLUMBA)%20OLD%20CHURCHYARD">KINGUSSIE (ST. COLUMBA) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.05227,57.08081</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINGUSSIE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34253/KINGUSSIE%20PARISH%20CHURCHYARD">KINGUSSIE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.04634,57.08099</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKHILL OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34256/KIRKHILL%20OLD%20CHURCHYARD">KIRKHILL OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.42031,57.47784</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LAGGAN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34257/LAGGAN%20PARISH%20CHURCHYARD">LAGGAN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.28258,57.01934</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCHEND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34258/LOCHEND%20CHURCHYARD">LOCHEND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.32865,57.41605</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NUNTON OLD CHURCHYARD, ISLE OF BENBECULA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34259/NUNTON%20OLD%20CHURCHYARD,%20ISLE%20OF%20BENBECULA">NUNTON OLD CHURCHYARD, ISLE OF BENBECULA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.39478,57.45893</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTREE (STRONUIRINISH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34260/PORTREE%20(STRONUIRINISH)%20CEMETERY">PORTREE (STRONUIRINISH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.20033,57.40323</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RAASAY NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34261/RAASAY%20NEW%20CEMETERY">RAASAY NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.07473,57.3576</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RODEL (ST. CLEMENT) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34262/RODEL%20(ST.%20CLEMENT)%20CHURCHYARD">RODEL (ST. CLEMENT) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.96286,57.74129</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROTHIEMURCHUS PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34263/ROTHIEMURCHUS%20PARISH%20CHURCHYARD">ROTHIEMURCHUS PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.84413,57.1611</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SCARISTA NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34264/SCARISTA%20NEW%20CEMETERY">SCARISTA NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.04382,57.82511</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SKEABOST (ST. COLUMBA) OLD CHURCHYARD, SNIZORT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34265/SKEABOST%20(ST.%20COLUMBA)%20OLD%20CHURCHYARD,%20SNIZORT">SKEABOST (ST. COLUMBA) OLD CHURCHYARD, SNIZORT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.30468,57.45315</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SLEAT PARISH (OR KILMORE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34266/SLEAT%20PARISH%20(OR%20KILMORE)%20CHURCHYARD">SLEAT PARISH (OR KILMORE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.86878,57.09378</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TOMNACROSS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34252/TOMNACROSS%20CEMETERY">TOMNACROSS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.48013,57.43829</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UIG CEMETERY, SNIZORT, ISLE OF SKYE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34267/UIG%20CEMETERY,%20SNIZORT,%20ISLE%20OF%20SKYE">UIG CEMETERY, SNIZORT, ISLE OF SKYE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.35295,57.58691</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>AUCHTHERAWE ROMAN CATHOLIC BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000211/AUCHTHERAWE%20ROMAN%20CATHOLIC%20BURIAL%20GROUND">AUCHTHERAWE ROMAN CATHOLIC BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.73096,57.12807</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BERNERAY BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000212/BERNERAY%20BURIAL%20GROUND">BERNERAY BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.15535,57.7306</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLARMANACHFOLDACH BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000213/BLARMANACHFOLDACH%20BURIAL%20GROUND">BLARMANACHFOLDACH BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.10523,56.77298</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOLESKINE LOWER GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000214/BOLESKINE%20LOWER%20GRAVEYARD">BOLESKINE LOWER GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.47613,57.26541</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BORVE (ST. BRENDAN'S) ROMAN CATHOLIC BURIAL GROUND, ISLE OF BARRA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000215/BORVE%20(ST.%20BRENDAN'S)%20ROMAN%20CATHOLIC%20BURIAL%20GROUND,%20ISLE%20OF%20BARRA">BORVE (ST. BRENDAN'S) ROMAN CATHOLIC BURIAL GROUND, ISLE OF BARRA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.52043,56.98514</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CILLECHAOREIL (KILLICHURREL) ROMAN CATHOLIC BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000216/CILLECHAOREIL%20(KILLICHURREL)%20ROMAN%20CATHOLIC%20BURIAL%20GROUND">CILLECHAOREIL (KILLICHURREL) ROMAN CATHOLIC BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.7813,56.8914</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLACHAN SANDS BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000217/CLACHAN%20SANDS%20BURIAL%20GROUND">CLACHAN SANDS BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.24307,57.66876</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HEISKER ISLAND GRAVES, NORTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000233/HEISKER%20ISLAND%20GRAVES,%20NORTH%20UIST">HEISKER ISLAND GRAVES, NORTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.67752,57.52365</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERMORISTON BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000236/INVERMORISTON%20BURIAL%20GROUND">INVERMORISTON BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.61398,57.21392</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERNESS (HIGH CHURCH) BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000237/INVERNESS%20(HIGH%20CHURCH)%20BURIAL%20GROUND">INVERNESS (HIGH CHURCH) BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.22838,57.48008</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERNESS (ST. MARY'S CHAPEL) BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000238/INVERNESS%20(ST.%20MARY'S%20CHAPEL)%20BURIAL%20GROUND">INVERNESS (ST. MARY'S CHAPEL) BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.22888,57.48123</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILCHUIMAN BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000241/KILCHUIMAN%20BURIAL%20GROUND">KILCHUIMAN BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.68129,57.13467</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILFINNAN BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000239/KILFINNAN%20BURIAL%20GROUND">KILFINNAN BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.83766,57.02044</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMUIR OLD CHURCHYARD, DUIRINISH</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000242/KILMUIR%20OLD%20CHURCHYARD,%20DUIRINISH">KILMUIR OLD CHURCHYARD, DUIRINISH at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.57585,57.43713</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINLOCHLAGGAN (ST. KENNETH) ROMAN CATHOLIC GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000246/KINLOCHLAGGAN%20(ST.%20KENNETH)%20ROMAN%20CATHOLIC%20GRAVEYARD">KINLOCHLAGGAN (ST. KENNETH) ROMAN CATHOLIC GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.41124,56.9751</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LINIQUIE BURIAL GROUND, SOUTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000247/LINIQUIE%20BURIAL%20GROUND,%20SOUTH%20UIST">LINIQUIE BURIAL GROUND, SOUTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.40017,57.39469</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LUSKENTYRE BURIAL GROUND, ISLE OF HARRIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000248/LUSKENTYRE%20BURIAL%20GROUND,%20ISLE%20OF%20HARRIS">LUSKENTYRE BURIAL GROUND, ISLE OF HARRIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.94617,57.88484</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MAARUIG (OR MARIG) BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000249/MAARUIG%20(OR%20MARIG)%20BURIAL%20GROUND">MAARUIG (OR MARIG) BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.73153,57.95576</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTREE OLD BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000250/PORTREE%20OLD%20BURIAL%20GROUND">PORTREE OLD BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.20611,57.41389</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROSHVEN BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000259/ROSHVEN%20BURIAL%20GROUND">ROSHVEN BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.73736,56.84515</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SCARP BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000261/SCARP%20BURIAL%20GROUND">SCARP BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.1028,58.01115</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. FINNAN'S ISLE BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000260/ST.%20FINNAN'S%20ISLE%20BURIAL%20GROUND">ST. FINNAN'S ISLE BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.67851,56.75171</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STRUY OLD BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000262/STRUY%20OLD%20BURIAL%20GROUND">STRUY OLD BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.66426,57.42408</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILMUIR BURIAL GROUND, NORTH UIST</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111708/KILMUIR%20BURIAL%20GROUND,%20NORTH%20UIST">KILMUIR BURIAL GROUND, NORTH UIST at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.51523,57.60463</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOWMORE OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007238/HOWMORE%20OLD%20CHURCHYARD">HOWMORE OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.38525,57.30329</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINCARDINE PARISH CHURCHYARD (INVERNESS)</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007067/KINCARDINE%20PARISH%20CHURCHYARD%20(INVERNESS)">KINCARDINE PARISH CHURCHYARD (INVERNESS) at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.75934,57.21791</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

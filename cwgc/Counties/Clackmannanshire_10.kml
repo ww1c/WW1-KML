@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Clackmannanshire
+						</name>
+						<description>
+							Cemeteries in Clackmannanshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ALLOA (SUNNYSIDE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079048/ALLOA%20(SUNNYSIDE)%20CEMETERY">ALLOA (SUNNYSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.78707,56.12273</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

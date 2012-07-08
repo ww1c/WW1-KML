@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Angus
+						</name>
+						<description>
+							Cemeteries in Angus from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>DUNDEE (BALGAY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000209/DUNDEE%20(BALGAY)%20CEMETERY">DUNDEE (BALGAY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.02226,56.46396</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNDEE EASTERN NECROPOLIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000208/DUNDEE%20EASTERN%20NECROPOLIS">DUNDEE EASTERN NECROPOLIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.93671,56.47189</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

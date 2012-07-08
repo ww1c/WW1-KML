@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Berkshire
+						</name>
+						<description>
+							Cemeteries in Berkshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABINGDON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71500/ABINGDON%20CEMETERY">ABINGDON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.2951,51.67223</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOYNE HILL (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71528/BOYNE%20HILL%20(ALL%20SAINTS)%20CHURCHYARD">BOYNE HILL (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.73688,51.5201</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHOLSEY (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71587/CHOLSEY%20(ST.%20MARY)%20CHURCHYARD">CHOLSEY (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15813,51.57885</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLEWER (ST. ANDREW) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71581/CLEWER%20(ST.%20ANDREW)%20OLD%20CHURCHYARD">CLEWER (ST. ANDREW) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.62455,51.48519</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MAIDENHEAD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71569/MAIDENHEAD%20CEMETERY">MAIDENHEAD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.74099,51.52641</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWBURY (NEWTOWN ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71570/NEWBURY%20(NEWTOWN%20ROAD)%20CEMETERY">NEWBURY (NEWTOWN ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.32529,51.39243</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>READING (CAVERSHAM) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71583/READING%20(CAVERSHAM)%20CEMETERY">READING (CAVERSHAM) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.97536,51.47399</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>READING CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71584/READING%20CEMETERY">READING CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.94812,51.45295</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WINDSOR CEMETERY, BERKSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71582/WINDSOR%20CEMETERY,%20BERKSHIRE">WINDSOR CEMETERY, BERKSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.62319,51.47026</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WOKINGHAM (ST. SEBASTIAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71622/WOKINGHAM%20(ST.%20SEBASTIAN)%20CHURCHYARD">WOKINGHAM (ST. SEBASTIAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.81659,51.38192</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UNITED KINGDOM BOOK OF REMEMBRANCE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001126/UNITED%20KINGDOM%20BOOK%20OF%20REMEMBRANCE">UNITED KINGDOM BOOK OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.72512,51.5237</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

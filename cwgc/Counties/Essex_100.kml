@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Essex
+						</name>
+						<description>
+							Cemeteries in Essex from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CHINGFORD MOUNT CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38422/CHINGFORD%20MOUNT%20CEMETERY">CHINGFORD MOUNT CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.01617,51.62094</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CITY OF LONDON CEMETERY AND CREMATORIUM, MANOR PARK</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38300/CITY%20OF%20LONDON%20CEMETERY%20AND%20CREMATORIUM,%20MANOR%20PARK">CITY OF LONDON CEMETERY AND CREMATORIUM, MANOR PARK at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.04449,51.55792</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EAST LONDON CEMETERY, PLAISTOW</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38312/EAST%20LONDON%20CEMETERY,%20PLAISTOW">EAST LONDON CEMETERY, PLAISTOW at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.01483,51.52549</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEYTONSTONE (ST. PATRICK'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38308/LEYTONSTONE%20(ST.%20PATRICK'S)%20ROMAN%20CATHOLIC%20CEMETERY">LEYTONSTONE (ST. PATRICK'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.00124,51.55678</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANOR PARK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38304/MANOR%20PARK%20CEMETERY">MANOR PARK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.03585,51.55179</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHEND-ON-SEA (SUTTON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38463/SOUTHEND-ON-SEA%20(SUTTON%20ROAD)%20CEMETERY">SOUTHEND-ON-SEA (SUTTON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.71634,51.55818</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALTHAMSTOW (QUEEN'S ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38309/WALTHAMSTOW%20(QUEEN'S%20ROAD)%20CEMETERY">WALTHAMSTOW (QUEEN'S ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.02528,51.5781</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEST HAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38313/WEST%20HAM%20CEMETERY">WEST HAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.01543,51.55166</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WOODGRANGE PARK CEMETERY, EAST HAM</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38306/WOODGRANGE%20PARK%20CEMETERY,%20EAST%20HAM">WOODGRANGE PARK CEMETERY, EAST HAM at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.04156,51.54834</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COLCHESTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2075250/COLCHESTER%20CEMETERY">COLCHESTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.90392,51.87471</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

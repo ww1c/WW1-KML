@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Shropshire
+						</name>
+						<description>
+							Cemeteries in Shropshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>OSWESTRY GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43391/OSWESTRY%20GENERAL%20CEMETERY">OSWESTRY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.04818,52.85354</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHREWSBURY GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43318/SHREWSBURY%20GENERAL%20CEMETERY">SHREWSBURY GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.76274,52.69674</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

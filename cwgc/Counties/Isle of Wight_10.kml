@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Isle of Wight
+						</name>
+						<description>
+							Cemeteries in Isle of Wight from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CARISBROOKE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034590/CARISBROOKE%20CEMETERY">CARISBROOKE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30692,50.68956</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COWES (NORTHWOOD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034593/COWES%20(NORTHWOOD)%20CEMETERY">COWES (NORTHWOOD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30036,50.75134</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FRESHWATER (ALL SAINTS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034594/FRESHWATER%20(ALL%20SAINTS)%20CHURCHYARD">FRESHWATER (ALL SAINTS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.51055,50.68433</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OAKFIELD (ST. JOHN) CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034602/OAKFIELD%20(ST.%20JOHN)%20CHURCH%20CEMETERY">OAKFIELD (ST. JOHN) CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.1484,50.71521</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PARKHURST MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034603/PARKHURST%20MILITARY%20CEMETERY">PARKHURST MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.30711,50.70778</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RYDE BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034606/RYDE%20BOROUGH%20CEMETERY">RYDE BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16681,50.72498</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SANDOWN (CHRIST CHURCH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034609/SANDOWN%20(CHRIST%20CHURCH)%20CHURCHYARD">SANDOWN (CHRIST CHURCH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16095,50.65221</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>VENTNOR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034617/VENTNOR%20CEMETERY">VENTNOR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.21516,50.59725</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

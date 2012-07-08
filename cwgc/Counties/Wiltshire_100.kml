@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Wiltshire
+						</name>
+						<description>
+							Cemeteries in Wiltshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>DURRINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45302/DURRINGTON%20CEMETERY">DURRINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.78276,51.20649</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUTTON VENY (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45463/SUTTON%20VENY%20(ST.%20JOHN)%20CHURCHYARD">SUTTON VENY (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.14107,51.17453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TIDWORTH MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45411/TIDWORTH%20MILITARY%20CEMETERY">TIDWORTH MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.66749,51.25563</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

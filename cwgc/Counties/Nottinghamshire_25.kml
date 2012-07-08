@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Nottinghamshire
+						</name>
+						<description>
+							Cemeteries in Nottinghamshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>FOREST TOWN (ST. ALBAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069738/FOREST%20TOWN%20(ST.%20ALBAN)%20CHURCHYARD">FOREST TOWN (ST. ALBAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16289,53.15238</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MANSFIELD (NOTTINGHAM ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069754/MANSFIELD%20(NOTTINGHAM%20ROAD)%20CEMETERY">MANSFIELD (NOTTINGHAM ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19205,53.12704</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWARK-UPON-TRENT CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069700/NEWARK-UPON-TRENT%20CEMETERY">NEWARK-UPON-TRENT CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.79877,53.06914</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM (NEW BASFORD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069764/NOTTINGHAM%20(NEW%20BASFORD)%20CEMETERY">NOTTINGHAM (NEW BASFORD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.17259,52.97997</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069762/NOTTINGHAM%20CHURCH%20CEMETERY">NOTTINGHAM CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15299,52.96485</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069763/NOTTINGHAM%20GENERAL%20CEMETERY">NOTTINGHAM GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16152,52.95615</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM NORTHERN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069765/NOTTINGHAM%20NORTHERN%20CEMETERY">NOTTINGHAM NORTHERN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.20867,52.99845</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUTTON-IN-ASHFIELD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069782/SUTTON-IN-ASHFIELD%20CEMETERY">SUTTON-IN-ASHFIELD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27152,53.12395</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WORKSOP (RETFORD ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069795/WORKSOP%20(RETFORD%20ROAD)%20CEMETERY">WORKSOP (RETFORD ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.10103,53.30218</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

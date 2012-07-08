@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Somerset
+						</name>
+						<description>
+							Cemeteries in Somerset from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BATH (LOCKSBROOK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43523/BATH%20(LOCKSBROOK)%20CEMETERY">BATH (LOCKSBROOK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.38502,51.38445</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BATH (ST. JAMES'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43524/BATH%20(ST.%20JAMES'S)%20CEMETERY">BATH (ST. JAMES'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.37222,51.3802</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIDGWATER (ST. JOHN'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43539/BRIDGWATER%20(ST.%20JOHN'S)%20CEMETERY">BRIDGWATER (ST. JOHN'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.99135,51.1385</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHARD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43559/CHARD%20CEMETERY">CHARD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.96621,50.87603</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FROME (CHRIST CHURCH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43591/FROME%20(CHRIST%20CHURCH)%20CHURCHYARD">FROME (CHRIST CHURCH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.32522,51.22963</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FROME (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43592/FROME%20(HOLY%20TRINITY)%20CHURCHYARD">FROME (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.32786,51.23374</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HIGHBRIDGE CEMETERY, BURNHAM-ON-SEA</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43596/HIGHBRIDGE%20CEMETERY,%20BURNHAM-ON-SEA">HIGHBRIDGE CEMETERY, BURNHAM-ON-SEA at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.9737,51.22557</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MINEHEAD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43634/MINEHEAD%20CEMETERY">MINEHEAD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.4981,51.20554</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TAUNTON (ST. JAMES'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43650/TAUNTON%20(ST.%20JAMES'S)%20CEMETERY">TAUNTON (ST. JAMES'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.11287,51.02289</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TAUNTON (ST. MARY'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43651/TAUNTON%20(ST.%20MARY'S)%20CEMETERY">TAUNTON (ST. MARY'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.1206,51.01462</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WELLINGTON CEMETERY, SOMERSET</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43678/WELLINGTON%20CEMETERY,%20SOMERSET">WELLINGTON CEMETERY, SOMERSET at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.24157,50.97398</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WELLS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43680/WELLS%20CEMETERY">WELLS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.66407,51.20891</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WESTON-SUPER-MARE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43691/WESTON-SUPER-MARE%20CEMETERY">WESTON-SUPER-MARE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.96769,51.35413</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>YEOVIL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43721/YEOVIL%20CEMETERY">YEOVIL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.64024,50.94605</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIDGWATER (WEMBDON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000406/BRIDGWATER%20(WEMBDON%20ROAD)%20CEMETERY">BRIDGWATER (WEMBDON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.01577,51.12702</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

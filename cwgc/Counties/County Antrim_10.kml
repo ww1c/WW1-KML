@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for County Antrim
+						</name>
+						<description>
+							Cemeteries in County Antrim from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BELFAST (MILLTOWN) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73328/BELFAST%20(MILLTOWN)%20ROMAN%20CATHOLIC%20CEMETERY">BELFAST (MILLTOWN) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.97809,54.5842</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BELFAST CITY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73327/BELFAST%20CITY%20CEMETERY">BELFAST CITY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.97025,54.58858</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARNMONEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73331/CARNMONEY%20CEMETERY">CARNMONEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.93954,54.66999</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LARNE NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73344/LARNE%20NEW%20CEMETERY">LARNE NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.83439,54.86071</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LISBURN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73353/LISBURN%20CEMETERY">LISBURN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.04805,54.50453</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

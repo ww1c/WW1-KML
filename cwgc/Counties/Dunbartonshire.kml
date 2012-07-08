@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Dunbartonshire
+						</name>
+						<description>
+							Cemeteries in Dunbartonshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BARBOUR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047501/BARBOUR%20CEMETERY">BARBOUR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.8645,56.02226</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BONHILL PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047502/BONHILL%20PARISH%20CHURCHYARD">BONHILL PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.57386,55.98261</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARDROSS CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047503/CARDROSS%20CHURCHYARD">CARDROSS CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.6461,55.96002</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CUMBERNAULD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047504/CUMBERNAULD%20CEMETERY">CUMBERNAULD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.98035,55.96111</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALNOTTAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047505/DALNOTTAR%20CEMETERY">DALNOTTAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.44159,55.92414</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUMBARTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047506/DUMBARTON%20CEMETERY">DUMBARTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.55088,55.95347</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FASLANE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047507/FASLANE%20CEMETERY">FASLANE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.81519,56.0696</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HELENSBURGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047508/HELENSBURGH%20CEMETERY">HELENSBURGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.71187,56.00109</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILBOWIE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047509/KILBOWIE%20CEMETERY">KILBOWIE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.39815,55.90753</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKINTILLOCH (AULD AISLE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047510/KIRKINTILLOCH%20(AULD%20AISLE)%20CEMETERY">KIRKINTILLOCH (AULD AISLE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.13767,55.93248</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEW KILPATRICK (OR HILLFOOT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047511/NEW%20KILPATRICK%20(OR%20HILLFOOT)%20CEMETERY">NEW KILPATRICK (OR HILLFOOT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.31146,55.92135</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEW KILPATRICK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047512/NEW%20KILPATRICK%20PARISH%20CHURCHYARD">NEW KILPATRICK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.33256,55.92156</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLD KILPATRICK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047513/OLD%20KILPATRICK%20PARISH%20CHURCHYARD">OLD KILPATRICK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.46083,55.92589</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>VALE OF LEVEN (OR BONHILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047514/VALE%20OF%20LEVEN%20(OR%20BONHILL)%20CEMETERY">VALE OF LEVEN (OR BONHILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.58832,55.98254</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARROCHAR PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079056/ARROCHAR%20PARISH%20CHURCHYARD">ARROCHAR PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.74776,56.19484</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOTURICH CASTLE PRIVATE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079060/BOTURICH%20CASTLE%20PRIVATE%20CEMETERY">BOTURICH CASTLE PRIVATE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.58753,56.02756</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MILLBURN UNITED FREE CHURCHYARD, CARDROSS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079068/MILLBURN%20UNITED%20FREE%20CHURCHYARD,%20CARDROSS">MILLBURN UNITED FREE CHURCHYARD, CARDROSS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.58464,55.97585</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROSNEATH OLD PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079072/ROSNEATH%20OLD%20PARISH%20CHURCHYARD">ROSNEATH OLD PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.80253,56.00937</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEST KIRK BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2100889/WEST%20KIRK%20BURIAL%20GROUND">WEST KIRK BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.58267,55.94845</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

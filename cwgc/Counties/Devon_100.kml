@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Devon
+						</name>
+						<description>
+							Cemeteries in Devon from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>EXETER HIGHER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37364/EXETER%20HIGHER%20CEMETERY">EXETER HIGHER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.50194,50.72762</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TORQUAY CEMETERY AND EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37541/TORQUAY%20CEMETERY%20AND%20EXTENSION">TORQUAY CEMETERY AND EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.54317,50.48311</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PLYMOUTH NAVAL MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142001/PLYMOUTH%20NAVAL%20MEMORIAL">PLYMOUTH NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.14223,50.36573</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORD PARK CEMETERY (FORMERLY PLYMOUTH OLD CEMETERY) (PENNYCOMEQUICK)</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086000/FORD%20PARK%20CEMETERY%20(FORMERLY%20PLYMOUTH%20OLD%20CEMETERY)%20(PENNYCOMEQUICK)">FORD PARK CEMETERY (FORMERLY PLYMOUTH OLD CEMETERY) (PENNYCOMEQUICK) at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.14343,50.38295</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PLYMOUTH (WESTON MILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086001/PLYMOUTH%20(WESTON%20MILL)%20CEMETERY">PLYMOUTH (WESTON MILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.17198,50.39532</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PLYMOUTH (EFFORD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2091276/PLYMOUTH%20(EFFORD)%20CEMETERY">PLYMOUTH (EFFORD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.10999,50.39092</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

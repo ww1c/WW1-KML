@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Channel Islands
+						</name>
+						<description>
+							Cemeteries in Channel Islands from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>FORT GEORGE MILITARY CEMETERY, ST. PETER PORT, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071019/FORT%20GEORGE%20MILITARY%20CEMETERY,%20ST.%20PETER%20PORT,%20GUERNSEY">FORT GEORGE MILITARY CEMETERY, ST. PETER PORT, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.53583,49.44199</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER (ALMORAH) CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071023/ST.%20HELIER%20(ALMORAH)%20CEMETERY,%20JERSEY">ST. HELIER (ALMORAH) CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.10756,49.19652</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER (MONT-A-L'ABBE) NEW CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071024/ST.%20HELIER%20(MONT-A-L'ABBE)%20NEW%20CEMETERY,%20JERSEY">ST. HELIER (MONT-A-L'ABBE) NEW CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11566,49.19432</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

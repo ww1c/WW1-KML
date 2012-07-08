@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Isle of Man
+						</name>
+						<description>
+							Cemeteries in Isle of Man from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>DOUGLAS CEMETERY (ISLE OF MAN)</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2068366/DOUGLAS%20CEMETERY%20(ISLE%20OF%20MAN)">DOUGLAS CEMETERY (ISLE OF MAN) at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.47943,54.16747</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRK BRADDAN (ST. BRENDAN) NEW CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111491/KIRK%20BRADDAN%20(ST.%20BRENDAN)%20NEW%20CHURCHYARD">KIRK BRADDAN (ST. BRENDAN) NEW CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.50546,54.16403</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRK CHRIST LEZAYRE (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111492/KIRK%20CHRIST%20LEZAYRE%20(HOLY%20TRINITY)%20CHURCHYARD">KIRK CHRIST LEZAYRE (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.42537,54.3181</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRK PATRICK (HOLY TRINITY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2111501/KIRK%20PATRICK%20(HOLY%20TRINITY)%20CHURCHYARD">KIRK PATRICK (HOLY TRINITY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.69335,54.20432</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

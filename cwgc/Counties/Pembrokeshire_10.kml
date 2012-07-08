@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Pembrokeshire
+						</name>
+						<description>
+							Cemeteries in Pembrokeshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>MILFORD HAVEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75101/MILFORD%20HAVEN%20CEMETERY">MILFORD HAVEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.03202,51.72788</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PEMBROKE DOCK (LLANION) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75113/PEMBROKE%20DOCK%20(LLANION)%20CEMETERY">PEMBROKE DOCK (LLANION) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.92557,51.6935</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PEMBROKE DOCK MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75114/PEMBROKE%20DOCK%20MILITARY%20CEMETERY">PEMBROKE DOCK MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.93387,51.69713</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TENBY (ST. MARY) CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/75131/TENBY%20(ST.%20MARY)%20CHURCH%20CEMETERY">TENBY (ST. MARY) CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.70621,51.67952</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

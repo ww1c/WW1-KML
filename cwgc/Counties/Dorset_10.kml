@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Dorset
+						</name>
+						<description>
+							Cemeteries in Dorset from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>DORCHESTER CEMETERY, DORSET</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43134/DORCHESTER%20CEMETERY,%20DORSET">DORCHESTER CEMETERY, DORSET at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.44247,50.70624</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BLANDFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070905/BLANDFORD%20CEMETERY">BLANDFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15409,50.86584</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIDPORT CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070913/BRIDPORT%20CEMETERY">BRIDPORT CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.74289,50.73484</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORCHESTER (FORDINGTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070928/DORCHESTER%20(FORDINGTON)%20CEMETERY">DORCHESTER (FORDINGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.4263,50.7131</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LONGFLEET (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070950/LONGFLEET%20(ST.%20MARY)%20CHURCHYARD">LONGFLEET (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.972,50.72277</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELCOMBE REGIS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070959/MELCOMBE%20REGIS%20CEMETERY">MELCOMBE REGIS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.46389,50.61394</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>POOLE (BRANKSOME) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070971/POOLE%20(BRANKSOME)%20CEMETERY">POOLE (BRANKSOME) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.94075,50.73608</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>POOLE (PARKSTONE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070973/POOLE%20(PARKSTONE)%20CEMETERY">POOLE (PARKSTONE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.94988,50.7139</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>POOLE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070970/POOLE%20CEMETERY">POOLE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96319,50.73316</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTLAND (ST. GEORGE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070976/PORTLAND%20(ST.%20GEORGE)%20CHURCHYARD">PORTLAND (ST. GEORGE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.44345,50.54699</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTLAND ROYAL NAVAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070975/PORTLAND%20ROYAL%20NAVAL%20CEMETERY">PORTLAND ROYAL NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.43814,50.56518</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SHERBORNE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070986/SHERBORNE%20CEMETERY">SHERBORNE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.52655,50.94193</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SWANAGE (NORTHBROOK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070996/SWANAGE%20(NORTHBROOK)%20CEMETERY">SWANAGE (NORTHBROOK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96365,50.61024</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WAREHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071003/WAREHAM%20CEMETERY">WAREHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.10692,50.68493</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEYMOUTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071009/WEYMOUTH%20CEMETERY">WEYMOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.47793,50.61116</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIMBORNE MINSTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071010/WIMBORNE%20MINSTER%20CEMETERY">WIMBORNE MINSTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.99332,50.80323</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WOOL (HOLY ROOD) CHURCHYARD AND EXTENSION</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071012/WOOL%20(HOLY%20ROOD)%20CHURCHYARD%20AND%20EXTENSION">WOOL (HOLY ROOD) CHURCHYARD AND EXTENSION at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.21687,50.67749</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

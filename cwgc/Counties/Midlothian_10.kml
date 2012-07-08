@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Midlothian
+						</name>
+						<description>
+							Cemeteries in Midlothian from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>COCKPEN OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/47122/COCKPEN%20OLD%20CHURCHYARD">COCKPEN OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.08966,55.86592</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALKEITH NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086161/DALKEITH%20NEW%20CEMETERY">DALKEITH NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.077,55.89152</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERESK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086167/INVERESK%20PARISH%20CHURCHYARD">INVERESK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.05129,55.93678</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENICUIK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086173/PENICUIK%20CEMETERY">PENICUIK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.21872,55.82877</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEST CALDER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2086177/WEST%20CALDER%20CEMETERY">WEST CALDER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.58345,55.84707</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

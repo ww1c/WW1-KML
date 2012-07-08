@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Lanarkshire
+						</name>
+						<description>
+							Cemeteries in Lanarkshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>AIRDRIE (ST. JOSEPH'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74410/AIRDRIE%20(ST.%20JOSEPH'S)%20ROMAN%20CATHOLIC%20CEMETERY">AIRDRIE (ST. JOSEPH'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.97962,55.87865</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOTHWELL PARK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74415/BOTHWELL%20PARK%20CEMETERY">BOTHWELL PARK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.04559,55.82059</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CADDER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74416/CADDER%20CEMETERY">CADDER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.20336,55.92375</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAMBUSLANG (WESTBURN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74417/CAMBUSLANG%20(WESTBURN)%20CEMETERY">CAMBUSLANG (WESTBURN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.14744,55.81868</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAMBUSNETHAN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74418/CAMBUSNETHAN%20CEMETERY">CAMBUSNETHAN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.90424,55.77557</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALZIEL (AIRBLES) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74432/DALZIEL%20(AIRBLES)%20CEMETERY">DALZIEL (AIRBLES) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.00587,55.78171</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAMILTON (BENT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74439/HAMILTON%20(BENT)%20CEMETERY">HAMILTON (BENT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.05306,55.77206</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HAMILTON WEST CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74440/HAMILTON%20WEST%20CEMETERY">HAMILTON WEST CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.06522,55.77376</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LANARK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74444/LANARK%20CEMETERY">LANARK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.76727,55.67018</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LARKHALL CEMETERY, DALSERF</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74447/LARKHALL%20CEMETERY,%20DALSERF">LARKHALL CEMETERY, DALSERF at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.96726,55.74464</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LESMAHAGOW (OR ABBEY GREEN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74448/LESMAHAGOW%20(OR%20ABBEY%20GREEN)%20CEMETERY">LESMAHAGOW (OR ABBEY GREEN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.8917,55.64606</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEW MONKLAND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74449/NEW%20MONKLAND%20CEMETERY">NEW MONKLAND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.99687,55.88765</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLD MONKLAND CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74451/OLD%20MONKLAND%20CEMETERY">OLD MONKLAND CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.04926,55.84708</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RUTHERGLEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74453/RUTHERGLEN%20CEMETERY">RUTHERGLEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.2148,55.81841</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

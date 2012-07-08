@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Renfrewshire
+						</name>
+						<description>
+							Cemeteries in Renfrewshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CATHCART CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74259/CATHCART%20CEMETERY">CATHCART CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.26495,55.80898</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GREENOCK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74262/GREENOCK%20CEMETERY">GREENOCK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.77377,55.94675</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PAISLEY (HAWKHEAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74269/PAISLEY%20(HAWKHEAD)%20CEMETERY">PAISLEY (HAWKHEAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.39702,55.83888</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PAISLEY (WOODSIDE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74270/PAISLEY%20(WOODSIDE)%20CEMETERY">PAISLEY (WOODSIDE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.44331,55.8433</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORT GLASGOW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74271/PORT%20GLASGOW%20CEMETERY">PORT GLASGOW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.66167,55.92961</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

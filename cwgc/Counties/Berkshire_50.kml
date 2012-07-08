@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Berkshire
+						</name>
+						<description>
+							Cemeteries in Berkshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>READING CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71584/READING%20CEMETERY">READING CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.94812,51.45295</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WINDSOR CEMETERY, BERKSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/71582/WINDSOR%20CEMETERY,%20BERKSHIRE">WINDSOR CEMETERY, BERKSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.62319,51.47026</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UNITED KINGDOM BOOK OF REMEMBRANCE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001126/UNITED%20KINGDOM%20BOOK%20OF%20REMEMBRANCE">UNITED KINGDOM BOOK OF REMEMBRANCE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.72512,51.5237</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

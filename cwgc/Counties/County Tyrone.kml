@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for County Tyrone
+						</name>
+						<description>
+							Cemeteries in County Tyrone from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BERAGH ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73508/BERAGH%20ROMAN%20CATHOLIC%20CHURCHYARD">BERAGH ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.16516,54.55049</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CALEDON (ST. JOHN) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73499/CALEDON%20(ST.%20JOHN)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">CALEDON (ST. JOHN) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.83696,54.35308</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAPPAGH (ST. EUGENIUS) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73509/CAPPAGH%20(ST.%20EUGENIUS)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">CAPPAGH (ST. EUGENIUS) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.30732,54.63032</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CARRICKMORE ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73510/CARRICKMORE%20ROMAN%20CATHOLIC%20CHURCHYARD">CARRICKMORE ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.04796,54.59905</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COOKSTOWN NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73493/COOKSTOWN%20NEW%20CEMETERY">COOKSTOWN NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.75149,54.63846</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERG CHURCH OF IRELAND CHURCHYARD, CASTLEDERG</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73490/DERG%20CHURCH%20OF%20IRELAND%20CHURCHYARD,%20CASTLEDERG">DERG CHURCH OF IRELAND CHURCHYARD, CASTLEDERG at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.593,54.70694</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERRYLORAN (CHAPEL HILL) ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73498/DERRYLORAN%20(CHAPEL%20HILL)%20ROMAN%20CATHOLIC%20CHURCHYARD">DERRYLORAN (CHAPEL HILL) ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.74454,54.6421</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DERRYLORAN OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73494/DERRYLORAN%20OLD%20CEMETERY">DERRYLORAN OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.75572,54.63299</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DONAGHENDRY CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73495/DONAGHENDRY%20CHURCH%20OF%20IRELAND%20CHURCHYARD">DONAGHENDRY CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.68262,54.57763</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DRUMCOO CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73507/DRUMCOO%20CEMETERY">DRUMCOO CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.73924,54.52962</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FIVEMILETOWN CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73491/FIVEMILETOWN%20CHURCH%20OF%20IRELAND%20CHURCHYARD">FIVEMILETOWN CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.31361,54.38011</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILDRESS CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73496/KILDRESS%20CHURCH%20OF%20IRELAND%20CHURCHYARD">KILDRESS CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.83888,54.64996</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILLEESHIL (ST. PAUL) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73500/KILLEESHIL%20(ST.%20PAUL)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">KILLEESHIL (ST. PAUL) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.94019,54.48772</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILLYMAN (ST. ANDREW) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73501/KILLYMAN%20(ST.%20ANDREW)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">KILLYMAN (ST. ANDREW) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.69985,54.48783</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LAGHEY (ST. PATRICK) ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73502/LAGHEY%20(ST.%20PATRICK)%20ROMAN%20CATHOLIC%20CHURCHYARD">LAGHEY (ST. PATRICK) ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.70403,54.49339</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOUNTJOY ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73503/MOUNTJOY%20ROMAN%20CATHOLIC%20CHURCHYARD">MOUNTJOY ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.60758,54.5553</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MOY (ST. JAMES) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73504/MOY%20(ST.%20JAMES)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">MOY (ST. JAMES) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.69204,54.44717</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STEWARTSTOWN ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73497/STEWARTSTOWN%20ROMAN%20CATHOLIC%20CHURCHYARD">STEWARTSTOWN ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.68265,54.57762</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TERMONAMONGAN (ST. BESTIUS) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73492/TERMONAMONGAN%20(ST.%20BESTIUS)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">TERMONAMONGAN (ST. BESTIUS) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.67934,54.67274</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TULLANISKEN (HOLY TRINITY) CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73505/TULLANISKEN%20(HOLY%20TRINITY)%20CHURCH%20OF%20IRELAND%20CHURCHYARD">TULLANISKEN (HOLY TRINITY) CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.74031,54.55091</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UPPER CLONANEESE PRESBYTERIAN CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73506/UPPER%20CLONANEESE%20PRESBYTERIAN%20CHURCHYARD">UPPER CLONANEESE PRESBYTERIAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.90058,54.46839</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARDSTRAW CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73520/ARDSTRAW%20CHURCH%20OF%20IRELAND%20CHURCHYARD">ARDSTRAW CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.379,54.71733</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLOUGHCOR ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73522/CLOUGHCOR%20ROMAN%20CATHOLIC%20CHURCHYARD">CLOUGHCOR ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.41748,54.87968</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DRUMDUFF ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73511/DRUMDUFF%20ROMAN%20CATHOLIC%20CHURCHYARD">DRUMDUFF ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.15454,54.58432</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EDENDERRY CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73512/EDENDERRY%20CHURCH%20OF%20IRELAND%20CHURCHYARD">EDENDERRY CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.26239,54.57397</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FINTONA PRESBYTERIAN CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73513/FINTONA%20PRESBYTERIAN%20CHURCHYARD">FINTONA PRESBYTERIAN CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.31261,54.49736</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLENOCK ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73514/GLENOCK%20ROMAN%20CATHOLIC%20CEMETERY">GLENOCK ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.37081,54.72401</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GORTIN (ST. PATRICK'S) ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73515/GORTIN%20(ST.%20PATRICK'S)%20ROMAN%20CATHOLIC%20CEMETERY">GORTIN (ST. PATRICK'S) ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.37084,54.72401</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILSKEERY CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73516/KILSKEERY%20CHURCH%20OF%20IRELAND%20CHURCHYARD">KILSKEERY CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.5379,54.44187</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LANGFIELD ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73517/LANGFIELD%20ROMAN%20CATHOLIC%20CHURCHYARD">LANGFIELD ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.49029,54.60353</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OMAGH (DUBLIN ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73519/OMAGH%20(DUBLIN%20ROAD)%20CEMETERY">OMAGH (DUBLIN ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.2922,54.58846</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SESKINORE CHURCH OF IRELAND CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73518/SESKINORE%20CHURCH%20OF%20IRELAND%20CHURCHYARD">SESKINORE CHURCH OF IRELAND CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.25058,54.5207</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STRABANE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73523/STRABANE%20CEMETERY">STRABANE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.45202,54.819</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>THE GRANGE GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000652/THE%20GRANGE%20GRAVEYARD">THE GRANGE GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.42337,54.90348</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>URNEY GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000655/URNEY%20GRAVEYARD">URNEY GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -7.52757,54.80111</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILDRESS CHURCH OF IRELAND OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007240/KILDRESS%20CHURCH%20OF%20IRELAND%20OLD%20CHURCHYARD">KILDRESS CHURCH OF IRELAND OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.81178,54.64567</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MINTERBURN PRESBYTERIAN CHURCH GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001088/MINTERBURN%20PRESBYTERIAN%20CHURCH%20GRAVEYARD">MINTERBURN PRESBYTERIAN CHURCH GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.87078,54.3953</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

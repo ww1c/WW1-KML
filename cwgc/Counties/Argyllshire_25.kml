@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Argyllshire
+						</name>
+						<description>
+							Cemeteries in Argyllshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CAMPBELTOWN (KILKERRAN) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2047700/CAMPBELTOWN%20(KILKERRAN)%20CEMETERY">CAMPBELTOWN (KILKERRAN) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.59024,55.41636</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILCHOMAN MILITARY CEMETERY, ISLE OF ISLAY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2079022/KILCHOMAN%20MILITARY%20CEMETERY,%20ISLE%20OF%20ISLAY">KILCHOMAN MILITARY CEMETERY, ISLE OF ISLAY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.44662,55.78061</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

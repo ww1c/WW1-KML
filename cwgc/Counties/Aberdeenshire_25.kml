@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Aberdeenshire
+						</name>
+						<description>
+							Cemeteries in Aberdeenshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABERDEEN (ALLENVALE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34100/ABERDEEN%20(ALLENVALE)%20CEMETERY">ABERDEEN (ALLENVALE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11078,57.13062</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ABERDEEN (NELLFIELD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34103/ABERDEEN%20(NELLFIELD)%20CEMETERY">ABERDEEN (NELLFIELD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11498,57.13979</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ABERDEEN (SPRINGBANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34107/ABERDEEN%20(SPRINGBANK)%20CEMETERY">ABERDEEN (SPRINGBANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.14555,57.13307</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ABERDEEN (ST. PETER'S) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34106/ABERDEEN%20(ST.%20PETER'S)%20CEMETERY">ABERDEEN (ST. PETER'S) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.09641,57.16027</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ABERDEEN (TRINITY) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34108/ABERDEEN%20(TRINITY)%20CEMETERY">ABERDEEN (TRINITY) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.08752,57.1567</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FRASERBURGH (KIRKTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34130/FRASERBURGH%20(KIRKTON)%20CEMETERY">FRASERBURGH (KIRKTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.00097,57.68027</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PETERHEAD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34176/PETERHEAD%20CEMETERY">PETERHEAD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.79138,57.50791</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PETERHEAD OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/34177/PETERHEAD%20OLD%20CHURCHYARD">PETERHEAD OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.78941,57.50424</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

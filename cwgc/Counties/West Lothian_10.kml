@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for West Lothian
+						</name>
+						<description>
+							Cemeteries in West Lothian from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BATHGATE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74303/BATHGATE%20CEMETERY">BATHGATE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.64761,55.89984</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BO'NESS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74304/BO'NESS%20CEMETERY">BO'NESS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.61521,56.0126</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ECCLESMACHAN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74306/ECCLESMACHAN%20CEMETERY">ECCLESMACHAN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.5098,55.94616</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LINLITHGOW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74308/LINLITHGOW%20CEMETERY">LINLITHGOW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.61306,55.97295</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>QUEENSFERRY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74305/QUEENSFERRY%20CEMETERY">QUEENSFERRY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.39935,55.98436</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UPHALL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74310/UPHALL%20CEMETERY">UPHALL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.49744,55.93177</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

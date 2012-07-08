@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Leicestershire
+						</name>
+						<description>
+							Cemeteries in Leicestershire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>HINCKLEY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41259/HINCKLEY%20CEMETERY">HINCKLEY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.36802,52.54929</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (BELGRAVE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41261/LEICESTER%20(BELGRAVE)%20CEMETERY">LEICESTER (BELGRAVE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.13095,52.66527</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (GILROES) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41214/LEICESTER%20(GILROES)%20CEMETERY">LEICESTER (GILROES) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.17159,52.65121</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEICESTER (WELFORD ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41262/LEICESTER%20(WELFORD%20ROAD)%20CEMETERY">LEICESTER (WELFORD ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.12969,52.61996</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOUGHBOROUGH (LEICESTER ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41263/LOUGHBOROUGH%20(LEICESTER%20ROAD)%20CEMETERY">LOUGHBOROUGH (LEICESTER ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19523,52.75998</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

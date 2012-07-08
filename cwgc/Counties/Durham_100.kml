@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Durham
+						</name>
+						<description>
+							Cemeteries in Durham from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>GATESHEAD EAST CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38006/GATESHEAD%20EAST%20CEMETERY">GATESHEAD EAST CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.59379,54.9557</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTH SHIELDS (HARTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38017/SOUTH%20SHIELDS%20(HARTON)%20CEMETERY">SOUTH SHIELDS (HARTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.41739,54.98345</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUNDERLAND (BISHOPWEARMOUTH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38024/SUNDERLAND%20(BISHOPWEARMOUTH)%20CEMETERY">SUNDERLAND (BISHOPWEARMOUTH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.4194,54.89763</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUNDERLAND (MERE KNOLLS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38025/SUNDERLAND%20(MERE%20KNOLLS)%20CEMETERY">SUNDERLAND (MERE KNOLLS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.37539,54.93542</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HARTLEPOOL (STRANTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38237/HARTLEPOOL%20(STRANTON)%20CEMETERY">HARTLEPOOL (STRANTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.22575,54.66495</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

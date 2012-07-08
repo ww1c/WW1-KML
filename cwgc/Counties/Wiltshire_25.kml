@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Wiltshire
+						</name>
+						<description>
+							Cemeteries in Wiltshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BULFORD CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45301/BULFORD%20CHURCH%20CEMETERY">BULFORD CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.76387,51.19236</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHISELDON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45361/CHISELDON%20CEMETERY">CHISELDON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.72812,51.51904</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DURRINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45302/DURRINGTON%20CEMETERY">DURRINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.78276,51.20649</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BAVERSTOCK (ST. EDITH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45476/BAVERSTOCK%20(ST.%20EDITH)%20CHURCHYARD">BAVERSTOCK (ST. EDITH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.9608,51.08354</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CODFORD ST. MARY (ST. MARY) NEW CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45456/CODFORD%20ST.%20MARY%20(ST.%20MARY)%20NEW%20CHURCHYARD">CODFORD ST. MARY (ST. MARY) NEW CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.03829,51.15709</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COMPTON CHAMBERLAYNE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45482/COMPTON%20CHAMBERLAYNE%20CEMETERY">COMPTON CHAMBERLAYNE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96054,51.06578</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FOVANT (ST. GEORGE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45485/FOVANT%20(ST.%20GEORGE)%20CHURCHYARD">FOVANT (ST. GEORGE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.00597,51.06527</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SALISBURY (DEVIZES ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45489/SALISBURY%20(DEVIZES%20ROAD)%20CEMETERY">SALISBURY (DEVIZES ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.81608,51.0801</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SALISBURY (LONDON ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45413/SALISBURY%20(LONDON%20ROAD)%20CEMETERY">SALISBURY (LONDON ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.78256,51.07928</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STRATFORD-SUB-CASTLE (ST. LAWRENCE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45431/STRATFORD-SUB-CASTLE%20(ST.%20LAWRENCE)%20CHURCHYARD">STRATFORD-SUB-CASTLE (ST. LAWRENCE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.81574,51.0929</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUTTON VENY (ST. JOHN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45463/SUTTON%20VENY%20(ST.%20JOHN)%20CHURCHYARD">SUTTON VENY (ST. JOHN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.14107,51.17453</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SWINDON (RADNOR STREET) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45438/SWINDON%20(RADNOR%20STREET)%20CEMETERY">SWINDON (RADNOR STREET) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.79196,51.55558</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TIDWORTH MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45411/TIDWORTH%20MILITARY%20CEMETERY">TIDWORTH MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.66749,51.25563</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>UPAVON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/45412/UPAVON%20CEMETERY">UPAVON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.81114,51.29533</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

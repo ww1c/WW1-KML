@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Selkirkshire
+						</name>
+						<description>
+							Cemeteries in Selkirkshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CADDONFOOT PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74296/CADDONFOOT%20PARISH%20CHURCHYARD">CADDONFOOT PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.87343,55.60302</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GALASHIELS (EASTLANDS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74297/GALASHIELS%20(EASTLANDS)%20CEMETERY">GALASHIELS (EASTLANDS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.80749,55.62249</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GALASHIELS (LADHOPE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74298/GALASHIELS%20(LADHOPE)%20CEMETERY">GALASHIELS (LADHOPE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.46375,51.69921</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SELKIRK CEMETERY, SELKIRKSHIRE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74302/SELKIRK%20CEMETERY,%20SELKIRKSHIRE">SELKIRK CEMETERY, SELKIRKSHIRE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.83144,55.5521</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SELKIRK OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74300/SELKIRK%20OLD%20CEMETERY">SELKIRK OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.84128,55.54601</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SELKIRK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74301/SELKIRK%20PARISH%20CHURCHYARD">SELKIRK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.84099,55.54658</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ASHKIRK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000189/ASHKIRK%20PARISH%20CHURCHYARD">ASHKIRK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.84702,55.48854</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

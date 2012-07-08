@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Kincardineshire
+						</name>
+						<description>
+							Cemeteries in Kincardineshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BANCHORY DEVENICK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000287/BANCHORY%20DEVENICK%20PARISH%20CHURCHYARD">BANCHORY DEVENICK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15514,57.1133</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BANCHORY TERNAN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000288/BANCHORY%20TERNAN%20PARISH%20CHURCHYARD">BANCHORY TERNAN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.48483,57.05222</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BERVIE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000281/BERVIE%20CEMETERY">BERVIE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.28549,56.83192</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CATTERLINE BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000285/CATTERLINE%20BURIAL%20GROUND">CATTERLINE BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.21906,56.89782</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COWIE (SS. MARY AND NATHAN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000283/COWIE%20(SS.%20MARY%20AND%20NATHAN)%20CHURCHYARD">COWIE (SS. MARY AND NATHAN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19245,56.97689</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNNOTTAR CEMETERY, STONEHAVEN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000284/DUNNOTTAR%20CEMETERY,%20STONEHAVEN">DUNNOTTAR CEMETERY, STONEHAVEN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.22772,56.95774</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DURRIS PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000286/DURRIS%20PARISH%20CHURCHYARD">DURRIS PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.37699,57.05867</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FETTERCAIRN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000296/FETTERCAIRN%20PARISH%20CHURCHYARD">FETTERCAIRN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.57431,56.85158</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FETTERESSO CEMETERY, STONEHAVEN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000297/FETTERESSO%20CEMETERY,%20STONEHAVEN">FETTERESSO CEMETERY, STONEHAVEN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.24406,56.9648</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORDOUN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000298/FORDOUN%20PARISH%20CHURCHYARD">FORDOUN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.45202,56.89649</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GARVOCK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000303/GARVOCK%20PARISH%20CHURCHYARD">GARVOCK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.41995,56.82524</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINNEFF CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000304/KINNEFF%20CHURCHYARD">KINNEFF CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.23942,56.86523</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LAURENCEKIRK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000305/LAURENCEKIRK%20CEMETERY">LAURENCEKIRK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.46031,56.82963</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MARYKIRK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000306/MARYKIRK%20PARISH%20CHURCHYARD">MARYKIRK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.51518,56.78059</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTLETHEN CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000309/PORTLETHEN%20CHURCHYARD">PORTLETHEN CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.12829,57.06046</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. CYRUS UPPER (PARISH) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000310/ST.%20CYRUS%20UPPER%20(PARISH)%20CHURCHYARD">ST. CYRUS UPPER (PARISH) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.41085,56.77389</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Dorset
+						</name>
+						<description>
+							Cemeteries in Dorset from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BLANDFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070905/BLANDFORD%20CEMETERY">BLANDFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15409,50.86584</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORCHESTER (FORDINGTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070928/DORCHESTER%20(FORDINGTON)%20CEMETERY">DORCHESTER (FORDINGTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.4263,50.7131</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELCOMBE REGIS CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070959/MELCOMBE%20REGIS%20CEMETERY">MELCOMBE REGIS CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.46389,50.61394</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>POOLE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070970/POOLE%20CEMETERY">POOLE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96319,50.73316</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTLAND ROYAL NAVAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070975/PORTLAND%20ROYAL%20NAVAL%20CEMETERY">PORTLAND ROYAL NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.43814,50.56518</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SWANAGE (NORTHBROOK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2070996/SWANAGE%20(NORTHBROOK)%20CEMETERY">SWANAGE (NORTHBROOK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.96365,50.61024</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WAREHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071003/WAREHAM%20CEMETERY">WAREHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.10692,50.68493</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WEYMOUTH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071009/WEYMOUTH%20CEMETERY">WEYMOUTH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.47793,50.61116</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIMBORNE MINSTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071010/WIMBORNE%20MINSTER%20CEMETERY">WIMBORNE MINSTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.99332,50.80323</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

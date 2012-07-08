@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Sussex
+						</name>
+						<description>
+							Cemeteries in Sussex from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CHICHESTER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44804/CHICHESTER%20CEMETERY">CHICHESTER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.75797,50.84093</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HORSHAM (HILLS) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44825/HORSHAM%20(HILLS)%20CEMETERY">HORSHAM (HILLS) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.34626,51.06467</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WORTHING (BROADWATER) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44891/WORTHING%20(BROADWATER)%20CEMETERY">WORTHING (BROADWATER) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.37997,50.82777</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BEXHILL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73111/BEXHILL%20CEMETERY">BEXHILL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.45167,50.85837</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIGHTON (EXTRA-MURAL) BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73116/BRIGHTON%20(EXTRA-MURAL)%20BOROUGH%20CEMETERY">BRIGHTON (EXTRA-MURAL) BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.12147,50.83691</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIGHTON AND PRESTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73114/BRIGHTON%20AND%20PRESTON%20CEMETERY">BRIGHTON AND PRESTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.12018,50.8342</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIGHTON CITY CEMETERY (BEAR ROAD)</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73115/BRIGHTON%20CITY%20CEMETERY%20(BEAR%20ROAD)">BRIGHTON CITY CEMETERY (BEAR ROAD) at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.1116,50.83668</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EASTBOURNE (OCKLYNGE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73148/EASTBOURNE%20(OCKLYNGE)%20CEMETERY">EASTBOURNE (OCKLYNGE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.26507,50.77776</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HASTINGS CEMETERY, SUSSEX</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73182/HASTINGS%20CEMETERY,%20SUSSEX">HASTINGS CEMETERY, SUSSEX at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.59041,50.88048</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOVE OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73187/HOVE%20OLD%20CEMETERY">HOVE OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.19048,50.8381</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LEWES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73189/LEWES%20CEMETERY">LEWES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.00036,50.8703</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWHAVEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73195/NEWHAVEN%20CEMETERY">NEWHAVEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.03676,50.80057</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SEAFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/73204/SEAFORD%20CEMETERY">SEAFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> 0.12105,50.78116</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRIGHTON (LEWES ROAD) BOROUGH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2073727/BRIGHTON%20(LEWES%20ROAD)%20BOROUGH%20CEMETERY">BRIGHTON (LEWES ROAD) BOROUGH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.12188,50.83615</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PATCHAM DOWN INDIAN FORCES CREMATION MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001087/PATCHAM%20DOWN%20INDIAN%20FORCES%20CREMATION%20MEMORIAL">PATCHAM DOWN INDIAN FORCES CREMATION MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.14739,50.88412</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

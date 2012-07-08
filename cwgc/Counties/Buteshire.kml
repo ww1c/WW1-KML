@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Buteshire
+						</name>
+						<description>
+							Cemeteries in Buteshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BRODICK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74166/BRODICK%20PARISH%20CHURCHYARD">BRODICK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.16846,55.58404</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KILBRIDE OLD CHURCHYARD, ISLE OF ARRAN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74167/KILBRIDE%20OLD%20CHURCHYARD,%20ISLE%20OF%20ARRAN">KILBRIDE OLD CHURCHYARD, ISLE OF ARRAN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.1209,55.54407</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCHRANZA PARISH CHURCHYARD, ISLE OF ARRAN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74168/LOCHRANZA%20PARISH%20CHURCHYARD,%20ISLE%20OF%20ARRAN">LOCHRANZA PARISH CHURCHYARD, ISLE OF ARRAN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.28461,55.70162</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MILLPORT CEMETERY, CUMBRAE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74170/MILLPORT%20CEMETERY,%20CUMBRAE">MILLPORT CEMETERY, CUMBRAE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.93673,55.7548</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH BUTE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74169/NORTH%20BUTE%20CEMETERY">NORTH BUTE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.11045,55.85948</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH BUTE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74171/NORTH%20BUTE%20PARISH%20CHURCHYARD">NORTH BUTE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.11198,55.85951</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROTHESAY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74172/ROTHESAY%20CEMETERY">ROTHESAY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.05666,55.82803</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SANNOX OLD CHURCHYARD, KILBRIDE, ISLE OF ARRAN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74173/SANNOX%20OLD%20CHURCHYARD,%20KILBRIDE,%20ISLE%20OF%20ARRAN">SANNOX OLD CHURCHYARD, KILBRIDE, ISLE OF ARRAN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.15507,55.6633</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

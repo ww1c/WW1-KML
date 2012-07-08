@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Hampshire
+						</name>
+						<description>
+							Cemeteries in Hampshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ALDERSHOT MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38800/ALDERSHOT%20MILITARY%20CEMETERY">ALDERSHOT MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.74481,51.25552</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOURNEMOUTH (WIMBORNE ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39202/BOURNEMOUTH%20(WIMBORNE%20ROAD)%20CEMETERY">BOURNEMOUTH (WIMBORNE ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.87403,50.73229</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BOURNEMOUTH EAST CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39200/BOURNEMOUTH%20EAST%20CEMETERY">BOURNEMOUTH EAST CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.82826,50.7339</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRAMSHOTT (ST. MARY) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38900/BRAMSHOTT%20(ST.%20MARY)%20CHURCHYARD">BRAMSHOTT (ST. MARY) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.79801,51.08944</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROCKENHURST (ST. NICHOLAS) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39217/BROCKENHURST%20(ST.%20NICHOLAS)%20CHURCHYARD">BROCKENHURST (ST. NICHOLAS) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.56791,50.8144</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRAYSHOTT (ST. JOSEPH) ROMAN CATHOLIC CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38901/GRAYSHOTT%20(ST.%20JOSEPH)%20ROMAN%20CATHOLIC%20CHURCHYARD">GRAYSHOTT (ST. JOSEPH) ROMAN CATHOLIC CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.76578,51.11102</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NETLEY MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39250/NETLEY%20MILITARY%20CEMETERY">NETLEY MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.33232,50.86609</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTSDOWN (CHRIST CHURCH) MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39105/PORTSDOWN%20(CHRIST%20CHURCH)%20MILITARY%20CEMETERY">PORTSDOWN (CHRIST CHURCH) MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.05235,50.85457</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTSMOUTH (HIGHLAND ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39100/PORTSMOUTH%20(HIGHLAND%20ROAD)%20CEMETERY">PORTSMOUTH (HIGHLAND ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.06725,50.78608</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTSMOUTH (KINGSTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39101/PORTSMOUTH%20(KINGSTON)%20CEMETERY">PORTSMOUTH (KINGSTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.06833,50.80315</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHAMPTON (HOLLYBROOK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39242/SOUTHAMPTON%20(HOLLYBROOK)%20CEMETERY">SOUTHAMPTON (HOLLYBROOK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.43139,50.93401</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SOUTHAMPTON OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39243/SOUTHAMPTON%20OLD%20CEMETERY">SOUTHAMPTON OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.41286,50.92034</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HOLLYBROOK MEMORIAL, SOUTHAMPTON</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/142019/HOLLYBROOK%20MEMORIAL,%20SOUTHAMPTON">HOLLYBROOK MEMORIAL, SOUTHAMPTON at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.43114,50.93384</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTSMOUTH NAVAL MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/144703/PORTSMOUTH%20NAVAL%20MEMORIAL">PORTSMOUTH NAVAL MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.09599,50.78242</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PORTSMOUTH (MILTON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034510/PORTSMOUTH%20(MILTON)%20CEMETERY">PORTSMOUTH (MILTON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.0608,50.79886</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WINCHESTER (MAGDALEN HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034572/WINCHESTER%20(MAGDALEN%20HILL)%20CEMETERY">WINCHESTER (MAGDALEN HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.27211,51.06176</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WINCHESTER (WEST HILL) OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2034574/WINCHESTER%20(WEST%20HILL)%20OLD%20CEMETERY">WINCHESTER (WEST HILL) OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.32298,51.06104</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GOSPORT (ANN'S HILL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2044500/GOSPORT%20(ANN'S%20HILL)%20CEMETERY">GOSPORT (ANN'S HILL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.14855,50.79796</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HASLAR ROYAL NAVAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2044620/HASLAR%20ROYAL%20NAVAL%20CEMETERY">HASLAR ROYAL NAVAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.13732,50.78325</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ANDOVER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2067506/ANDOVER%20CEMETERY">ANDOVER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.47614,51.21272</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BASINGSTOKE (WORTING ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2067510/BASINGSTOKE%20(WORTING%20ROAD)%20CEMETERY">BASINGSTOKE (WORTING ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.10496,51.26235</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BORDON MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2067524/BORDON%20MILITARY%20CEMETERY">BORDON MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.8762,51.11961</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

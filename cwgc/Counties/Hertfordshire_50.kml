@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Hertfordshire
+						</name>
+						<description>
+							Cemeteries in Hertfordshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>HATFIELD ROAD CEMETERY, ST. ALBANS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39681/HATFIELD%20ROAD%20CEMETERY,%20ST.%20ALBANS">HATFIELD ROAD CEMETERY, ST. ALBANS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.31928,51.75233</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEW SOUTHGATE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39625/NEW%20SOUTHGATE%20CEMETERY">NEW SOUTHGATE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.14726,51.62505</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WATFORD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/39703/WATFORD%20CEMETERY">WATFORD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.40078,51.65174</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

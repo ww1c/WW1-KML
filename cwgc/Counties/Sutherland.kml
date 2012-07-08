@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Sutherland
+						</name>
+						<description>
+							Cemeteries in Sutherland from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>CLYNE NEW BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74631/CLYNE%20NEW%20BURIAL%20GROUND">CLYNE NEW BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.86338,58.0168</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CREICH OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74632/CREICH%20OLD%20CHURCHYARD">CREICH OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.30126,57.87146</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORNOCH EAST CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74633/DORNOCH%20EAST%20CEMETERY">DORNOCH EAST CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.02594,57.87904</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DURNESS OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74634/DURNESS%20OLD%20CHURCHYARD">DURNESS OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.76813,58.57603</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FARR PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74635/FARR%20PARISH%20CHURCHYARD">FARR PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.20889,58.52899</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GOLSPIE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74636/GOLSPIE%20CEMETERY">GOLSPIE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.96672,57.97713</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HELMSDALE CEMETERY, KILDONAN</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74637/HELMSDALE%20CEMETERY,%20KILDONAN">HELMSDALE CEMETERY, KILDONAN at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.65744,58.11842</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INCHNADAMPH (OR KIRKTON) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74638/INCHNADAMPH%20(OR%20KIRKTON)%20OLD%20CHURCHYARD">INCHNADAMPH (OR KIRKTON) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.9762,58.15201</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INVERSHIN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74639/INVERSHIN%20CEMETERY">INVERSHIN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.40776,57.94139</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LAIRG CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74641/LAIRG%20CEMETERY">LAIRG CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.40515,58.03146</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOCHINVER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74642/LOCHINVER%20CEMETERY">LOCHINVER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.24045,58.15477</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LOTH OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74643/LOTH%20OLD%20CHURCHYARD">LOTH OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.7468,58.07867</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NAVIDALE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74640/NAVIDALE%20CEMETERY">NAVIDALE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.62842,58.12399</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEDD CEMETERY, ASSYNT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74644/NEDD%20CEMETERY,%20ASSYNT">NEDD CEMETERY, ASSYNT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.17735,58.23612</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROGART NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74645/ROGART%20NEW%20CEMETERY">ROGART NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.13656,58.00439</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STOER CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74646/STOER%20CEMETERY">STOER CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.33666,58.20104</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TONGUE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74647/TONGUE%20PARISH%20CHURCHYARD">TONGUE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.41898,58.4788</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDSHORE BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082364/OLDSHORE%20BURIAL%20GROUND">OLDSHORE BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.0838,58.47757</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STRATHY BURIAL GROUND, FARR</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082366/STRATHY%20BURIAL%20GROUND,%20FARR">STRATHY BURIAL GROUND, FARR at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.99789,58.56318</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TORRISDALE BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2082367/TORRISDALE%20BURIAL%20GROUND">TORRISDALE BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.27349,58.52667</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ARNABOLL BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096410/ARNABOLL%20BURIAL%20GROUND">ARNABOLL BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.63093,58.48291</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>AUCHNESS BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096411/AUCHNESS%20BURIAL%20GROUND">AUCHNESS BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.09156,56.37969</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ELPHIN BURIAL GROUND, ASSYNT</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096412/ELPHIN%20BURIAL%20GROUND,%20ASSYNT">ELPHIN BURIAL GROUND, ASSYNT at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.0212,58.06184</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KIRKTON BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096413/KIRKTON%20BURIAL%20GROUND">KIRKTON BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -3.90716,58.52782</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MELNESS CEMETERY, TONGUE</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096414/MELNESS%20CEMETERY,%20TONGUE">MELNESS CEMETERY, TONGUE at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.44979,58.49823</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TUTIM BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2096418/TUTIM%20BURIAL%20GROUND">TUTIM BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.6406,57.97505</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

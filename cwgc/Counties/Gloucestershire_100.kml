@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Gloucestershire
+						</name>
+						<description>
+							Cemeteries in Gloucestershire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BRISTOL (ARNOS VALE) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38504/BRISTOL%20(ARNOS%20VALE)%20CEMETERY">BRISTOL (ARNOS VALE) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.5649,51.44235</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRISTOL (GREENBANK) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38508/BRISTOL%20(GREENBANK)%20CEMETERY">BRISTOL (GREENBANK) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.55396,51.46844</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CHELTENHAM CEMETERY, PRESTBURY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38524/CHELTENHAM%20CEMETERY,%20PRESTBURY">CHELTENHAM CEMETERY, PRESTBURY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.04539,51.90552</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLOUCESTER OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/38582/GLOUCESTER%20OLD%20CEMETERY">GLOUCESTER OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.22776,51.84825</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

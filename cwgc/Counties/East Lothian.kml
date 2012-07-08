@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for East Lothian
+						</name>
+						<description>
+							Cemeteries in East Lothian from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ABERLADY PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74214/ABERLADY%20PARISH%20CHURCHYARD">ABERLADY PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.86463,56.00819</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ATHELSTANEFORD PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74215/ATHELSTANEFORD%20PARISH%20CHURCHYARD">ATHELSTANEFORD PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.75005,55.98644</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DIRLETON PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74216/DIRLETON%20PARISH%20CHURCHYARD">DIRLETON PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.7837,56.04791</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DUNBAR CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74217/DUNBAR%20CEMETERY">DUNBAR CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.51056,55.99907</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ELPHINSTONE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74218/ELPHINSTONE%20CEMETERY">ELPHINSTONE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.96861,55.91911</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GLADSMUIR PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74219/GLADSMUIR%20PARISH%20CHURCHYARD">GLADSMUIR PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.8694,55.94925</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GULLANE PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74220/GULLANE%20PARISH%20CHURCHYARD">GULLANE PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.83542,56.03404</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HADDINGTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74221/HADDINGTON%20CEMETERY">HADDINGTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.77396,55.95296</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH BERWICK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74222/NORTH%20BERWICK%20CEMETERY">NORTH BERWICK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.70288,56.05334</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH BERWICK OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74223/NORTH%20BERWICK%20OLD%20CHURCHYARD">NORTH BERWICK OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.71846,56.05798</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>OLDHAMSTOCKS PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74224/OLDHAMSTOCKS%20PARISH%20CHURCHYARD">OLDHAMSTOCKS PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.42032,55.92829</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ORMISTON OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74225/ORMISTON%20OLD%20CHURCHYARD">ORMISTON OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.94839,55.89639</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PRESTONKIRK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74226/PRESTONKIRK%20PARISH%20CHURCHYARD">PRESTONKIRK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.65508,55.99108</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PRESTONPANS NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74227/PRESTONPANS%20NEW%20CEMETERY">PRESTONPANS NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.97583,55.96178</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SALTOUN PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74228/SALTOUN%20PARISH%20CHURCHYARD">SALTOUN PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.84144,55.90096</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STENTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74229/STENTON%20CEMETERY">STENTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.60709,55.9598</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TRANENT NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74230/TRANENT%20NEW%20CEMETERY">TRANENT NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.95319,55.95126</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WHITTINGEHAME PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74231/WHITTINGEHAME%20PARISH%20CHURCHYARD">WHITTINGEHAME PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.63784,55.95434</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>YESTER PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74232/YESTER%20PARISH%20CHURCHYARD">YESTER PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.74487,55.90363</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>HADDINGTON ROMAN CATHOLIC GRAVEYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000179/HADDINGTON%20ROMAN%20CATHOLIC%20GRAVEYARD">HADDINGTON ROMAN CATHOLIC GRAVEYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.76813,55.95261</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>INNERWICK PARISH CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000183/INNERWICK%20PARISH%20CHURCHYARD">INNERWICK PARISH CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.44995,55.95794</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TYNNINGHAME BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000184/TYNNINGHAME%20BURIAL%20GROUND">TYNNINGHAME BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.61115,56.00876</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

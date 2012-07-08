@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Surrey
+						</name>
+						<description>
+							Cemeteries in Surrey from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BANDON HILL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44503/BANDON%20HILL%20CEMETERY">BANDON HILL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.13237,51.36558</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROOKWOOD MILITARY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44400/BROOKWOOD%20MILITARY%20CEMETERY">BROOKWOOD MILITARY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.64212,51.30022</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROYDON (MITCHAM ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44512/CROYDON%20(MITCHAM%20ROAD)%20CEMETERY">CROYDON (MITCHAM ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.12874,51.38873</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROYDON (QUEEN'S ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44513/CROYDON%20(QUEEN'S%20ROAD)%20CEMETERY">CROYDON (QUEEN'S ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.10317,51.38833</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DORKING CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44612/DORKING%20CEMETERY">DORKING CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.31894,51.23656</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EAST SHEEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44500/EAST%20SHEEN%20CEMETERY">EAST SHEEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.28442,51.46061</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ENGLEFIELD GREEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44615/ENGLEFIELD%20GREEN%20CEMETERY">ENGLEFIELD GREEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.57286,51.42751</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>EPSOM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44628/EPSOM%20CEMETERY">EPSOM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.25648,51.31862</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GUILDFORD (STOKE) OLD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44655/GUILDFORD%20(STOKE)%20OLD%20CEMETERY">GUILDFORD (STOKE) OLD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.58256,51.25309</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MORDEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44531/MORDEN%20CEMETERY">MORDEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.2272,51.39125</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>REIGATE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44536/REIGATE%20CEMETERY">REIGATE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.19474,51.23673</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>STREATHAM PARK CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44534/STREATHAM%20PARK%20CEMETERY">STREATHAM PARK CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.14372,51.40791</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SUTTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44550/SUTTON%20CEMETERY">SUTTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.20772,51.38061</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WIMBLEDON (GAP ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44552/WIMBLEDON%20(GAP%20ROAD)%20CEMETERY">WIMBLEDON (GAP ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.19456,51.42786</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROOKWOOD CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44695/BROOKWOOD%20CEMETERY">BROOKWOOD CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.62973,51.30124</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KINGSTON-UPON-THAMES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44684/KINGSTON-UPON-THAMES%20CEMETERY">KINGSTON-UPON-THAMES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.28803,51.40623</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH SHEEN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44686/NORTH%20SHEEN%20CEMETERY">NORTH SHEEN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.27886,51.46905</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WALTON AND WEYBRIDGE (WALTON-ON-THAMES) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44693/WALTON%20AND%20WEYBRIDGE%20(WALTON-ON-THAMES)%20CEMETERY">WALTON AND WEYBRIDGE (WALTON-ON-THAMES) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.41746,51.38795</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>WITLEY (MILFORD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44681/WITLEY%20(MILFORD)%20CEMETERY">WITLEY (MILFORD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.65554,51.16417</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CATERHAM AND WARLINGHAM (CATERHAM) BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000301/CATERHAM%20AND%20WARLINGHAM%20(CATERHAM)%20BURIAL%20GROUND">CATERHAM AND WARLINGHAM (CATERHAM) BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.08464,51.28241</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MITCHAM (CHURCH ROAD) BURIAL GROUND</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2000313/MITCHAM%20(CHURCH%20ROAD)%20BURIAL%20GROUND">MITCHAM (CHURCH ROAD) BURIAL GROUND at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.17398,51.40272</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BROOKWOOD (UNITED KINGDOM 1914-1918) MEMORIAL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007318/BROOKWOOD%20(UNITED%20KINGDOM%201914-1918)%20MEMORIAL">BROOKWOOD (UNITED KINGDOM 1914-1918) MEMORIAL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.63722,51.30237</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>RICHMOND CEMETERY, SURREY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007123/RICHMOND%20CEMETERY,%20SURREY">RICHMOND CEMETERY, SURREY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.28924,51.45787</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

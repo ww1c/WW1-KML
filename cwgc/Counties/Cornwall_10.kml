@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Cornwall
+						</name>
+						<description>
+							Cemeteries in Cornwall from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ANTONY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37029/ANTONY%20CEMETERY">ANTONY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.2533,50.36933</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BODMIN CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36900/BODMIN%20CEMETERY">BODMIN CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.71873,50.47602</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CAMBORNE-REDRUTH (REDRUTH) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37006/CAMBORNE-REDRUTH%20(REDRUTH)%20CEMETERY">CAMBORNE-REDRUTH (REDRUTH) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.21812,50.23474</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FALMOUTH CEMETERY, CORNWALL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36939/FALMOUTH%20CEMETERY,%20CORNWALL">FALMOUTH CEMETERY, CORNWALL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.07505,50.14378</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>KENWYN (ST. KENWYN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37059/KENWYN%20(ST.%20KENWYN)%20CHURCHYARD">KENWYN (ST. KENWYN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.06172,50.2721</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NEWQUAY NEW CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36994/NEWQUAY%20NEW%20CEMETERY">NEWQUAY NEW CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.09181,50.41305</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENZANCE (PAUL) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36996/PENZANCE%20(PAUL)%20CEMETERY">PENZANCE (PAUL) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.54941,50.08843</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>PENZANCE CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/36993/PENZANCE%20CEMETERY">PENZANCE CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.54784,50.12475</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. AUSTELL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37020/ST.%20AUSTELL%20CEMETERY">ST. AUSTELL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.78311,50.33689</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. IVES (BARNOON) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37039/ST.%20IVES%20(BARNOON)%20CEMETERY">ST. IVES (BARNOON) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.48338,50.21341</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. STEPHEN'S-BY-SALTASH (ST. STEPHEN) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37037/ST.%20STEPHEN'S-BY-SALTASH%20(ST.%20STEPHEN)%20CHURCHYARD">ST. STEPHEN'S-BY-SALTASH (ST. STEPHEN) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.22953,50.40364</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TRURO CEMETERY, CORNWALL</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/37055/TRURO%20CEMETERY,%20CORNWALL">TRURO CEMETERY, CORNWALL at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -5.04032,50.26237</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

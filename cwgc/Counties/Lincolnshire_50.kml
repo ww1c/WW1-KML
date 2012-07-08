@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Lincolnshire
+						</name>
+						<description>
+							Cemeteries in Lincolnshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>BOSTON CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41400/BOSTON%20CEMETERY">BOSTON CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.02729,52.98864</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRANTHAM CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41460/GRANTHAM%20CEMETERY">GRANTHAM CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.63263,52.90953</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CLEETHORPES CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41520/CLEETHORPES%20CEMETERY">CLEETHORPES CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.03753,53.55514</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRIMSBY (SCARTHO ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41553/GRIMSBY%20(SCARTHO%20ROAD)%20CEMETERY">GRIMSBY (SCARTHO ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.08892,53.54651</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>LINCOLN (NEWPORT) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/41578/LINCOLN%20(NEWPORT)%20CEMETERY">LINCOLN (NEWPORT) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -0.53267,53.2401</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

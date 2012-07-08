@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Ross and Cromarty
+						</name>
+						<description>
+							Cemeteries in Ross and Cromarty from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>EYE CEMETERY (OR AIGNISH BURIAL GROUND), ISLE OF LEWIS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/44153/EYE%20CEMETERY%20(OR%20AIGNISH%20BURIAL%20GROUND),%20ISLE%20OF%20LEWIS">EYE CEMETERY (OR AIGNISH BURIAL GROUND), ISLE OF LEWIS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.28801,58.20587</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BARVAS (ST. MARY) OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74585/BARVAS%20(ST.%20MARY)%20OLD%20CHURCHYARD">BARVAS (ST. MARY) OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.52623,58.37373</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>BRAGAR OLD CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74587/BRAGAR%20OLD%20CHURCHYARD">BRAGAR OLD CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.63628,58.34461</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROMARTY CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74590/CROMARTY%20CEMETERY">CROMARTY CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.03309,57.67884</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>CROSSBOST CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74591/CROSSBOST%20CEMETERY">CROSSBOST CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.44091,58.1325</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>DALMORE CEMETERY, UIG</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74592/DALMORE%20CEMETERY,%20UIG">DALMORE CEMETERY, UIG at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.75545,58.30526</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GRESS OLD CHURCHYARD, STORNOWAY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74603/GRESS%20OLD%20CHURCHYARD,%20STORNOWAY">GRESS OLD CHURCHYARD, STORNOWAY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.28299,58.29092</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NESS (ST. PETER) OLD CHURCHYARD, BARVAS</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74617/NESS%20(ST.%20PETER)%20OLD%20CHURCHYARD,%20BARVAS">NESS (ST. PETER) OLD CHURCHYARD, BARVAS at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.27648,58.49123</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NORTH TOLSTA CEMETERY, STORNOWAY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74619/NORTH%20TOLSTA%20CEMETERY,%20STORNOWAY">NORTH TOLSTA CEMETERY, STORNOWAY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.1988,58.35058</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ROSSKEEN PARISH CHURCHYARD EXTENSIONS (OR BURIAL GROUND)</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74622/ROSSKEEN%20PARISH%20CHURCHYARD%20EXTENSIONS%20(OR%20BURIAL%20GROUND)">ROSSKEEN PARISH CHURCHYARD EXTENSIONS (OR BURIAL GROUND) at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -4.20156,57.69451</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SANDWICK CEMETERY, ROSS AND CROMARTY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/74624/SANDWICK%20CEMETERY,%20ROSS%20AND%20CROMARTY">SANDWICK CEMETERY, ROSS AND CROMARTY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -6.35786,58.20666</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

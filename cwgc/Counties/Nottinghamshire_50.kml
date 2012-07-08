@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Nottinghamshire
+						</name>
+						<description>
+							Cemeteries in Nottinghamshire from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>MANSFIELD (NOTTINGHAM ROAD) CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069754/MANSFIELD%20(NOTTINGHAM%20ROAD)%20CEMETERY">MANSFIELD (NOTTINGHAM ROAD) CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.19205,53.12704</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM CHURCH CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069762/NOTTINGHAM%20CHURCH%20CEMETERY">NOTTINGHAM CHURCH CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.15299,52.96485</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>NOTTINGHAM GENERAL CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2069763/NOTTINGHAM%20GENERAL%20CEMETERY">NOTTINGHAM GENERAL CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -1.16152,52.95615</coordinates>
+			  </Point>
+			</Placemark></Document></kml>

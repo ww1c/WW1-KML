@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<kml xmlns="http://www.opengis.net/kml/2.2">
+					<Document>
+						<name>
+							Cemeteries of the Commonwealth War Graves Commission for Channel Islands
+						</name>
+						<description>
+							Cemeteries in Channel Islands from the Commonwealth War Graves Commission database (http://www.cwgc.org/) turned into a map by the World War One Centenary Project at The University of Oxford (http://ww1centenary.oucs.ox.ac.uk/). Licensed as Attribution-NonCommercial-ShareAlike 2.0 UK: England and Wales 
+						</description><Placemark>
+			  <name>ST. MARTIN CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/43401/ST.%20MARTIN%20CHURCHYARD,%20JERSEY">ST. MARTIN CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.0513,49.21885</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>FORT GEORGE MILITARY CEMETERY, ST. PETER PORT, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071019/FORT%20GEORGE%20MILITARY%20CEMETERY,%20ST.%20PETER%20PORT,%20GUERNSEY">FORT GEORGE MILITARY CEMETERY, ST. PETER PORT, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.53583,49.44199</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. BRELADE CHURCHYARD AND CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071021/ST.%20BRELADE%20CHURCHYARD%20AND%20CEMETERY,%20JERSEY">ST. BRELADE CHURCHYARD AND CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20348,49.18405</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. CLEMENT CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071022/ST.%20CLEMENT%20CHURCHYARD,%20JERSEY">ST. CLEMENT CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.05636,49.1737</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER (ALMORAH) CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071023/ST.%20HELIER%20(ALMORAH)%20CEMETERY,%20JERSEY">ST. HELIER (ALMORAH) CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.10756,49.19652</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER (MONT-A-L'ABBE) NEW CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071024/ST.%20HELIER%20(MONT-A-L'ABBE)%20NEW%20CEMETERY,%20JERSEY">ST. HELIER (MONT-A-L'ABBE) NEW CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11566,49.19432</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER WAR CEMETERY, HOWARD-DAVIS PARK, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2071025/ST.%20HELIER%20WAR%20CEMETERY,%20HOWARD-DAVIS%20PARK,%20JERSEY">ST. HELIER WAR CEMETERY, HOWARD-DAVIS PARK, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.09828,49.18103</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ALDERNEY (ST. ANNE) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094818/ALDERNEY%20(ST.%20ANNE)%20CHURCHYARD">ALDERNEY (ST. ANNE) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20543,49.71553</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>COBO (ST. MATTHEW) CHURCHYARD, CASTEL, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094819/COBO%20(ST.%20MATTHEW)%20CHURCHYARD,%20CASTEL,%20GUERNSEY">COBO (ST. MATTHEW) CHURCHYARD, CASTEL, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.59403,49.47207</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER PORT (FOULON) CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2094817/ST.%20PETER%20PORT%20(FOULON)%20CEMETERY,%20GUERNSEY">ST. PETER PORT (FOULON) CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.55866,49.45718</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ALDERNEY ROMAN CATHOLIC CEMETERY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097828/ALDERNEY%20ROMAN%20CATHOLIC%20CEMETERY">ALDERNEY ROMAN CATHOLIC CEMETERY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.19133,49.71543</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>GROUVILLE (LA CROIX) CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097840/GROUVILLE%20(LA%20CROIX)%20CEMETERY,%20JERSEY">GROUVILLE (LA CROIX) CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.04308,49.18687</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>SARK (ST. PETER) CHURCHYARD</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097856/SARK%20(ST.%20PETER)%20CHURCHYARD">SARK (ST. PETER) CHURCHYARD at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.35654,49.43523</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. HELIER (MONT-A-L'ABBE) OLD CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097845/ST.%20HELIER%20(MONT-A-L'ABBE)%20OLD%20CEMETERY,%20JERSEY">ST. HELIER (MONT-A-L'ABBE) OLD CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11546,49.19423</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. JOHN'S NEW CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097847/ST.%20JOHN'S%20NEW%20CEMETERY,%20JERSEY">ST. JOHN'S NEW CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.1435,49.24568</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. MARTIN'S NEW CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097833/ST.%20MARTIN'S%20NEW%20CEMETERY,%20GUERNSEY">ST. MARTIN'S NEW CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.55784,49.43287</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. OUEN'S CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097851/ST.%20OUEN'S%20CHURCHYARD,%20JERSEY">ST. OUEN'S CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.20678,49.22527</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER (ST. MATTHEW) ROMAN CATHOLIC CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097853/ST.%20PETER%20(ST.%20MATTHEW)%20ROMAN%20CATHOLIC%20CHURCHYARD,%20JERSEY">ST. PETER (ST. MATTHEW) ROMAN CATHOLIC CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.15767,49.22515</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097852/ST.%20PETER%20CHURCHYARD,%20JERSEY">ST. PETER CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.18478,49.21231</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER PORT (CANDIE ROAD) CHURCH CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097835/ST.%20PETER%20PORT%20(CANDIE%20ROAD)%20CHURCH%20CEMETERY,%20GUERNSEY">ST. PETER PORT (CANDIE ROAD) CHURCH CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.54227,49.45851</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER PORT (ST. JOHN) CHURCHYARD, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097836/ST.%20PETER%20PORT%20(ST.%20JOHN)%20CHURCHYARD,%20GUERNSEY">ST. PETER PORT (ST. JOHN) CHURCHYARD, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.53762,49.46401</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. PETER-IN-THE-WOOD PAROCHIAL CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097834/ST.%20PETER-IN-THE-WOOD%20PAROCHIAL%20CEMETERY,%20GUERNSEY">ST. PETER-IN-THE-WOOD PAROCHIAL CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.62724,49.43601</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. SAMPSON CHURCHYARD, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097837/ST.%20SAMPSON%20CHURCHYARD,%20GUERNSEY">ST. SAMPSON CHURCHYARD, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.5175,49.481</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. SAVIOUR CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097854/ST.%20SAVIOUR%20CHURCHYARD,%20JERSEY">ST. SAVIOUR CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.0922,49.19517</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>TRINITY CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097855/TRINITY%20CHURCHYARD,%20JERSEY">TRINITY CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.0917,49.2335</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>VALE (DOMAILLE) CHURCH CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097838/VALE%20(DOMAILLE)%20CHURCH%20CEMETERY,%20GUERNSEY">VALE (DOMAILLE) CHURCH CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.53876,49.49248</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>VALE PAROCHIAL CEMETERY, GUERNSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/2097839/VALE%20PAROCHIAL%20CEMETERY,%20GUERNSEY">VALE PAROCHIAL CEMETERY, GUERNSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.53816,49.49311</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. LAWRENCE CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007032/ST.%20LAWRENCE%20CHURCHYARD,%20JERSEY">ST. LAWRENCE CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.14135,49.21446</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>ST. MARY CHURCHYARD, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/4007034/ST.%20MARY%20CHURCHYARD,%20JERSEY">ST. MARY CHURCHYARD, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.17451,49.23502</coordinates>
+			  </Point>
+			</Placemark><Placemark>
+			  <name>MACPELA CEMETERY, JERSEY</name>
+			  <description><a href="http://www.cwgc.org/find-a-cemetery/cemetery/5001106/MACPELA%20CEMETERY,%20JERSEY">MACPELA CEMETERY, JERSEY at the Commonwealth War Graves Commission</a>
+			  </description>
+			  <Point>
+				<coordinates> -2.11417,49.22074</coordinates>
+			  </Point>
+			</Placemark></Document></kml>
