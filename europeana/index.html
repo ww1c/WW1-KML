@@ -3,8 +3,9 @@
 <style>
 body {font-size:11px;}
 path {
-  stroke: #777;
+  stroke: #000;
   stroke-width: 0.5px;
+  fill:#C2EEC2;
 }
 div.tooltip {
   color: #222; 
@@ -16,6 +17,9 @@ div.tooltip {
   opacity: 0.9; 
   position: absolute;
 }
+body svg{
+	background-color:#CFCFFF;
+}
 </style>
 <body>
 <script src="scripts/Queue.js"></script>
@@ -23,23 +27,8 @@ div.tooltip {
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
 
-var scale = 0;
+var scale = false;
 var pos;
-
-function restore() {
-	g.transition()
-		.duration(5000)
-		.attr("transform", "translate(0,0)scale(1)");
-	
-	g.attr("click",true);
-	
-	g.selectAll("circle")
-						.style("fill","blue")
-						.attr("r", 0.5);
-
-	scale = 1;
-	
-}
 
 var width = 800,
     height = 400;
@@ -69,8 +58,7 @@ function ready(error, topology, world){
 		.data(topojson.object(topology, topology.objects.countries).geometries)
 	  .enter()
 		.append("path")
-		.attr("d", path)
-		.style("fill","#ddd");
+		.attr("d", path);
 	
 	g.selectAll()
 				   .data(world.data)
@@ -83,7 +71,7 @@ function ready(error, topology, world){
 						   return projection([d[0], d[1]])[1];
 				   })
 				   .attr("r", 3)
-				   .style("fill", "blue")
+				   .style("fill", "#0000AA")
 				   .on("mouseover", function(d,i) {
 						
 						var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -102,14 +90,18 @@ function ready(error, topology, world){
 
 				var zoom = d3.behavior.zoom()
 				  .on("zoom",function() {
+				  
 			
 						g.transition()
 						.duration(50)
 						.attr("transform","translate("+d3.event.translate.join(",")+")scale("+ (d3.event.scale) +")");
 						
 						g.selectAll("circle")
-							.style("fill","blue")
+							.style("fill", "#0000AA")
 							.attr("r", Math.max(0.04,(1/(d3.event.scale/2))));
+							
+						g.selectAll("path")
+							.style("stroke-width",Math.max(0.1,(1/((d3.event.scale*8)/2))));
 						
 						
 				  });
@@ -119,6 +111,7 @@ function ready(error, topology, world){
 }				
 	
 </script>
-<p><a href="europe.html">Northern Europe</a> | <a href="africa.html">Africa</a> | <a href="meast.html">Middle East</a> | <a onclick="javascript:restore();">Restore</a></p>
+<p>Double click or pinch to zoom | Shift and double click to zoom out</p>
+<p><a href="europe.html">Northern Europe</a> | <a href="africa.html">Africa</a> | <a href="meast.html">Middle East</a> | Whole world</p>
 </body>
 </html>

@@ -3,8 +3,9 @@
 <style>
 body {font-size:11px;}
 path {
-  stroke: #777;
+  stroke: #000;
   stroke-width: 0.5px;
+  fill:#C2EEC2;
 }
 div.tooltip {
   color: #222; 
@@ -16,6 +17,9 @@ div.tooltip {
   opacity: 0.9; 
   position: absolute;
 }
+body svg{
+	background-color:#CFCFFF;
+}
 </style>
 <body>
 <script src="scripts/Queue.js"></script>
@@ -24,7 +28,7 @@ div.tooltip {
 <script>
 
 var scale = 0;
-var pos;	
+var pos;
 
 function restore() {
 	g.transition()
@@ -69,8 +73,7 @@ function ready(error, topology, world){
 		.data(topojson.object(topology, topology.objects.countries).geometries)
 	  .enter()
 		.append("path")
-		.attr("d", path)
-		.style("fill","#ddd");
+		.attr("d", path);
 	
 	g.selectAll()
 				   .data(world.data)
@@ -83,7 +86,7 @@ function ready(error, topology, world){
 						   return projection([d[0], d[1]])[1];
 				   })
 				   .attr("r", 3)
-				   .style("fill", "blue")
+				   .style("fill", "#0000AA")
 				   .on("mouseover", function(d,i) {
 						
 						var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -108,8 +111,11 @@ function ready(error, topology, world){
 						.attr("transform","translate("+d3.event.translate.join(",")+")scale("+ (d3.event.scale) +")");
 						
 						g.selectAll("circle")
-							.style("fill","blue")
+							.style("fill", "#0000AA")
 							.attr("r", Math.max(0.04,(1/(d3.event.scale/2))));
+							
+						g.selectAll("path")
+							.style("stroke-width",Math.max(0.04,(1/(d3.event.scale/2))));
 						
 						
 				  });
@@ -119,6 +125,7 @@ function ready(error, topology, world){
 }				
 	
 </script>
-<p><a href="index.html">Home</a> | <a href="europe.html">Northern Europe</a> | <a href="africa.html">Africa</a></p>
+<p>Double click or pinch to zoom | Shift and double click to zoom out</p>
+<p><a href="europe.html">Northern Europe</a> | <a href="africa.html">Africa</a> | <a href="meast.html">Middle East</a> | <a href="index.html">Whole world</a></p>
 </body>
 </html>
