@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 07, 2013 at 11:21 PM
+-- Generation Time: Oct 08, 2013 at 06:37 PM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `vc` (
   `posthumous` varchar(5) DEFAULT NULL,
   `place` varchar(39) DEFAULT NULL,
   `long_coord` decimal(7,5) DEFAULT NULL,
-  `lat_coord` decimal(6,5) DEFAULT NULL
+  `lat_coord` decimal(7,5) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
@@ -126,7 +126,7 @@ INSERT INTO `vc` (`id`, `wikistem`, `external`, `name`, `battalionwiki`, `battal
 (79, '/wiki/Alfred_Alexander_Burt', '', 'Alfred Burt', '/wiki/Hertfordshire_Regiment', 'Hertfordshire Regiment', '1915-09-27', 'false', 'Cuinchy, France', 50.52000, 2.74940),
 (80, '/wiki/Alexander_Burton', '', 'Alexander Burton', '/wiki/7th_Battalion_(Australia)', '7th Battalion (Australia)', '1915-08-09', 'true', 'Gallipoli, Turkey', 40.36720, 9.99999),
 (81, '/wiki/Christopher_Bushell', '', 'Christopher Bushell', '/wiki/Queen%27s_(Royal_West_Surrey)_Regiment', 'Queen''s (Royal West Surrey) Regiment', '1918-03-23', 'false', 'Tergnier, France', 49.65640, 3.28830),
-(82, '/wiki/John_Fitzhardinge_Paul_Butler', 'http://europeana1914-1918.eu/en/contributions/5384', 'John Butler', '/wiki/King%27s_Royal_Rifle_Corps', 'King''s Royal Rifle Corps', '1914-11-17', 'false', 'Cameroons, Nigeria', 0.00000, 0.00000),
+(82, '/wiki/John_Fitzhardinge_Paul_Butler', 'http://europeana1914-1918.eu/en/contributions/5384', 'John Butler', '/wiki/King%27s_Royal_Rifle_Corps', 'King''s Royal Rifle Corps', '1914-11-17', 'false', 'Cameroons, Nigeria', 7.56331, 9.99999),
 (83, '/wiki/William_Boynton_Butler', '', 'William Butler', '/wiki/Prince_of_Wales%27s_Own_(West_Yorkshire_Regiment)', 'Prince of Wales''s Own (West Yorkshire Regiment)', '1917-08-06', 'false', 'Lempire, France', 49.99330, 3.17330),
 (84, '/wiki/Robert_James_Bye', 'http://europeana1914-1918.eu/en/contributions/5423', 'Robert Bye', '/wiki/Welsh_Guards', 'Welsh Guards', '1917-07-31', 'false', 'Yser Canal, Belgium', 51.15280, 2.72306),
 (85, '/wiki/John_Caffrey', '', 'John Caffrey', '/wiki/York_and_Lancaster_Regiment', 'York and Lancaster Regiment', '1915-11-16', 'false', 'La Brique, France', 50.89700, 2.94708),
@@ -160,7 +160,7 @@ INSERT INTO `vc` (`id`, `wikistem`, `external`, `name`, `battalionwiki`, `battal
 (113, '/wiki/Leo_Clarke', '', 'Leo Clarke', '/wiki/2nd_(Eastern_Ontario_Regiment)_Battalion,_CEF', '2nd (Eastern Ontario Regiment) Battalion, CEF', '1916-09-09', 'false', 'Pozieres, France', 50.04140, 2.72360),
 (114, '/wiki/William_Hew_Clark-Kennedy', '', 'William Clark-Kennedy', '/wiki/Canadian_Expeditionary_Force', 'Canadian Expeditionary Force', '1918-08-27', 'false', 'Fresnes, France', 49.55440, 3.37060),
 (115, '/wiki/Brett_Cloutman', '', 'Brett Cloutman', '/wiki/Corps_of_Royal_Engineers', 'Corps of Royal Engineers', '1918-11-06', 'false', 'Pont-sur-Sambre, France', 50.97400, 2.68890),
-(116, '/wiki/Clifford_Coffin', 'http://europeana1914-1918.eu/en/contributions/5381', 'Clifford Coffin', '/wiki/Corps_of_Royal_Engineers', 'Corps of Royal Engineers', '1917-07-06', 'false', 'Westhoek, Belgium', 50.85337, 0.00000),
+(116, '/wiki/Clifford_Coffin', 'http://europeana1914-1918.eu/en/contributions/5381', 'Clifford Coffin', '/wiki/Corps_of_Royal_Engineers', 'Corps of Royal Engineers', '1917-07-06', 'false', 'Westhoek, Belgium', 50.85337, 2.60000),
 (117, '/wiki/Harold_John_Colley', '', 'Harold Colley', '/wiki/Lancashire_Fusiliers', 'Lancashire Fusiliers', '1918-08-25', 'true', 'Martinpuich, France', 50.05060, 2.76560),
 (118, '/wiki/Joseph_Henry_Collin', '', 'Joseph Collin', '/wiki/King%27s_Own_(Royal_Lancaster_Regiment)', 'King''s Own (Royal Lancaster Regiment)', '1918-04-09', 'true', 'Givenchy, France', 50.39190, 2.77079),
 (119, '/wiki/John_Stanhope_Collings-Wells', '', 'John Collings-Wells', '/wiki/Bedfordshire_Regiment', 'Bedfordshire Regiment', '1918-03-22', 'true', 'Marcoing, France', 50.12060, 3.17280),
@@ -446,7 +446,7 @@ INSERT INTO `vc` (`id`, `wikistem`, `external`, `name`, `battalionwiki`, `battal
 (398, '/wiki/Alan_Arnett_McLeod', '', 'Alan McLeod', '/wiki/No._2_Squadron_RFC', 'No. 2 Squadron RFC', '1918-03-27', 'false', 'Albert, France', 50.00280, 2.65280),
 (399, '/wiki/Eric_Archibald_McNair', '', 'Eric McNair', '/wiki/Royal_Sussex_Regiment', 'Royal Sussex Regiment', '1916-02-04', 'false', 'Hooge, Belgium', 50.84640, 2.94354),
 (400, '/wiki/William_McNally', '', 'William McNally', '/wiki/Green_Howards', 'Green Howards', '1918-10-27', 'false', 'Piave River, Italy', 45.84280, 9.99999),
-(401, '/wiki/Frank_Hubert_McNamara', 'http://europeana1914-1918.eu/en/contributions/5410', 'Frank McNamara', '/wiki/No._1_Squadron_AFC', 'No. 1 Squadron AFC', '1917-03-20', 'false', 'Egypt', 31.52265, 9.99999),
+(401, '/wiki/Frank_Hubert_McNamara', 'http://europeana1914-1918.eu/en/contributions/5410', 'Frank McNamara', '/wiki/No._1_Squadron_AFC', 'No. 1 Squadron AFC', '1917-03-20', 'false', 'Egypt', 31.52265, 34.58727),
 (402, '/wiki/John_McNamara_(VC)', '', 'John McNamara', '/wiki/East_Surrey_Regiment', 'East Surrey Regiment', '1918-09-03', 'false', 'Lens, France', 50.43220, 2.83330),
 (403, '/wiki/Frederick_McNess', 'http://europeana1914-1918.eu/en/contributions/5489', 'Frederick McNess', '/wiki/Scots_Guards', 'Scots Guards', '1916-09-15', 'false', 'Ginchy, France', 50.02420, 2.83300),
 (404, '/wiki/James_McPhie', '', 'James McPhie', '/wiki/Corps_of_Royal_Engineers', 'Corps of Royal Engineers', '1918-10-14', 'true', 'Aubencheul-au-Bac, France', 50.25750, 3.16060),
