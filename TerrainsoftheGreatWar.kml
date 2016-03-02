@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Terrains of the Great War</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>German machine gunners, Siege of Tsingtau, October - November 1914.</name>
+    <description><![CDATA[<div dir="ltr"></div><img src="http://upload.wikimedia.org/wikipedia/commons/6/67/Bundesarchiv_Bild_116-214-02%2C_Tsingtau%2C_Bismarck-Berg_Batterie_%28Kampf_um_Tsingtau%2C_1914%29.jpg" height="380" width="526">]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>120.389557,36.096275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Von Mücke’s Landing Party, Direction Island, 9th November 1914</name>
+    <description><![CDATA[<img src="http://cas.awm.gov.au/screen_img/H12436" height="352" width="479">]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>96.883537,-12.088339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Australian flag raised over Angoram, New Guinea, 16th December 1914</name>
+    <description><![CDATA[<img src="http://cas.awm.gov.au/screen_img/H12578" height="412" width="564">]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>144.069382,-4.046125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bombardment of Hartlepool, 16th December 1914</name>
+    <description><![CDATA[<img src="http://farm6.staticflickr.com/5186/5634342218_62afa3b334_b.jpg" height="372" width="580">]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-1.207820,54.704231,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dismounted Guns from Light Cruiser Königsberg, German East Africa, 1916 </name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bundesarchiv_Bild_105-DOA3100%2C_Deutsch-Ostafrika%2C_Artillerie.jpg/774px-Bundesarchiv_Bild_105-DOA3100%2C_Deutsch-Ostafrika%2C_Artillerie.jpg" height="405" width="523">]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>38.383484,-7.844336,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German tented camp, German East Africa, 1916</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/0/07/Bundesarchiv_Bild_105-DOA3098%2C_Deutsch-Ostafrika%2C_Zeltlager.jpg" height="369" width="499">]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>38.042908,-7.553101,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>French stores, Mudros Bay, Lemnos, 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/View_of_Mudros_showing_French_wine_store._In_the_background_is_the_French_hospital._Lemnos_Island%2C_Aegean_Sea...._-_NARA_-_533107.tif/lossy-page1-783px-View_of_Mudros_showing_French_wine_store._In_the_background_is_the_French_hospital._Lemnos_Island%2C_Aegean_Sea...._-_NARA_-_533107.tif.jpg" height="384" width="503">]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>25.272245,39.872528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View of V Beach from SS River Clyde, Cape Helles, Gallipoli, 9th May 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/6/69/V_Beach_Helles_Gallipoli.jpg" height="388" width="534">]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>26.184229,40.041916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brigade Headquaters at Anzac Cove, Gallipoli, 1915</name>
+    <description><![CDATA[<img src="http://farm1.staticflickr.com/224/500509972_f0457d9f7d_z.jpg?zz=1" height="360" width="522">]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>26.277796,40.236099,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British armoured car - &#39;The Terror&#39; - Heliopolis, 1915</name>
+    <description><![CDATA[<img src="http://farm3.staticflickr.com/2019/2143723708_a475958aa2_z.jpg?zz=1" height="298" width="490">]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>31.325777,30.093716,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ottoman Camel Corps, Beersheba, 1914-1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/b/bc/Camelcorps.jpg" height="377" width="559">]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>34.785461,31.251846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ottoman trenches at Hareira, 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/6/6b/TrenchesHarcira.jpg" height="327" width="477">]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>34.614143,31.375183,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British Soldiers advancing across flooded ground near Shu&#39;aiba, Mesopotamia, 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/a/aa/British_Troops_crossing_flooded_plain_in_Mesopotamia_%28NYT_1919%29.jpg" height="289" width="545"><br>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>47.681995,30.431135,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dunsterforce lorry passing thoguh mountains of Northern Persia, 1918</name>
+    <description><![CDATA[<img src="http://cas.awm.gov.au/screen_img/G00875" height="403" width="524">]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>48.339844,36.120129,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Americans with reindeer crossing Dwina River, Archangel, 1919</name>
+    <description><![CDATA[<img src="http://media.nara.gov/media/images/28/6/28-0580a.gif" height="369" width="488"><br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>41.132812,63.860035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Merl LeVoy&#39;s camera outfit, Serbian Front, 1918</name>
+    <description><![CDATA[<img src="http://farm1.staticflickr.com/168/430466678_f58b3ef135_b.jpg" height="350" width="591"><br>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>22.028875,43.772270,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German troops near Greek Border, Macedonia, June 1916</name>
+    <description><![CDATA[<img src="http://farm5.staticflickr.com/4097/4941549509_bbdb1ce4b1_o.jpg" height="405" width="551">]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>21.582642,40.863682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Austro-Hungarian Trench on the summit of Mount Ortler, 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/48/1917_ortler_vorgipfelstellung_3850_m_highest_trench_in_history_of_first_world_war.jpg" height="391" width="537">]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>10.549793,46.516586,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Franco-Italian Oservation Post, Piave River, Italy, 6th January 1918</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/6/65/215_13_fran%C3%A7ais_et_italiens_sur_la_Piave_un_poste_d%27observation.jpg" height="380" width="602">]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>12.479610,45.695148,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German Sentry on Eastern Front, 1914-1917</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3043/3360780045_7e0002b28b_o.jpg" height="346" width="251">]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>26.367188,52.106506,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German Forest Camp, Russia, 1916</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3196/3152250782_4bf459617d_o.jpg" height="371" width="516"><br>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>25.125732,56.419979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German Trenches at Borissow (Borissowka?), 1917</name>
+    <description><![CDATA[<img src="http://farm8.staticflickr.com/7200/6943999400_9a0fd3cef1_o.jpg" height="325" width="520">]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>26.165915,53.952702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>B Battery, Honourable Artillery Company, at Sheik Othman, Aden, 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/d/d3/HAC_guns_at_Sheik_Othman.jpg" height="333" width="582">]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>44.985409,12.865360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>&#39;Native Troops in the Cameroons, equipped and trained by the German Authorities&#39;. Cameroun, 1914-1916</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/8/86/Cameroonian_troops_in_World_War_I.jpg" height="240" width="714">]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>10.458984,3.425692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Air raid on a South African Camp, Tschaukaib railway station, German South West Africa, 17th December 1914</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/d/d7/Bombardement_Tschaukaib_1914.jpg" height="336" width="489"><br>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>15.699463,-26.578703,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Australian Supply Column nearing Mersa Matruh during the Senussi Campaign. Western Desert, Egypt, 1915</name>
+    <description><![CDATA[<img src="http://cas.awm.gov.au/screen_img/A00499" height="304" width="506"><br>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>27.276306,31.344254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Devastation following explosion of munitions ship SS Mont-Blanc, Halifax Harbour. After 9th November 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/DNDHfxExplosion-2.jpg/800px-DNDHfxExplosion-2.jpg" height="342" width="533">]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-63.580627,44.656689,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ottoman canon captured by Armenians. Van, Turkey, 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/9/97/Van_April_1915_cannons_captured_by_the_Armenians.png" height="287" width="429">]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>43.395996,38.462193,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ottoman Kurdish Cavalry, Caucasus Campaign, 1915</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/42/World_War_I_Caucasus_Campaign_-memory.loc.gov.png" height="368" width="691">]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>43.648682,42.625877,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roumanian troops, Roumanian Campaign, Transylvania, 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/5/5e/Romanian_troops_in_Transylvania.jpg" height="405" width="569"><br>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>25.180664,46.377254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German field latrine, Galicia, before 16th March 1917</name>
+    <description><![CDATA[<img src="http://farm5.staticflickr.com/4148/5052304763_9eaeed7a29_z.jpg" height="380" width="282">]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>24.960938,49.181702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HMS Invincible, Battle of the Falkland Islands, 8th December 1914</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HMS_Invincible%2C_Battle_of_the_Falkland_Islands_%28Warships_To-day%2C_1936%29.jpg/800px-HMS_Invincible%2C_Battle_of_the_Falkland_Islands_%28Warships_To-day%2C_1936%29.jpg" height="339" width="547">]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-57.409058,-51.698097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German Squadron after Battle of Coronel, Valparaiso, 3rd November 1914</name>
+    <description><![CDATA[<img src="http://www.history.navy.mil/photos/images/h59000/h59638.jpg" height="376" width="576">]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-71.617470,-33.035149,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sinking of SMS Mainz, Battle of Heligoland Bight, 28th August 1914</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sinking_of_Mainz.jpg/800px-Sinking_of_Mainz.jpg" height="316" width="526">]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>7.105408,53.938305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Destruction of HMS Queen Mary, Battle of Jutland, 31st May 1916</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/d/d2/HMS_Queen_Mary_Jutland.jpg" height="337" width="626">]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>5.998535,56.885002,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British blockships intentionally sunk during Zeebrugge Raid, 23rd April 1918</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Zeebrugge-Raid.jpg" height="287" width="448">]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>3.197579,51.329781,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Australian Machine gun post in sand dunes, Niueport-Bains, 14th November 1917</name>
+    <description><![CDATA[<img src="http://cas.awm.gov.au/screen_img/E03867" height="379" width="527">]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>2.713451,51.142796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Defensive innundations, Ramskapelle, 1916</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/7/75/Inondation_Ramskappelle.jpg" height="365" width="525">]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>2.763748,51.110203,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Highlander dead at Langemark, 3rd August 1917</name>
+    <description><![CDATA[<img src="http://farm7.staticflickr.com/6201/6146350669_5e449e68ef_b.jpg" height="335" width="555"><br>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>2.913179,50.906982,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hooge Crater, 1915</name>
+    <description><![CDATA[<img src="http://farm3.staticflickr.com/2084/3530222917_01430ac9f8_z.jpg" height="311" width="504">]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>2.945047,50.846813,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ypres, Cathedral and Cloth Hall, late 1916</name>
+    <description><![CDATA[<img src="http://farm2.staticflickr.com/1279/4699333213_97429942cb_z.jpg" height="334" width="498"><br>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>2.887130,50.851433,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Officers in captured communication trench, near Messines, 7th-14th June 1917</name>
+    <description><![CDATA[<img src="http://farm5.staticflickr.com/4044/4688658912_6eac2cae2e_z.jpg" height="370" width="481">]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>2.898502,50.777287,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yser Front by G. E. LeBacq, 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ypres_1917.JPG/759px-Ypres_1917.JPG" height="422" width="535">]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>2.842155,51.046818,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Flooded Trench near La Bassee, 1916-1918</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3020/3007144955_d6de969451_o.jpg" height="513" width="378">]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>2.774048,50.534161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vimy seen from Vimy Ridge, April 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/c/ca/Vimy_as_seen_from_Vimy_Ridge_1917-04.jpg" height="365" width="473">]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>2.794518,50.368378,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Australian Stokes Mortar in captured trench of Hindenburg Line, 8th May 1917 </name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/c/cb/AustraliansWithStokesMortarBullecourt8May1917.jpeg" height="339" width="479">]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>2.941182,50.192535,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British and French troops cleaning up German trenches after caputre. St. Pierre Divion, After 13th November 1916</name>
+    <description><![CDATA[<img src="http://farm2.staticflickr.com/1279/4700167632_6358d6e6b2_z.jpg" height="370" width="474">]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>2.676823,50.066780,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British troops crossing Somme in wake of German retreat to Hindenburg Line. Peronne, after 25th April 1917</name>
+    <description><![CDATA[<img src="http://farm5.staticflickr.com/4044/4687911197_3fcfd7fc22_z.jpg" height="383" width="509">]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>2.934036,49.918900,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>French assault on the Chemin des Dames, 1917-1918</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/1/1d/Assaut-chemin-des-dames.jpg" height="272" width="576">]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>3.583603,49.424820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort de la Pompelle after German Bombardment, before 22nd July 1917</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/e/e9/191_4_le_fort_de_la_Pompelle.jpg" height="205" width="548">]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>4.128274,49.216152,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Runis of the Sailly Refinery, Tergnier, 1918?</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Charles_Louis_302_-_TERGNIER_d%C3%A9vast%C3%A9_-_Raffinerie_Sailly.JPG/800px-Charles_Louis_302_-_TERGNIER_d%C3%A9vast%C3%A9_-_Raffinerie_Sailly.JPG" height="322" width="515"><br>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>3.298216,49.660248,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German trench in the Argonne Forest, 1914-1916</name>
+    <description><![CDATA[<img src="http://farm8.staticflickr.com/7210/6779749734_e2fe99b015_z.jpg" height="393" width="540">]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>4.921188,49.189445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Christmas Eve Midnight Mass, Fort Douaumont, 24-25th December 1916</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/c/c9/Die_Mitternachtsmesse_zu_Weihnachten_1916_im_Fort_Douaumon.jpg" height="356" width="501">]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>5.438747,49.216938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German command post in Bois Brulé, St. Mihiel Front, After 1916</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3282/3013097183_675d2c4d07_z.jpg" height="313" width="498"><br>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>5.622039,48.859352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dead German aviators, Forêt de Puvenelle near Blénod-lès-Pont-à-Mousson, 10th October 1915</name>
+    <description><![CDATA[<img src="http://farm6.staticflickr.com/5309/5882949779_80c299e488_z.jpg" height="388" width="285">]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>5.999994,48.866802,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German sentry in the Vosges, 6th April 1916</name>
+    <description><![CDATA[<img src="http://farm8.staticflickr.com/7184/6851038743_894b93dbcc_z.jpg" height="310" width="509">]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>7.148666,47.856022,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German troops with Swiss Border Police, Southern enf of Western Front, Before 1916</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3398/3270455299_f14fa6347d_z.jpg" height="331" width="533">]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>7.202997,47.491283,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German fieldkitchen in dugout, near Avricourt, 1914-1918</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3302/3624663526_cc3e03b3b8_z.jpg" height="380" width="241">]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>6.803284,48.663757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German grenade-thrower position, Vosges Mountains, June 1918</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3429/3749177662_37d096fc3b_z.jpg" height="313" width="498">]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>7.142830,48.085678,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saint-Gervais-Saint-Protais, hit by shell during German Bombardment of Paris, 29th Marsh 1918</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/4/48/Saint-Gervais-WW1.jpg" height="345" width="239">]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>2.354524,48.855556,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View of the Marne Valley, 1918</name>
+    <description><![CDATA[<img src="http://farm2.staticflickr.com/1305/4700265038_eb8c1e201e_z.jpg" height="379" width="509">]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>3.334351,48.978867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Canadians marching through Mons, 11th November 1918</name>
+    <description><![CDATA[<img src="http://farm5.staticflickr.com/4070/4702161683_bec2248d1d_z.jpg" height="399" width="525">]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>3.952074,50.454170,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort de Loncin following German bombardment, Liège, 15th August 1914</name>
+    <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/c/ca/Fort-loncin.jpg" height="340" width="521">]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>5.492772,50.674210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German Hussars enter Antwerp following siege, After 10th October 1914</name>
+    <description><![CDATA[<img src="http://farm8.staticflickr.com/7156/6522023045_7b3c3fe3ae_z.jpg" height="382" width="525">]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>4.419594,51.217422,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wreck of Zeppelin LZ.76 forced down after raid on London, 24th September 1916</name>
+    <description><![CDATA[<img src="http://farm4.staticflickr.com/3015/3014177925_a123204f32_z.jpg?zz=1" height="378" width="290">]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>0.873241,51.802803,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
